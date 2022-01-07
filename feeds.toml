@@ -1,0 +1,53 @@
+[news]
+title = "BBC News 코리아 ─ 뉴스"
+url = "https://www.bbc.com/korean"
+entrySelector = "div.bbc-1dblbh1.e17m6msg1 ul.e57qer20.bbc-10m7ymo.eom0ln50 li.e57qer20.bbc-lpu9rr.eom0ln51"
+titleSelector = "div.bbc-1ehn615.e1tfxkuo5 div.bbc-1sk5sm2.e19k1v2h0 h3.bbc-1vgv2n1.e1tfxkuo2 a"
+linkSelector = "div.bbc-1ehn615.e1tfxkuo5 div.bbc-1sk5sm2.e19k1v2h0 h3.bbc-1vgv2n1.e1tfxkuo2 a"
+contentSelector = "div.bbc-1ehn615.e1tfxkuo5 div.bbc-1sk5sm2.e19k1v2h0 p"
+imageSelector = "picture.bbc-yfiktt.e1enwo3v1 img"
+waitUntil = "networkidle"
+
+[news_top]
+title = "BBC News 코리아 ─ 뉴스"
+url = "https://www.bbc.com/korean"
+entrySelector = "ul li.e57qer20.bbc-1nfnx85.eom0ln51"
+titleSelector = "div.bbc-14gzkm2.e19k1v2h0 h3 a.bbc-1fxtbkn.evnt13t0 span"
+linkSelector = "div.bbc-14gzkm2.e19k1v2h0 h3 a.bbc-1fxtbkn.evnt13t0"
+waitUntil = "networkidle"
+
+[news_top_more]
+title = "BBC News 코리아 ─ 뉴스"
+url = "https://www.bbc.com/korean"
+entrySelector = "ul.bbc-1kz5jpr.e1wlg2v81 li.bbc-16wjryy.e1wlg2v82"
+titleSelector = "a span"
+linkSelector = "a"
+waitUntil = "networkidle"
+
+[video]
+title = "BBC News 코리아 ─ 비디오"
+url = "https://www.bbc.com/korean/media/video"
+entrySelector = "ol.e57qer20.bbc-10m7ymo.eryc5kd0 li.e57qer20.bbc-y9ct5y.eryc5kd1"
+titleSelector = "a span span:nth-child(2)"
+linkSelector = "a.bbc-1fxtbkn.evnt13t0"
+contentSelector = "time.bbc-pde5np.e1z0eaht0"
+imageSelector = "picture.bbc-yfiktt.e1enwo3v1 img"
+waitUntil = "networkidle"
+
+[downloads]
+title = "BBC News 코리아 ─ 다운로드"
+url = "https://www.bbc.com/korean/downloads"
+entrySelector = "div.ws-c-downloads-page__body div[class^='gel-layout__item']"
+titleSelector = "h3.gel-great-primer.gs-u-mt.gs-u-mb"
+linkSelector = "a.nw-o-link-split__text.nw-o-link:nth-child(1)"
+contentSelector = "li:nth-child(1) a.nw-o-link-split__text.nw-o-link:nth-child(1) span.nw-o-download-text"
+waitUntil = "networkidle"
+
+[popular]
+title = "BBC News 코리아 ─ TOP 뉴스"
+url = "https://www.bbc.com/korean/popular/read"
+entrySelector = "ol.e713knt2.bbc-zztj29.e57qer20 li"
+titleSelector = "a.bbc-bta7jm.emesykt4"
+linkSelector = "a.bbc-bta7jm.emesykt4"
+contentSelector = "span.bbc-1kpt1ox.erh4ywh0"
+waitUntil = "networkidle"
