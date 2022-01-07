@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 20:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 21:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
-            <link>https://www.bbc.com/korean/international-59788416</link>
-            <guid>https://www.bbc.com/korean/international-59788416</guid>
-            <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10248/production/_122502166_p0bd0kwv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
             <link>https://www.bbc.com/korean/features-59824576</link>
             <guid>https://www.bbc.com/korean/features-59824576</guid>
@@ -48,25 +40,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/764B/production/_122538203_p0bdkqqt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: '백신을 맞느니 차라리 해고되겠어요']]></title>
-            <link>https://www.bbc.com/korean/features-57794242</link>
-            <guid>https://www.bbc.com/korean/features-57794242</guid>
-            <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아 용병 '바그네르'... 리비아서 여전히 전쟁범죄]]></title>
             <link>https://www.bbc.com/korean/international-58182498</link>
             <guid>https://www.bbc.com/korean/international-58182498</guid>
             <pubDate>Fri, 07 Jan 2022 20:17:05 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10FEA/production/_119901696_p09rxbjs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 개발: '저 사람들이 원주민 돈을 뺏어서 돈 잔치하고 있어요'...4번 소송당한 대장동 원주민의 사연]]></title>
@@ -76,11 +55,32 @@
             <content:encoded><![CDATA[4:33]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 응급실 의사가 사표를 쓴 이유]]></title>
-            <link>https://www.bbc.com/korean/features-58196588</link>
-            <guid>https://www.bbc.com/korean/features-58196588</guid>
+            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
+            <link>https://www.bbc.com/korean/international-59788416</link>
+            <guid>https://www.bbc.com/korean/international-59788416</guid>
             <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: '백신을 맞느니 차라리 해고되겠어요']]></title>
+            <link>https://www.bbc.com/korean/features-57794242</link>
+            <guid>https://www.bbc.com/korean/features-57794242</guid>
+            <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미라: 페루서 온몸 묶인 미라 발견...어떤 사연 있길래?]]></title>
+            <link>https://www.bbc.com/korean/international-59514826</link>
+            <guid>https://www.bbc.com/korean/international-59514826</guid>
+            <pubDate>Fri, 07 Jan 2022 21:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
     </channel>
 </rss>
