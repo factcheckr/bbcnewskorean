@@ -9,7 +9,7 @@ imageSelector = "picture.bbc-yfiktt.e1enwo3v1 img"
 waitUntil = "networkidle"
 
 [news_top]
-title = "BBC News 코리아 ─ 뉴스"
+title = "BBC News 코리아 ─ 뉴스""
 url = "https://www.bbc.com/korean"
 entrySelector = "ul li.e57qer20.bbc-1nfnx85.eom0ln51"
 titleSelector = "div.bbc-14gzkm2.e19k1v2h0 h3 a.bbc-1fxtbkn.evnt13t0 span"
@@ -31,6 +31,8 @@ entrySelector = "ol.e57qer20.bbc-10m7ymo.eryc5kd0 li.e57qer20.bbc-y9ct5y.eryc5kd
 titleSelector = "a span span:nth-child(2)"
 linkSelector = "a.bbc-1fxtbkn.evnt13t0"
 contentSelector = "time.bbc-pde5np.e1z0eaht0"
+dateSelector = "time.bbc-1cagdt4.e4zesg50"
+dateFormat = "yyyy년 MM월 dd일"
 imageSelector = "picture.bbc-yfiktt.e1enwo3v1 img"
 waitUntil = "networkidle"
 
