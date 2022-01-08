@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 23:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 00:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
-            <link>https://www.bbc.com/korean/features-59824576</link>
-            <guid>https://www.bbc.com/korean/features-59824576</guid>
-            <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/764B/production/_122538203_p0bdkqqt.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미라: 페루서 온몸 묶인 미라 발견...어떤 사연 있길래?]]></title>
+            <link>https://www.bbc.com/korean/international-59514826</link>
+            <guid>https://www.bbc.com/korean/international-59514826</guid>
+            <pubDate>Fri, 07 Jan 2022 21:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BF89/production/_121933094_p0b7px5r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 개발: '저 사람들이 원주민 돈을 뺏어서 돈 잔치하고 있어요'...4번 소송당한 대장동 원주민의 사연]]></title>
@@ -46,6 +46,13 @@
             <pubDate>Fri, 07 Jan 2022 20:17:05 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0162/production/_121345300_p0b11ynk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미라: 첨단 과학으로 3500년 만에 모습 드러낸 파라오]]></title>
+            <link>https://www.bbc.com/korean/international-59856612</link>
+            <guid>https://www.bbc.com/korean/international-59856612</guid>
+            <pubDate>Sat, 08 Jan 2022 00:52:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아 용병 '바그네르'... 리비아서 여전히 전쟁범죄]]></title>
@@ -69,18 +76,11 @@
             <content:encoded><![CDATA[3:56]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미라: 페루서 온몸 묶인 미라 발견...어떤 사연 있길래?]]></title>
-            <link>https://www.bbc.com/korean/international-59514826</link>
-            <guid>https://www.bbc.com/korean/international-59514826</guid>
-            <pubDate>Fri, 07 Jan 2022 21:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
+            <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
+            <link>https://www.bbc.com/korean/features-59824576</link>
+            <guid>https://www.bbc.com/korean/features-59824576</guid>
             <pubDate>Fri, 07 Jan 2022 19:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
         </item>
     </channel>
 </rss>
