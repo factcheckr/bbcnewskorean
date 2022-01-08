@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 08:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 09:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 08 Jan 2022 07:05:28 GMT</pubDate>
             <content:encoded><![CDATA[지난 10년동안 화재진압이나 구조작업을 하다가 순직한 소방관은 49명에 이른다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4A57/production/_122613091_mediaitem122613090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도 남성 '백신 11차례 접종 받았다'...'무릎 통증 없어져']]></title>
+            <link>https://www.bbc.com/korean/international-59906340</link>
+            <guid>https://www.bbc.com/korean/international-59906340</guid>
+            <pubDate>Sat, 08 Jan 2022 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[전직 우편배달부인 만달은 "백신이 무릎 통증을 없애고 건강을 유지하는 데 도움이 됐다"면서 "어떤 부작용도 겪지 않았다"고 주장했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9DE5/production/_122612404_mediaitem122612401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비디오, 내 배우자가 어느 날 건강보험에서 빠졌다, 방송 길이 4,42]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
             <content:encoded><![CDATA[알마티 시내에는 기관총 총성이 울려 퍼졌다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1582F/production/_122611188_gettyimages-1237565124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 막대한 채권으로 빈곤국 '빚더미 함정'에 빠뜨리나]]></title>
-            <link>https://www.bbc.com/korean/international-59876814</link>
-            <guid>https://www.bbc.com/korean/international-59876814</guid>
-            <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[저소득 국가를 대상으로 한 중국의 공적 자금 지원은 많은 비판을 받아왔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3783/production/_122611241_8e020703-9543-40e3-9817-2a28f4f04806.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
