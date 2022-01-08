@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 13:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 14:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,26 +132,19 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-59824576</link>
-            <guid>https://www.bbc.com/korean/features-59824576</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/764B/production/_122538203_p0bdkqqt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/52658314</link>
             <guid>https://www.bbc.com/korean/52658314</guid>
             <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59824576</link>
+            <guid>https://www.bbc.com/korean/features-59824576</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새해에는 더 건강하게, 알아두면 좋은 건강 상식 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,18 +154,25 @@
             <content:encoded><![CDATA[3:51]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미라: 첨단 과학으로 3500년 만에 모습 드러낸 파라오 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59856612</link>
-            <guid>https://www.bbc.com/korean/international-59856612</guid>
-            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58405457</link>
+            <guid>https://www.bbc.com/korean/features-58405457</guid>
+            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[멕시코의 '작은 한국', '페스코리아'를 소개합니다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59807503</link>
-            <guid>https://www.bbc.com/korean/international-59807503</guid>
-            <pubDate>Sat, 08 Jan 2022 05:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[7:30]]></content:encoded>
+            <title><![CDATA[BTS: 방탄소년단 '성공 때문에 생긴 어려움도 있다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47965384</link>
+            <guid>https://www.bbc.com/korean/news-47965384</guid>
+            <pubDate>Wed, 17 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 7일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -231,16 +231,16 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[결국 법정까지 간 '방역패스'...'기본권 대 공익' 논쟁 가열 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59856614</link>
-            <guid>https://www.bbc.com/korean/news-59856614</guid>
+            <title><![CDATA[WHO '오미크론 경미하다는 표현 주의해야' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59904796</link>
+            <guid>https://www.bbc.com/korean/news-59904796</guid>
             <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WHO '오미크론 경미하다는 표현 주의해야' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59904796</link>
-            <guid>https://www.bbc.com/korean/news-59904796</guid>
+            <title><![CDATA[결국 법정까지 간 '방역패스'...'기본권 대 공익' 논쟁 가열 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59856614</link>
+            <guid>https://www.bbc.com/korean/news-59856614</guid>
             <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
@@ -266,31 +266,31 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카자흐스탄 소요 사태에 러시아군 투입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59904793</link>
-            <guid>https://www.bbc.com/korean/news-59904793</guid>
-            <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[프란치스코 교황 '아이 대신 동물 키우는 것은 이기적' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59890328</link>
             <guid>https://www.bbc.com/korean/international-59890328</guid>
             <pubDate>Fri, 07 Jan 2022 19:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['폐지 논란' 여성가족부... 무슨 일을 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-57747330</link>
-            <guid>https://www.bbc.com/korean/news-57747330</guid>
-            <pubDate>Sat, 08 Jan 2022 11:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <title><![CDATA[카자흐스탄 소요 사태에 러시아군 투입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59904793</link>
+            <guid>https://www.bbc.com/korean/news-59904793</guid>
+            <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['여자 잡스' 테라노스 창업자, 결국 유죄 평결 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59866005</link>
             <guid>https://www.bbc.com/korean/international-59866005</guid>
             <pubDate>Fri, 07 Jan 2022 23:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['백신 강요 말라'...청소년이 방역패스를 반대하는 3가지 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59456068</link>
+            <guid>https://www.bbc.com/korean/news-59456068</guid>
+            <pubDate>Sat, 08 Jan 2022 14:14:13 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
