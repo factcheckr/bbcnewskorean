@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 21:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 22:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,20 +108,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8509/production/_122575043_p0bf5vb6.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 응급실 의사가 사표를 쓴 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58196588</link>
-            <guid>https://www.bbc.com/korean/features-58196588</guid>
-            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/148D5/production/_119918148_p09s0ynf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/52658314</link>
             <guid>https://www.bbc.com/korean/52658314</guid>
             <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 응급실 의사가 사표를 쓴 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58196588</link>
+            <guid>https://www.bbc.com/korean/features-58196588</guid>
+            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/148D5/production/_119918148_p09s0ynf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성소수자: 내 배우자가 어느 날 건강보험에서 빠졌다 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,11 +154,11 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[멕시코의 '작은 한국', '페스코리아'를 소개합니다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59807503</link>
-            <guid>https://www.bbc.com/korean/international-59807503</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:30]]></content:encoded>
+            <title><![CDATA[새해에는 더 건강하게, 알아두면 좋은 건강 상식 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-46696716</link>
+            <guid>https://www.bbc.com/korean/international-46696716</guid>
+            <pubDate>Sat, 08 Jan 2022 02:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은? (BBC News 코리아 ─ 비디오)]]></title>
@@ -266,38 +266,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['오미크론, 이스라엘 집단면역 가져올 수도… 대가는 따라' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59807508</link>
-            <guid>https://www.bbc.com/korean/international-59807508</guid>
-            <pubDate>Sat, 08 Jan 2022 20:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우울하고 화나는 불편한 감정...왜 중요할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-59876813</link>
             <guid>https://www.bbc.com/korean/features-59876813</guid>
             <pubDate>Sat, 08 Jan 2022 21:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오미크론, 이스라엘 집단면역 가져올 수도… 대가는 따라' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59807508</link>
+            <guid>https://www.bbc.com/korean/international-59807508</guid>
+            <pubDate>Sat, 08 Jan 2022 20:16:23 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카자흐스탄 소요 사태에 러시아군 투입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59904793</link>
-            <guid>https://www.bbc.com/korean/news-59904793</guid>
-            <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
+            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-57508343</link>
+            <guid>https://www.bbc.com/korean/international-57508343</guid>
+            <pubDate>Sat, 08 Jan 2022 22:18:04 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['여자 잡스' 테라노스 창업자, 결국 유죄 평결 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59866005</link>
-            <guid>https://www.bbc.com/korean/international-59866005</guid>
-            <pubDate>Fri, 07 Jan 2022 23:16:17 GMT</pubDate>
+            <title><![CDATA[중국 '작은 눈' 모델 논란...'눈 작다고 중국인 될 자격 없나요?' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59807098</link>
+            <guid>https://www.bbc.com/korean/features-59807098</guid>
+            <pubDate>Sat, 08 Jan 2022 22:18:04 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 2년, 우리가 알게 된 5가지 사실 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59806589</link>
-            <guid>https://www.bbc.com/korean/international-59806589</guid>
-            <pubDate>Sat, 08 Jan 2022 21:14:36 GMT</pubDate>
+            <title><![CDATA[설탕을 끊을 때 우리 뇌에 일어나는 변화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59807095</link>
+            <guid>https://www.bbc.com/korean/features-59807095</guid>
+            <pubDate>Sat, 08 Jan 2022 22:18:04 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
