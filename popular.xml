@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-01-08T15:16:12.097Z</updated>
+    <updated>2022-01-08T16:23:12.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -13,23 +13,23 @@
         <content type="html"><![CDATA[1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다']]></title>
+        <id>https://www.bbc.com/korean/international-59790411</id>
+        <link href="https://www.bbc.com/korean/international-59790411"/>
+        <updated>2022-01-07T19:06:05.543Z</updated>
+        <content type="html"><![CDATA[2]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WHO '오미크론 경미하다는 표현 주의해야']]></title>
         <id>https://www.bbc.com/korean/news-59904796</id>
         <link href="https://www.bbc.com/korean/news-59904796"/>
         <updated>2022-01-08T06:18:58.539Z</updated>
-        <content type="html"><![CDATA[2]]></content>
+        <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결국 법정까지 간 '방역패스'...'기본권 대 공익' 논쟁 가열]]></title>
         <id>https://www.bbc.com/korean/news-59856614</id>
         <link href="https://www.bbc.com/korean/news-59856614"/>
-        <updated>2022-01-07T19:06:05.543Z</updated>
-        <content type="html"><![CDATA[3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다']]></title>
-        <id>https://www.bbc.com/korean/international-59790411</id>
-        <link href="https://www.bbc.com/korean/international-59790411"/>
         <updated>2022-01-07T19:06:05.543Z</updated>
         <content type="html"><![CDATA[4]]></content>
     </entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[8]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소]]></title>
+        <id>https://www.bbc.com/korean/international-57508343</id>
+        <link href="https://www.bbc.com/korean/international-57508343"/>
+        <updated>2022-01-08T16:23:06.967Z</updated>
+        <content type="html"><![CDATA[9]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[카자흐스탄 소요 사태에 러시아군 투입]]></title>
         <id>https://www.bbc.com/korean/news-59904793</id>
         <link href="https://www.bbc.com/korean/news-59904793"/>
         <updated>2022-01-08T09:15:46.888Z</updated>
-        <content type="html"><![CDATA[9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 막대한 채권으로 빈곤국 '빚더미 함정'에 빠뜨리나]]></title>
-        <id>https://www.bbc.com/korean/international-59876814</id>
-        <link href="https://www.bbc.com/korean/international-59876814"/>
-        <updated>2022-01-08T15:16:05.862Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
