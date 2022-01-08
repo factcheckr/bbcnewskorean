@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 20:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 21:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[5:00]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/148D5/production/_119918148_p09s0ynf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성소수자: 내 배우자가 어느 날 건강보험에서 빠졌다]]></title>
@@ -45,14 +53,6 @@
             <guid>https://www.bbc.com/korean/international-59856555</guid>
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/165B8/production/_122567519_p0bf1x6v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
@@ -62,18 +62,11 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[탄트라: 밀레니얼에게 오르가즘을 가르치는 탄트라 강사]]></title>
-            <link>https://www.bbc.com/korean/international-51948810</link>
-            <guid>https://www.bbc.com/korean/international-51948810</guid>
-            <pubDate>Thu, 19 Mar 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아 용병 '바그네르'... 리비아서 여전히 전쟁범죄]]></title>
-            <link>https://www.bbc.com/korean/international-58182498</link>
-            <guid>https://www.bbc.com/korean/international-58182498</guid>
-            <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <title><![CDATA[멕시코의 '작은 한국', '페스코리아'를 소개합니다]]></title>
+            <link>https://www.bbc.com/korean/international-59807503</link>
+            <guid>https://www.bbc.com/korean/international-59807503</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
@@ -81,6 +74,13 @@
             <guid>https://www.bbc.com/korean/international-59788416</guid>
             <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['잠깐, 내가 이단이라고?'...영국서 교세 확장하는 신천지]]></title>
+            <link>https://www.bbc.com/korean/international-59453178</link>
+            <guid>https://www.bbc.com/korean/international-59453178</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
         </item>
     </channel>
 </rss>
