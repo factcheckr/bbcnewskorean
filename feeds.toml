@@ -32,7 +32,7 @@ titleSelector = "a span span:nth-child(2)"
 linkSelector = "a.bbc-1fxtbkn.evnt13t0"
 contentSelector = "time.bbc-pde5np.e1z0eaht0"
 dateSelector = "time.bbc-1cagdt4.e4zesg50"
-dateFormat = "yyyy년 MM월 dd일"
+dateFormat = "yyyy년 M월 dd일"
 imageSelector = "picture.bbc-yfiktt.e1enwo3v1 img"
 waitUntil = "networkidle"
 
