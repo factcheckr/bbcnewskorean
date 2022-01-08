@@ -53,3 +53,12 @@ titleSelector = "a.bbc-bta7jm.emesykt4"
 linkSelector = "a.bbc-bta7jm.emesykt4"
 contentSelector = "span.bbc-1kpt1ox.erh4ywh0"
 waitUntil = "networkidle"
+
+[radio]
+title = "BBC News 코리아 ─ BBC 코리아 라디오"
+url = "https://www.bbc.com/korean"
+entrySelector = "div.bbc-j3a44b.e18iw5td2 div li:nth-child(n+2)"
+titleSelector = "span.bbc-1k5mnnp.evmopx62"
+linkSelector = "div.bbc-11x6025.e1hg9psr6 div.bbc-1ox9h3w.e1hg9psr5 h3 a"
+contentSelector = "span.bbc-1gnhmg2.e1yt7oin0"
+waitUntil = "networkidle"
