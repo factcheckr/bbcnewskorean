@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 06:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 07:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15BA8/production/_122600098_p0bfn7zz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경]]></title>
+            <link>https://www.bbc.com/korean/international-50962917</link>
+            <guid>https://www.bbc.com/korean/international-50962917</guid>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1099B/production/_110359976_p07z8ygv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미라: 첨단 과학으로 3500년 만에 모습 드러낸 파라오]]></title>
             <link>https://www.bbc.com/korean/international-59856612</link>
             <guid>https://www.bbc.com/korean/international-59856612</guid>
@@ -40,14 +48,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경]]></title>
-            <link>https://www.bbc.com/korean/international-50962917</link>
-            <guid>https://www.bbc.com/korean/international-50962917</guid>
-            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1099B/production/_110359976_p07z8ygv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 응급실 의사가 사표를 쓴 이유]]></title>
             <link>https://www.bbc.com/korean/features-58196588</link>
             <guid>https://www.bbc.com/korean/features-58196588</guid>
@@ -55,11 +55,11 @@
             <content:encoded><![CDATA[5:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전기 개발로 어둠을 밝힌 케냐 청년]]></title>
-            <link>https://www.bbc.com/korean/international-59824574</link>
-            <guid>https://www.bbc.com/korean/international-59824574</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <title><![CDATA[현직 강력계 형사가 밝히는 보이스피싱의 모든 것]]></title>
+            <link>https://www.bbc.com/korean/features-56977322</link>
+            <guid>https://www.bbc.com/korean/features-56977322</guid>
+            <pubDate>Sat, 08 May 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:58]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[139년 된 이층집 '통째로' 이사]]></title>
@@ -76,11 +76,11 @@
             <content:encoded><![CDATA[7:30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
-            <link>https://www.bbc.com/korean/features-59824576</link>
-            <guid>https://www.bbc.com/korean/features-59824576</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
+            <title><![CDATA[전기 개발로 어둠을 밝힌 케냐 청년]]></title>
+            <link>https://www.bbc.com/korean/international-59824574</link>
+            <guid>https://www.bbc.com/korean/international-59824574</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
         </item>
     </channel>
 </rss>
