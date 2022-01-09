@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 18:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 19:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,17 +245,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-59926161</link>
-            <guid>https://www.bbc.com/korean/features-59926161</guid>
-            <pubDate>Sun, 09 Jan 2022 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[WHO '오미크론 경미하다는 표현 주의해야' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59904796</link>
             <guid>https://www.bbc.com/korean/news-59904796</guid>
             <pubDate>Fri, 07 Jan 2022 19:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926161</link>
+            <guid>https://www.bbc.com/korean/features-59926161</guid>
+            <pubDate>Sun, 09 Jan 2022 03:17:08 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -266,31 +266,31 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-59926162</link>
-            <guid>https://www.bbc.com/korean/features-59926162</guid>
-            <pubDate>Sun, 09 Jan 2022 06:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-57508343</link>
             <guid>https://www.bbc.com/korean/international-57508343</guid>
             <pubDate>Sun, 09 Jan 2022 11:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인도 남성 '백신 11차례 접종 받았다'...'무릎 통증 없어져' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59906340</link>
             <guid>https://www.bbc.com/korean/international-59906340</guid>
             <pubDate>Sat, 08 Jan 2022 08:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중국에서 성매매로 착취당하는 탈북 여성들...성구매자는 주로 한국남성 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-48345641</link>
             <guid>https://www.bbc.com/korean/news-48345641</guid>
             <pubDate>Sun, 09 Jan 2022 17:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926162</link>
+            <guid>https://www.bbc.com/korean/features-59926162</guid>
+            <pubDate>Sun, 09 Jan 2022 06:18:40 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
@@ -301,10 +301,10 @@
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중국 시안 봉쇄 2주째...식량난에 물물교환 나선 시민들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59891165</link>
-            <guid>https://www.bbc.com/korean/international-59891165</guid>
-            <pubDate>Sun, 09 Jan 2022 18:17:53 GMT</pubDate>
+            <title><![CDATA[카자흐스탄 소요 사태에 러시아군 투입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59904793</link>
+            <guid>https://www.bbc.com/korean/news-59904793</guid>
+            <pubDate>Sun, 09 Jan 2022 19:12:59 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
