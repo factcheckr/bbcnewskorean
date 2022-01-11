@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 20:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 21:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,23 +301,23 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오미크론 변이 감염 여부 알아내는 방법은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59473504</link>
+            <guid>https://www.bbc.com/korean/international-59473504</guid>
+            <pubDate>Tue, 11 Jan 2022 16:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[북한은 왜 엿새 만에 두 번째 미사일을 쏘아 올렸나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59890896</link>
             <guid>https://www.bbc.com/korean/news-59890896</guid>
             <pubDate>Tue, 11 Jan 2022 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인도 남성 '백신 11차례 접종 받았다'...'무릎 통증 없어져' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59906340</link>
             <guid>https://www.bbc.com/korean/international-59906340</guid>
-            <pubDate>Tue, 11 Jan 2022 16:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 변이 감염 여부 알아내는 방법은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59473504</link>
-            <guid>https://www.bbc.com/korean/international-59473504</guid>
             <pubDate>Tue, 11 Jan 2022 16:24:24 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
