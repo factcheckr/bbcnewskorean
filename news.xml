@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말기 심장병 환자에 '돼지 심장' 이식...장기 이식 해결책 될까?]]></title>
+            <link>https://www.bbc.com/korean/news-59891171</link>
+            <guid>https://www.bbc.com/korean/news-59891171</guid>
+            <pubDate>Tue, 11 Jan 2022 03:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[수술을 집도한 의료팀에 이번 일은 수년간 이어진 연구의 정점을 찍는 일이다. 이를 통해 전 세계 사람들의 삶을 변화시킬 수도 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11C59/production/_122639727_adf7c605-4833-4f65-88e6-824ef0deee5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['깐부 할아버지' 오영수, 골든글로브 남우조연상… 한국인 최초]]></title>
             <link>https://www.bbc.com/korean/news-59890895</link>
@@ -40,14 +48,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78C1/production/_122631903_570fa59b-5667-437e-9d91-b74ddba3d5fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은]]></title>
-            <link>https://www.bbc.com/korean/features-59926162</link>
-            <guid>https://www.bbc.com/korean/features-59926162</guid>
-            <pubDate>Sun, 09 Jan 2022 06:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[현재 전 세계 리튬 배터리 중 약 5%만 재활용되고 있다. 리튬 배터리 대부분이 사용 후 쓰레기가 된다는 뜻이다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EDF1/production/_122631906_91f494ee-e693-47ad-88a9-2059378bbb25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[비디오, 카자흐스탄 시위 격화... '경고 없는 사격' 지시까지, 방송 길이 2,19]]></title>
             <link>https://www.bbc.com/korean/international-59926163</link>
             <guid>https://www.bbc.com/korean/international-59926163</guid>
@@ -64,12 +64,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3D77/production/_122553751_gettyimages-1234654111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비디오, 내 배우자가 어느 날 건강보험에서 빠졌다, 방송 길이 4,42]]></title>
-            <link>https://www.bbc.com/korean/features-59892345</link>
-            <guid>https://www.bbc.com/korean/features-59892345</guid>
-            <pubDate>Sat, 08 Jan 2022 02:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[신혼 부부가 누릴 수 있는 여러 사회적 혜택도 동성 부부에겐 예외다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15BA8/production/_122600098_p0bfn7zz.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022년 새해 목표를 이루는 법]]></title>
+            <link>https://www.bbc.com/korean/features-59906333</link>
+            <guid>https://www.bbc.com/korean/features-59906333</guid>
+            <pubDate>Tue, 11 Jan 2022 03:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 발표된 심리학 연구가 그 해답이 될지도 모른다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BB9F/production/_122613084_24af9b8f-1723-46a5-9702-8a6dbc4c44ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
