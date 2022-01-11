@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 17:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 18:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,11 +140,25 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FA53/production/_122638046_p0bgh9vs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59926163</link>
+            <guid>https://www.bbc.com/korean/international-59926163</guid>
+            <pubDate>Sun, 09 Jan 2022 08:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[환경보호: 전 세계 헌옷의 15% 재활용하는 이탈리아의 작은 도시 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-55345774</link>
             <guid>https://www.bbc.com/korean/features-55345774</guid>
             <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플라스틱 오염: 나이지리아 '정원 도시'는 어쩌다 '쓰레기 도시'가 됐나 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,25 +168,11 @@
             <content:encoded><![CDATA[1:20]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59926163</link>
-            <guid>https://www.bbc.com/korean/international-59926163</guid>
-            <pubDate>Sun, 09 Jan 2022 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-59788416</link>
             <guid>https://www.bbc.com/korean/international-59788416</guid>
             <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 10일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -259,17 +259,17 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다큐서 실수로 살인 자백... 미국 억만장자 감옥서 사망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932740</link>
-            <guid>https://www.bbc.com/korean/international-59932740</guid>
-            <pubDate>Tue, 11 Jan 2022 08:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[영국 연구진 '일반 감기에 걸려도 코로나19 면역 생길 수 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59949881</link>
             <guid>https://www.bbc.com/korean/international-59949881</guid>
             <pubDate>Tue, 11 Jan 2022 10:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다큐서 실수로 살인 자백... 미국 억만장자 감옥서 사망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932740</link>
+            <guid>https://www.bbc.com/korean/international-59932740</guid>
+            <pubDate>Tue, 11 Jan 2022 08:19:18 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -280,37 +280,37 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59790411</link>
-            <guid>https://www.bbc.com/korean/international-59790411</guid>
-            <pubDate>Tue, 11 Jan 2022 11:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[북한은 왜 엿새 만에 두 번째 미사일을 쏘아 올렸나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59890896</link>
             <guid>https://www.bbc.com/korean/news-59890896</guid>
             <pubDate>Tue, 11 Jan 2022 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인도 남성 '백신 11차례 접종 받았다'...'무릎 통증 없어져' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59906340</link>
+            <guid>https://www.bbc.com/korean/international-59906340</guid>
+            <pubDate>Tue, 11 Jan 2022 16:24:24 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59790411</link>
+            <guid>https://www.bbc.com/korean/international-59790411</guid>
+            <pubDate>Tue, 11 Jan 2022 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-59926161</link>
             <guid>https://www.bbc.com/korean/features-59926161</guid>
             <pubDate>Tue, 11 Jan 2022 12:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오미크론 변이 감염 여부 알아내는 방법은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59473504</link>
             <guid>https://www.bbc.com/korean/international-59473504</guid>
-            <pubDate>Tue, 11 Jan 2022 16:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인도 남성 '백신 11차례 접종 받았다'...'무릎 통증 없어져' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59906340</link>
-            <guid>https://www.bbc.com/korean/international-59906340</guid>
             <pubDate>Tue, 11 Jan 2022 16:24:24 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
