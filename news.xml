@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캄보디아서 100개 넘는 지뢰찾아 메달받은 '영웅 쥐' 숨져]]></title>
+            <link>https://www.bbc.com/korean/international-59906341</link>
+            <guid>https://www.bbc.com/korean/international-59906341</guid>
+            <pubDate>Wed, 12 Jan 2022 05:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[마가와는 캄보디아에서 5년간 지뢰탐지쥐로 활동하며 100개 이상의 지뢰와 폭발물을 탐지했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/111AB/production/_114595007_063492372.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한은 왜 엿새 만에 두 번째 미사일을 쏘아 올렸나?]]></title>
             <link>https://www.bbc.com/korean/news-59890896</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 03:18:03 GMT</pubDate>
             <content:encoded><![CDATA[수술을 집도한 의료팀에 이번 일은 수년간 이어진 연구의 정점을 찍는 일이다. 이를 통해 전 세계 사람들의 삶을 변화시킬 수도 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11C59/production/_122639727_adf7c605-4833-4f65-88e6-824ef0deee5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 선로에 추락한 경비행기 조종사, 열차와 충돌 직전에 구조, 방송 길이 1,21]]></title>
-            <link>https://www.bbc.com/korean/international-59932738</link>
-            <guid>https://www.bbc.com/korean/international-59932738</guid>
-            <pubDate>Tue, 11 Jan 2022 06:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[경찰이 조종사를 극적으로 구해냈다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FA53/production/_122638046_p0bgh9vs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
