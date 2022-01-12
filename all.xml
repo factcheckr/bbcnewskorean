@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 20:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 21:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,31 +273,31 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북한이 '극초음속미사일' 개발에 매달리는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59890897</link>
-            <guid>https://www.bbc.com/korean/news-59890897</guid>
-            <pubDate>Wed, 12 Jan 2022 09:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[WHO '앞으로 몇 주안에 유럽 인구 절반 오미크론 감염될 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59949884</link>
             <guid>https://www.bbc.com/korean/international-59949884</guid>
             <pubDate>Wed, 12 Jan 2022 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-59926162</link>
-            <guid>https://www.bbc.com/korean/features-59926162</guid>
-            <pubDate>Sun, 09 Jan 2022 06:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59790411</link>
             <guid>https://www.bbc.com/korean/international-59790411</guid>
             <pubDate>Wed, 12 Jan 2022 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한이 '극초음속미사일' 개발에 매달리는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59890897</link>
+            <guid>https://www.bbc.com/korean/news-59890897</guid>
+            <pubDate>Wed, 12 Jan 2022 09:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926162</link>
+            <guid>https://www.bbc.com/korean/features-59926162</guid>
+            <pubDate>Sun, 09 Jan 2022 06:18:40 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -308,24 +308,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-59926161</link>
-            <guid>https://www.bbc.com/korean/features-59926161</guid>
-            <pubDate>Wed, 12 Jan 2022 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[조코비치, 호주 입국 논란... 왜 일부 운동선수들은 백신접종을 꺼릴까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-59891173</link>
             <guid>https://www.bbc.com/korean/features-59891173</guid>
             <pubDate>Tue, 11 Jan 2022 05:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926161</link>
+            <guid>https://www.bbc.com/korean/features-59926161</guid>
+            <pubDate>Wed, 12 Jan 2022 19:13:10 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[캄보디아서 100개 넘는 지뢰찾아 메달받은 '영웅 쥐' 숨져 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59906341</link>
-            <guid>https://www.bbc.com/korean/international-59906341</guid>
-            <pubDate>Wed, 12 Jan 2022 05:16:07 GMT</pubDate>
+            <title><![CDATA['히치하이킹'으로 남극에 가는 침입종들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59949007</link>
+            <guid>https://www.bbc.com/korean/international-59949007</guid>
+            <pubDate>Wed, 12 Jan 2022 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
