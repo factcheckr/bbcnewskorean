@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WHO '앞으로 몇 주안에 유럽 인구 절반 오미크론 감염될 것']]></title>
+            <link>https://www.bbc.com/korean/international-59949884</link>
+            <guid>https://www.bbc.com/korean/international-59949884</guid>
+            <pubDate>Wed, 12 Jan 2022 09:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[확진자 수는 최근 2주 동안 두 배 이상 증가했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/100E5/production/_122656756_3e4027d3-3b84-42d0-8bfa-eac383ad422e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['히치하이킹'으로 남극에 가는 침입종들]]></title>
             <link>https://www.bbc.com/korean/international-59949007</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 06:19:46 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 백신이 전염병을 억제하는 데 얼마나 도움이 되는지를 분석했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/170E5/production/_122573449_c932c355-690e-4537-851f-636b3f857a55.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인도서 '무슬림 여성 경매' 앱 제작한 용의자 체포]]></title>
-            <link>https://www.bbc.com/korean/international-59949006</link>
-            <guid>https://www.bbc.com/korean/international-59949006</guid>
-            <pubDate>Tue, 11 Jan 2022 08:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[일반에 공개된 무슬림 여성의 사진으로 프로필을 생성한 다음 이들을 '오늘의 경매 매물'로 소개했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5CF1/production/_122639732_ed94f7a6-d269-46bb-80c7-dd2039b318ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
