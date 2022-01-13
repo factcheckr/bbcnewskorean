@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 19:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 20:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국: 선로에 추락한 경비행기, 열차와 충돌 직전 조종사 구조 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59932738</link>
+            <guid>https://www.bbc.com/korean/international-59932738</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FA53/production/_122638046_p0bgh9vs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아프가니스탄: 빵 한 조각 먹기 위해 구두 닦는 아프간의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-59856555</link>
             <guid>https://www.bbc.com/korean/international-59856555</guid>
@@ -124,41 +132,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/165B8/production/_122567519_p0bf1x6v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59926163</link>
-            <guid>https://www.bbc.com/korean/international-59926163</guid>
-            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/120B9/production/_122631937_p0bg5z1j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-50962917</link>
-            <guid>https://www.bbc.com/korean/international-50962917</guid>
-            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1099B/production/_110359976_p07z8ygv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국: 선로에 추락한 경비행기, 열차와 충돌 직전 조종사 구조 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59932738</link>
-            <guid>https://www.bbc.com/korean/international-59932738</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59906342</link>
-            <guid>https://www.bbc.com/korean/international-59906342</guid>
-            <pubDate>Wed, 12 Jan 2022 11:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[딸로 변장해 탈옥하다 적발된 브라질 갱단 두목이 숨진 채 발견됐다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-49254172</link>
-            <guid>https://www.bbc.com/korean/news-49254172</guid>
-            <pubDate>Wed, 07 Aug 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58405457</link>
+            <guid>https://www.bbc.com/korean/features-58405457</guid>
+            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5522/production/_120349712_p09tq3cn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안티백서: '나는 독감 백신을 맞지 않기로 했다' (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +147,32 @@
             <content:encoded><![CDATA[3:04]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-50962917</link>
+            <guid>https://www.bbc.com/korean/international-50962917</guid>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59926163</link>
+            <guid>https://www.bbc.com/korean/international-59926163</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BBC 특파원이 국내 최초 '초음속 전투기'를 탄 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59864970</link>
+            <guid>https://www.bbc.com/korean/features-59864970</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 13일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,59 +280,59 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미 대법원, 'IS 신부' 호다 무타나 재입국 항소 기각 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59965082</link>
-            <guid>https://www.bbc.com/korean/international-59965082</guid>
-            <pubDate>Thu, 13 Jan 2022 10:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59790411</link>
             <guid>https://www.bbc.com/korean/international-59790411</guid>
             <pubDate>Thu, 13 Jan 2022 11:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지금 가장 '핫한' 부동산… 아시아 '물류창고'가 뜬다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59978874</link>
-            <guid>https://www.bbc.com/korean/international-59978874</guid>
+            <title><![CDATA[미 대법원, 'IS 신부' 호다 무타나 재입국 항소 기각 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59965082</link>
+            <guid>https://www.bbc.com/korean/international-59965082</guid>
             <pubDate>Thu, 13 Jan 2022 10:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국 연구진 '일반 감기에 걸려도 코로나19 면역 생길 수 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59949881</link>
-            <guid>https://www.bbc.com/korean/international-59949881</guid>
-            <pubDate>Tue, 11 Jan 2022 10:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['제 아들이 포경수술 후, 스스로 목숨을 끊었습니다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/48001335</link>
-            <guid>https://www.bbc.com/korean/48001335</guid>
-            <pubDate>Thu, 13 Jan 2022 18:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-59926161</link>
-            <guid>https://www.bbc.com/korean/features-59926161</guid>
-            <pubDate>Thu, 13 Jan 2022 19:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다큐서 실수로 살인 자백... 미국 억만장자 감옥서 사망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932740</link>
-            <guid>https://www.bbc.com/korean/international-59932740</guid>
-            <pubDate>Thu, 13 Jan 2022 15:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[WHO '앞으로 몇 주안에 유럽 인구 절반 오미크론 감염될 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59949884</link>
             <guid>https://www.bbc.com/korean/international-59949884</guid>
             <pubDate>Wed, 12 Jan 2022 04:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다큐서 실수로 살인 자백... 미국 억만장자 감옥서 사망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932740</link>
+            <guid>https://www.bbc.com/korean/international-59932740</guid>
+            <pubDate>Thu, 13 Jan 2022 15:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926161</link>
+            <guid>https://www.bbc.com/korean/features-59926161</guid>
+            <pubDate>Thu, 13 Jan 2022 19:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926162</link>
+            <guid>https://www.bbc.com/korean/features-59926162</guid>
+            <pubDate>Thu, 13 Jan 2022 20:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영국 연구진 '일반 감기에 걸려도 코로나19 면역 생길 수 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59949881</link>
+            <guid>https://www.bbc.com/korean/international-59949881</guid>
+            <pubDate>Tue, 11 Jan 2022 10:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지금 가장 '핫한' 부동산… 아시아 '물류창고'가 뜬다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59978874</link>
+            <guid>https://www.bbc.com/korean/international-59978874</guid>
+            <pubDate>Thu, 13 Jan 2022 10:16:47 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
