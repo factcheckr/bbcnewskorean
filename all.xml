@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 21:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 22:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,38 +308,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국도 '백신패스' 찬반... 바이든 '백신 의무화' 대법원서 제동 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59992759</link>
-            <guid>https://www.bbc.com/korean/international-59992759</guid>
-            <pubDate>Fri, 14 Jan 2022 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다큐서 실수로 살인 자백... 미국 억만장자 감옥서 사망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59932740</link>
             <guid>https://www.bbc.com/korean/international-59932740</guid>
             <pubDate>Fri, 14 Jan 2022 19:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-59926162</link>
             <guid>https://www.bbc.com/korean/features-59926162</guid>
             <pubDate>Fri, 14 Jan 2022 21:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국도 '백신패스' 찬반... 바이든 '백신 의무화' 대법원서 제동 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59992759</link>
+            <guid>https://www.bbc.com/korean/international-59992759</guid>
+            <pubDate>Fri, 14 Jan 2022 08:19:24 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WHO '앞으로 몇 주안에 유럽 인구 절반 오미크론 감염될 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59949884</link>
-            <guid>https://www.bbc.com/korean/international-59949884</guid>
-            <pubDate>Fri, 14 Jan 2022 17:24:20 GMT</pubDate>
+            <title><![CDATA[조코비치, 호주 입국 논란... 왜 일부 운동선수들은 백신접종을 꺼릴까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59891173</link>
+            <guid>https://www.bbc.com/korean/features-59891173</guid>
+            <pubDate>Fri, 14 Jan 2022 22:15:33 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[설 연휴 앞두고 방역 강화... '21일 오미크론 우세종 될 듯' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59990520</link>
-            <guid>https://www.bbc.com/korean/news-59990520</guid>
-            <pubDate>Fri, 14 Jan 2022 08:19:29 GMT</pubDate>
+            <title><![CDATA['집다운 집에서 살고파'… 전 세계로 번지는 '작은 집 짓기' 붐 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926161</link>
+            <guid>https://www.bbc.com/korean/features-59926161</guid>
+            <pubDate>Fri, 14 Jan 2022 22:15:33 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
