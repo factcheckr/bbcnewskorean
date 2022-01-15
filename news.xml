@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 04:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 05:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[소셜 미디어 음식 사진, 우리에게 어떤 영향 줄까?]]></title>
-            <link>https://www.bbc.com/korean/news-60006276</link>
-            <guid>https://www.bbc.com/korean/news-60006276</guid>
-            <pubDate>Sat, 15 Jan 2022 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[식습관은 보는 것에도 영향을 받는다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C3E8/production/_122725105_p0b8fpjz.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[AI 윤석열, 이재명 챗봇... 커지는 대선판 'AI경쟁']]></title>
             <link>https://www.bbc.com/korean/news-59949885</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 13 Jan 2022 10:16:47 GMT</pubDate>
             <content:encoded><![CDATA[특히 많은 제품이 만들어지고 운송되는 아시아에서 두드러지는 현상이다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4390/production/_122669271_gettyimages-1237132401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동계 올림픽 개막 앞둔 중국, '제로 코로나' 박차]]></title>
+            <link>https://www.bbc.com/korean/international-59965081</link>
+            <guid>https://www.bbc.com/korean/international-59965081</guid>
+            <pubDate>Sat, 15 Jan 2022 05:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[중국은 코로나19 확산을 방지하기 위해 만반의 준비를 하고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12449/production/_122652847_security_rtr_olympicscrop_hi073038448.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
