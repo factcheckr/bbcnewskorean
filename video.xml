@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 00:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 02:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1377B/production/_122693797_p0bgz29f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BBC 특파원이 국내 최초 '초음속 전투기'를 탄 이유]]></title>
-            <link>https://www.bbc.com/korean/features-59864970</link>
-            <guid>https://www.bbc.com/korean/features-59864970</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8509/production/_122575043_p0bf5vb6.png" length="0" type="image/png"/>
+            <title><![CDATA[미국: 선로에 추락한 경비행기, 열차와 충돌 직전 조종사 구조]]></title>
+            <link>https://www.bbc.com/korean/international-59932738</link>
+            <guid>https://www.bbc.com/korean/international-59932738</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FA53/production/_122638046_p0bgh9vs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불법으로 거래되는 브라질 아마존 열대우림]]></title>
+            <link>https://www.bbc.com/korean/media-56235047</link>
+            <guid>https://www.bbc.com/korean/media-56235047</guid>
+            <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:27]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F71F/production/_117336236_p0983r3x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경]]></title>
@@ -40,12 +48,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1099B/production/_110359976_p07z8ygv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국: 선로에 추락한 경비행기, 열차와 충돌 직전 조종사 구조]]></title>
-            <link>https://www.bbc.com/korean/international-59932738</link>
-            <guid>https://www.bbc.com/korean/international-59932738</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FA53/production/_122638046_p0bgh9vs.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BBC 특파원이 국내 최초 '초음속 전투기'를 탄 이유]]></title>
+            <link>https://www.bbc.com/korean/features-59864970</link>
+            <guid>https://www.bbc.com/korean/features-59864970</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
@@ -55,6 +62,13 @@
             <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[BTS: BBC 서울특파원 로라 비커의 질문에 답하다]]></title>
             <link>https://www.bbc.com/korean/features-54010023</link>
             <guid>https://www.bbc.com/korean/features-54010023</guid>
@@ -62,25 +76,11 @@
             <content:encoded><![CDATA[1:18]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[멕시코의 '작은 한국', '페스코리아'를 소개합니다]]></title>
-            <link>https://www.bbc.com/korean/international-59807503</link>
-            <guid>https://www.bbc.com/korean/international-59807503</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
-            <link>https://www.bbc.com/korean/features-59824576</link>
-            <guid>https://www.bbc.com/korean/features-59824576</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지]]></title>
-            <link>https://www.bbc.com/korean/international-59926163</link>
-            <guid>https://www.bbc.com/korean/international-59926163</guid>
-            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <title><![CDATA[조현병 환자를 위한 아바타 치료법]]></title>
+            <link>https://www.bbc.com/korean/news-42121196</link>
+            <guid>https://www.bbc.com/korean/news-42121196</guid>
+            <pubDate>Sat, 25 Nov 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
         </item>
     </channel>
 </rss>
