@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 07:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 08:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복해야 한다는 강박을 멈춰야 하는 이유]]></title>
+            <link>https://www.bbc.com/korean/features-60013028</link>
+            <guid>https://www.bbc.com/korean/features-60013028</guid>
+            <pubDate>Sun, 16 Jan 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[행복을 추구하는 것은 삶의 목표일까, 아니면 함정일까?]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0E08/production/_122229530_2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10대 자녀 둔 부모들의 고민, 빈정대는 자녀 걱정 마라?]]></title>
             <link>https://www.bbc.com/korean/features-60013027</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 14 Jan 2022 09:16:39 GMT</pubDate>
             <content:encoded><![CDATA[정부는 오미크론이 오는 21일쯤 감염사례 50% 넘어 우세화될 것으로 보고있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/144B1/production/_122712138_19409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존 원주민 백신 문제를 보여주는 한 장의 사진]]></title>
-            <link>https://www.bbc.com/korean/international-59992762</link>
-            <guid>https://www.bbc.com/korean/international-59992762</guid>
-            <pubDate>Sun, 16 Jan 2022 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[사람들은 세계에서 가장 외진 지역까지 백신을 전달해야 하는 복잡한 물류 문제를 상징하는 사진이라고 말한다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8B10/production/_122700653_indigena2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
