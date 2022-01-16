@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 22:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 23:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,14 +100,6 @@
             <content:encoded><![CDATA[<a href="/korean/international-59965081" class="bbc-1ocdizt e1wlg2v80"><span>동계 올림픽 개막 앞둔 중국, '제로 코로나' 박차</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스리랑카: 연 날리다 하늘로 날아간 남성···아찔했던 순간 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60006907</link>
             <guid>https://www.bbc.com/korean/international-60006907</guid>
@@ -124,20 +116,28 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3B14/production/_111342151_p086yvcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-50962917</link>
+            <guid>https://www.bbc.com/korean/international-50962917</guid>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1099B/production/_110359976_p07z8ygv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[섹스에 대해 생각하면 거짓말을 더 잘한다? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/media-50498537</link>
             <guid>https://www.bbc.com/korean/media-50498537</guid>
             <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/03DA/production/_109768900_p07vmybp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-57692535</link>
-            <guid>https://www.bbc.com/korean/international-57692535</guid>
-            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/08A0/production/_119180220_p09n63c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,13 +154,6 @@
             <content:encoded><![CDATA[3:51]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-50962917</link>
-            <guid>https://www.bbc.com/korean/international-50962917</guid>
-            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[해리왕자와 메건 부부 인터뷰에 대한 전 세계의 반응 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-56387930</link>
             <guid>https://www.bbc.com/korean/international-56387930</guid>
@@ -173,6 +166,13 @@
             <guid>https://www.bbc.com/korean/features-59824576</guid>
             <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[6:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레오나르도 다빈치: 화가는 부업이었던 '능력자' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-48036760</link>
+            <guid>https://www.bbc.com/korean/international-48036760</guid>
+            <pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 16일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,17 +280,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[10대 자녀 둔 부모들의 고민, 빈정대는 자녀 걱정 마라? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60013027</link>
-            <guid>https://www.bbc.com/korean/features-60013027</guid>
-            <pubDate>Sun, 16 Jan 2022 03:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59932733</link>
             <guid>https://www.bbc.com/korean/international-59932733</guid>
             <pubDate>Tue, 11 Jan 2022 02:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10대 자녀 둔 부모들의 고민, 빈정대는 자녀 걱정 마라? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60013027</link>
+            <guid>https://www.bbc.com/korean/features-60013027</guid>
+            <pubDate>Sun, 16 Jan 2022 03:18:12 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -308,17 +308,17 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마른하늘에 '이것'...비행기서 떨어진 오물에 맞을 확률은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59015974</link>
-            <guid>https://www.bbc.com/korean/international-59015974</guid>
-            <pubDate>Sun, 16 Jan 2022 20:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19 2년, 우리가 알게 된 5가지 사실 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59806589</link>
             <guid>https://www.bbc.com/korean/international-59806589</guid>
             <pubDate>Sat, 15 Jan 2022 19:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[호주 60년 만에 최고기온 50.7도…평균보다 15도 높아 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60006278</link>
+            <guid>https://www.bbc.com/korean/international-60006278</guid>
+            <pubDate>Sat, 15 Jan 2022 06:18:44 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
@@ -329,17 +329,17 @@
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[호주 60년 만에 최고기온 50.7도…평균보다 15도 높아 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60006278</link>
-            <guid>https://www.bbc.com/korean/international-60006278</guid>
-            <pubDate>Sat, 15 Jan 2022 06:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아마존 원주민 백신 문제를 보여주는 한 장의 사진 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59992762</link>
             <guid>https://www.bbc.com/korean/international-59992762</guid>
             <pubDate>Sun, 16 Jan 2022 13:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏟아지는 '리튬 배터리' 쓰레기… 재활용 난제 해결책은 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-59926162</link>
+            <guid>https://www.bbc.com/korean/features-59926162</guid>
+            <pubDate>Sun, 16 Jan 2022 23:15:29 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
