@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 00:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 02:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, '직원 사무실 복귀 지원'...영국 지사에 1조원 쏟아붓는다]]></title>
+            <link>https://www.bbc.com/korean/international-60010375</link>
+            <guid>https://www.bbc.com/korean/international-60010375</guid>
+            <pubDate>Sun, 16 Jan 2022 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 런던 중심부에 위치한 센트럴 세인트 자일스 부지 매입에 나섰다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/150CD/production/_122712268_officecovid.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 해커, 지난해 암호화폐 4700억원 빼돌렸다]]></title>
+            <link>https://www.bbc.com/korean/international-60006277</link>
+            <guid>https://www.bbc.com/korean/international-60006277</guid>
+            <pubDate>Sun, 16 Jan 2022 02:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[북한은 통상적으로 해킹 공격에 관여한 사실을 부인해 왔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/101E5/production/_122712066_976_gettyimages-1083733266.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호주 60년 만에 최고기온 50.7도…평균보다 15도 높아]]></title>
             <link>https://www.bbc.com/korean/international-60006278</link>
@@ -22,14 +38,6 @@
             <pubDate>Sat, 15 Jan 2022 07:15:08 GMT</pubDate>
             <content:encoded><![CDATA[친구들은 그를 끌어내리려고 했고 마노하란 역시 필사적으로 버텼다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18544/production/_122725699_p0bhd2d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소셜 미디어 음식 사진, 우리에게 어떤 영향 줄까?]]></title>
-            <link>https://www.bbc.com/korean/news-60006276</link>
-            <guid>https://www.bbc.com/korean/news-60006276</guid>
-            <pubDate>Sat, 15 Jan 2022 06:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[식습관은 보는 것에도 영향을 받는다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C3E8/production/_122725105_p0b8fpjz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 윤석열, 이재명 챗봇... 커지는 대선판 'AI경쟁']]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 14 Jan 2022 08:19:24 GMT</pubDate>
             <content:encoded><![CDATA[미국에서 코로나19 백신 의무화 찬반양론이 격렬하게 대립하고 있다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12DEA/production/_122709277_gettyimages-1237551343.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미성년자 성폭행 의혹' 영국 앤드루 왕자 군 직함 박탈]]></title>
-            <link>https://www.bbc.com/korean/international-59990780</link>
-            <guid>https://www.bbc.com/korean/international-59990780</guid>
-            <pubDate>Fri, 14 Jan 2022 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[이번 결정은 앤드루 왕자가 미국에서 성폭행 혐의로 민사 재판을 받게 되면서 이뤄졌다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EC4A/production/_122709406_hi073081925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
