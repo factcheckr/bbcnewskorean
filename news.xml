@@ -4,16 +4,16 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[행복해야 한다는 강박을 멈춰야 하는 이유]]></title>
-            <link>https://www.bbc.com/korean/features-60013028</link>
-            <guid>https://www.bbc.com/korean/features-60013028</guid>
-            <pubDate>Sun, 16 Jan 2022 08:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[행복을 추구하는 것은 삶의 목표일까, 아니면 함정일까?]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0E08/production/_122229530_2f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조코비치 호주오픈 참가 못하고 추방...세르비아에서도 처벌 가능성?]]></title>
+            <link>https://www.bbc.com/korean/news-60013026</link>
+            <guid>https://www.bbc.com/korean/news-60013026</guid>
+            <pubDate>Mon, 17 Jan 2022 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[호주 입국이 최종 거절된 조코비치는 세르비아에 돌아가서도 방역법 위반으로 처벌 받을 가능성이 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/132BB/production/_122632587_gettyimages-1299386333.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10대 자녀 둔 부모들의 고민, 빈정대는 자녀 걱정 마라?]]></title>
