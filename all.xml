@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 20:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 21:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,14 +100,6 @@
             <content:encoded><![CDATA[<a href="/korean/news-59890892" class="bbc-1ocdizt e1wlg2v80"><span>북한 '미사일 발사, 앞으로 두세번 더 가능'</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하얼빈 빙설제: 중국 도시에 펼쳐진 '겨울왕국' (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60019958</link>
             <guid>https://www.bbc.com/korean/international-60019958</guid>
@@ -116,12 +108,28 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/110F1/production/_122737896_p0bhm15q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59824576</link>
+            <guid>https://www.bbc.com/korean/features-59824576</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/764B/production/_122538203_p0bdkqqt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58405457</link>
+            <guid>https://www.bbc.com/korean/features-58405457</guid>
+            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5522/production/_120349712_p09tq3cn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스리랑카: 연 날리다 하늘로 날아간 남성···아찔했던 순간 (BBC News 코리아 ─ 비디오)]]></title>
@@ -137,42 +145,34 @@
             <guid>https://www.bbc.com/korean/features-58155036</guid>
             <pubDate>Tue, 10 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17739/production/_119875069_p09rtj16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국: 선로에 추락한 경비행기, 열차와 충돌 직전 조종사 구조 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59932738</link>
-            <guid>https://www.bbc.com/korean/international-59932738</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <title><![CDATA[첫 코로나19 백신 접종 90세 할머니… '최고의 생일 선물' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-55241759</link>
+            <guid>https://www.bbc.com/korean/international-55241759</guid>
+            <pubDate>Wed, 09 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-59824576</link>
-            <guid>https://www.bbc.com/korean/features-59824576</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[수수께끼의 동상 '모루겟소요' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-43102106</link>
+            <guid>https://www.bbc.com/korean/news-43102106</guid>
+            <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수퍼노트: 전 세계를 속인 북한산 초정밀 위조지폐 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-57122476</link>
-            <guid>https://www.bbc.com/korean/international-57122476</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['골목대장' 김일성을 기억하는 102세 고향 후배 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/media-58430776</link>
-            <guid>https://www.bbc.com/korean/media-58430776</guid>
-            <pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:32]]></content:encoded>
+            <title><![CDATA[조현병 환자를 위한 아바타 치료법 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-42121196</link>
+            <guid>https://www.bbc.com/korean/news-42121196</guid>
+            <pubDate>Sat, 25 Nov 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 17일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,59 +287,59 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조코비치 호주오픈 참가 못하고 추방...세르비아에서도 처벌 가능성? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60013026</link>
-            <guid>https://www.bbc.com/korean/news-60013026</guid>
-            <pubDate>Sun, 16 Jan 2022 02:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932733</link>
-            <guid>https://www.bbc.com/korean/international-59932733</guid>
-            <pubDate>Tue, 11 Jan 2022 02:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59790411</link>
             <guid>https://www.bbc.com/korean/international-59790411</guid>
             <pubDate>Sun, 16 Jan 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아마존 원주민 백신 문제를 보여주는 한 장의 사진 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59992762</link>
-            <guid>https://www.bbc.com/korean/international-59992762</guid>
-            <pubDate>Mon, 17 Jan 2022 04:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <title><![CDATA[조코비치 호주오픈 참가 못하고 추방...세르비아에서도 처벌 가능성? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60013026</link>
+            <guid>https://www.bbc.com/korean/news-60013026</guid>
+            <pubDate>Sun, 16 Jan 2022 02:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10대 자녀 둔 부모들의 고민, 빈정대는 자녀 걱정 마라? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60013027</link>
             <guid>https://www.bbc.com/korean/features-60013027</guid>
             <pubDate>Sun, 16 Jan 2022 03:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Tue, 11 Jan 2022 02:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한, 올해 벌써 4번째 미사일 발사… 도대체 왜? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60022132</link>
             <guid>https://www.bbc.com/korean/news-60022132</guid>
             <pubDate>Mon, 17 Jan 2022 09:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존 원주민 백신 문제를 보여주는 한 장의 사진 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59992762</link>
+            <guid>https://www.bbc.com/korean/international-59992762</guid>
+            <pubDate>Mon, 17 Jan 2022 04:21:09 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[행복해야 한다는 강박을 멈춰야 하는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60013028</link>
-            <guid>https://www.bbc.com/korean/features-60013028</guid>
-            <pubDate>Sun, 16 Jan 2022 06:18:40 GMT</pubDate>
+            <title><![CDATA[먹는 코로나 치료제 14일부터 처방...약 먹으면 백신 안 맞아도 될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59890898</link>
+            <guid>https://www.bbc.com/korean/news-59890898</guid>
+            <pubDate>Mon, 17 Jan 2022 21:14:01 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Mon, 17 Jan 2022 20:17:21 GMT</pubDate>
+            <title><![CDATA[WHO '앞으로 몇 주안에 유럽 인구 절반 오미크론 감염될 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59949884</link>
+            <guid>https://www.bbc.com/korean/international-59949884</guid>
+            <pubDate>Mon, 17 Jan 2022 21:14:01 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
