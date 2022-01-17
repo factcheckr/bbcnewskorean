@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 04:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,28 +16,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18544/production/_122725699_p0bhd2d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
-            <link>https://www.bbc.com/korean/international-59788416</link>
-            <guid>https://www.bbc.com/korean/international-59788416</guid>
-            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10248/production/_122502166_p0bd0kwv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄트라: 밀레니얼에게 오르가즘을 가르치는 탄트라 강사]]></title>
-            <link>https://www.bbc.com/korean/international-51948810</link>
-            <guid>https://www.bbc.com/korean/international-51948810</guid>
-            <pubDate>Thu, 19 Mar 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3B14/production/_111342151_p086yvcd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[북한: 40년간 150여 발, 북한이 미사일을 계속 쏘는 이유는?]]></title>
+            <link>https://www.bbc.com/korean/news-58542441</link>
+            <guid>https://www.bbc.com/korean/news-58542441</guid>
+            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D5BA/production/_120541745_p09w3fm3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -48,11 +32,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한: 40년간 150여 발, 북한이 미사일을 계속 쏘는 이유는?]]></title>
-            <link>https://www.bbc.com/korean/news-58542441</link>
-            <guid>https://www.bbc.com/korean/news-58542441</guid>
-            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <title><![CDATA[하얼빈 빙설제: 중국 도시에 펼쳐진 '겨울왕국']]></title>
+            <link>https://www.bbc.com/korean/international-60019958</link>
+            <guid>https://www.bbc.com/korean/international-60019958</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/110F1/production/_122737896_p0bhm15q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
+            <link>https://www.bbc.com/korean/international-59788416</link>
+            <guid>https://www.bbc.com/korean/international-59788416</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10248/production/_122502166_p0bd0kwv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라잉카, 1억 여원에 출시... 자동차 대체할까?]]></title>
+            <link>https://www.bbc.com/korean/international-59965083</link>
+            <guid>https://www.bbc.com/korean/international-59965083</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지]]></title>
@@ -69,18 +69,18 @@
             <content:encoded><![CDATA[2:23]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 사회적 거리두기에서 2m는 어느 정도?]]></title>
-            <link>https://www.bbc.com/korean/52194752</link>
-            <guid>https://www.bbc.com/korean/52194752</guid>
-            <pubDate>Tue, 07 Apr 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <title><![CDATA[탄트라: 밀레니얼에게 오르가즘을 가르치는 탄트라 강사]]></title>
+            <link>https://www.bbc.com/korean/international-51948810</link>
+            <guid>https://www.bbc.com/korean/international-51948810</guid>
+            <pubDate>Thu, 19 Mar 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[플라잉카, 1억 여원에 출시... 자동차 대체할까?]]></title>
-            <link>https://www.bbc.com/korean/international-59965083</link>
-            <guid>https://www.bbc.com/korean/international-59965083</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <title><![CDATA[일본 축제: 수천 명이 벌거 벗은 몸으로 참가하는 일본 축제]]></title>
+            <link>https://www.bbc.com/korean/news-47249810</link>
+            <guid>https://www.bbc.com/korean/news-47249810</guid>
+            <pubDate>Tue, 19 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
         </item>
     </channel>
 </rss>
