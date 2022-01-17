@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 00:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 02:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18544/production/_122725699_p0bhd2d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탄트라: 밀레니얼에게 오르가즘을 가르치는 탄트라 강사]]></title>
-            <link>https://www.bbc.com/korean/international-51948810</link>
-            <guid>https://www.bbc.com/korean/international-51948810</guid>
-            <pubDate>Thu, 19 Mar 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3B14/production/_111342151_p086yvcd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['사람은 많고 땅 좁은' 도쿄에 등장한 주거 환경]]></title>
             <link>https://www.bbc.com/korean/international-50962917</link>
             <guid>https://www.bbc.com/korean/international-50962917</guid>
@@ -32,12 +24,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1099B/production/_110359976_p07z8ygv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[탄트라: 밀레니얼에게 오르가즘을 가르치는 탄트라 강사]]></title>
+            <link>https://www.bbc.com/korean/international-51948810</link>
+            <guid>https://www.bbc.com/korean/international-51948810</guid>
+            <pubDate>Thu, 19 Mar 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3B14/production/_111342151_p086yvcd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
@@ -48,39 +48,39 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/764B/production/_122538203_p0bdkqqt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[섹스에 대해 생각하면 거짓말을 더 잘한다?]]></title>
-            <link>https://www.bbc.com/korean/media-50498537</link>
-            <guid>https://www.bbc.com/korean/media-50498537</guid>
-            <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <title><![CDATA[아프가니스탄: 빵 한 조각 먹기 위해 구두 닦는 아프간의 아이들]]></title>
+            <link>https://www.bbc.com/korean/international-59856555</link>
+            <guid>https://www.bbc.com/korean/international-59856555</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <title><![CDATA[카자흐스탄 시위 격화... '경고 없는 사격' 지시까지]]></title>
+            <link>https://www.bbc.com/korean/international-59926163</link>
+            <guid>https://www.bbc.com/korean/international-59926163</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[해리왕자와 메건 부부 인터뷰에 대한 전 세계의 반응]]></title>
-            <link>https://www.bbc.com/korean/international-56387930</link>
-            <guid>https://www.bbc.com/korean/international-56387930</guid>
-            <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <title><![CDATA[코로나19: 사회적 거리두기에서 2m는 어느 정도?]]></title>
+            <link>https://www.bbc.com/korean/52194752</link>
+            <guid>https://www.bbc.com/korean/52194752</guid>
+            <pubDate>Tue, 07 Apr 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레오나르도 다빈치: 화가는 부업이었던 '능력자']]></title>
-            <link>https://www.bbc.com/korean/international-48036760</link>
-            <guid>https://www.bbc.com/korean/international-48036760</guid>
-            <pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA['백신이 정신 통제'... 가짜뉴스 퍼뜨리는 종교인들]]></title>
+            <link>https://www.bbc.com/korean/international-56571085</link>
+            <guid>https://www.bbc.com/korean/international-56571085</guid>
+            <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:57]]></content:encoded>
         </item>
     </channel>
 </rss>
