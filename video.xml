@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 16:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 17:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하얼빈 빙설제: 중국 도시에 펼쳐진 '겨울왕국']]></title>
-            <link>https://www.bbc.com/korean/international-60019958</link>
-            <guid>https://www.bbc.com/korean/international-60019958</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/110F1/production/_122737896_p0bhm15q.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
@@ -22,6 +14,14 @@
             <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하얼빈 빙설제: 중국 도시에 펼쳐진 '겨울왕국']]></title>
+            <link>https://www.bbc.com/korean/international-60019958</link>
+            <guid>https://www.bbc.com/korean/international-60019958</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/110F1/production/_122737896_p0bhm15q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스리랑카: 연 날리다 하늘로 날아간 남성···아찔했던 순간]]></title>
@@ -32,27 +32,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18544/production/_122725699_p0bhd2d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
-            <link>https://www.bbc.com/korean/international-59788416</link>
-            <guid>https://www.bbc.com/korean/international-59788416</guid>
-            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10248/production/_122502166_p0bd0kwv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다]]></title>
-            <link>https://www.bbc.com/korean/international-57692535</link>
-            <guid>https://www.bbc.com/korean/international-57692535</guid>
-            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/08A0/production/_119180220_p09n63c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
             <link>https://www.bbc.com/korean/news-47167180</link>
             <guid>https://www.bbc.com/korean/news-47167180</guid>
             <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7:07]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/85F7/production/_105559243_thumbnaill1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
@@ -60,27 +45,42 @@
             <guid>https://www.bbc.com/korean/features-59824576</guid>
             <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[6:00]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/764B/production/_122538203_p0bdkqqt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
+            <link>https://www.bbc.com/korean/international-59788416</link>
+            <guid>https://www.bbc.com/korean/international-59788416</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄: 빵 한 조각 먹기 위해 구두 닦는 아프간의 아이들]]></title>
-            <link>https://www.bbc.com/korean/international-59856555</link>
-            <guid>https://www.bbc.com/korean/international-59856555</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다]]></title>
+            <link>https://www.bbc.com/korean/international-57692535</link>
+            <guid>https://www.bbc.com/korean/international-57692535</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안면이식: 다른 사람의 얼굴로 새 삶을 사는 남성]]></title>
-            <link>https://www.bbc.com/korean/features-55630044</link>
-            <guid>https://www.bbc.com/korean/features-55630044</guid>
-            <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:54]]></content:encoded>
+            <title><![CDATA[멕시코의 '작은 한국', '페스코리아'를 소개합니다]]></title>
+            <link>https://www.bbc.com/korean/international-59807503</link>
+            <guid>https://www.bbc.com/korean/international-59807503</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[케냐의 일본 망가 작가를 소개합니다]]></title>
+            <link>https://www.bbc.com/korean/features-58155036</link>
+            <guid>https://www.bbc.com/korean/features-58155036</guid>
+            <pubDate>Tue, 10 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국: 선로에 추락한 경비행기, 열차와 충돌 직전 조종사 구조]]></title>
+            <link>https://www.bbc.com/korean/international-59932738</link>
+            <guid>https://www.bbc.com/korean/international-59932738</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
         </item>
     </channel>
 </rss>
