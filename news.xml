@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 06:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 07:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 올해 벌써 4번째 미사일 발사… 도대체 왜?]]></title>
+            <link>https://www.bbc.com/korean/news-60022132</link>
+            <guid>https://www.bbc.com/korean/news-60022132</guid>
+            <pubDate>Tue, 18 Jan 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA['북한이 미국에 절대 밀릴 생각이 없다는 것을 실질적으로 미사일 도발로 보여주고 있다.']]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11F79/production/_122739537_origin_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 17일 쏜 미사일은 '북한판 에이태킴스' KN-24]]></title>
+            <link>https://www.bbc.com/korean/news-60022133</link>
+            <guid>https://www.bbc.com/korean/news-60022133</guid>
+            <pubDate>Tue, 18 Jan 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[무기체계의 정확성을 검증하기 위한 목적이라고 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11F1/production/_122739540_kn24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['안네 프랭크' 배신한 유력 용의자, 77년 만에 드러나]]></title>
             <link>https://www.bbc.com/korean/international-60034302</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 16 Jan 2022 03:18:12 GMT</pubDate>
             <content:encoded><![CDATA[빈정거림 속 정신적 변화에 대한 과학적 분석을 정리했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6AB1/production/_122731372_77eb0b81-8cc7-4d9f-ad8a-597fa8d0a231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, '직원 사무실 복귀 지원'...영국 지사에 1조원 쏟아붓는다]]></title>
-            <link>https://www.bbc.com/korean/international-60010375</link>
-            <guid>https://www.bbc.com/korean/international-60010375</guid>
-            <pubDate>Sun, 16 Jan 2022 02:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 런던 중심부에 위치한 센트럴 세인트 자일스 부지 매입에 나섰다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/150CD/production/_122712268_officecovid.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 해커, 지난해 암호화폐 4700억원 빼돌렸다]]></title>
-            <link>https://www.bbc.com/korean/international-60006277</link>
-            <guid>https://www.bbc.com/korean/international-60006277</guid>
-            <pubDate>Sun, 16 Jan 2022 02:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[북한은 통상적으로 해킹 공격에 관여한 사실을 부인해 왔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/101E5/production/_122712066_976_gettyimages-1083733266.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
