@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클럽하우스서 경매 부쳐지고 강간 위협 받는 인도 여성들]]></title>
+            <link>https://www.bbc.com/korean/international-60049139</link>
+            <guid>https://www.bbc.com/korean/international-60049139</guid>
+            <pubDate>Wed, 19 Jan 2022 09:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[표적이 된 활동적인 여성들을 괴롭히고 침묵시키기 위해서다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/174A5/production/_122879359_mobilewoman.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 죽거나 선정적이거나... 인기 있는 북한 뉴스의 특징은?, 방송 길이 3,28]]></title>
             <link>https://www.bbc.com/korean/features-60034965</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Jan 2022 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 유행이 해소되지 않은 가운데 열차운행이 재개된 만큼 상황을 예의주시할 필요가 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6011/production/_122739542_gettyimages-698328066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 올해 벌써 4번째 미사일 발사… 도대체 왜?]]></title>
-            <link>https://www.bbc.com/korean/news-60022132</link>
-            <guid>https://www.bbc.com/korean/news-60022132</guid>
-            <pubDate>Tue, 18 Jan 2022 07:15:51 GMT</pubDate>
-            <content:encoded><![CDATA['북한이 미국에 절대 밀릴 생각이 없다는 것을 실질적으로 미사일 도발로 보여주고 있다.']]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11F79/production/_122739537_origin_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
