@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-01-19T07:11:48.057Z</updated>
+    <updated>2022-01-19T08:17:32.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -20,24 +20,24 @@
         <content type="html"><![CDATA[2]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍콩, '사람에 델타 변이 전염' 의심 햄스터 2000마리 안락사 결정]]></title>
-        <id>https://www.bbc.com/korean/international-60049138</id>
-        <link href="https://www.bbc.com/korean/international-60049138"/>
-        <updated>2022-01-19T06:18:07.660Z</updated>
-        <content type="html"><![CDATA[3]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[해저 화산 폭발로 통가 '주민 8만명 피해 가능성']]></title>
         <id>https://www.bbc.com/korean/international-60019957</id>
         <link href="https://www.bbc.com/korean/international-60019957"/>
         <updated>2022-01-17T03:18:21.033Z</updated>
-        <content type="html"><![CDATA[4]]></content>
+        <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백화점·대형마트 '방역패스' 18일부터 해제... '3주·6인·9시 거리두기' 시행]]></title>
         <id>https://www.bbc.com/korean/news-59990521</id>
         <link href="https://www.bbc.com/korean/news-59990521"/>
         <updated>2022-01-17T08:20:10.743Z</updated>
+        <content type="html"><![CDATA[4]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍콩, '사람에 델타 변이 전염' 의심 햄스터 2000마리 안락사 결정]]></title>
+        <id>https://www.bbc.com/korean/international-60049138</id>
+        <link href="https://www.bbc.com/korean/international-60049138"/>
+        <updated>2022-01-19T06:18:07.660Z</updated>
         <content type="html"><![CDATA[5]]></content>
     </entry>
     <entry>
@@ -48,24 +48,24 @@
         <content type="html"><![CDATA[6]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 2년, 우리가 알게 된 5가지 사실]]></title>
-        <id>https://www.bbc.com/korean/international-59806589</id>
-        <link href="https://www.bbc.com/korean/international-59806589"/>
-        <updated>2022-01-18T19:13:22.090Z</updated>
-        <content type="html"><![CDATA[7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복해야 한다는 강박을 멈춰야 하는 이유]]></title>
-        <id>https://www.bbc.com/korean/features-60013028</id>
-        <link href="https://www.bbc.com/korean/features-60013028"/>
-        <updated>2022-01-19T06:18:07.664Z</updated>
-        <content type="html"><![CDATA[8]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유럽의회 최연소 여성 의장 나왔다...몰타 출신 43세 메촐라 선출]]></title>
         <id>https://www.bbc.com/korean/international-60049137</id>
         <link href="https://www.bbc.com/korean/international-60049137"/>
         <updated>2022-01-19T04:18:35.563Z</updated>
+        <content type="html"><![CDATA[7]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 2년, 우리가 알게 된 5가지 사실]]></title>
+        <id>https://www.bbc.com/korean/international-59806589</id>
+        <link href="https://www.bbc.com/korean/international-59806589"/>
+        <updated>2022-01-18T19:13:22.090Z</updated>
+        <content type="html"><![CDATA[8]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10대 자녀 둔 부모들의 고민, 빈정대는 자녀 걱정 마라?]]></title>
+        <id>https://www.bbc.com/korean/features-60013027</id>
+        <link href="https://www.bbc.com/korean/features-60013027"/>
+        <updated>2022-01-19T08:17:25.820Z</updated>
         <content type="html"><![CDATA[9]]></content>
     </entry>
     <entry>
