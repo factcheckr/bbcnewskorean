@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[븍한: 죽거나 선정적이거나... 서구가 주목하는 북한 뉴스의 특징은?]]></title>
-            <link>https://www.bbc.com/korean/features-60034965</link>
-            <guid>https://www.bbc.com/korean/features-60034965</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3CF5/production/_122750651_p0bj070w.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유]]></title>
             <link>https://www.bbc.com/korean/features-60035372</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0389/production/_122750900_p0bht9yd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[븍한: 죽거나 선정적이거나... 서구가 주목하는 북한 뉴스의 특징은?]]></title>
+            <link>https://www.bbc.com/korean/features-60034965</link>
+            <guid>https://www.bbc.com/korean/features-60034965</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3CF5/production/_122750651_p0bj070w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -32,14 +32,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다]]></title>
             <link>https://www.bbc.com/korean/international-59906342</link>
             <guid>https://www.bbc.com/korean/international-59906342</guid>
@@ -48,25 +40,40 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4D1E/production/_122624791_p0bgpsy6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
-            <link>https://www.bbc.com/korean/international-59788416</link>
-            <guid>https://www.bbc.com/korean/international-59788416</guid>
-            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[환경: 일회용 마스크의 변신...버려진 마스크로 만든 가구]]></title>
-            <link>https://www.bbc.com/korean/features-58223208</link>
-            <guid>https://www.bbc.com/korean/features-58223208</guid>
-            <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스리랑카: 연 날리다 하늘로 날아간 남성···아찔했던 순간]]></title>
             <link>https://www.bbc.com/korean/international-60006907</link>
             <guid>https://www.bbc.com/korean/international-60006907</guid>
             <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18544/production/_122725699_p0bhd2d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['잠깐, 내가 이단이라고?'...영국서 교세 확장하는 신천지]]></title>
+            <link>https://www.bbc.com/korean/international-59453178</link>
+            <guid>https://www.bbc.com/korean/international-59453178</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안티백서: '나는 독감 백신을 맞지 않기로 했다']]></title>
+            <link>https://www.bbc.com/korean/news-54932353</link>
+            <guid>https://www.bbc.com/korean/news-54932353</guid>
+            <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방글라데시 세계 최대 규모 사창가에서 벌어지는 일]]></title>
+            <link>https://www.bbc.com/korean/news-49968971</link>
+            <guid>https://www.bbc.com/korean/news-49968971</guid>
+            <pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성추행 폭로한 여학생에게 돌아온 건... '여자라 농담을 몰라']]></title>
@@ -74,13 +81,6 @@
             <guid>https://www.bbc.com/korean/media-57437736</guid>
             <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹: 세계보건기구가 우려한 코로나19 '팬데믹'이란 무엇인가]]></title>
-            <link>https://www.bbc.com/korean/news-51654981</link>
-            <guid>https://www.bbc.com/korean/news-51654981</guid>
-            <pubDate>Thu, 27 Feb 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
         </item>
     </channel>
 </rss>
