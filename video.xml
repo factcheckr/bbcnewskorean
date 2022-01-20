@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 00:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3CF5/production/_122750651_p0bj070w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스리랑카: 연 날리다 하늘로 날아간 남성···아찔했던 순간]]></title>
+            <link>https://www.bbc.com/korean/international-60006907</link>
+            <guid>https://www.bbc.com/korean/international-60006907</guid>
+            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18544/production/_122725699_p0bhd2d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
@@ -32,12 +40,26 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코로나19: 가족중에 의심증상이 있다면 어떻게 해야 할까?]]></title>
+            <link>https://www.bbc.com/korean/media-54232606</link>
+            <guid>https://www.bbc.com/korean/media-54232606</guid>
+            <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D9DA/production/_114507755_p08s2bqr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다]]></title>
             <link>https://www.bbc.com/korean/international-59906342</link>
             <guid>https://www.bbc.com/korean/international-59906342</guid>
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4D1E/production/_122624791_p0bgpsy6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
@@ -45,14 +67,6 @@
             <guid>https://www.bbc.com/korean/international-59788416</guid>
             <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10248/production/_122502166_p0bd0kwv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 가족중에 의심증상이 있다면 어떻게 해야 할까?]]></title>
-            <link>https://www.bbc.com/korean/media-54232606</link>
-            <guid>https://www.bbc.com/korean/media-54232606</guid>
-            <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한현민,라비,조나단이 말하는'한국에서 검은 피부로 살아가기']]></title>
@@ -62,25 +76,11 @@
             <content:encoded><![CDATA[4:22]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트랜스젠더 : '나는 트랜스젠더 수학 선생님입니다']]></title>
-            <link>https://www.bbc.com/korean/news-48870734</link>
-            <guid>https://www.bbc.com/korean/news-48870734</guid>
-            <pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성추행 폭로한 여학생에게 돌아온 건... '여자라 농담을 몰라']]></title>
-            <link>https://www.bbc.com/korean/media-57437736</link>
-            <guid>https://www.bbc.com/korean/media-57437736</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수퍼노트: 전 세계를 속인 북한산 초정밀 위조지폐]]></title>
-            <link>https://www.bbc.com/korean/international-57122476</link>
-            <guid>https://www.bbc.com/korean/international-57122476</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <title><![CDATA[안티백서: '나는 독감 백신을 맞지 않기로 했다']]></title>
+            <link>https://www.bbc.com/korean/news-54932353</link>
+            <guid>https://www.bbc.com/korean/news-54932353</guid>
+            <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
         </item>
     </channel>
 </rss>
