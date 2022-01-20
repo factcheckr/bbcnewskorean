@@ -4,16 +4,16 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 14:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 15:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유]]></title>
-            <link>https://www.bbc.com/korean/features-60035372</link>
-            <guid>https://www.bbc.com/korean/features-60035372</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0389/production/_122750900_p0bht9yd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다]]></title>
+            <link>https://www.bbc.com/korean/international-57692535</link>
+            <guid>https://www.bbc.com/korean/international-57692535</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/08A0/production/_119180220_p09n63c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -32,20 +32,34 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3CF5/production/_122750651_p0bj070w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다]]></title>
-            <link>https://www.bbc.com/korean/international-57692535</link>
-            <guid>https://www.bbc.com/korean/international-57692535</guid>
-            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/08A0/production/_119180220_p09n63c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다]]></title>
             <link>https://www.bbc.com/korean/international-59906342</link>
             <guid>https://www.bbc.com/korean/international-59906342</guid>
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4D1E/production/_122624791_p0bgpsy6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유]]></title>
+            <link>https://www.bbc.com/korean/features-60035372</link>
+            <guid>https://www.bbc.com/korean/features-60035372</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0389/production/_122750900_p0bht9yd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화성연쇄살인: ‘화성은 악몽’… 32년 만에 벗겨진 누명]]></title>
@@ -55,32 +69,18 @@
             <content:encoded><![CDATA[6:56]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[나달: 세계 최고령 테니스 선수와 라파엘 나달의 만남]]></title>
-            <link>https://www.bbc.com/korean/features-59257305</link>
-            <guid>https://www.bbc.com/korean/features-59257305</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <title><![CDATA[북한: 40년간 150여 발, 북한이 미사일을 계속 쏘는 이유는?]]></title>
+            <link>https://www.bbc.com/korean/news-58542441</link>
+            <guid>https://www.bbc.com/korean/news-58542441</guid>
+            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스리랑카: 연 날리다 하늘로 날아간 남성···아찔했던 순간]]></title>
-            <link>https://www.bbc.com/korean/international-60006907</link>
-            <guid>https://www.bbc.com/korean/international-60006907</guid>
-            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['문 닫을 수도 없어 하고 있어요,' 코로나로 어려운 동네 목욕탕의 하루]]></title>
-            <link>https://www.bbc.com/korean/features-54323012</link>
-            <guid>https://www.bbc.com/korean/features-54323012</guid>
-            <pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:32]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <title><![CDATA[미라: 첨단 과학으로 3500년 만에 모습 드러낸 파라오]]></title>
+            <link>https://www.bbc.com/korean/international-59856612</link>
+            <guid>https://www.bbc.com/korean/international-59856612</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
         </item>
     </channel>
 </rss>
