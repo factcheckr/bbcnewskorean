@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 19:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 20:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,18 +40,32 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3CF5/production/_122750651_p0bj070w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화성연쇄살인: ‘화성은 악몽’… 32년 만에 벗겨진 누명]]></title>
+            <link>https://www.bbc.com/korean/features-55763258</link>
+            <guid>https://www.bbc.com/korean/features-55763258</guid>
+            <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:56]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5D4A/production/_116628832_p094ds7t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하얼빈 빙설제: 중국 도시에 펼쳐진 '겨울왕국']]></title>
+            <link>https://www.bbc.com/korean/international-60019958</link>
+            <guid>https://www.bbc.com/korean/international-60019958</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
             <link>https://www.bbc.com/korean/news-47167180</link>
             <guid>https://www.bbc.com/korean/news-47167180</guid>
             <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7:07]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/85F7/production/_105559243_thumbnaill1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화성연쇄살인: ‘화성은 악몽’… 32년 만에 벗겨진 누명]]></title>
-            <link>https://www.bbc.com/korean/features-55763258</link>
-            <guid>https://www.bbc.com/korean/features-55763258</guid>
-            <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[미아 칼리파: '내가 포르노를 찍게 된 이유']]></title>
+            <link>https://www.bbc.com/korean/news-50312334</link>
+            <guid>https://www.bbc.com/korean/news-50312334</guid>
+            <pubDate>Sat, 09 Nov 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[6:56]]></content:encoded>
         </item>
         <item>
@@ -67,20 +81,6 @@
             <guid>https://www.bbc.com/korean/features-60035372</guid>
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하얼빈 빙설제: 중국 도시에 펼쳐진 '겨울왕국']]></title>
-            <link>https://www.bbc.com/korean/international-60019958</link>
-            <guid>https://www.bbc.com/korean/international-60019958</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대리모: '제겐 특별한 일이에요' 무료로 아기를 낳아주는 여성]]></title>
-            <link>https://www.bbc.com/korean/international-46452574</link>
-            <guid>https://www.bbc.com/korean/international-46452574</guid>
-            <pubDate>Thu, 06 Dec 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
         </item>
     </channel>
 </rss>
