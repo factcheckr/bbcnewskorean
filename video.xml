@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 15:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 16:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[븍한: 죽거나 선정적이거나... 서구가 주목하는 북한 뉴스의 특징은?]]></title>
-            <link>https://www.bbc.com/korean/features-60034965</link>
-            <guid>https://www.bbc.com/korean/features-60034965</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3CF5/production/_122750651_p0bj070w.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[화성연쇄살인: ‘화성은 악몽’… 32년 만에 벗겨진 누명]]></title>
+            <link>https://www.bbc.com/korean/features-55763258</link>
+            <guid>https://www.bbc.com/korean/features-55763258</guid>
+            <pubDate>Sat, 23 Jan 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:56]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5D4A/production/_116628832_p094ds7t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유]]></title>
@@ -48,18 +48,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0389/production/_122750900_p0bht9yd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스리랑카: 연 날리다 하늘로 날아간 남성···아찔했던 순간]]></title>
-            <link>https://www.bbc.com/korean/international-60006907</link>
-            <guid>https://www.bbc.com/korean/international-60006907</guid>
-            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[두개골에 혈관까지 붙은 샴쌍둥이 분리 성공]]></title>
-            <link>https://www.bbc.com/korean/news-53454598</link>
-            <guid>https://www.bbc.com/korean/news-53454598</guid>
-            <pubDate>Sat, 18 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <title><![CDATA[븍한: 죽거나 선정적이거나... 서구가 주목하는 북한 뉴스의 특징은?]]></title>
+            <link>https://www.bbc.com/korean/features-60034965</link>
+            <guid>https://www.bbc.com/korean/features-60034965</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
@@ -69,18 +62,25 @@
             <content:encoded><![CDATA[7:07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BBC 특파원이 국내 최초 '초음속 전투기'를 탄 이유]]></title>
-            <link>https://www.bbc.com/korean/features-59864970</link>
-            <guid>https://www.bbc.com/korean/features-59864970</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[슈퍼개미: 2000만원서 40억원 자산 일군 주식투자 생존기]]></title>
-            <link>https://www.bbc.com/korean/features-56439318</link>
-            <guid>https://www.bbc.com/korean/features-56439318</guid>
-            <pubDate>Sat, 20 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:56]]></content:encoded>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프로파일러: BBC '올해의 여성 100인'에 선정된 이수정 교수]]></title>
+            <link>https://www.bbc.com/korean/features-50120693</link>
+            <guid>https://www.bbc.com/korean/features-50120693</guid>
+            <pubDate>Mon, 21 Oct 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
         </item>
     </channel>
 </rss>
