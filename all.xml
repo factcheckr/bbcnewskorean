@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 20:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 21:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,59 +280,59 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아델, 눈물의 콘서트 취소… 하루 전 통보에 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60035374</link>
-            <guid>https://www.bbc.com/korean/news-60035374</guid>
-            <pubDate>Fri, 21 Jan 2022 07:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[건조한 겨울, 얼마나 자주 씻어야 하나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60013029</link>
             <guid>https://www.bbc.com/korean/features-60013029</guid>
             <pubDate>Sat, 22 Jan 2022 03:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['일부러 코로나 감염' 체코 유명 포크송 가수 사망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60063962</link>
             <guid>https://www.bbc.com/korean/international-60063962</guid>
             <pubDate>Thu, 20 Jan 2022 02:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아델, 눈물의 콘서트 취소… 하루 전 통보에 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60035374</link>
+            <guid>https://www.bbc.com/korean/news-60035374</guid>
+            <pubDate>Fri, 21 Jan 2022 07:14:29 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[통가 화산 폭발... 쓰나미가 휩쓸고 간 폐허 사진들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60064793</link>
-            <guid>https://www.bbc.com/korean/international-60064793</guid>
-            <pubDate>Thu, 20 Jan 2022 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932733</link>
-            <guid>https://www.bbc.com/korean/international-59932733</guid>
-            <pubDate>Sat, 22 Jan 2022 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['데이트 폭력 살인’ 증가세… '신상공개' 효과 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59990522</link>
-            <guid>https://www.bbc.com/korean/news-59990522</guid>
-            <pubDate>Thu, 20 Jan 2022 10:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삼성전자, 싱가포르에서 광고 내린 이유는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60065095</link>
             <guid>https://www.bbc.com/korean/international-60065095</guid>
             <pubDate>Fri, 21 Jan 2022 08:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[통가 화산 폭발... 쓰나미가 휩쓸고 간 폐허 사진들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60064793</link>
+            <guid>https://www.bbc.com/korean/international-60064793</guid>
+            <pubDate>Thu, 20 Jan 2022 07:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Sat, 22 Jan 2022 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국, '신장 지역 동계 스포츠의 메카'로 포장 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60013030</link>
+            <guid>https://www.bbc.com/korean/news-60013030</guid>
+            <pubDate>Sat, 22 Jan 2022 02:28:50 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57508343</link>
-            <guid>https://www.bbc.com/korean/international-57508343</guid>
-            <pubDate>Sat, 22 Jan 2022 20:14:37 GMT</pubDate>
+            <title><![CDATA[부모 3명을 둔 아기가 그리스에서 태어났다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-47891117</link>
+            <guid>https://www.bbc.com/korean/news-47891117</guid>
+            <pubDate>Sat, 22 Jan 2022 21:12:33 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
