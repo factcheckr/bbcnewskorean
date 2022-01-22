@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 01:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 02:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다, 방송 길이 1,36]]></title>
+            <link>https://www.bbc.com/korean/news-60065093</link>
+            <guid>https://www.bbc.com/korean/news-60065093</guid>
+            <pubDate>Sat, 22 Jan 2022 02:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[이들은 태어나자마자 부모에게 버림받고 자선기관에서 자랐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5624/production/_122925022_p0bjhl1x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국도 오미크론 '대응' 단계... 다음주 '오미크론 전국 우세종']]></title>
+            <link>https://www.bbc.com/korean/news-59990524</link>
+            <guid>https://www.bbc.com/korean/news-59990524</guid>
+            <pubDate>Sat, 22 Jan 2022 02:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 26일쯤 오미크론 검출률이 전국적으로 50%가 넘을 것으로 예상하고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4768/production/_122908281_19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국, 유엔 안보리 추가 대북제재 반대… 올림픽 앞두고 속내는?]]></title>
             <link>https://www.bbc.com/korean/news-60022137</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 21 Jan 2022 05:12:50 GMT</pubDate>
             <content:encoded><![CDATA[오미크론 변종이 전 세계적으로 확산함에 따라 각국 정부는 팬데믹 대응 전략을 수정하고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3278/production/_122902921_mediaitem122667317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['데이트 폭력 살인’ 증가세… '신상공개' 효과 있나?]]></title>
-            <link>https://www.bbc.com/korean/news-59990522</link>
-            <guid>https://www.bbc.com/korean/news-59990522</guid>
-            <pubDate>Fri, 21 Jan 2022 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[하루가 멀다하고 들리는 '데이트 폭력 살인 사건들'이 최근 증가하는 이유는?]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/106D0/production/_122908276_mediaitem122906573.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 핵실험∙ICBM 발사 재개 위협… 치닫는 '강대강' 국면]]></title>
-            <link>https://www.bbc.com/korean/news-60022136</link>
-            <guid>https://www.bbc.com/korean/news-60022136</guid>
-            <pubDate>Fri, 21 Jan 2022 01:58:13 GMT</pubDate>
-            <content:encoded><![CDATA[한국 정부는 일련의 북한 동향을 긴장감을 갖고 예의주시하고 있다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D2D2/production/_122907935_gettyimages-883511940-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
