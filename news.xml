@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 09:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[재택과 사무실 '혼합 근무'가 더 피곤한 이유]]></title>
-            <link>https://www.bbc.com/korean/features-60100741</link>
-            <guid>https://www.bbc.com/korean/features-60100741</guid>
-            <pubDate>Sun, 23 Jan 2022 08:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[많은 노동자들이 혼합형 근무가 완전한 재택 근무나 사무실 출근 근무보다 감정적으로 더 부담이 된다고 말했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16A85/production/_122950829_d3ede4fb-9302-4041-adbd-9c170d286e79.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[페이스북 '종단간 암호화'를 둘러싼 싸움의 의미]]></title>
             <link>https://www.bbc.com/korean/international-60100742</link>
@@ -24,20 +16,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5CFD/production/_122950832_gettyimages-1230527683.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[평화운동가 틱낫한 스님, 향년 95세로 열반]]></title>
-            <link>https://www.bbc.com/korean/international-60100531</link>
-            <guid>https://www.bbc.com/korean/international-60100531</guid>
-            <pubDate>Sun, 23 Jan 2022 02:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[평화운동가이면서 생전 많은 책을 쓴 틱낫한 스님은 '마음챙김(mindfulness)의 대부'로도 불린다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A16/production/_122941227_gettyimages-71008160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중국, '신장 지역 동계 스포츠의 메카'로 포장 논란]]></title>
             <link>https://www.bbc.com/korean/news-60013030</link>
             <guid>https://www.bbc.com/korean/news-60013030</guid>
             <pubDate>Sun, 23 Jan 2022 05:12:57 GMT</pubDate>
             <content:encoded><![CDATA[중국 정부는 신장을 설상 스포츠의 거점으로 부각시키려 하고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/096E/production/_122941420_11f6a35b-db55-4193-860d-48e20a65b584.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평화운동가 틱낫한 스님, 향년 95세로 열반]]></title>
+            <link>https://www.bbc.com/korean/international-60100531</link>
+            <guid>https://www.bbc.com/korean/international-60100531</guid>
+            <pubDate>Sun, 23 Jan 2022 02:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[평화운동가이면서 생전 많은 책을 쓴 틱낫한 스님은 '마음챙김(mindfulness)의 대부'로도 불린다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A16/production/_122941227_gettyimages-71008160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여성이 남성에게 수술받을 때 사망률 더 높다' 연구 결과...이유는?]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 22 Jan 2022 02:28:44 GMT</pubDate>
             <content:encoded><![CDATA[정부는 26일쯤 오미크론 검출률이 전국적으로 50%가 넘을 것으로 예상하고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4768/production/_122908281_19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국, 유엔 안보리 추가 대북제재 반대… 올림픽 앞두고 속내는?]]></title>
+            <link>https://www.bbc.com/korean/news-60022137</link>
+            <guid>https://www.bbc.com/korean/news-60022137</guid>
+            <pubDate>Sun, 23 Jan 2022 09:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[중국은 20일(현지시간) 안보리 비공개회의를 앞두고 미국 측 제안 채택을 연기시킨 것으로 전해졌다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2E5E/production/_122907811_origin_-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
