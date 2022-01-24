@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 23 Jan 2022 02:27:56 GMT</pubDate>
             <content:encoded><![CDATA[평화운동가이면서 생전 많은 책을 쓴 틱낫한 스님은 '마음챙김(mindfulness)의 대부'로도 불린다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A16/production/_122941227_gettyimages-71008160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔, 최소 70명 숨진 예멘 후티 수용소 공습 규탄 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60013033</link>
-            <guid>https://www.bbc.com/korean/60013033</guid>
-            <pubDate>Mon, 24 Jan 2022 00:49:08 GMT</pubDate>
-            <content:encoded><![CDATA[유엔(UN)이 사우디아라비아 주도 동맹군의 예멘 공습을 규탄했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BF08/production/_122940984_c5bb5299-161a-4ba8-be18-ab1dd6669afb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국, '신장 지역 동계 스포츠의 메카'로 포장 논란 (BBC News 코리아 ─ 뉴스)]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 22 Jan 2022 02:28:44 GMT</pubDate>
             <content:encoded><![CDATA[이들은 태어나자마자 부모에게 버림받고 자선기관에서 자랐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5624/production/_122925022_p0bjhl1x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국도 오미크론 '대응' 단계... 다음주 '오미크론 전국 우세종' (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59990524</link>
+            <guid>https://www.bbc.com/korean/news-59990524</guid>
+            <pubDate>Mon, 24 Jan 2022 02:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 26일쯤 오미크론 검출률이 전국적으로 50%가 넘을 것으로 예상하고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4768/production/_122908281_19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴질랜드, 오미크론 9명 '집단감염'… 총리도 결혼식 취소 (BBC News 코리아 ─ 뉴스 메인)]]></title>
@@ -115,20 +115,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘총선 압승’ 저신다 아던 뉴질랜드 총리... 인기 비결은? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-54591235</link>
-            <guid>https://www.bbc.com/korean/international-54591235</guid>
-            <pubDate>Sun, 23 Jan 2022 08:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/89F4/production/_114961353_p08vnr3z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60065093</link>
             <guid>https://www.bbc.com/korean/news-60065093</guid>
             <pubDate>Sat, 22 Jan 2022 02:28:44 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5624/production/_122925022_p0bjhl1x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘총선 압승’ 저신다 아던 뉴질랜드 총리... 인기 비결은? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-54591235</link>
+            <guid>https://www.bbc.com/korean/international-54591235</guid>
+            <pubDate>Sun, 23 Jan 2022 08:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/89F4/production/_114961353_p08vnr3z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
@@ -139,12 +139,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60035372</link>
-            <guid>https://www.bbc.com/korean/features-60035372</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0389/production/_122750900_p0bht9yd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59788416</link>
+            <guid>https://www.bbc.com/korean/international-59788416</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10248/production/_122502166_p0bd0kwv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경제 위기: 베네수엘라 최악의 사태에 썩은 고기도 판매 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,25 +154,18 @@
             <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보디빌더: 선수로 활동하는 75세 임종소 씨 이야기 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-49274152</link>
-            <guid>https://www.bbc.com/korean/news-49274152</guid>
-            <pubDate>Fri, 09 Aug 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <title><![CDATA[븍한: 죽거나 선정적이거나... 서구가 주목하는 북한 뉴스의 특징은? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60034965</link>
+            <guid>https://www.bbc.com/korean/features-60034965</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[환경: 가나가 2030년이면 물을 수입해야 할 수도 있는 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-58418846</link>
-            <guid>https://www.bbc.com/korean/news-58418846</guid>
-            <pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59788416</link>
-            <guid>https://www.bbc.com/korean/international-59788416</guid>
-            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60035372</link>
+            <guid>https://www.bbc.com/korean/features-60035372</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
@@ -180,6 +173,13 @@
             <guid>https://www.bbc.com/korean/52658314</guid>
             <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성소수자: 내 배우자가 어느 날 건강보험에서 빠졌다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59892345</link>
+            <guid>https://www.bbc.com/korean/features-59892345</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 23일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -329,17 +329,17 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아델, 눈물의 콘서트 취소… 하루 전 통보에 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60035374</link>
-            <guid>https://www.bbc.com/korean/news-60035374</guid>
-            <pubDate>Fri, 21 Jan 2022 07:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[페이스북 '종단간 암호화'를 둘러싼 싸움의 의미 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60100742</link>
             <guid>https://www.bbc.com/korean/international-60100742</guid>
             <pubDate>Sun, 23 Jan 2022 07:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아델, 눈물의 콘서트 취소… 하루 전 통보에 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60035374</link>
+            <guid>https://www.bbc.com/korean/news-60035374</guid>
+            <pubDate>Fri, 21 Jan 2022 07:14:29 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
