@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 23:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 00:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/89F4/production/_114961353_p08vnr3z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다]]></title>
+            <link>https://www.bbc.com/korean/news-60065093</link>
+            <guid>https://www.bbc.com/korean/news-60065093</guid>
+            <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5624/production/_122925022_p0bjhl1x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -45,7 +53,6 @@
             <guid>https://www.bbc.com/korean/international-45885517</guid>
             <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16F61/production/_103894049_p06p1tv6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보디빌더: 선수로 활동하는 75세 임종소 씨 이야기]]></title>
@@ -55,13 +62,6 @@
             <content:encoded><![CDATA[3:38]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다]]></title>
-            <link>https://www.bbc.com/korean/news-60065093</link>
-            <guid>https://www.bbc.com/korean/news-60065093</guid>
-            <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[환경: 가나가 2030년이면 물을 수입해야 할 수도 있는 이유]]></title>
             <link>https://www.bbc.com/korean/news-58418846</link>
             <guid>https://www.bbc.com/korean/news-58418846</guid>
@@ -69,18 +69,18 @@
             <content:encoded><![CDATA[2:32]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[븍한: 죽거나 선정적이거나... 서구가 주목하는 북한 뉴스의 특징은?]]></title>
-            <link>https://www.bbc.com/korean/features-60034965</link>
-            <guid>https://www.bbc.com/korean/features-60034965</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
             <link>https://www.bbc.com/korean/international-59788416</link>
             <guid>https://www.bbc.com/korean/international-59788416</guid>
             <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
     </channel>
 </rss>
