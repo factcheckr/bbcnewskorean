@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 21:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 22:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,40 +40,33 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3CF5/production/_122750651_p0bj070w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/046C/production/_106423110_p0768sr2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
             <link>https://www.bbc.com/korean/news-47167180</link>
             <guid>https://www.bbc.com/korean/news-47167180</guid>
             <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7:07]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/85F7/production/_105559243_thumbnaill1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[케냐의 일본 망가 작가를 소개합니다]]></title>
-            <link>https://www.bbc.com/korean/features-58155036</link>
-            <guid>https://www.bbc.com/korean/features-58155036</guid>
-            <pubDate>Tue, 10 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄: 빵 한 조각 먹기 위해 구두 닦는 아프간의 아이들]]></title>
-            <link>https://www.bbc.com/korean/international-59856555</link>
-            <guid>https://www.bbc.com/korean/international-59856555</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다]]></title>
+            <link>https://www.bbc.com/korean/international-59906342</link>
+            <guid>https://www.bbc.com/korean/international-59906342</guid>
+            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[경제 위기: 베네수엘라 최악의 사태에 썩은 고기도 판매]]></title>
-            <link>https://www.bbc.com/korean/international-45885517</link>
-            <guid>https://www.bbc.com/korean/international-45885517</guid>
-            <pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <title><![CDATA['잠깐, 내가 이단이라고?'...영국서 교세 확장하는 신천지]]></title>
+            <link>https://www.bbc.com/korean/international-59453178</link>
+            <guid>https://www.bbc.com/korean/international-59453178</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
@@ -81,6 +74,13 @@
             <guid>https://www.bbc.com/korean/52658314</guid>
             <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘총선 압승’ 저신다 아던 뉴질랜드 총리... 인기 비결은?]]></title>
+            <link>https://www.bbc.com/korean/international-54591235</link>
+            <guid>https://www.bbc.com/korean/international-54591235</guid>
+            <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
         </item>
     </channel>
 </rss>
