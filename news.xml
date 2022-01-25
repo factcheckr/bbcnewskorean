@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 10:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 11:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 25 Jan 2022 10:16:09 GMT</pubDate>
             <content:encoded><![CDATA[미 국방부는 러시아가 우크라이나를 침공하는 것에 대비해 미군이 유럽에 배치될 수 있도록 대기 중이라고 밝혔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E26D/production/_122956975_107dd4bd-e816-4d2e-9624-eaa3663755e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국, 백신접종 완료하면 코로나19 검사·격리 면제]]></title>
+            <link>https://www.bbc.com/korean/international-60123184</link>
+            <guid>https://www.bbc.com/korean/international-60123184</guid>
+            <pubDate>Tue, 25 Jan 2022 11:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2월 11일부터 영국으로 입국하는 백신접종 완료 여행객은 코로나19 검사가 면제된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/620A/production/_122989052__122583952_gettyimages-1283342391.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한, 한국 대선 후보 공개비판… 의도는?]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[외국인 관광객이 나치 선전에 가담한 혐의로 폴란드에 구금된 사례는 이번이 처음이 아니다. 혐의가 인정되면 최대 2년의 징역형이 선고될 수 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10A85/production/_110092286_tv058455698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11시간 비행하는 항공기 바퀴에 숨어 밀항한 남성]]></title>
-            <link>https://www.bbc.com/korean/60107161</link>
-            <guid>https://www.bbc.com/korean/60107161</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 경찰은 요하네스버그에서 암스테르담까지 화물기의 바퀴 수납고에서 밀항자가 발견됐다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/82DD/production/_107710533_gettyimages-847669542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
