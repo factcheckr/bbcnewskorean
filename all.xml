@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 00:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 02:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5624/production/_122925022_p0bjhl1x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1407E/production/_112264028_p08d40lc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-47167180</link>
             <guid>https://www.bbc.com/korean/news-47167180</guid>
@@ -145,6 +137,14 @@
             <guid>https://www.bbc.com/korean/international-54591235</guid>
             <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/89F4/production/_114961353_p08vnr3z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,25 +154,25 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미국: 선로에 추락한 경비행기, 열차와 충돌 직전 조종사 구조 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59932738</link>
+            <guid>https://www.bbc.com/korean/international-59932738</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스웨덴 여성들이 말하는 '비혼 출산' 지원과 현실 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56991338</link>
+            <guid>https://www.bbc.com/korean/features-56991338</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[번아웃 증후군: 밀레니얼 세대, 그들이 더 이상 '노력'하지 않는 이유 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-47811260</link>
             <guid>https://www.bbc.com/korean/international-47811260</guid>
             <pubDate>Thu, 04 Apr 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[욘 안데르센: 전 북한 국가대표팀 감독, 현 한국 프로축구팀 감독 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-44882471</link>
-            <guid>https://www.bbc.com/korean/news-44882471</guid>
-            <pubDate>Mon, 23 Jul 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59788416</link>
-            <guid>https://www.bbc.com/korean/international-59788416</guid>
-            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 24일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -294,38 +294,38 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리가 잘 몰랐던 가격 오른 4가지 물건과 그 원인 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60107026</link>
-            <guid>https://www.bbc.com/korean/news-60107026</guid>
-            <pubDate>Mon, 24 Jan 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[북한, 한국 대선 후보 공개비판… 의도는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60022140</link>
             <guid>https://www.bbc.com/korean/news-60022140</guid>
             <pubDate>Mon, 24 Jan 2022 08:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[11시간 비행하는 항공기 바퀴에 숨어 밀항한 남성 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60107161</link>
-            <guid>https://www.bbc.com/korean/60107161</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <title><![CDATA[우리가 잘 몰랐던 가격 오른 4가지 물건과 그 원인 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60107026</link>
+            <guid>https://www.bbc.com/korean/news-60107026</guid>
+            <pubDate>Mon, 24 Jan 2022 09:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오미크론 50% 넘어 '우세종'... 빠르면 이달 말 오미크론 방역체계 전국 확대 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59990526</link>
             <guid>https://www.bbc.com/korean/news-59990526</guid>
             <pubDate>Mon, 24 Jan 2022 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59790411</link>
             <guid>https://www.bbc.com/korean/international-59790411</guid>
             <pubDate>Mon, 24 Jan 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[11시간 비행하는 항공기 바퀴에 숨어 밀항한 남성 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60107161</link>
+            <guid>https://www.bbc.com/korean/60107161</guid>
+            <pubDate>Mon, 24 Jan 2022 03:19:07 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
