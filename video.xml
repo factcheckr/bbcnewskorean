@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 22:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 23:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다]]></title>
+            <link>https://www.bbc.com/korean/news-60065093</link>
+            <guid>https://www.bbc.com/korean/news-60065093</guid>
+            <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5624/production/_122925022_p0bjhl1x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들']]></title>
@@ -32,48 +32,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/22DB/production/_121932980_p0b7ny84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다]]></title>
-            <link>https://www.bbc.com/korean/news-60065093</link>
-            <guid>https://www.bbc.com/korean/news-60065093</guid>
-            <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5624/production/_122925022_p0bjhl1x.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유]]></title>
-            <link>https://www.bbc.com/korean/features-60035372</link>
-            <guid>https://www.bbc.com/korean/features-60035372</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0389/production/_122750900_p0bht9yd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘총선 압승’ 저신다 아던 뉴질랜드 총리... 인기 비결은?]]></title>
+            <link>https://www.bbc.com/korean/international-54591235</link>
+            <guid>https://www.bbc.com/korean/international-54591235</guid>
+            <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/89F4/production/_114961353_p08vnr3z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스웨덴 여성들이 말하는 '비혼 출산' 지원과 현실]]></title>
-            <link>https://www.bbc.com/korean/features-56991338</link>
-            <guid>https://www.bbc.com/korean/features-56991338</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다]]></title>
+            <link>https://www.bbc.com/korean/international-59906342</link>
+            <guid>https://www.bbc.com/korean/international-59906342</guid>
+            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
@@ -81,6 +60,27 @@
             <guid>https://www.bbc.com/korean/features-55328536</guid>
             <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[9:24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[환경보호: 전 세계 헌옷의 15% 재활용하는 이탈리아의 작은 도시]]></title>
+            <link>https://www.bbc.com/korean/features-55345774</link>
+            <guid>https://www.bbc.com/korean/features-55345774</guid>
+            <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무슬림 패션 ‘모더스트 웨어’가 뜬다]]></title>
+            <link>https://www.bbc.com/korean/features-57577328</link>
+            <guid>https://www.bbc.com/korean/features-57577328</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[두개골에 혈관까지 붙은 샴쌍둥이 분리 성공]]></title>
+            <link>https://www.bbc.com/korean/news-53454598</link>
+            <guid>https://www.bbc.com/korean/news-53454598</guid>
+            <pubDate>Sat, 18 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
         </item>
     </channel>
 </rss>
