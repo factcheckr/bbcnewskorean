@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 09:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 10:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 확진자 8000명 넘었다... 내일부터 오미크론 대응체계로]]></title>
+            <link>https://www.bbc.com/korean/news-59990527</link>
+            <guid>https://www.bbc.com/korean/news-59990527</guid>
+            <pubDate>Tue, 25 Jan 2022 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[오미크론 변이가 빠르게 확산하면서 코로나19 신규 확진자 수가 처음으로 8000명을 넘어섰다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D5FA/production/_122987745_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 위기에 미군 8500명 경계태세 돌입]]></title>
+            <link>https://www.bbc.com/korean/international-60107164</link>
+            <guid>https://www.bbc.com/korean/international-60107164</guid>
+            <pubDate>Tue, 25 Jan 2022 10:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[미 국방부는 러시아가 우크라이나를 침공하는 것에 대비해 미군이 유럽에 배치될 수 있도록 대기 중이라고 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E26D/production/_122956975_107dd4bd-e816-4d2e-9624-eaa3663755e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한, 한국 대선 후보 공개비판… 의도는?]]></title>
             <link>https://www.bbc.com/korean/news-60022140</link>
@@ -32,7 +48,7 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FCAD/production/_122958646_ea637a54-d043-4319-b7be-196102b7bb24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오미크론 50% 넘어 '우세종'... 빠르면 이달 말 오미크론 방역체계 전국 확대]]></title>
+            <title><![CDATA[오미크론 50% 넘어 '우세종'... 빠르면 이달 말 오미크론 대응체계 전국 확대]]></title>
             <link>https://www.bbc.com/korean/news-59990526</link>
             <guid>https://www.bbc.com/korean/news-59990526</guid>
             <pubDate>Mon, 24 Jan 2022 09:14:00 GMT</pubDate>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 03:19:07 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 경찰은 요하네스버그에서 암스테르담까지 화물기의 바퀴 수납고에서 밀항자가 발견됐다고 밝혔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/82DD/production/_107710533_gettyimages-847669542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴질랜드, 오미크론 9명 '집단감염'… 총리도 결혼식 취소]]></title>
-            <link>https://www.bbc.com/korean/international-60100744</link>
-            <guid>https://www.bbc.com/korean/international-60100744</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:07 GMT</pubDate>
-            <content:encoded><![CDATA["저 또한 코로나19로 충격을 겪은 수천 명의 뉴질랜드인들과 다르지 않다.”]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C3C3/production/_122951105_gettyimages-1366327207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재택과 사무실 '혼합 근무'가 더 피곤한 이유]]></title>
-            <link>https://www.bbc.com/korean/features-60100741</link>
-            <guid>https://www.bbc.com/korean/features-60100741</guid>
-            <pubDate>Tue, 25 Jan 2022 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[많은 노동자들이 혼합형 근무가 완전한 재택 근무나 사무실 출근 근무보다 감정적으로 더 부담이 된다고 말했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16A85/production/_122950829_d3ede4fb-9302-4041-adbd-9c170d286e79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
