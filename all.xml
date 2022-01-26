@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 00:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,38 +308,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932733</link>
-            <guid>https://www.bbc.com/korean/international-59932733</guid>
-            <pubDate>Tue, 25 Jan 2022 20:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[영국, 백신접종 완료하면 코로나19 검사·격리 면제 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60123184</link>
             <guid>https://www.bbc.com/korean/international-60123184</guid>
             <pubDate>Tue, 25 Jan 2022 11:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 확진자 8000명 넘었다... 내일부터 오미크론 대응체계로 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59990527</link>
             <guid>https://www.bbc.com/korean/news-59990527</guid>
             <pubDate>Tue, 25 Jan 2022 08:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴질랜드, 오미크론 9명 '집단감염'… 총리도 결혼식 취소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60100744</link>
-            <guid>https://www.bbc.com/korean/international-60100744</guid>
-            <pubDate>Tue, 25 Jan 2022 18:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Tue, 25 Jan 2022 20:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재택과 사무실 '혼합 근무'가 더 피곤한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60100741</link>
             <guid>https://www.bbc.com/korean/features-60100741</guid>
             <pubDate>Tue, 25 Jan 2022 22:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴질랜드, 오미크론 9명 '집단감염'… 총리도 결혼식 취소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60100744</link>
+            <guid>https://www.bbc.com/korean/international-60100744</guid>
+            <pubDate>Tue, 25 Jan 2022 18:18:12 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
