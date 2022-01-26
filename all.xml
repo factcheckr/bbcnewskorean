@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 02:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 03:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 또 미사일 발사… 미국은 '러시아-우크라이나 사태 집중' (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60022141</link>
+            <guid>https://www.bbc.com/korean/news-60022141</guid>
+            <pubDate>Tue, 25 Jan 2022 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[북한 문제가 바이든 정부의 대외 정책 우선 순위에서 밀릴 수밖에 없다는 지적이 나온다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 확진자 8000명 넘었다... 내일부터 오미크론 대응체계로 (BBC News 코리아 ─ 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59990527</link>
@@ -64,40 +72,32 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12D13/production/_122957077_4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아우슈비츠 수용소에서 '나치 경례'한 관광객에 벌금 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60107181</link>
-            <guid>https://www.bbc.com/korean/international-60107181</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[외국인 관광객이 나치 선전에 가담한 혐의로 폴란드에 구금된 사례는 이번이 처음이 아니다. 혐의가 인정되면 최대 2년의 징역형이 선고될 수 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10A85/production/_110092286_tv058455698.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[리처드 기어가 볼 키스했던 인도 배우, 15년 만에 외설 혐의 벗어 (BBC News 코리아 ─ 뉴스 메인)]]></title>
+            <link>https://www.bbc.com/korean/international-60065096</link>
+            <guid>https://www.bbc.com/korean/international-60065096</guid>
+            <pubDate>Wed, 26 Jan 2022 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg.webp 660w" type="image/webp"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg 660w" type="image/jpeg"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg" alt="지난 2007년 발리우드 스타 실파 셰티는 수도 델리에서 열린 에이즈 인식개선 행사에서 리처드 기어에게서 볼에 키스를 받았다" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/international-60065096" aria-labelledby="promo-koreaninternational60065096-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreaninternational60065096-1">리처드 기어가 볼 키스했던 인도 배우, 15년 만에 외설 혐의 벗어</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">인도에서는 공공장소에서 키스하는 것을 금기시한다.</p><time datetime="2022-01-26" class="bbc-1cagdt4 e4zesg50">55분 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-48469659" class="bbc-1ocdizt e1wlg2v80"><span>미스 인도 선발대회 미스터리...'모두 같은 사람 아니냐'</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/features-59693365" class="bbc-1ocdizt e1wlg2v80"><span>수천 명의 인도 주부들이 스스로 목숨을 끊는 이유</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-58381789" class="bbc-1ocdizt e1wlg2v80"><span>인도서 뒤늦은 '부부강간죄' 논쟁</span></a></li></ul></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북한, 또 미사일 발사… 미국은 '러시아-우크라이나 사태 집중' (BBC News 코리아 ─ 뉴스 메인)]]></title>
-            <link>https://www.bbc.com/korean/news-60022141</link>
-            <guid>https://www.bbc.com/korean/news-60022141</guid>
-            <pubDate>Tue, 25 Jan 2022 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg.webp 660w" type="image/webp"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg 660w" type="image/jpeg"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg" alt="북한이 최근 잇따른 제재 공세에 이어 미국과의 '장기 대결'을 준비하면서 핵·장기 무기 실험을 재개할 수 있음을 시사했다." sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-60022141" aria-labelledby="promo-koreannews60022141-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews60022141-1">북한, 또 미사일 발사… 미국은 '러시아-우크라이나 사태 집중'</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">북한 문제가 바이든 정부의 대외 정책 우선 순위에서 밀릴 수밖에 없다는 지적이 나온다</p><time datetime="2022-01-25" class="bbc-1cagdt4 e4zesg50">2022년 1월 25일</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60065089" aria-labelledby="IndexAlsosLink-koreannews60065089" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60065089"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>우크라이나-러시아 긴장 고조...어쩌다 전쟁 위기에 처했나</span></span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60107164" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 위기에 미군 8500명 경계태세 돌입</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/60034969" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 대통령, '소규모 습격' 바이든 발언에 응수</span></a></li></ul></div></div></div>]]></content:encoded>
+            <title><![CDATA[미스 인도 선발대회 미스터리...'모두 같은 사람 아니냐' (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-48469659</link>
+            <guid>https://www.bbc.com/korean/news-48469659</guid>
+            <pubDate>Wed, 26 Jan 2022 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-48469659" class="bbc-1ocdizt e1wlg2v80"><span>미스 인도 선발대회 미스터리...'모두 같은 사람 아니냐'</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비디오, 우크라이나-러시아 긴장 고조...어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-60065089" aria-labelledby="IndexAlsosLink-koreannews60065089" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60065089"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>우크라이나-러시아 긴장 고조...어쩌다 전쟁 위기에 처했나</span></span></a>]]></content:encoded>
+            <title><![CDATA[수천 명의 인도 주부들이 스스로 목숨을 끊는 이유 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/features-59693365</link>
+            <guid>https://www.bbc.com/korean/features-59693365</guid>
+            <pubDate>Wed, 26 Jan 2022 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/features-59693365" class="bbc-1ocdizt e1wlg2v80"><span>수천 명의 인도 주부들이 스스로 목숨을 끊는 이유</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 위기에 미군 8500명 경계태세 돌입 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/international-60107164</link>
-            <guid>https://www.bbc.com/korean/international-60107164</guid>
-            <pubDate>Tue, 25 Jan 2022 06:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/international-60107164" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 위기에 미군 8500명 경계태세 돌입</span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 대통령, '소규모 습격' 바이든 발언에 응수 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/60034969</link>
-            <guid>https://www.bbc.com/korean/60034969</guid>
-            <pubDate>Tue, 25 Jan 2022 09:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/60034969" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 대통령, '소규모 습격' 바이든 발언에 응수</span></a>]]></content:encoded>
+            <title><![CDATA[인도서 뒤늦은 '부부강간죄' 논쟁 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-58381789</link>
+            <guid>https://www.bbc.com/korean/news-58381789</guid>
+            <pubDate>Wed, 26 Jan 2022 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-58381789" class="bbc-1ocdizt e1wlg2v80"><span>인도서 뒤늦은 '부부강간죄' 논쟁</span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,20 +140,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1377B/production/_122693797_p0bgz29f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59906342</link>
-            <guid>https://www.bbc.com/korean/international-59906342</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무슬림 패션 ‘모더스트 웨어’가 뜬다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-57577328</link>
-            <guid>https://www.bbc.com/korean/features-57577328</guid>
-            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[환경보호: 전 세계 헌옷의 15% 재활용하는 이탈리아의 작은 도시 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-55345774</link>
             <guid>https://www.bbc.com/korean/features-55345774</guid>
@@ -168,11 +154,25 @@
             <content:encoded><![CDATA[5:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘총선 압승’ 저신다 아던 뉴질랜드 총리... 인기 비결은? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-54591235</link>
-            <guid>https://www.bbc.com/korean/international-54591235</guid>
-            <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59824576</link>
+            <guid>https://www.bbc.com/korean/features-59824576</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무슬림 패션 ‘모더스트 웨어’가 뜬다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-57577328</link>
+            <guid>https://www.bbc.com/korean/features-57577328</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60035372</link>
+            <guid>https://www.bbc.com/korean/features-60035372</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 25일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,17 +280,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[건조한 겨울, 얼마나 자주 씻어야 하나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60013029</link>
-            <guid>https://www.bbc.com/korean/features-60013029</guid>
-            <pubDate>Sat, 22 Jan 2022 03:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Fri, 21 Jan 2022 01:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[건조한 겨울, 얼마나 자주 씻어야 하나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60013029</link>
+            <guid>https://www.bbc.com/korean/features-60013029</guid>
+            <pubDate>Sat, 22 Jan 2022 03:14:33 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[리처드 기어가 볼 키스했던 인도 배우, 15년 만에 외설 혐의 벗어 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60065096</link>
+            <guid>https://www.bbc.com/korean/international-60065096</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나19 확진자 8000명 넘었다... 내일부터 오미크론 대응체계로 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59990527</link>
             <guid>https://www.bbc.com/korean/news-59990527</guid>
             <pubDate>Tue, 25 Jan 2022 08:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴질랜드, 오미크론 9명 '집단감염'… 총리도 결혼식 취소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60100744</link>
-            <guid>https://www.bbc.com/korean/international-60100744</guid>
-            <pubDate>Tue, 25 Jan 2022 18:18:12 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[재택과 사무실 '혼합 근무'가 더 피곤한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60100741</link>
-            <guid>https://www.bbc.com/korean/features-60100741</guid>
-            <pubDate>Tue, 25 Jan 2022 22:15:09 GMT</pubDate>
+            <title><![CDATA[오미크론 50% 넘어 '우세종'... 빠르면 이달 말 오미크론 대응체계 전국 확대 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59990526</link>
+            <guid>https://www.bbc.com/korean/news-59990526</guid>
+            <pubDate>Mon, 24 Jan 2022 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
