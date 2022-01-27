@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 23:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 00:51:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,31 +280,31 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[건조한 겨울, 얼마나 자주 씻어야 하나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60013029</link>
-            <guid>https://www.bbc.com/korean/features-60013029</guid>
-            <pubDate>Sat, 22 Jan 2022 03:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19 확진자 1만명 돌파… 5차 대유행 본격화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60123185</link>
             <guid>https://www.bbc.com/korean/news-60123185</guid>
             <pubDate>Wed, 26 Jan 2022 09:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[건조한 겨울, 얼마나 자주 씻어야 하나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60013029</link>
+            <guid>https://www.bbc.com/korean/features-60013029</guid>
+            <pubDate>Sat, 22 Jan 2022 03:14:33 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932733</link>
-            <guid>https://www.bbc.com/korean/international-59932733</guid>
-            <pubDate>Wed, 26 Jan 2022 21:14:27 GMT</pubDate>
+            <title><![CDATA[미 보스턴 병원, 코로나19 백신 미접종자에게 심장 이식 거부 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60137239</link>
+            <guid>https://www.bbc.com/korean/international-60137239</guid>
+            <pubDate>Wed, 26 Jan 2022 09:14:51 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 위기에 미군 8500명 경계태세 돌입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60107164</link>
-            <guid>https://www.bbc.com/korean/international-60107164</guid>
-            <pubDate>Tue, 25 Jan 2022 06:17:23 GMT</pubDate>
+            <title><![CDATA[북한, 또 미사일 발사… 미국은 '러시아-우크라이나 사태 집중' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60022141</link>
+            <guid>https://www.bbc.com/korean/news-60022141</guid>
+            <pubDate>Tue, 25 Jan 2022 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미 보스턴 병원, 코로나19 백신 미접종자에게 심장 이식 거부 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60137239</link>
-            <guid>https://www.bbc.com/korean/international-60137239</guid>
-            <pubDate>Wed, 26 Jan 2022 09:14:51 GMT</pubDate>
+            <title><![CDATA[우크라이나 위기에 미군 8500명 경계태세 돌입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60107164</link>
+            <guid>https://www.bbc.com/korean/international-60107164</guid>
+            <pubDate>Tue, 25 Jan 2022 06:17:23 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[먹는 코로나 치료제 14일부터 처방...약 먹으면 백신 안 맞아도 될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59890898</link>
-            <guid>https://www.bbc.com/korean/news-59890898</guid>
-            <pubDate>Wed, 26 Jan 2022 09:15:01 GMT</pubDate>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Wed, 26 Jan 2022 21:14:27 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북한, 또 미사일 발사… 미국은 '러시아-우크라이나 사태 집중' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60022141</link>
-            <guid>https://www.bbc.com/korean/news-60022141</guid>
-            <pubDate>Tue, 25 Jan 2022 09:14:33 GMT</pubDate>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Thu, 27 Jan 2022 00:51:04 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
