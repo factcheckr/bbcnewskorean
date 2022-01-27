@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 10:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 11:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.bbc.com/korean/international-60153387</link>
             <guid>https://www.bbc.com/korean/international-60153387</guid>
             <pubDate>Thu, 27 Jan 2022 10:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 봉쇄 기간 총리실 파티 참석 의혹과 관련한 경찰 조사 발표가 임박하면서 총리의 정치 생명이 위태롭다는 분석이 나온다.]]></content:encoded>
+            <content:encoded><![CDATA[코로나19 봉쇄 기간 총리공관 파티 참석 의혹과 관련한 경찰 조사 발표가 임박하면서 총리의 정치 생명이 위태롭다는 분석이 나온다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1177B/production/_122874517_gettyimages-1237805432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
