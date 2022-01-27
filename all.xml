@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 09:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국, 러시아의 '우크라이나 나토 가입 금지' 요청 거부 (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60013035</link>
+            <guid>https://www.bbc.com/korean/news-60013035</guid>
+            <pubDate>Thu, 27 Jan 2022 03:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[앤서니 블링컨 미 국무장관은 러시아의 요구에 대해 형식적인 답변을 내놨다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7년전 발사된 스페이스X 로켓, 3월초 달과 충돌 예상 (BBC News 코리아 ─ 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60150513</link>
@@ -64,26 +72,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8FFB/production/_122995863_gettyimages-74055617.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한, 또 미사일 발사… 미국은 '러시아-우크라이나 사태 집중' (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60022141</link>
-            <guid>https://www.bbc.com/korean/news-60022141</guid>
-            <pubDate>Tue, 25 Jan 2022 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[북한 문제가 바이든 정부의 대외 정책 우선 순위에서 밀릴 수밖에 없다는 지적이 나온다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7010/production/_122988682_gettyimages-1237842971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, 러시아의 '우크라이나 나토 가입 금지' 요청 거부 (BBC News 코리아 ─ 뉴스 메인)]]></title>
-            <link>https://www.bbc.com/korean/news-60013035</link>
-            <guid>https://www.bbc.com/korean/news-60013035</guid>
-            <pubDate>Thu, 27 Jan 2022 03:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg.webp 660w" type="image/webp"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg 660w" type="image/jpeg"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/8D5F/production/_123019163_mediaitem123019162.jpg" alt="A Ukrainian anti-missile system in action" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="768" height="432"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-60013035" aria-labelledby="promo-koreannews60013035-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews60013035-1">미국, 러시아의 '우크라이나 나토 가입 금지' 요청 거부</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">앤서니 블링컨 미 국무장관은 러시아의 요구에 대해 형식적인 답변을 내놨다.</p><time datetime="2022-01-27" class="bbc-1cagdt4 e4zesg50">5시간 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60065089" aria-labelledby="IndexAlsosLink-koreannews60065089" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60065089"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>우크라이나-러시아 긴장 고조...어쩌다 전쟁 위기에 처했나</span></span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60107164" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 위기에 미군 8500명 경계태세 돌입</span></a></li></ul></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 우크라이나-러시아 긴장 고조...어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-60065089" aria-labelledby="IndexAlsosLink-koreannews60065089" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60065089"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>우크라이나-러시아 긴장 고조...어쩌다 전쟁 위기에 처했나</span></span></a>]]></content:encoded>
+            <title><![CDATA[북한, '국제사회 무관심 속 틈타' 6번째 무력시위 (BBC News 코리아 ─ 뉴스 메인)]]></title>
+            <link>https://www.bbc.com/korean/news-60123186</link>
+            <guid>https://www.bbc.com/korean/news-60123186</guid>
+            <pubDate>Thu, 27 Jan 2022 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/14C4E/production/_123007058_2.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/14C4E/production/_123007058_2.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/14C4E/production/_123007058_2.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/14C4E/production/_123007058_2.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/14C4E/production/_123007058_2.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/14C4E/production/_123007058_2.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/14C4E/production/_123007058_2.jpg.webp 660w" type="image/webp"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/14C4E/production/_123007058_2.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/14C4E/production/_123007058_2.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/14C4E/production/_123007058_2.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/14C4E/production/_123007058_2.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/14C4E/production/_123007058_2.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/14C4E/production/_123007058_2.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/14C4E/production/_123007058_2.jpg 660w" type="image/jpeg"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/14C4E/production/_123007058_2.jpg" alt="27일 경기도 파주시 오두산 통일전망대를 찾은 시민들이 전시를 관람하고 있다" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-60123186" aria-labelledby="promo-koreannews60123186-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews60123186-1">북한, '국제사회 무관심 속 틈타' 6번째 무력시위</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">북한이 27일 오전 8시쯤 함흥 일대에서 동해상으로 발사한 단거리 탄도미사일 추정 발사체 2발을 포착했다고 밝혔다.</p><time datetime="2022-01-27" class="bbc-1cagdt4 e4zesg50">50분 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60107164" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 위기에 미군 8500명 경계태세 돌입</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60022137" class="bbc-1ocdizt e1wlg2v80"><span>중국, 유엔 안보리 추가 대북제재 반대… 올림픽 앞두고 속내는?</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-59890892" class="bbc-1ocdizt e1wlg2v80"><span>북한 '미사일 발사, 앞으로 두세번 더 가능'</span></a></li></ul></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 위기에 미군 8500명 경계태세 돌입 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
@@ -91,6 +84,20 @@
             <guid>https://www.bbc.com/korean/international-60107164</guid>
             <pubDate>Tue, 25 Jan 2022 06:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/korean/international-60107164" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 위기에 미군 8500명 경계태세 돌입</span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국, 유엔 안보리 추가 대북제재 반대… 올림픽 앞두고 속내는? (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-60022137</link>
+            <guid>https://www.bbc.com/korean/news-60022137</guid>
+            <pubDate>Thu, 27 Jan 2022 09:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-60022137" class="bbc-1ocdizt e1wlg2v80"><span>중국, 유엔 안보리 추가 대북제재 반대… 올림픽 앞두고 속내는?</span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한 '미사일 발사, 앞으로 두세번 더 가능' (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-59890892</link>
+            <guid>https://www.bbc.com/korean/news-59890892</guid>
+            <pubDate>Thu, 27 Jan 2022 09:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-59890892" class="bbc-1ocdizt e1wlg2v80"><span>북한 '미사일 발사, 앞으로 두세번 더 가능'</span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,18 +147,11 @@
             <content:encoded><![CDATA[3:28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[통가 화산 폭발 피해, 여전히 알기 어려운 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60035372</link>
-            <guid>https://www.bbc.com/korean/features-60035372</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미아 칼리파: '내가 포르노를 찍게 된 이유' (BBC News 코리아 ─ 비디오)]]></title>
@@ -166,6 +166,13 @@
             <guid>https://www.bbc.com/korean/international-59906342</guid>
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-57692535</link>
+            <guid>https://www.bbc.com/korean/international-57692535</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 26일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,10 +294,10 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 위기에 미군 8500명 경계태세 돌입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60107164</link>
-            <guid>https://www.bbc.com/korean/international-60107164</guid>
-            <pubDate>Tue, 25 Jan 2022 06:17:23 GMT</pubDate>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Wed, 26 Jan 2022 21:14:27 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -301,10 +308,10 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932733</link>
-            <guid>https://www.bbc.com/korean/international-59932733</guid>
-            <pubDate>Wed, 26 Jan 2022 21:14:27 GMT</pubDate>
+            <title><![CDATA[우크라이나 위기에 미군 8500명 경계태세 돌입 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60107164</link>
+            <guid>https://www.bbc.com/korean/international-60107164</guid>
+            <pubDate>Tue, 25 Jan 2022 06:17:23 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -315,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미 보스턴 병원, 코로나19 백신 미접종자에게 심장 이식 거부 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60137239</link>
+            <guid>https://www.bbc.com/korean/international-60137239</guid>
+            <pubDate>Wed, 26 Jan 2022 09:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[북한, 또 미사일 발사… 미국은 '러시아-우크라이나 사태 집중' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60022141</link>
             <guid>https://www.bbc.com/korean/news-60022141</guid>
             <pubDate>Tue, 25 Jan 2022 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영국, 백신접종 완료하면 코로나19 검사·격리 면제 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60123184</link>
             <guid>https://www.bbc.com/korean/international-60123184</guid>
             <pubDate>Thu, 27 Jan 2022 08:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미 보스턴 병원, 코로나19 백신 미접종자에게 심장 이식 거부 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60137239</link>
-            <guid>https://www.bbc.com/korean/international-60137239</guid>
-            <pubDate>Wed, 26 Jan 2022 09:14:51 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
