@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 19:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 20:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,6 +140,13 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/010E/production/_123007200_p0bkbdhl.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[베이징 동계올림픽 개막 초읽기...이번 올림픽에 알아야 할 사실 5가지 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60137237</link>
+            <guid>https://www.bbc.com/korean/international-60137237</guid>
+            <pubDate>Wed, 26 Jan 2022 07:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가상화폐: 카자흐스탄에 세계에서 가장 큰 채굴장 있다... 이유는 중국? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60150516</link>
             <guid>https://www.bbc.com/korean/features-60150516</guid>
@@ -154,13 +161,6 @@
             <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이징 동계올림픽 개막 초읽기...이번 올림픽에 알아야 할 사실 5가지 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60137237</link>
-            <guid>https://www.bbc.com/korean/international-60137237</guid>
-            <pubDate>Wed, 26 Jan 2022 07:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60065093</link>
             <guid>https://www.bbc.com/korean/news-60065093</guid>
@@ -168,11 +168,11 @@
             <content:encoded><![CDATA[1:36]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[두개골에 혈관까지 붙은 샴쌍둥이 분리 성공 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-53454598</link>
-            <guid>https://www.bbc.com/korean/news-53454598</guid>
-            <pubDate>Sat, 18 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59824576</link>
+            <guid>https://www.bbc.com/korean/features-59824576</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 29일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,59 +287,59 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57508343</link>
-            <guid>https://www.bbc.com/korean/international-57508343</guid>
-            <pubDate>Sat, 29 Jan 2022 17:20:19 GMT</pubDate>
+            <title><![CDATA[코로나19 확진자 8000명 넘었다... 내일부터 오미크론 대응체계로 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59990527</link>
+            <guid>https://www.bbc.com/korean/news-59990527</guid>
+            <pubDate>Sat, 29 Jan 2022 20:15:10 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Sat, 29 Jan 2022 15:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932733</link>
-            <guid>https://www.bbc.com/korean/international-59932733</guid>
-            <pubDate>Sat, 29 Jan 2022 16:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7년전 발사된 스페이스X 로켓, 3월초 달과 충돌 예상 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60150513</link>
             <guid>https://www.bbc.com/korean/news-60150513</guid>
             <pubDate>Sat, 29 Jan 2022 19:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 확진자 1만명 돌파… 5차 대유행 본격화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60123185</link>
             <guid>https://www.bbc.com/korean/news-60123185</guid>
             <pubDate>Wed, 26 Jan 2022 09:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 vs 2008: 두 번의 올림픽과 두 개의 중국 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60137087</link>
-            <guid>https://www.bbc.com/korean/international-60137087</guid>
-            <pubDate>Sat, 29 Jan 2022 03:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-57508343</link>
+            <guid>https://www.bbc.com/korean/international-57508343</guid>
+            <pubDate>Sat, 29 Jan 2022 17:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Sat, 29 Jan 2022 16:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘장애가 심해서’ 패럴림픽 출전을 거부당했던 스노우보더들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60179584</link>
             <guid>https://www.bbc.com/korean/international-60179584</guid>
             <pubDate>Sat, 29 Jan 2022 08:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Sat, 29 Jan 2022 15:14:00 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미 보스턴 병원, 코로나19 백신 미접종자에게 심장 이식 거부 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60137239</link>
-            <guid>https://www.bbc.com/korean/international-60137239</guid>
-            <pubDate>Sat, 29 Jan 2022 18:20:45 GMT</pubDate>
+            <title><![CDATA[당신의 목숨을 구할 세 단어 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-49330976</link>
+            <guid>https://www.bbc.com/korean/news-49330976</guid>
+            <pubDate>Sat, 29 Jan 2022 20:15:10 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
