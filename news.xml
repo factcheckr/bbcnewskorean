@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 08:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[미니마우스, 빨간 드레스 벗고 바지 정장 입는다]]></title>
-            <link>https://www.bbc.com/korean/international-60179586</link>
-            <guid>https://www.bbc.com/korean/international-60179586</guid>
-            <pubDate>Sat, 29 Jan 2022 08:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[이 상징적인 캐릭터는 디즈니 팬들의 엇갈린 평가에도 불구하고 잠시 변신을 할 예정이다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/589B/production/_123038622_mediaitem123037866.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[‘장애가 심해서’ 패럴림픽 출전을 거부당했던 스노우보더들]]></title>
             <link>https://www.bbc.com/korean/international-60179584</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 28 Jan 2022 02:33:33 GMT</pubDate>
             <content:encoded><![CDATA[카자흐스탄에는 세계에서 가장 큰 가상화폐 채굴장이 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FFEA/production/_122941556_p0bkm2cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 총리 정치적 운명 걸린 '파티게이트'는 무엇인가?]]></title>
+            <link>https://www.bbc.com/korean/international-60153387</link>
+            <guid>https://www.bbc.com/korean/international-60153387</guid>
+            <pubDate>Sat, 29 Jan 2022 09:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 봉쇄 기간 총리공관 파티 참석 의혹과 관련한 경찰 조사 발표가 임박하면서 총리의 정치 생명이 위태롭다는 분석이 나온다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1177B/production/_122874517_gettyimages-1237805432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
