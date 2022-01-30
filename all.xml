@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 22:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 23:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,14 +116,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가상화폐: 카자흐스탄에 세계에서 가장 큰 채굴장 있다... 이유는 중국? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60150516</link>
             <guid>https://www.bbc.com/korean/features-60150516</guid>
@@ -132,19 +124,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FFEA/production/_122941556_p0bkm2cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미얀마 군부, 민간인 고문 후 대량학살의 증거들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60137106</link>
             <guid>https://www.bbc.com/korean/international-60137106</guid>
             <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7:11]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/010E/production/_123007200_p0bkbdhl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기후변화: 불타는 나이지리아… 50도에서 살아간다는 것 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/58580247</link>
-            <guid>https://www.bbc.com/korean/58580247</guid>
-            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['솔비의 케이크' 작가 권지안이 말하다 (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +161,18 @@
             <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 가족중에 의심증상이 있다면 어떻게 해야 할까? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/media-54232606</link>
-            <guid>https://www.bbc.com/korean/media-54232606</guid>
-            <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <title><![CDATA[여성 게이머들이 세계 무대에서 주목받지 못하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58496827</link>
+            <guid>https://www.bbc.com/korean/features-58496827</guid>
+            <pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계에서 가장 성공한 프로게이머는 얼마나 벌까? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-55761381</link>
+            <guid>https://www.bbc.com/korean/international-55761381</guid>
+            <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 30일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,24 +280,24 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Sun, 30 Jan 2022 22:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영국, 우크라이나 사태에 '대규모 파병' 검토 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60137241</link>
             <guid>https://www.bbc.com/korean/international-60137241</guid>
             <pubDate>Sun, 30 Jan 2022 04:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미니마우스, 빨간 드레스 벗고 바지 정장 입는다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60179586</link>
             <guid>https://www.bbc.com/korean/international-60179586</guid>
             <pubDate>Sat, 29 Jan 2022 08:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[UN '폭풍이 휩쓴 아프리카, 기후위기 현실 보여준다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60137242</link>
-            <guid>https://www.bbc.com/korean/international-60137242</guid>
-            <pubDate>Sun, 30 Jan 2022 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -308,37 +308,37 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국, 러시아의 '우크라이나 나토 가입 금지' 요청 거부 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60013035</link>
-            <guid>https://www.bbc.com/korean/news-60013035</guid>
-            <pubDate>Sun, 30 Jan 2022 03:14:43 GMT</pubDate>
+            <title><![CDATA[UN '폭풍이 휩쓴 아프리카, 기후위기 현실 보여준다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60137242</link>
+            <guid>https://www.bbc.com/korean/international-60137242</guid>
+            <pubDate>Sun, 30 Jan 2022 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한, 올해 벌써 4번째 미사일 발사… 도대체 왜? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60022132</link>
-            <guid>https://www.bbc.com/korean/news-60022132</guid>
-            <pubDate>Sun, 30 Jan 2022 21:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59708074</link>
             <guid>https://www.bbc.com/korean/news-59708074</guid>
             <pubDate>Sat, 29 Jan 2022 15:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59790411</link>
+            <guid>https://www.bbc.com/korean/international-59790411</guid>
+            <pubDate>Sun, 30 Jan 2022 23:14:23 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['제 아들이 포경수술 후, 스스로 목숨을 끊었습니다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/48001335</link>
+            <guid>https://www.bbc.com/korean/48001335</guid>
+            <pubDate>Sun, 30 Jan 2022 23:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7년전 발사된 스페이스X 로켓, 3월초 달과 충돌 예상 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60150513</link>
             <guid>https://www.bbc.com/korean/news-60150513</guid>
-            <pubDate>Sun, 30 Jan 2022 22:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59932733</link>
-            <guid>https://www.bbc.com/korean/international-59932733</guid>
             <pubDate>Sun, 30 Jan 2022 22:14:03 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
