@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 14:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 15:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,13 +147,6 @@
             <content:encoded><![CDATA[3:41]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기후변화: 불타는 나이지리아… 50도에서 살아간다는 것 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/58580247</link>
-            <guid>https://www.bbc.com/korean/58580247</guid>
-            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[미얀마 군부, 민간인 고문 후 대량학살의 증거들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60137106</link>
             <guid>https://www.bbc.com/korean/international-60137106</guid>
@@ -161,18 +154,25 @@
             <content:encoded><![CDATA[7:11]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기후변화: 불타는 나이지리아… 50도에서 살아간다는 것 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/58580247</link>
+            <guid>https://www.bbc.com/korean/58580247</guid>
+            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-55328536</link>
             <guid>https://www.bbc.com/korean/features-55328536</guid>
             <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[9:24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60065093</link>
-            <guid>https://www.bbc.com/korean/news-60065093</guid>
-            <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 1월 29일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -301,10 +301,10 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Sat, 29 Jan 2022 15:14:00 GMT</pubDate>
+            <title><![CDATA[조코비치 호주오픈 참가 못하고 추방...세르비아에서도 처벌 가능성? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60013026</link>
+            <guid>https://www.bbc.com/korean/news-60013026</guid>
+            <pubDate>Sun, 30 Jan 2022 12:21:52 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조코비치 호주오픈 참가 못하고 추방...세르비아에서도 처벌 가능성? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60013026</link>
-            <guid>https://www.bbc.com/korean/news-60013026</guid>
-            <pubDate>Sun, 30 Jan 2022 12:21:52 GMT</pubDate>
+            <title><![CDATA[양육비 안 주는 부모들 신상 공개해 재판서는 '배드파더스' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-51046556</link>
+            <guid>https://www.bbc.com/korean/news-51046556</guid>
+            <pubDate>Sun, 30 Jan 2022 15:14:19 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Sat, 29 Jan 2022 15:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59932733</link>
             <guid>https://www.bbc.com/korean/international-59932733</guid>
             <pubDate>Sun, 30 Jan 2022 11:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 확진자 1만명 돌파… 5차 대유행 본격화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60123185</link>
-            <guid>https://www.bbc.com/korean/news-60123185</guid>
-            <pubDate>Sun, 30 Jan 2022 14:13:05 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
