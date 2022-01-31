@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 01:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 02:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만성 코로나 환자서 보이지 않는 폐 손상 발견]]></title>
+            <link>https://www.bbc.com/korean/international-60190424</link>
+            <guid>https://www.bbc.com/korean/international-60190424</guid>
+            <pubDate>Mon, 31 Jan 2022 02:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 장기 후유증을 겪은 일부 환자들에게서 폐 손상이 발견됐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16747/production/_119257919_mediaitem119257918.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 영국서 '불법 성매매' 기승.. 루마니아 소녀들의 눈물, 방송 길이 3,35]]></title>
             <link>https://www.bbc.com/korean/features-60107165</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 29 Jan 2022 11:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022년은 분위기와 주최국 정부의 태도 그리고 전 세계의 기대치 등 모든 것이 2008년과 크게 다르다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10E34/production/_122927196_6cdfa02a-829a-41f5-970e-7b08254df972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호주, 산호초 살리기 위해 10억 달러 투입]]></title>
-            <link>https://www.bbc.com/korean/international-60179581</link>
-            <guid>https://www.bbc.com/korean/international-60179581</guid>
-            <pubDate>Sat, 29 Jan 2022 06:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[이 계획이 그레이트 배리어 리프의 개선에 도움은 되겠지만 근본적인 위협을 해결하지는 못할 것이라는 지적이 나온다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/398D/production/_123033741_mediaitem123033740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
