@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 21:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 22:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,17 +287,17 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['홀로코스트, 인종문제 아냐' 우피 골드버그, 2주간 방송 금지 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60225960</link>
-            <guid>https://www.bbc.com/korean/international-60225960</guid>
-            <pubDate>Wed, 02 Feb 2022 08:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[만성 코로나 환자서 보이지 않는 폐 손상 발견 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60190424</link>
             <guid>https://www.bbc.com/korean/international-60190424</guid>
             <pubDate>Mon, 31 Jan 2022 01:54:59 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['홀로코스트, 인종문제 아냐' 우피 골드버그, 2주간 방송 금지 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60225960</link>
+            <guid>https://www.bbc.com/korean/international-60225960</guid>
+            <pubDate>Wed, 02 Feb 2022 08:16:45 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[앞으로 여진 계속될 가능성 커...장소별 대피 요령은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59648654</link>
-            <guid>https://www.bbc.com/korean/news-59648654</guid>
-            <pubDate>Wed, 02 Feb 2022 20:16:12 GMT</pubDate>
+            <title><![CDATA[중국 게임 규제 칼날...'프로게이머' 꿈꾸던 중국 아이들 어떻게 될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60137243</link>
+            <guid>https://www.bbc.com/korean/international-60137243</guid>
+            <pubDate>Wed, 02 Feb 2022 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문 대통령 '베이징 올림픽 보이콧 검토 안 해'…종전선언도 계속 추진한다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59575082</link>
-            <guid>https://www.bbc.com/korean/news-59575082</guid>
-            <pubDate>Wed, 02 Feb 2022 20:16:12 GMT</pubDate>
+            <title><![CDATA[UN '폭풍이 휩쓴 아프리카, 기후위기 현실 보여준다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60137242</link>
+            <guid>https://www.bbc.com/korean/international-60137242</guid>
+            <pubDate>Wed, 02 Feb 2022 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스에서 '억대 연봉' 버는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-59789037</link>
-            <guid>https://www.bbc.com/korean/features-59789037</guid>
-            <pubDate>Wed, 02 Feb 2022 20:16:12 GMT</pubDate>
+            <title><![CDATA[코로나19 백신은 과연 안전할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-55227253</link>
+            <guid>https://www.bbc.com/korean/international-55227253</guid>
+            <pubDate>Wed, 02 Feb 2022 22:14:08 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
