@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 02:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 03:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/171DD/production/_122958649_p0bktzr3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가상화폐: 카자흐스탄에 세계에서 가장 큰 채굴장 있다... 이유는 중국? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60150516</link>
             <guid>https://www.bbc.com/korean/features-60150516</guid>
@@ -145,6 +137,7 @@
             <guid>https://www.bbc.com/korean/international-60137237</guid>
             <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/952C/production/_122988183_p0bkb5pc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미얀마 군부, 민간인 고문 후 대량학살의 증거들 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,11 +154,11 @@
             <content:encoded><![CDATA[5:53]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어맨다 고먼: 바이든 취임식서 주목받은 22세 시인의 축시...'우리가 오르는 언덕' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-55745207</link>
-            <guid>https://www.bbc.com/korean/features-55745207</guid>
-            <pubDate>Thu, 21 Jan 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성매매 종사자들이 말하는 코로나19 (BBC News 코리아 ─ 비디오)]]></title>
@@ -173,6 +166,13 @@
             <guid>https://www.bbc.com/korean/international-53994219</guid>
             <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[18:38]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어맨다 고먼: 바이든 취임식서 주목받은 22세 시인의 축시...'우리가 오르는 언덕' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55745207</link>
+            <guid>https://www.bbc.com/korean/features-55745207</guid>
+            <pubDate>Thu, 21 Jan 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 1일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -322,17 +322,17 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국계 대기업이 파푸아 열대우림 파괴...FSC 회원자격 박탈 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57846337</link>
-            <guid>https://www.bbc.com/korean/international-57846337</guid>
-            <pubDate>Tue, 01 Feb 2022 23:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[필바라가 지구에서 가장 오래 전 흔적이 남아있는 곳일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60211103</link>
             <guid>https://www.bbc.com/korean/international-60211103</guid>
             <pubDate>Tue, 01 Feb 2022 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국계 대기업이 파푸아 열대우림 파괴...FSC 회원자격 박탈 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-57846337</link>
+            <guid>https://www.bbc.com/korean/international-57846337</guid>
+            <pubDate>Tue, 01 Feb 2022 23:15:28 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
