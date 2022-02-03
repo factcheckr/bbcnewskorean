@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 18:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 19:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/171DD/production/_122958649_p0bktzr3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계 암의 날: 코로나19 백신이 암과의 전쟁 판도를 바꿀 수 있을까? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60239361</link>
-            <guid>https://www.bbc.com/korean/international-60239361</guid>
-            <pubDate>Thu, 03 Feb 2022 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0302/production/_123107700_p0blxk6y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
@@ -140,18 +132,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자기 새끼에게 똥을 먹이는 코알라? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60239359</link>
-            <guid>https://www.bbc.com/korean/international-60239359</guid>
-            <pubDate>Thu, 03 Feb 2022 05:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미얀마 군부, 민간인 고문 후 대량학살의 증거들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60137106</link>
-            <guid>https://www.bbc.com/korean/international-60137106</guid>
-            <pubDate>Thu, 03 Feb 2022 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[7:11]]></content:encoded>
+            <title><![CDATA[세계 암의 날: 코로나19 백신이 암과의 전쟁 판도를 바꿀 수 있을까? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60239361</link>
+            <guid>https://www.bbc.com/korean/international-60239361</guid>
+            <pubDate>Thu, 03 Feb 2022 10:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0302/production/_123107700_p0blxk6y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이징 동계올림픽 개막 초읽기...이번 올림픽에 알아야 할 사실 5가지 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,6 +147,13 @@
             <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[자기 새끼에게 똥을 먹이는 코알라? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60239359</link>
+            <guid>https://www.bbc.com/korean/international-60239359</guid>
+            <pubDate>Thu, 03 Feb 2022 05:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[성매매 종사자들이 말하는 코로나19 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-53994219</link>
             <guid>https://www.bbc.com/korean/international-53994219</guid>
@@ -168,11 +161,25 @@
             <content:encoded><![CDATA[18:38]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[미얀마 군부, 민간인 고문 후 대량학살의 증거들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60137106</link>
+            <guid>https://www.bbc.com/korean/international-60137106</guid>
+            <pubDate>Thu, 03 Feb 2022 01:54:49 GMT</pubDate>
+            <content:encoded><![CDATA[7:11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미얀마 시위: 목숨 걸고 취재하는 미얀마 기자들의 이야기 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-56826140</link>
+            <guid>https://www.bbc.com/korean/international-56826140</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 2월 3일 (BBC News 코리아 ─ 다운로드)]]></title>
+            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-02-03-HQ.zip</link>
+            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-02-03-HQ.zip</guid>
+            <pubDate>Thu, 03 Feb 2022 19:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[korean-2022-02-03-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 2일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -266,13 +273,6 @@
             <content:encoded><![CDATA[korean-2022-01-21-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 1월 20일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-01-20-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-01-20-HQ.zip</guid>
-            <pubDate>Thu, 20 Jan 2022 19:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-01-20-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['나는 오늘 죽을 것'... 미얀마 시위서 '평화의 상징' 된 수녀님 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60239354</link>
             <guid>https://www.bbc.com/korean/international-60239354</guid>
@@ -287,17 +287,17 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대선 후보 첫 4자 토론... 관전 포인트는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60240554</link>
-            <guid>https://www.bbc.com/korean/news-60240554</guid>
-            <pubDate>Thu, 03 Feb 2022 08:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Fri, 21 Jan 2022 01:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대선 후보 첫 4자 토론... 관전 포인트는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60240554</link>
+            <guid>https://www.bbc.com/korean/news-60240554</guid>
+            <pubDate>Thu, 03 Feb 2022 08:17:54 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57508343</link>
-            <guid>https://www.bbc.com/korean/international-57508343</guid>
-            <pubDate>Thu, 03 Feb 2022 16:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59708074</link>
             <guid>https://www.bbc.com/korean/news-59708074</guid>
             <pubDate>Wed, 02 Feb 2022 21:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정신과 전문의가 ‘두부 멘탈·예민 보스’에게 꼭 전하고 싶은 말 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-54459516</link>
+            <guid>https://www.bbc.com/korean/news-54459516</guid>
+            <pubDate>Thu, 03 Feb 2022 19:12:45 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘가짜 바나나’ 엔셋, 기후변화 맞서는 슈퍼푸드 될까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60225856</link>
-            <guid>https://www.bbc.com/korean/international-60225856</guid>
-            <pubDate>Wed, 02 Feb 2022 06:17:09 GMT</pubDate>
+            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-57508343</link>
+            <guid>https://www.bbc.com/korean/international-57508343</guid>
+            <pubDate>Thu, 03 Feb 2022 16:22:19 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
