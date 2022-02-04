@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 20:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 21:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,22 +100,6 @@
             <content:encoded><![CDATA[<a href="/korean/features-56066227" class="bbc-1ocdizt e1wlg2v80"><span>한눈에 보는 전 세계 코로나19 백신 접종 현황</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[IS 최고지도자, 미군에 사살… 그는 어떻게 수장이 됐나? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60255123</link>
-            <guid>https://www.bbc.com/korean/international-60255123</guid>
-            <pubDate>Fri, 04 Feb 2022 11:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[8:55]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/156E6/production/_123128778_p0bm5n44.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60065089</link>
             <guid>https://www.bbc.com/korean/news-60065089</guid>
@@ -132,6 +116,22 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/470C/production/_122988181_p0bkb0q9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IS 최고지도자, 미군에 사살… 그는 어떻게 수장이 됐나? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60255123</link>
+            <guid>https://www.bbc.com/korean/international-60255123</guid>
+            <pubDate>Fri, 04 Feb 2022 11:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[8:55]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/156E6/production/_123128778_p0bm5n44.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[성매매 종사자들이 말하는 코로나19 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-53994219</link>
             <guid>https://www.bbc.com/korean/international-53994219</guid>
@@ -140,11 +140,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8052/production/_114205823_p08q5f1c.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[베이징 동계올림픽 개막 초읽기...이번 올림픽에 알아야 할 사실 5가지 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60137237</link>
-            <guid>https://www.bbc.com/korean/international-60137237</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <title><![CDATA[미얀마 쿠데타 1주년… 소셜미디어 통한 젊은이들의 새로운 시위 확산 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60107027</link>
+            <guid>https://www.bbc.com/korean/features-60107027</guid>
+            <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,6 +154,13 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[자기 새끼에게 똥을 먹이는 코알라? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60239359</link>
+            <guid>https://www.bbc.com/korean/international-60239359</guid>
+            <pubDate>Thu, 03 Feb 2022 05:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세계 암의 날: 코로나19 백신이 암과의 전쟁 판도를 바꿀 수 있을까? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60239361</link>
             <guid>https://www.bbc.com/korean/international-60239361</guid>
@@ -161,18 +168,11 @@
             <content:encoded><![CDATA[3:33]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['솔비의 케이크' 작가 권지안이 말하다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60166305</link>
-            <guid>https://www.bbc.com/korean/features-60166305</guid>
-            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:53]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-59824576</link>
-            <guid>https://www.bbc.com/korean/features-59824576</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
+            <title><![CDATA[베이징 동계올림픽 개막 초읽기...이번 올림픽에 알아야 할 사실 5가지 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60137237</link>
+            <guid>https://www.bbc.com/korean/international-60137237</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 4일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -315,31 +315,31 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대선 후보 첫 4자 토론... 관전 포인트는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60240554</link>
-            <guid>https://www.bbc.com/korean/news-60240554</guid>
-            <pubDate>Fri, 04 Feb 2022 16:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59708074</link>
             <guid>https://www.bbc.com/korean/news-59708074</guid>
             <pubDate>Fri, 04 Feb 2022 20:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대선 후보 첫 4자 토론... 관전 포인트는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60240554</link>
+            <guid>https://www.bbc.com/korean/news-60240554</guid>
+            <pubDate>Fri, 04 Feb 2022 16:18:39 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['감기 환자 절반, 오미크론 감염자일 가능성 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59790411</link>
+            <guid>https://www.bbc.com/korean/international-59790411</guid>
+            <pubDate>Fri, 04 Feb 2022 21:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정신과 전문의가 ‘두부 멘탈·예민 보스’에게 꼭 전하고 싶은 말 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-54459516</link>
             <guid>https://www.bbc.com/korean/news-54459516</guid>
             <pubDate>Fri, 04 Feb 2022 20:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57508343</link>
-            <guid>https://www.bbc.com/korean/international-57508343</guid>
-            <pubDate>Fri, 04 Feb 2022 19:10:52 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
