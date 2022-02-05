@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 06:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 07:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나 3만명 첫 돌파... 신규 확진자 3만6362명]]></title>
+            <link>https://www.bbc.com/korean/news-60241930</link>
+            <guid>https://www.bbc.com/korean/news-60241930</guid>
+            <pubDate>Sat, 05 Feb 2022 07:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[2만명대를 돌파한 지 사흘 만에 3만명을 넘어섰다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17BDC/production/_123144279_949d488c-0cdb-4bd4-af2d-fbbebec89789.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아프간 대학, 여학생 등교 재허용…“학교 돌아가기 불안해”]]></title>
             <link>https://www.bbc.com/korean/international-60241929</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 11:11:55 GMT</pubDate>
             <content:encoded><![CDATA[김경희가 공개석상에 등장한 것은 2020년 1월 설 기념공연 이후 처음이다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14051/production/_123110028_45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나는 오늘 죽을 것'... 미얀마 시위서 '평화의 상징' 된 수녀님]]></title>
-            <link>https://www.bbc.com/korean/international-60239354</link>
-            <guid>https://www.bbc.com/korean/international-60239354</guid>
-            <pubDate>Thu, 03 Feb 2022 09:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 2월 미얀마 쿠데타가 일어난 후 안 로즈 수녀는 젊은 시위대를 보호하기 위해 중무장한 군대 앞에 무릎을 꿇었다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1F06/production/_123024970_83f1da2c-489e-4cef-97fb-d909c063f8e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
