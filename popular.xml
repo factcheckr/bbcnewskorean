@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-02-05T16:17:11.456Z</updated>
+    <updated>2022-02-05T17:11:48.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -13,17 +13,17 @@
         <content type="html"><![CDATA[1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국도 극초음속 미사일 개발… '남북 개념 완전히 달라']]></title>
-        <id>https://www.bbc.com/korean/news-60241927</id>
-        <link href="https://www.bbc.com/korean/news-60241927"/>
-        <updated>2022-02-04T09:13:11.608Z</updated>
-        <content type="html"><![CDATA[2]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['스텔스 오미크론'은 우려할 만한 것일까?]]></title>
         <id>https://www.bbc.com/korean/international-60255118</id>
         <link href="https://www.bbc.com/korean/international-60255118"/>
         <updated>2022-02-04T01:48:33.909Z</updated>
+        <content type="html"><![CDATA[2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국도 극초음속 미사일 개발… '남북 개념 완전히 달라']]></title>
+        <id>https://www.bbc.com/korean/news-60241927</id>
+        <link href="https://www.bbc.com/korean/news-60241927"/>
+        <updated>2022-02-04T09:13:11.608Z</updated>
         <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
@@ -41,38 +41,38 @@
         <content type="html"><![CDATA[5]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['미래의 자신'을 생각해보면 삶이 더 행복해질 수 있다]]></title>
-        <id>https://www.bbc.com/korean/international-60241928</id>
-        <link href="https://www.bbc.com/korean/international-60241928"/>
-        <updated>2022-02-05T14:11:26.031Z</updated>
-        <content type="html"><![CDATA[6]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코로나 3만명 첫 돌파... 신규 확진자 3만6362명]]></title>
         <id>https://www.bbc.com/korean/news-60241930</id>
         <link href="https://www.bbc.com/korean/news-60241930"/>
         <updated>2022-02-05T04:15:54.355Z</updated>
-        <content type="html"><![CDATA[7]]></content>
+        <content type="html"><![CDATA[6]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['나는 오늘 죽을 것'... 미얀마 시위서 '평화의 상징' 된 수녀님]]></title>
-        <id>https://www.bbc.com/korean/international-60239354</id>
-        <link href="https://www.bbc.com/korean/international-60239354"/>
-        <updated>2022-02-05T06:14:58.074Z</updated>
-        <content type="html"><![CDATA[8]]></content>
+        <title type="html"><![CDATA['미래의 자신'을 생각해보면 삶이 더 행복해질 수 있다]]></title>
+        <id>https://www.bbc.com/korean/international-60241928</id>
+        <link href="https://www.bbc.com/korean/international-60241928"/>
+        <updated>2022-02-05T14:11:26.031Z</updated>
+        <content type="html"><![CDATA[7]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한, '백마 탄' 김정은·김경희 공개… '극적 효과' 노린 연출]]></title>
         <id>https://www.bbc.com/korean/news-60241926</id>
         <link href="https://www.bbc.com/korean/news-60241926"/>
         <updated>2022-02-03T10:15:34.583Z</updated>
+        <content type="html"><![CDATA[8]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아프간 대학, 여학생 등교 재허용…“학교 돌아가기 불안해”]]></title>
+        <id>https://www.bbc.com/korean/international-60241929</id>
+        <link href="https://www.bbc.com/korean/international-60241929"/>
+        <updated>2022-02-05T17:11:42.778Z</updated>
         <content type="html"><![CDATA[9]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동계 올림픽, 코로나와 보이콧 속에 시작되다]]></title>
-        <id>https://www.bbc.com/korean/international-60241934</id>
-        <link href="https://www.bbc.com/korean/international-60241934"/>
-        <updated>2022-02-05T08:14:09.323Z</updated>
+        <title type="html"><![CDATA['나는 오늘 죽을 것'... 미얀마 시위서 '평화의 상징' 된 수녀님]]></title>
+        <id>https://www.bbc.com/korean/international-60239354</id>
+        <link href="https://www.bbc.com/korean/international-60239354"/>
+        <updated>2022-02-05T06:14:58.074Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
