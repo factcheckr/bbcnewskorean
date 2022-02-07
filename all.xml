@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 00:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,33 +132,19 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영국서 '불법 성매매' 기승.. 루마니아 소녀들의 눈물 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60107165</link>
-            <guid>https://www.bbc.com/korean/features-60107165</guid>
-            <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/470C/production/_122988181_p0bkb0q9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IS 최고지도자, 미군에 사살… 그는 어떻게 수장이 됐나? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60255123</link>
-            <guid>https://www.bbc.com/korean/international-60255123</guid>
-            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[8:55]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[자기 새끼에게 똥을 먹이는 코알라? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60239359</link>
             <guid>https://www.bbc.com/korean/international-60239359</guid>
             <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15E46/production/_123107698_p0blwyrh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[영국서 '불법 성매매' 기승.. 루마니아 소녀들의 눈물 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60107165</link>
+            <guid>https://www.bbc.com/korean/features-60107165</guid>
+            <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미얀마 쿠데타 1주년… 소셜미디어 통한 젊은이들의 새로운 시위 확산 (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +154,25 @@
             <content:encoded><![CDATA[3:01]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미아 칼리파: '내가 포르노를 찍게 된 이유' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-50312334</link>
-            <guid>https://www.bbc.com/korean/news-50312334</guid>
-            <pubDate>Sat, 09 Nov 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:56]]></content:encoded>
+            <title><![CDATA[IS 최고지도자, 미군에 사살… 그는 어떻게 수장이 됐나? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60255123</link>
+            <guid>https://www.bbc.com/korean/international-60255123</guid>
+            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[8:55]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58405457</link>
+            <guid>https://www.bbc.com/korean/features-58405457</guid>
+            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인종차별: 병원에서 날 두 번이나 돌려보낸 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-57354895</link>
+            <guid>https://www.bbc.com/korean/international-57354895</guid>
+            <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 6일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,10 +287,10 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[만성 코로나 환자서 보이지 않는 폐 손상 발견 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60190424</link>
-            <guid>https://www.bbc.com/korean/international-60190424</guid>
-            <pubDate>Sat, 05 Feb 2022 13:12:40 GMT</pubDate>
+            <title><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60034967</link>
+            <guid>https://www.bbc.com/korean/features-60034967</guid>
+            <pubDate>Fri, 21 Jan 2022 01:58:18 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -301,10 +301,10 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Fri, 21 Jan 2022 01:58:18 GMT</pubDate>
+            <title><![CDATA[만성 코로나 환자서 보이지 않는 폐 손상 발견 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60190424</link>
+            <guid>https://www.bbc.com/korean/international-60190424</guid>
+            <pubDate>Sat, 05 Feb 2022 13:12:40 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
