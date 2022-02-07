@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 15:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 16:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,27 +32,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베이징 동계올림픽 개막 초읽기...이번 올림픽에 알아야 할 사실 5가지]]></title>
+            <link>https://www.bbc.com/korean/international-60137237</link>
+            <guid>https://www.bbc.com/korean/international-60137237</guid>
+            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/952C/production/_122988183_p0bkb5pc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세계 암의 날: 코로나19 백신이 암과의 전쟁 판도를 바꿀 수 있을까?]]></title>
             <link>https://www.bbc.com/korean/international-60239361</link>
             <guid>https://www.bbc.com/korean/international-60239361</guid>
             <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0302/production/_123107700_p0blxk6y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자베스 2세: 즉위 70주년 맞은 영국 여왕의 지난 삶은?]]></title>
-            <link>https://www.bbc.com/korean/international-60276679</link>
-            <guid>https://www.bbc.com/korean/international-60276679</guid>
-            <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E1D7/production/_123151875_p0bmgg6w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이징 동계올림픽 개막 초읽기...이번 올림픽에 알아야 할 사실 5가지]]></title>
-            <link>https://www.bbc.com/korean/international-60137237</link>
-            <guid>https://www.bbc.com/korean/international-60137237</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IS 최고지도자, 미군에 사살… 그는 어떻게 수장이 됐나?]]></title>
@@ -62,6 +55,20 @@
             <content:encoded><![CDATA[8:55]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[엘리자베스 2세: 즉위 70주년 맞은 영국 여왕의 지난 삶은?]]></title>
+            <link>https://www.bbc.com/korean/international-60276679</link>
+            <guid>https://www.bbc.com/korean/international-60276679</guid>
+            <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 응급실 의사가 사표를 쓴 이유]]></title>
+            <link>https://www.bbc.com/korean/features-58196588</link>
+            <guid>https://www.bbc.com/korean/features-58196588</guid>
+            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들']]></title>
             <link>https://www.bbc.com/korean/features-59514830</link>
             <guid>https://www.bbc.com/korean/features-59514830</guid>
@@ -69,18 +76,11 @@
             <content:encoded><![CDATA[4:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[자기 새끼에게 똥을 먹이는 코알라?]]></title>
-            <link>https://www.bbc.com/korean/international-60239359</link>
-            <guid>https://www.bbc.com/korean/international-60239359</guid>
-            <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[미얀마 쿠데타 1주년… 소셜미디어 통한 젊은이들의 새로운 시위 확산]]></title>
+            <link>https://www.bbc.com/korean/features-60107027</link>
+            <guid>https://www.bbc.com/korean/features-60107027</guid>
+            <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
         </item>
     </channel>
 </rss>
