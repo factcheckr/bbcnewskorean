@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 10:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 11:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한 '광명성 4호' 6주년… 위성발사가 우려되는 이유]]></title>
+            <link>https://www.bbc.com/korean/news-60241935</link>
+            <guid>https://www.bbc.com/korean/news-60241935</guid>
+            <pubDate>Mon, 07 Feb 2022 11:11:43 GMT</pubDate>
+            <content:encoded><![CDATA["김정은 집권 10년의 성과 중 가장 좋은 아이템은 전략무기 개발과 인공위성 발사가 될 것"]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/59E8/production/_123161032_gettyimages-542367894.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['저는 자발적 비혼모입니다'... 혼자 엄마가 된 여성들의 사연]]></title>
+            <link>https://www.bbc.com/korean/international-60276683</link>
+            <guid>https://www.bbc.com/korean/international-60276683</guid>
+            <pubDate>Mon, 07 Feb 2022 11:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[유엔 여성기구(UN Women)에 따르면 전 세계적으로 홀로 자녀를 양육하는 여성은 1억 명이 넘는다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/94BF/production/_122697083_annemarie.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북한이 각종 제재에도 미사일 자금 마련할 수 있었던 이유]]></title>
             <link>https://www.bbc.com/korean/international-60276681</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 06 Feb 2022 05:12:49 GMT</pubDate>
             <content:encoded><![CDATA[빙하는 얼음이 형성되는 데 걸린 시간보다 약 80배 빠르게 녹고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F8FF/production/_123134736_gettyimages-1283861324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동계 올림픽, 코로나와 보이콧 속에 시작되다]]></title>
-            <link>https://www.bbc.com/korean/international-60241934</link>
-            <guid>https://www.bbc.com/korean/international-60241934</guid>
-            <pubDate>Sun, 06 Feb 2022 04:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[엄격한 코로나 제한과 인권 유린 의혹 속에 베이징 올림픽이 개막했다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BD39/production/_123114484_hi073499437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 3만명 첫 돌파... 신규 확진자 3만6362명]]></title>
-            <link>https://www.bbc.com/korean/news-60241930</link>
-            <guid>https://www.bbc.com/korean/news-60241930</guid>
-            <pubDate>Mon, 07 Feb 2022 10:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[2만명대를 돌파한 지 사흘 만에 3만명을 넘어섰다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17BDC/production/_123144279_949d488c-0cdb-4bd4-af2d-fbbebec89789.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
