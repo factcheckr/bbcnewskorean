@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 12:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.bbc.com/korean/news-60300304</guid>
             <pubDate>Wed, 09 Feb 2022 09:14:11 GMT</pubDate>
             <content:encoded><![CDATA[일반국민 평균보다 45만7000원 적은 수준이지만 격차는 점차 줄어드는 추세다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2F6B/production/_123193121_origin_580-1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/119CB/production/_123193127_origin_580-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 스타벅스, '노조 결성 주도자' 직원 해고]]></title>
