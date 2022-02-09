@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 09:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 10:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10A23/production/_122913186_mediaitem122909462.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[UCLA, 대학 소속 산부인과 의사 성범죄 피해자들에 2950억원 배상]]></title>
+            <title><![CDATA[UCLA, 대학 소속 산부인과 의사 성범죄 피해자들에 2950억원 보상]]></title>
             <link>https://www.bbc.com/korean/news-60313487</link>
             <guid>https://www.bbc.com/korean/news-60313487</guid>
             <pubDate>Wed, 09 Feb 2022 06:17:36 GMT</pubDate>
