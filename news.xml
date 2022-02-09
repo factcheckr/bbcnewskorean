@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북극곰이 버려진 기상관측소에 들어간 이유]]></title>
+            <link>https://www.bbc.com/korean/features-60313483</link>
+            <guid>https://www.bbc.com/korean/features-60313483</guid>
+            <pubDate>Wed, 09 Feb 2022 04:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[드미트리 코크는 6년 전 취미로 야생동물 사진을 촬영했다. 그때만 해도 그가 찍은 사진이 전 세계에 퍼질 것이라고는 알지 못했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0646/production/_123160610_60248965.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 목에 타이어 낀 악어 '구조작전', 방송 길이 1,09]]></title>
+            <link>https://www.bbc.com/korean/features-60313484</link>
+            <guid>https://www.bbc.com/korean/features-60313484</guid>
+            <pubDate>Wed, 09 Feb 2022 04:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[목에 타이어가 낀 채 6년간 살아온 악어가 마침내 타이어에서 해방됐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/666B/production/_123191262_p0bn0knw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['북한 국경 인근에 ICBM 미사일 기지 운용'... 미 CSIS 위성사진 공개]]></title>
             <link>https://www.bbc.com/korean/60300303</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 08 Feb 2022 01:59:29 GMT</pubDate>
             <content:encoded><![CDATA[불법 금 채취는 열대우림의 생태계와 원주민들의 터전을 파괴해 '블러드 골드(Blood Gold)'라고도 불린다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1425F/production/_123172528_p0bmm2l2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새학기 3월부터 '원칙적' 등교 수업...학교별 여건과 특성 고려 탄력적 대응]]></title>
-            <link>https://www.bbc.com/korean/news-60123188</link>
-            <guid>https://www.bbc.com/korean/news-60123188</guid>
-            <pubDate>Tue, 08 Feb 2022 01:59:29 GMT</pubDate>
-            <content:encoded><![CDATA[오는 3월 새 학기부터는 일괄적인 원격수업 대신 등교 수업이 원칙적으로 이루어진다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1116B/production/_123159996_2022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 '광명성 4호' 6주년… 위성발사가 우려되는 이유]]></title>
-            <link>https://www.bbc.com/korean/news-60241935</link>
-            <guid>https://www.bbc.com/korean/news-60241935</guid>
-            <pubDate>Mon, 07 Feb 2022 11:11:43 GMT</pubDate>
-            <content:encoded><![CDATA["김정은 집권 10년의 성과 중 가장 좋은 아이템은 전략무기 개발과 인공위성 발사가 될 것"]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/59E8/production/_123161032_gettyimages-542367894.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
