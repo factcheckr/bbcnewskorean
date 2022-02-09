@@ -4,9 +4,33 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['셀프 재택치료' 확대... 증상 심해지면 어떻게 하나]]></title>
+            <link>https://www.bbc.com/korean/news-60123190</link>
+            <guid>https://www.bbc.com/korean/news-60123190</guid>
+            <pubDate>Wed, 09 Feb 2022 09:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[10일부터 60세 이상, 50대 기저질환자 등 고위험군 중심의 코로나19 재택치료가 본격적으로 시작된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BD91/production/_123192584_19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈북민 월평균 소득 227만원… 10명 중 7명 '한국생활 만족']]></title>
+            <link>https://www.bbc.com/korean/news-60300304</link>
+            <guid>https://www.bbc.com/korean/news-60300304</guid>
+            <pubDate>Wed, 09 Feb 2022 09:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[일반국민 평균보다 45만7000원 적은 수준이지만 격차는 점차 줄어드는 추세다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2F6B/production/_123193121_origin_580-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 스타벅스, '노조 결성 주도자' 직원 해고]]></title>
+            <link>https://www.bbc.com/korean/international-60315274</link>
+            <guid>https://www.bbc.com/korean/international-60315274</guid>
+            <pubDate>Wed, 09 Feb 2022 09:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 스타벅스는 직원들의 노조 가입을 지속적으로 막아왔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0473/production/_123193110_whatsubject.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혹한의 날씨, 부실 도시락… 선수들 불만 속출하는 베이징올림픽]]></title>
             <link>https://www.bbc.com/korean/international-60313851</link>
@@ -24,7 +48,7 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10A23/production/_122913186_mediaitem122909462.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[UCLA, 대학 소속 산부인과 의사 성범죄 피해자들에 2950억원 보상]]></title>
+            <title><![CDATA[UCLA, 대학 소속 산부인과 의사 성범죄 피해자들에 2950억원 배상]]></title>
             <link>https://www.bbc.com/korean/news-60313487</link>
             <guid>https://www.bbc.com/korean/news-60313487</guid>
             <pubDate>Wed, 09 Feb 2022 06:17:36 GMT</pubDate>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 09 Feb 2022 04:18:04 GMT</pubDate>
             <content:encoded><![CDATA[목에 타이어가 낀 채 6년간 살아온 악어가 마침내 타이어에서 해방됐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/666B/production/_123191262_p0bn0knw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['북한 국경 인근에 ICBM 미사일 기지 운용'... 미 CSIS 위성사진 공개]]></title>
-            <link>https://www.bbc.com/korean/60300303</link>
-            <guid>https://www.bbc.com/korean/60300303</guid>
-            <pubDate>Wed, 09 Feb 2022 02:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[미사일 기지는 여의도 면적의 두 배가 넘으며, 중국 국경과는 불과 25km 떨어져 있다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/786B/production/_123172803__123059481_23a4cfef-5cc9-4f42-9e32-72e62626eb6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후변화 연구 보고서, '글로벌 기업들 기후변화 대처 노력 과장한다']]></title>
-            <link>https://www.bbc.com/korean/news-60166576</link>
-            <guid>https://www.bbc.com/korean/news-60166576</guid>
-            <pubDate>Tue, 08 Feb 2022 10:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 기업 중 상당수는 자사가 내세운 기후 변화 대처 목표를 달성하지 못하고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C396/production/_123007005_5d0c0aec-d318-4ab5-a150-8987a7bc0675.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아바나증후군' 원인이 전자기파?... 미 정보당국 최종 결론은 유보]]></title>
-            <link>https://www.bbc.com/korean/news-60166577</link>
-            <guid>https://www.bbc.com/korean/news-60166577</guid>
-            <pubDate>Tue, 08 Feb 2022 06:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[2016년 쿠바 아바나에서 미국 정보기관 근무자들과 외교관들은 일련의 특이한 증상을 호소하기 시작했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/033B/production/_123172800_da0aa19f-71e9-4be4-8cab-d5f345b3e5c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
