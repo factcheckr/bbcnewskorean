@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 06:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 07:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['연봉 얼마 받아?'... 직장인들 연봉 질문 망설이는 이유]]></title>
+            <link>https://www.bbc.com/korean/features-60313481</link>
+            <guid>https://www.bbc.com/korean/features-60313481</guid>
+            <pubDate>Sat, 12 Feb 2022 07:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한 연구에서 대부분의 사람들은 다른 곳에서 비슷한 업무를 할 때 받는 보상을 과소평가하는 것으로 나타났다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14CE3/production/_123191258_ce8d0ded-af49-47f0-b3ef-57dfab2e3188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 영국 100세 여성, 장수 비결은 '계속 일하는 것', 방송 길이 2,14]]></title>
             <link>https://www.bbc.com/korean/international-60343741</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 11 Feb 2022 06:18:29 GMT</pubDate>
             <content:encoded><![CDATA[호주의 코알라는 농경지 개간, 산불, 가뭄, 질병 등으로 멸종 위기에 내몰리고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14FDD/production/_123218958_3a81461d-af31-4330-af7c-913185a34b12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈모지원·동물복지·코인 비과세… 대선 이색공약은 '포퓰리즘’일까?]]></title>
-            <link>https://www.bbc.com/korean/news-60123189</link>
-            <guid>https://www.bbc.com/korean/news-60123189</guid>
-            <pubDate>Fri, 11 Feb 2022 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[대통령 선거가 한달도 남지 않은 가운데 주요 대선 주자들은 특정 세대와 집단의 표를 의식한 생활밀착형 공약을 쏟아 내고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D231/production/_123190835_tv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
