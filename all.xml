@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 20:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 21:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,38 +308,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['꿈의 에너지'... 핵융합 에너지 생산 이정표 썼다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60331303</link>
+            <guid>https://www.bbc.com/korean/international-60331303</guid>
+            <pubDate>Sat, 12 Feb 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['그들만의 올림픽?'...베이징 올림픽 경기장 밖 온라인서 감정대립 확산 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60342566</link>
             <guid>https://www.bbc.com/korean/news-60342566</guid>
             <pubDate>Fri, 11 Feb 2022 10:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['연봉 얼마 받아?'... 직장인들 연봉 질문 망설이는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60313481</link>
             <guid>https://www.bbc.com/korean/features-60313481</guid>
             <pubDate>Sat, 12 Feb 2022 03:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['꿈의 에너지'... 핵융합 에너지 생산 이정표 썼다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60331303</link>
-            <guid>https://www.bbc.com/korean/international-60331303</guid>
-            <pubDate>Sat, 12 Feb 2022 19:11:31 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Sat, 12 Feb 2022 18:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['밀당, 그게 뭐죠?'... 요즘 MZ세대의 데이트 방식 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60314588</link>
             <guid>https://www.bbc.com/korean/international-60314588</guid>
             <pubDate>Fri, 11 Feb 2022 09:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['셀프 재택치료' 확대... 증상 심해지면 어떻게 하나 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60123190</link>
+            <guid>https://www.bbc.com/korean/news-60123190</guid>
+            <pubDate>Sat, 12 Feb 2022 21:12:14 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
