@@ -4,11 +4,19 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 04:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 05:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Z세대는 사랑과 섹스에 관해 더 실용적일까?]]></title>
+            <title><![CDATA[후회는 부정적? 심리학자들이 말하는 '후회와 함께 살아가는 법']]></title>
+            <link>https://www.bbc.com/korean/international-60364681</link>
+            <guid>https://www.bbc.com/korean/international-60364681</guid>
+            <pubDate>Sun, 13 Feb 2022 05:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[사람들은 보통 후회를 바람직하지 않은 감정이라고 생각하지만, 심리학자들은 후회가 매우 유용할 수 있다고 말한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13FD1/production/_123237818_5d867c38-c662-421c-a95d-64b7db328f26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대는 사랑과 섹스에 더 실용적일까?]]></title>
             <link>https://www.bbc.com/korean/international-60364841</link>
             <guid>https://www.bbc.com/korean/international-60364841</guid>
             <pubDate>Sun, 13 Feb 2022 03:14:39 GMT</pubDate>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 11 Feb 2022 10:15:28 GMT</pubDate>
             <content:encoded><![CDATA[문재인 대통령은 임기 마지막까지 남북 정상회담 성사를 위해 노력하겠다는 의지를 밝혔다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/114EB/production/_123219807_origin_-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그들만의 올림픽?'...베이징 올림픽 경기장 밖 온라인서 감정대립 확산]]></title>
-            <link>https://www.bbc.com/korean/news-60342566</link>
-            <guid>https://www.bbc.com/korean/news-60342566</guid>
-            <pubDate>Fri, 11 Feb 2022 10:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[베이징 올림픽이 전 세계인의 축제가 아닌 중국 '그들만의 축제'로 퇴색하고 있다는 비판이 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1202B/production/_123217737_mediaitem123217736.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
