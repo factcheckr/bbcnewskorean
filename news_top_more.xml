@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean</id>
     <title>BBC News 코리아 ─ 뉴스 메인 더보기</title>
-    <updated>2022-02-13T03:15:12.491Z</updated>
+    <updated>2022-02-13T04:18:32.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
-        <title type="html"><![CDATA[자존감 아닌 '자기연민'이 성공의 비결인 이유]]></title>
-        <id>https://www.bbc.com/korean/features-60255122</id>
-        <link href="https://www.bbc.com/korean/features-60255122"/>
-        <updated>2022-02-13T02:02:29.385Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/features-60255122" class="bbc-1ocdizt e1wlg2v80"><span>자존감 아닌 '자기연민'이 성공의 비결인 이유</span></a>]]></content>
+        <title type="html"><![CDATA[기후변화, 과연 누구의 책임인가?]]></title>
+        <id>https://www.bbc.com/korean/vert-fut-53125074</id>
+        <link href="https://www.bbc.com/korean/vert-fut-53125074"/>
+        <updated>2022-02-13T04:18:09.667Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/vert-fut-53125074" class="bbc-1ocdizt e1wlg2v80"><span>기후변화, 과연 누구의 책임인가?</span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['미래의 자신'을 생각해보면 삶이 더 행복해질 수 있다]]></title>
-        <id>https://www.bbc.com/korean/international-60241928</id>
-        <link href="https://www.bbc.com/korean/international-60241928"/>
-        <updated>2022-02-13T02:02:29.388Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/international-60241928" class="bbc-1ocdizt e1wlg2v80"><span>'미래의 자신'을 생각해보면 삶이 더 행복해질 수 있다</span></a>]]></content>
+        <title type="html"><![CDATA[기후변화 연구 보고서, '글로벌 기업들 기후변화 대처 노력 과장한다']]></title>
+        <id>https://www.bbc.com/korean/news-60166576</id>
+        <link href="https://www.bbc.com/korean/news-60166576"/>
+        <updated>2022-02-13T04:18:09.668Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/news-60166576" class="bbc-1ocdizt e1wlg2v80"><span>기후변화 연구 보고서, '글로벌 기업들 기후변화 대처 노력 과장한다'</span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행복해야 한다는 강박을 멈춰야 하는 이유]]></title>
-        <id>https://www.bbc.com/korean/features-60013028</id>
-        <link href="https://www.bbc.com/korean/features-60013028"/>
-        <updated>2022-02-13T02:02:29.389Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/features-60013028" class="bbc-1ocdizt e1wlg2v80"><span>행복해야 한다는 강박을 멈춰야 하는 이유</span></a>]]></content>
+        <title type="html"><![CDATA[기후변화: 5년내 1.5도 상승 가능]]></title>
+        <id>https://www.bbc.com/korean/international-57306761</id>
+        <link href="https://www.bbc.com/korean/international-57306761"/>
+        <updated>2022-02-13T04:18:09.670Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/international-57306761" class="bbc-1ocdizt e1wlg2v80"><span>기후변화: 5년내 1.5도 상승 가능</span></a>]]></content>
     </entry>
 </feed>
