@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 21:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 22:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -109,14 +109,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['내 나이가 어때서'...100살 앞둔 무용수 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-56619262</link>
-            <guid>https://www.bbc.com/korean/international-56619262</guid>
-            <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A22/production/_117826353_p09clyc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[건강: 영국 100세 여성, 장수 비결은 '계속 일하는 것' (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60343741</link>
             <guid>https://www.bbc.com/korean/international-60343741</guid>
@@ -133,11 +125,19 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5874/production/_123244622_p0bnzd0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58405457</link>
+            <guid>https://www.bbc.com/korean/features-58405457</guid>
+            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5522/production/_120349712_p09tq3cn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스젠더 : '나는 트랜스젠더 수학 선생님입니다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-48870734</link>
+            <guid>https://www.bbc.com/korean/news-48870734</guid>
+            <pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[탈레반의 '보복성 체포 및 살인의 증거'들 (BBC News 코리아 ─ 비디오)]]></title>
@@ -147,25 +147,25 @@
             <content:encoded><![CDATA[4:46]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[영국서 '불법 성매매' 기승.. 루마니아 소녀들의 눈물 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60107165</link>
+            <guid>https://www.bbc.com/korean/features-60107165</guid>
+            <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <title><![CDATA['여러분 내가 골 넣었어요'...과테말라 축구 경기서 나온 이색장면(영상) (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47493206</link>
+            <guid>https://www.bbc.com/korean/news-47493206</guid>
+            <pubDate>Fri, 08 Mar 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 응급실 의사가 사표를 쓴 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58196588</link>
-            <guid>https://www.bbc.com/korean/features-58196588</guid>
-            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59514830</link>
+            <guid>https://www.bbc.com/korean/features-59514830</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 14일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -266,31 +266,31 @@
             <content:encoded><![CDATA[korean-2022-02-01-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아-우크라 전쟁위기 막을 수 있는 외교적 해법은 없나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60358513</link>
-            <guid>https://www.bbc.com/korean/features-60358513</guid>
-            <pubDate>Sat, 12 Feb 2022 05:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[4차 접종, 노바백스 백신 접종 시작... 대상자는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60342567</link>
             <guid>https://www.bbc.com/korean/news-60342567</guid>
             <pubDate>Mon, 14 Feb 2022 09:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네안데르탈인의 멸종, 잔혹한 학살 때문이 아니다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60328888</link>
+            <guid>https://www.bbc.com/korean/international-60328888</guid>
+            <pubDate>Mon, 14 Feb 2022 11:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아-우크라 전쟁위기 막을 수 있는 외교적 해법은 없나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60358513</link>
+            <guid>https://www.bbc.com/korean/features-60358513</guid>
+            <pubDate>Sat, 12 Feb 2022 05:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Fri, 21 Jan 2022 01:58:18 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아-우크라 전쟁 위기에도 '떠날 수 없다'는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60358520</link>
-            <guid>https://www.bbc.com/korean/60358520</guid>
-            <pubDate>Mon, 14 Feb 2022 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -301,24 +301,24 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네안데르탈인의 멸종, 잔혹한 학살 때문이 아니다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60328888</link>
-            <guid>https://www.bbc.com/korean/international-60328888</guid>
-            <pubDate>Mon, 14 Feb 2022 11:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일본 피겨 선수 하뉴에 이례적으로 열광한 중국, 이유는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60314587</link>
             <guid>https://www.bbc.com/korean/international-60314587</guid>
             <pubDate>Mon, 14 Feb 2022 13:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아-우크라 전쟁 위기에도 '떠날 수 없다'는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60358520</link>
+            <guid>https://www.bbc.com/korean/60358520</guid>
+            <pubDate>Mon, 14 Feb 2022 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Mon, 14 Feb 2022 19:13:47 GMT</pubDate>
+            <title><![CDATA[Z세대는 사랑과 섹스에 더 실용적일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60364841</link>
+            <guid>https://www.bbc.com/korean/international-60364841</guid>
+            <pubDate>Mon, 14 Feb 2022 22:13:54 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
@@ -329,10 +329,10 @@
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['그들만의 올림픽?'...베이징 올림픽 경기장 밖 온라인서 감정대립 확산 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60342566</link>
-            <guid>https://www.bbc.com/korean/news-60342566</guid>
-            <pubDate>Mon, 14 Feb 2022 21:12:00 GMT</pubDate>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Mon, 14 Feb 2022 19:13:47 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
