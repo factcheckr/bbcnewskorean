@@ -4,9 +4,33 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 06:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['새 경기장 곳곳 눈에 띄는 빈자리'... 관중석에서 본 이번 동계올림픽]]></title>
+            <link>https://www.bbc.com/korean/features-60371576</link>
+            <guid>https://www.bbc.com/korean/features-60371576</guid>
+            <pubDate>Mon, 14 Feb 2022 06:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[BBC 중국 특파원은 다른 '특별 관람객'과 비슷한 조건으로 입장할 수 있었다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C69C/production/_123244805_949bda09-8967-4b18-a9f2-f4ceddec2d1e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스위스, 담배 광고 금지안 국민투표 통과]]></title>
+            <link>https://www.bbc.com/korean/international-60371685</link>
+            <guid>https://www.bbc.com/korean/international-60371685</guid>
+            <pubDate>Mon, 14 Feb 2022 06:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[스위스는 건강하고 환경친화적인 국가 이미지가 있지만, 유럽에서는 담배 규정이 매우 느슨한 축에 속한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5F7C/production/_123244442_swissvote.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 유색인종 여성은 영국 미인대회 우승자가 될 수 없다?, 방송 길이 2,56]]></title>
+            <link>https://www.bbc.com/korean/international-60371721</link>
+            <guid>https://www.bbc.com/korean/international-60371721</guid>
+            <pubDate>Mon, 14 Feb 2022 06:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[역사상 처음으로 영국의 3대 미인 대회 모두에서 유색 인종 여성들이 우승을 차지했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5874/production/_123244622_p0bnzd0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 탈레반의 '보복성 체포 및 살인의 증거'들, 방송 길이 4,46]]></title>
             <link>https://www.bbc.com/korean/international-60366598</link>
@@ -40,36 +64,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A7DD/production/_123237924_1409b389-b15f-4930-8702-afc05e424eee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아-우크라 전쟁위기 막을 수 있는 외교적 해법은 없나?]]></title>
-            <link>https://www.bbc.com/korean/features-60358513</link>
-            <guid>https://www.bbc.com/korean/features-60358513</guid>
-            <pubDate>Sun, 13 Feb 2022 03:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[군사적 충돌로 인한 유혈사태를 초래하지 않을 잠재적인 선택지들을 소개한다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FAB6/production/_123228146_mediaitem123228145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[잃어버린 비트코인을 찾는 사람들]]></title>
             <link>https://www.bbc.com/korean/features-60358519</link>
             <guid>https://www.bbc.com/korean/features-60358519</guid>
             <pubDate>Sat, 12 Feb 2022 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[사람들이 암호화폐를 되찾을 수 있도록 돕는 '윤리적 해커'가 늘고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16AF5/production/_123171929_722da947-d739-4539-849b-95945f817c97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['연봉 얼마 받아?'... 직장인들 연봉 질문 망설이는 이유]]></title>
-            <link>https://www.bbc.com/korean/features-60313481</link>
-            <guid>https://www.bbc.com/korean/features-60313481</guid>
-            <pubDate>Sat, 12 Feb 2022 07:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한 연구에서 대부분의 사람들은 다른 곳에서 비슷한 업무를 할 때 받는 보상을 과소평가하는 것으로 나타났다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14CE3/production/_123191258_ce8d0ded-af49-47f0-b3ef-57dfab2e3188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 영국 100세 여성, 장수 비결은 '계속 일하는 것', 방송 길이 2,14]]></title>
-            <link>https://www.bbc.com/korean/international-60343741</link>
-            <guid>https://www.bbc.com/korean/international-60343741</guid>
-            <pubDate>Sat, 12 Feb 2022 03:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[올해 100번째 생일을 맞은 그는 영국 런던에 있는 병원 내 한 카페에서 18년 째 자원봉사를 해오고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6965/production/_123218962_p0bnkn1x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
