@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 00:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 01:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,20 +116,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12299/production/_123239347_p0bnwgz5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['내 나이가 어때서'...100살 앞둔 무용수 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-56619262</link>
-            <guid>https://www.bbc.com/korean/international-56619262</guid>
-            <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A22/production/_117826353_p09clyc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['넷플릭스 진출' 나이지리아 10대들의 SF영화 제작 도전기 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60328634</link>
+            <guid>https://www.bbc.com/korean/international-60328634</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4682/production/_123205081_p0bn93sj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보디빌더: 선수로 활동하는 75세 임종소 씨 이야기 (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,25 +132,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CFBF/production/_108238135_ssss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['넷플릭스 진출' 나이지리아 10대들의 SF영화 제작 도전기 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60328634</link>
-            <guid>https://www.bbc.com/korean/international-60328634</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59906342</link>
-            <guid>https://www.bbc.com/korean/international-59906342</guid>
-            <pubDate>Sun, 13 Feb 2022 10:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59788416</link>
-            <guid>https://www.bbc.com/korean/international-59788416</guid>
-            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <title><![CDATA['내 나이가 어때서'...100살 앞둔 무용수 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-56619262</link>
+            <guid>https://www.bbc.com/korean/international-56619262</guid>
+            <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A22/production/_117826353_p09clyc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건강: 영국 100세 여성, 장수 비결은 '계속 일하는 것' (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +147,32 @@
             <content:encoded><![CDATA[2:14]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[휠체어 타는 아들 위해 로봇 슈트를 만든 아버지 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58044520</link>
-            <guid>https://www.bbc.com/korean/features-58044520</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59514830</link>
+            <guid>https://www.bbc.com/korean/features-59514830</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59906342</link>
+            <guid>https://www.bbc.com/korean/international-59906342</guid>
+            <pubDate>Sun, 13 Feb 2022 10:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59788416</link>
+            <guid>https://www.bbc.com/korean/international-59788416</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 13일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나는 오늘 죽을 것'... 미얀마 시위서 '평화의 상징' 된 수녀님 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60239354</link>
-            <guid>https://www.bbc.com/korean/international-60239354</guid>
-            <pubDate>Sun, 13 Feb 2022 21:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 축구 선수단 유니폼에 열 받은 러시아 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57390554</link>
-            <guid>https://www.bbc.com/korean/international-57390554</guid>
-            <pubDate>Sun, 13 Feb 2022 23:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['그들만의 올림픽?'...베이징 올림픽 경기장 밖 온라인서 감정대립 확산 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60342566</link>
             <guid>https://www.bbc.com/korean/news-60342566</guid>
             <pubDate>Mon, 14 Feb 2022 00:50:40 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나는 오늘 죽을 것'... 미얀마 시위서 '평화의 상징' 된 수녀님 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60239354</link>
+            <guid>https://www.bbc.com/korean/international-60239354</guid>
+            <pubDate>Sun, 13 Feb 2022 21:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아 청년들은 푸틴을 어떻게 생각할까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-43453749</link>
+            <guid>https://www.bbc.com/korean/news-43453749</guid>
+            <pubDate>Mon, 14 Feb 2022 01:56:07 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
