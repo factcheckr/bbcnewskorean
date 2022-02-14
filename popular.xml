@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-02-14T06:18:11.987Z</updated>
+    <updated>2022-02-14T07:15:12.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -13,24 +13,24 @@
         <content type="html"><![CDATA[1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아-우크라 전쟁 위기에도 '떠날 수 없다'는 사람들]]></title>
-        <id>https://www.bbc.com/korean/60358520</id>
-        <link href="https://www.bbc.com/korean/60358520"/>
-        <updated>2022-02-14T04:18:51.584Z</updated>
-        <content type="html"><![CDATA[2]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나?]]></title>
         <id>https://www.bbc.com/korean/features-60034967</id>
         <link href="https://www.bbc.com/korean/features-60034967"/>
         <updated>2022-01-21T02:32:52.649Z</updated>
+        <content type="html"><![CDATA[2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아-우크라 전쟁 위기에도 '떠날 수 없다'는 사람들]]></title>
+        <id>https://www.bbc.com/korean/60358520</id>
+        <link href="https://www.bbc.com/korean/60358520"/>
+        <updated>2022-02-14T04:18:51.584Z</updated>
         <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네안데르탈인의 멸종, 잔혹한 학살 때문이 아니다]]></title>
-        <id>https://www.bbc.com/korean/international-60328888</id>
-        <link href="https://www.bbc.com/korean/international-60328888"/>
-        <updated>2022-02-10T04:18:24.698Z</updated>
+        <title type="html"><![CDATA['새 경기장 곳곳 눈에 띄는 빈자리'... 관중석에서 본 이번 동계올림픽]]></title>
+        <id>https://www.bbc.com/korean/features-60371576</id>
+        <link href="https://www.bbc.com/korean/features-60371576"/>
+        <updated>2022-02-14T07:15:07.299Z</updated>
         <content type="html"><![CDATA[4]]></content>
     </entry>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[8]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[네안데르탈인의 멸종, 잔혹한 학살 때문이 아니다]]></title>
+        <id>https://www.bbc.com/korean/international-60328888</id>
+        <link href="https://www.bbc.com/korean/international-60328888"/>
+        <updated>2022-02-10T04:18:24.698Z</updated>
+        <content type="html"><![CDATA[9]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일본 피겨 선수 하뉴에 이례적으로 열광한 중국, 이유는?]]></title>
         <id>https://www.bbc.com/korean/international-60314587</id>
         <link href="https://www.bbc.com/korean/international-60314587"/>
         <updated>2022-02-11T05:13:34.798Z</updated>
-        <content type="html"><![CDATA[9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후회는 부정적? 심리학자들이 말하는 '후회와 함께 살아가는 법']]></title>
-        <id>https://www.bbc.com/korean/international-60364681</id>
-        <link href="https://www.bbc.com/korean/international-60364681"/>
-        <updated>2022-02-13T03:15:06.843Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
