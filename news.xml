@@ -4,15 +4,15 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 10:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 11:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[캐나다, ‘백신 의무화 반대’ 트럭 시위대에 '계좌 동결' 긴급조치]]></title>
+            <title><![CDATA[캐나다, 백신 의무화 반대 시위대 '계좌 동결' 긴급조치]]></title>
             <link>https://www.bbc.com/korean/news-60384962</link>
             <guid>https://www.bbc.com/korean/news-60384962</guid>
             <pubDate>Tue, 15 Feb 2022 10:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[트위도 총리는 트럭 시위자들의 개인 계좌를 동결할 수 있는 전례 없는 '긴급조치'를 발동했다.]]></content:encoded>
+            <content:encoded><![CDATA[캐나다가 백신 접종 의무화 반대 시위를 해산시키기 위해 긴급조치를 발동했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A22/production/_123262227_canada_protest_epa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
