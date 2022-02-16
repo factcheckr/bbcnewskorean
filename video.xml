@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 13:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 14:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼: 91년째 '사랑 중'… 부부가 말하는 행복한 결혼생활 비결]]></title>
-            <link>https://www.bbc.com/korean/international-60397926</link>
-            <guid>https://www.bbc.com/korean/international-60397926</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/723F/production/_123274292_p0bp5h9l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조코비치: '미접종' 테니스 스타, '타이틀보다 내 몸 결정권이 더 중요']]></title>
-            <link>https://www.bbc.com/korean/international-60399040</link>
-            <guid>https://www.bbc.com/korean/international-60399040</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A4AD/production/_123275124_p0bpbg3v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -48,11 +32,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A22/production/_117826353_p09clyc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한에서 온 인기 유튜버 강나라]]></title>
-            <link>https://www.bbc.com/korean/features-53006585</link>
-            <guid>https://www.bbc.com/korean/features-53006585</guid>
-            <pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <title><![CDATA[결혼: 91년째 '사랑 중'… 부부가 말하는 행복한 결혼생활 비결]]></title>
+            <link>https://www.bbc.com/korean/international-60397926</link>
+            <guid>https://www.bbc.com/korean/international-60397926</guid>
+            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/723F/production/_123274292_p0bp5h9l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보디빌더: 선수로 활동하는 75세 임종소 씨 이야기]]></title>
@@ -60,13 +45,21 @@
             <guid>https://www.bbc.com/korean/news-49274152</guid>
             <pubDate>Fri, 09 Aug 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CFBF/production/_108238135_ssss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들']]></title>
-            <link>https://www.bbc.com/korean/features-59514830</link>
-            <guid>https://www.bbc.com/korean/features-59514830</guid>
-            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <title><![CDATA[북한에서 온 인기 유튜버 강나라]]></title>
+            <link>https://www.bbc.com/korean/features-53006585</link>
+            <guid>https://www.bbc.com/korean/features-53006585</guid>
+            <pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조코비치: '미접종' 테니스 스타, '타이틀보다 내 몸 결정권이 더 중요']]></title>
+            <link>https://www.bbc.com/korean/international-60399040</link>
+            <guid>https://www.bbc.com/korean/international-60399040</guid>
+            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한: 클럽하우스서 수다 떠는 탈북 청년들]]></title>
@@ -74,6 +67,13 @@
             <guid>https://www.bbc.com/korean/features-56672143</guid>
             <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들']]></title>
+            <link>https://www.bbc.com/korean/features-59514830</link>
+            <guid>https://www.bbc.com/korean/features-59514830</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
