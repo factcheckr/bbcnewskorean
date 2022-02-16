@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 10:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 11:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아는 우크라이나를 침공할까? 푸틴의 속내는]]></title>
+            <link>https://www.bbc.com/korean/international-60397928</link>
+            <guid>https://www.bbc.com/korean/international-60397928</guid>
+            <pubDate>Wed, 16 Feb 2022 11:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[마크 밀리 미군 합참의장은 러시아군의 침공으로 상당한 규모의 사상자가 발생할 것이며, 도심에서 벌어지는 전투는 끔찍할 것이라고 경고했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0FEA/production/_123247040_tank.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['강물에 버려진 약물, 전 세계 보건 위협한다']]></title>
+            <link>https://www.bbc.com/korean/international-60398956</link>
+            <guid>https://www.bbc.com/korean/international-60398956</guid>
+            <pubDate>Wed, 16 Feb 2022 11:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[피임약이 강에 흘러 들어가면 물고기의 발달과 번식에 영향을 미칠 수 있다는 점은 이미 잘 알려졌다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15532/production/_123264378_wastegetty.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 조코비치 '백신 미접종 대가, 감내하겠다', 방송 길이 4,33]]></title>
             <link>https://www.bbc.com/korean/international-60399040</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 15 Feb 2022 10:16:04 GMT</pubDate>
             <content:encoded><![CDATA[카밀라 발리예바(15)는 금지 약물 양성반응을 보였음에도 15일(현지시간) 열리는 여자 싱글 경기에 출전하게 됐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EB37/production/_123251206_kamila.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, '인도-파키스탄 형제' 75년 만에 극적 상봉, 방송 길이 2,58]]></title>
-            <link>https://www.bbc.com/korean/international-60385002</link>
-            <guid>https://www.bbc.com/korean/international-60385002</guid>
-            <pubDate>Tue, 15 Feb 2022 07:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[인도-파키스탄 분리독립 후 서로의 생사도 몰랐던 형제가 75년 만에 극적으로 상봉했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A5B0/production/_123261424_p0bp4xxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인도 증권거래소 CEO, 요가 스승의 꼭두각시였다']]></title>
-            <link>https://www.bbc.com/korean/news-60384961</link>
-            <guid>https://www.bbc.com/korean/news-60384961</guid>
-            <pubDate>Tue, 15 Feb 2022 07:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[그는 익명의 요가 스승에게 사업 계획과 이사회 안건, 재무 전망 등을 공유한 것으로 알려졌다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D044/production/_123261335_7c66ca93-7705-4034-8bcb-59fb8cd3b7b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
