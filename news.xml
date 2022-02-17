@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Feb 2022 09:15:34 GMT</pubDate>
             <content:encoded><![CDATA[이 HIV 환자는 급성 골수성 백혈병을 진단받은 뒤 후천성 면역 결핍 증후군(AIDS)의 원인이 되는 HIV에 선천적 내성을 지닌 기증자의 골수를 이식받았다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F02F/production/_123278416_mediaitem123278415.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1만 명 '병상대기'하는 홍콩... 시진핑 '모든 인력 총동원' 이례적 지시]]></title>
+            <link>https://www.bbc.com/korean/international-60413859</link>
+            <guid>https://www.bbc.com/korean/international-60413859</guid>
+            <pubDate>Thu, 17 Feb 2022 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[홍콩에서 코로나19 확진자 수가 치솟으면서 의료 체계가 한계에 다다랐다. 병상이 부족해지자 감염 환자들이 병원 밖에서 치료 받는 상황이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/829E/production/_123283433_tv073857445.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아-우크라 사태… 더 치열한 '미디어 전쟁']]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 11:13:09 GMT</pubDate>
             <content:encoded><![CDATA[마크 밀리 미군 합참의장은 러시아군의 침공으로 상당한 규모의 사상자가 발생할 것이며, 도심에서 벌어지는 전투는 끔찍할 것이라고 경고했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0FEA/production/_123247040_tank.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강물에 버려진 약물, 전 세계 보건 위협한다']]></title>
-            <link>https://www.bbc.com/korean/international-60398956</link>
-            <guid>https://www.bbc.com/korean/international-60398956</guid>
-            <pubDate>Wed, 16 Feb 2022 11:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[피임약이 강에 흘러 들어가면 물고기의 발달과 번식에 영향을 미칠 수 있다는 점은 이미 잘 알려졌다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15532/production/_123264378_wastegetty.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
