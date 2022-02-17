@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 07:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 08:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아-우크라 사태… 더 치열한 '미디어 전쟁']]></title>
+            <link>https://www.bbc.com/korean/international-60412618</link>
+            <guid>https://www.bbc.com/korean/international-60412618</guid>
+            <pubDate>Thu, 17 Feb 2022 08:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군의 증강에 대해 서방 국가들은 연일 경고했지만, 정작 우크라이나 내 반응은 잠잠했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AB14/production/_123269734_gettyimages-1238407602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 텔레그램 유출 피해자로 산다는 것, 방송 길이 3,15]]></title>
             <link>https://www.bbc.com/korean/international-59965086</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 07:13:43 GMT</pubDate>
             <content:encoded><![CDATA[현재로선 코로나19 백신을 맞지 않을 것이며, 그에 대한 대가로 프랑스오픈과 윔블던 등 주요 대회 불참을 감수하겠다고도 밝혔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A4AD/production/_123275124_p0bpbg3v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도핑 스캔들의 중심에 선 15세 러시아 '피겨 스타' 발리예바]]></title>
-            <link>https://www.bbc.com/korean/international-60398950</link>
-            <guid>https://www.bbc.com/korean/international-60398950</guid>
-            <pubDate>Wed, 16 Feb 2022 05:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[발리예바는 이번 베이징 동계 올림픽의 최대 기대주였지만, 현재 다른 이유로 논란의 중심에 섰다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/51F8/production/_123248902_mediaitem123248901.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
