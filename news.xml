@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 03:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 04:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 텔레그램 유출 피해자로 산다는 것, 방송 길이 3,15]]></title>
+            <link>https://www.bbc.com/korean/international-59965086</link>
+            <guid>https://www.bbc.com/korean/international-59965086</guid>
+            <pubDate>Thu, 17 Feb 2022 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 메신저 텔레그램에서 여성 대상 성범죄가 늘고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1859B/production/_122693799_p0bplzmd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1년 넘게 북한 쓰레기를 주우며 알게 된 것들]]></title>
+            <link>https://www.bbc.com/korean/features-60384150</link>
+            <guid>https://www.bbc.com/korean/features-60384150</guid>
+            <pubDate>Thu, 17 Feb 2022 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[당과류를 보면 짝퉁 '헬로키티'나 '곰돌이 푸' 캐릭터가 눈길을 끈다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14A24/production/_123261548_batch_screenshot2022-02-11at14.13.45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['와인 두 잔이면 하루 당 섭취량 채운다']]></title>
             <link>https://www.bbc.com/korean/international-60411817</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 05:13:22 GMT</pubDate>
             <content:encoded><![CDATA[발리예바는 이번 베이징 동계 올림픽의 최대 기대주였지만, 현재 다른 이유로 논란의 중심에 섰다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/51F8/production/_123248902_mediaitem123248901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한: '1년에 1만세대 주택 건설하겠다'… 경제난 속 가능할까?]]></title>
-            <link>https://www.bbc.com/korean/news-60300310</link>
-            <guid>https://www.bbc.com/korean/news-60300310</guid>
-            <pubDate>Wed, 16 Feb 2022 04:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1월 8차 당대회에서 평양시에 해마다 1만 가구씩, 2025년까지 5만 가구를 건설하겠다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16C84/production/_123261339_kcna.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 91년째 '사랑 중'… 부부가 말하는 행복한 결혼생활 비결, 방송 길이 2,24]]></title>
-            <link>https://www.bbc.com/korean/international-60397926</link>
-            <guid>https://www.bbc.com/korean/international-60397926</guid>
-            <pubDate>Wed, 16 Feb 2022 00:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[올해로 91년째 행복한 결혼생활을 이어오고 있는 부부가 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/723F/production/_123274292_p0bp5h9l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
