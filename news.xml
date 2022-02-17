@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 01:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 02:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Feb 2022 01:53:30 GMT</pubDate>
             <content:encoded><![CDATA[이는 글레이즈드 도넛의 함유량보다 더 많은 것이다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14C4A/production/_123266058_gettyimages-1308615779.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴질랜드서 희귀한 '유령 상어' 새끼 발견]]></title>
+            <link>https://www.bbc.com/korean/international-60411822</link>
+            <guid>https://www.bbc.com/korean/international-60411822</guid>
+            <pubDate>Thu, 17 Feb 2022 02:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[햇빛이 들지 않은 심해에 서식하며 잘 알려지지 않은 희귀한 '유령 상어'의 새끼를 발견했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EE1D/production/_123275906_neonatebritfin.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아는 우크라이나를 침공할까? 푸틴의 속내는]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 00:55:17 GMT</pubDate>
             <content:encoded><![CDATA[올해로 91년째 행복한 결혼생활을 이어오고 있는 부부가 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/723F/production/_123274292_p0bp5h9l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐나다, ‘백신 의무화 반대’ 트럭 시위대에 '계좌 동결' 긴급조치]]></title>
-            <link>https://www.bbc.com/korean/news-60384962</link>
-            <guid>https://www.bbc.com/korean/news-60384962</guid>
-            <pubDate>Tue, 15 Feb 2022 10:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[트위도 총리는 트럭 시위자들의 개인 계좌를 동결할 수 있는 전례 없는 '긴급조치'를 발동했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A22/production/_123262227_canada_protest_epa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
