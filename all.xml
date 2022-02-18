@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 15:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,20 +147,6 @@
             <content:encoded><![CDATA[1:39]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-59514830</link>
-            <guid>https://www.bbc.com/korean/features-59514830</guid>
-            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-55328536</link>
-            <guid>https://www.bbc.com/korean/features-55328536</guid>
-            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9:24]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-47167180</link>
             <guid>https://www.bbc.com/korean/news-47167180</guid>
@@ -168,11 +154,25 @@
             <content:encoded><![CDATA[7:07]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[성범죄: 텔레그램 유출 피해 여성으로 산다는 것 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59965086</link>
+            <guid>https://www.bbc.com/korean/international-59965086</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-58405457</link>
             <guid>https://www.bbc.com/korean/features-58405457</guid>
             <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 17일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,17 +280,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이징 올림픽에서 무너진 15세 소녀를 둘러싼 분노와 동정 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60426924</link>
-            <guid>https://www.bbc.com/korean/news-60426924</guid>
-            <pubDate>Fri, 18 Feb 2022 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아는 우크라이나를 침공할까? 푸틴의 속내는 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60397928</link>
             <guid>https://www.bbc.com/korean/international-60397928</guid>
             <pubDate>Wed, 16 Feb 2022 03:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[베이징 올림픽에서 무너진 15세 소녀를 둘러싼 분노와 동정 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60426924</link>
+            <guid>https://www.bbc.com/korean/news-60426924</guid>
+            <pubDate>Fri, 18 Feb 2022 06:19:11 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -315,31 +315,31 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Fri, 18 Feb 2022 12:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 신규확진 11만명 육박... 3월중순 정점 전망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60426305</link>
-            <guid>https://www.bbc.com/korean/news-60426305</guid>
-            <pubDate>Fri, 18 Feb 2022 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아-우크라 사태… 더 치열한 '미디어 전쟁' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60412618</link>
             <guid>https://www.bbc.com/korean/international-60412618</guid>
             <pubDate>Thu, 17 Feb 2022 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Fri, 18 Feb 2022 12:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[도핑 스캔들의 중심에 선 15세 러시아 '피겨 스타' 발리예바 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60398950</link>
             <guid>https://www.bbc.com/korean/international-60398950</guid>
             <pubDate>Fri, 18 Feb 2022 13:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 신규확진 11만명 육박... 3월중순 정점 전망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60426305</link>
+            <guid>https://www.bbc.com/korean/news-60426305</guid>
+            <pubDate>Fri, 18 Feb 2022 04:19:40 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
