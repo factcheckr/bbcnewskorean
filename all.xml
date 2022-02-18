@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 15:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 16:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A4AD/production/_123275124_p0bpbg3v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['조선족' 비하 논란에 대한 대림동 사람들의 생각 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-41425412</link>
-            <guid>https://www.bbc.com/korean/news-41425412</guid>
-            <pubDate>Sat, 30 Sep 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/74EF/production/_98053992_p05hgp60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
@@ -140,18 +132,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['내 나이가 어때서'...100살 앞둔 무용수 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-56619262</link>
-            <guid>https://www.bbc.com/korean/international-56619262</guid>
-            <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[코로나19: 응급실 의사가 사표를 쓴 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-58196588</link>
+            <guid>https://www.bbc.com/korean/features-58196588</guid>
+            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/148D5/production/_119918148_p09s0ynf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성범죄: 텔레그램 유출 피해 여성으로 산다는 것 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,18 +147,32 @@
             <content:encoded><![CDATA[3:15]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA['내 나이가 어때서'...100살 앞둔 무용수 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-56619262</link>
+            <guid>https://www.bbc.com/korean/international-56619262</guid>
+            <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/52658314</link>
-            <guid>https://www.bbc.com/korean/52658314</guid>
-            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59514830</link>
+            <guid>https://www.bbc.com/korean/features-59514830</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미아 칼리파: '내가 포르노를 찍게 된 이유' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-50312334</link>
+            <guid>https://www.bbc.com/korean/news-50312334</guid>
+            <pubDate>Sat, 09 Nov 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:56]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 17일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -294,17 +294,17 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그래서 조선족은 한국인인가 중국인인가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60342568</link>
-            <guid>https://www.bbc.com/korean/features-60342568</guid>
-            <pubDate>Thu, 17 Feb 2022 04:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: 미국, '러시아는 침공 구실을 찾고 있다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60384964</link>
             <guid>https://www.bbc.com/korean/news-60384964</guid>
             <pubDate>Fri, 18 Feb 2022 03:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그래서 조선족은 한국인인가 중국인인가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60342568</link>
+            <guid>https://www.bbc.com/korean/features-60342568</guid>
+            <pubDate>Thu, 17 Feb 2022 04:18:56 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -315,32 +315,46 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아-우크라 사태… 더 치열한 '미디어 전쟁' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60412618</link>
-            <guid>https://www.bbc.com/korean/international-60412618</guid>
-            <pubDate>Thu, 17 Feb 2022 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Fri, 18 Feb 2022 12:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도핑 스캔들의 중심에 선 15세 러시아 '피겨 스타' 발리예바 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60398950</link>
-            <guid>https://www.bbc.com/korean/international-60398950</guid>
-            <pubDate>Fri, 18 Feb 2022 13:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19 신규확진 11만명 육박... 3월중순 정점 전망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60426305</link>
             <guid>https://www.bbc.com/korean/news-60426305</guid>
             <pubDate>Fri, 18 Feb 2022 04:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아-우크라 사태… 더 치열한 '미디어 전쟁' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60412618</link>
+            <guid>https://www.bbc.com/korean/international-60412618</guid>
+            <pubDate>Thu, 17 Feb 2022 06:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미생물 감염으로 알츠하이머가 생긴다? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-58860052</link>
+            <guid>https://www.bbc.com/korean/news-58860052</guid>
+            <pubDate>Fri, 18 Feb 2022 16:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대는 사랑과 섹스에 더 실용적일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60364841</link>
+            <guid>https://www.bbc.com/korean/international-60364841</guid>
+            <pubDate>Fri, 18 Feb 2022 16:21:15 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 2월 19일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
+            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct2ld8</link>
+            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct2ld8</guid>
+            <pubDate>Fri, 18 Feb 2022 16:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 e1yt7oin0">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 2월 19일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 11,00 </span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 2월 19일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
+            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct2lkx</link>
+            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct2lkx</guid>
+            <pubDate>Fri, 18 Feb 2022 16:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>BBC 코리아 라디오<span class="bbc-1gnhmg2 e1yt7oin0">, 00:30, </span><span class="bbc-1k5mnnp evmopx62">2022년 2월 19일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 19,00 </span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 18일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
@@ -348,20 +362,6 @@
             <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct2lgj</guid>
             <pubDate>Thu, 17 Feb 2022 16:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 e1yt7oin0">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 2월 18일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 11,00 </span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 2월 18일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct2ln5</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct2ln5</guid>
-            <pubDate>Thu, 17 Feb 2022 16:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>BBC 코리아 라디오<span class="bbc-1gnhmg2 e1yt7oin0">, 00:30, </span><span class="bbc-1k5mnnp evmopx62">2022년 2월 18일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 19,00 </span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 2월 17일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct2ljs</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct2ljs</guid>
-            <pubDate>Wed, 16 Feb 2022 16:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 e1yt7oin0">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 2월 17일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 11,00 </span>]]></content:encoded>
         </item>
     </channel>
 </rss>
