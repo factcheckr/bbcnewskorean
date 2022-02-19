@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 14:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 15:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['조선족' 비하 논란에 대한 대림동 사람들의 생각]]></title>
-            <link>https://www.bbc.com/korean/news-41425412</link>
-            <guid>https://www.bbc.com/korean/news-41425412</guid>
-            <pubDate>Sat, 30 Sep 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/74EF/production/_98053992_p05hgp60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19: '78번 검사에서 모두 양성 판정 받았어요']]></title>
             <link>https://www.bbc.com/korean/features-60442365</link>
             <guid>https://www.bbc.com/korean/features-60442365</guid>
             <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15C99/production/_123314298_611cc796-f263-4ca0-b99d-c3a34dc29153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['조선족' 비하 논란에 대한 대림동 사람들의 생각]]></title>
+            <link>https://www.bbc.com/korean/news-41425412</link>
+            <guid>https://www.bbc.com/korean/news-41425412</guid>
+            <pubDate>Sat, 30 Sep 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/74EF/production/_98053992_p05hgp60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 연구: '북한 쓰레기' 줍는 교수...이유는?]]></title>
@@ -69,18 +69,18 @@
             <content:encoded><![CDATA[1:39]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성범죄: 텔레그램 유출 피해 여성으로 산다는 것]]></title>
-            <link>https://www.bbc.com/korean/international-59965086</link>
-            <guid>https://www.bbc.com/korean/international-59965086</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <title><![CDATA[코로나19: 봉쇄조치가 젊은이들의 섹스에 미친 영향은?]]></title>
+            <link>https://www.bbc.com/korean/international-59788416</link>
+            <guid>https://www.bbc.com/korean/international-59788416</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문재인 신년 기자회견: BBC 특파원은 왜 그 질문을 했을까]]></title>
-            <link>https://www.bbc.com/korean/international-46848733</link>
-            <guid>https://www.bbc.com/korean/international-46848733</guid>
-            <pubDate>Sat, 12 Jan 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <title><![CDATA[코로나19: 영상으로 살펴본 코로나19 회복 기간]]></title>
+            <link>https://www.bbc.com/korean/52658314</link>
+            <guid>https://www.bbc.com/korean/52658314</guid>
+            <pubDate>Thu, 14 May 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
         </item>
     </channel>
 </rss>
