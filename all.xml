@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 23:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 00:56:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,38 +308,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 신규확진 11만명 육박... 3월중순 정점 전망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60426305</link>
-            <guid>https://www.bbc.com/korean/news-60426305</guid>
-            <pubDate>Fri, 18 Feb 2022 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국서 HIV 완치 환자… 첫 여성 완치 사례될까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60413858</link>
-            <guid>https://www.bbc.com/korean/international-60413858</guid>
-            <pubDate>Thu, 17 Feb 2022 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아-우크라 사태… 더 치열한 '미디어 전쟁' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60412618</link>
             <guid>https://www.bbc.com/korean/international-60412618</guid>
             <pubDate>Thu, 17 Feb 2022 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미생물 감염으로 알츠하이머가 생긴다? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-58860052</link>
-            <guid>https://www.bbc.com/korean/news-58860052</guid>
-            <pubDate>Fri, 18 Feb 2022 23:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네안데르탈인의 멸종, 잔혹한 학살 때문이 아니다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60328888</link>
             <guid>https://www.bbc.com/korean/international-60328888</guid>
             <pubDate>Fri, 18 Feb 2022 23:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미생물 감염으로 알츠하이머가 생긴다? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-58860052</link>
+            <guid>https://www.bbc.com/korean/news-58860052</guid>
+            <pubDate>Fri, 18 Feb 2022 23:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국서 HIV 완치 환자… 첫 여성 완치 사례될까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60413858</link>
+            <guid>https://www.bbc.com/korean/international-60413858</guid>
+            <pubDate>Thu, 17 Feb 2022 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 신규확진 11만명 육박... 3월중순 정점 전망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60426305</link>
+            <guid>https://www.bbc.com/korean/news-60426305</guid>
+            <pubDate>Fri, 18 Feb 2022 04:19:40 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
