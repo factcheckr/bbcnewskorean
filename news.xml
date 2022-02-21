@@ -4,15 +4,15 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 10:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[초·중·고 4명 중 1명 '남북통일 필요치 않아'... 교육부·통일부 설문결과]]></title>
+            <title><![CDATA[초·중·고 4명 중 1명 '남북통일 필요치 않아'... '경제적 부담 때문에']]></title>
             <link>https://www.bbc.com/korean/news-60460272</link>
             <guid>https://www.bbc.com/korean/news-60460272</guid>
             <pubDate>Mon, 21 Feb 2022 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[전국 734개 초중고교 학생 7만2524명을 대상으로 조사한 결과 응답자의 25%는 통일이 필요하지 않다고 답했다.]]></content:encoded>
+            <content:encoded><![CDATA['통일에 따르는 경제적 부담 때문에' 라는 응답이 29.8%로 가장 많았다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CDE9/production/_123331725_origin_5-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
