@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 08:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 09:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15C99/production/_123314298_611cc796-f263-4ca0-b99d-c3a34dc29153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['골목대장' 김일성을 기억하는 102세 고향 후배]]></title>
-            <link>https://www.bbc.com/korean/media-58430776</link>
-            <guid>https://www.bbc.com/korean/media-58430776</guid>
-            <pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:32]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4FDE/production/_120364402_p09ty05z.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[북한 연구: '북한 쓰레기' 줍는 교수...이유는?]]></title>
             <link>https://www.bbc.com/korean/features-60398958</link>
             <guid>https://www.bbc.com/korean/features-60398958</guid>
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10655/production/_123275176_p0bpbnlr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['골목대장' 김일성을 기억하는 102세 고향 후배]]></title>
+            <link>https://www.bbc.com/korean/media-58430776</link>
+            <guid>https://www.bbc.com/korean/media-58430776</guid>
+            <pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:32]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4FDE/production/_120364402_p09ty05z.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -62,11 +62,11 @@
             <content:encoded><![CDATA[3:15]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케냐: 가뭄에 말라죽는 가축들…절규하는 농부들]]></title>
-            <link>https://www.bbc.com/korean/international-59514833</link>
-            <guid>https://www.bbc.com/korean/international-59514833</guid>
-            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <title><![CDATA[성매매 종사자들이 말하는 코로나19]]></title>
+            <link>https://www.bbc.com/korean/international-53994219</link>
+            <guid>https://www.bbc.com/korean/international-53994219</guid>
+            <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[18:38]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[건강: 영국 100세 여성, 장수 비결은 '계속 일하는 것']]></title>
