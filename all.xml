@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 21:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 22:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,13 +140,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8052/production/_114205823_p08q5f1c.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[성범죄: 텔레그램 유출 피해 여성으로 산다는 것 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59965086</link>
-            <guid>https://www.bbc.com/korean/international-59965086</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[북한 연구: '북한 쓰레기' 줍는 교수...이유는? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60398958</link>
             <guid>https://www.bbc.com/korean/features-60398958</guid>
@@ -168,11 +161,18 @@
             <content:encoded><![CDATA[2:44]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수퍼노트: 전 세계를 속인 북한산 초정밀 위조지폐 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-57122476</link>
-            <guid>https://www.bbc.com/korean/international-57122476</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <title><![CDATA[성범죄: 텔레그램 유출 피해 여성으로 산다는 것 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-59965086</link>
+            <guid>https://www.bbc.com/korean/international-59965086</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인도: 부모에게 버림받은 샴쌍둥이...'꿈의 직장' 들어갔다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60065093</link>
+            <guid>https://www.bbc.com/korean/news-60065093</guid>
+            <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 22일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,17 +280,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내가 북한 '보물'을 줍는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60384150</link>
+            <guid>https://www.bbc.com/korean/features-60384150</guid>
+            <pubDate>Mon, 21 Feb 2022 12:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나19와 마주한 한국... 'K-방역' 이대로 괜찮은가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60426306</link>
             <guid>https://www.bbc.com/korean/news-60426306</guid>
             <pubDate>Tue, 22 Feb 2022 07:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국 코로나19 방역 규제 해제... 다른 나라 상황은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60460373</link>
-            <guid>https://www.bbc.com/korean/international-60460373</guid>
-            <pubDate>Tue, 22 Feb 2022 07:21:48 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -301,10 +301,10 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내가 북한 '보물'을 줍는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60384150</link>
-            <guid>https://www.bbc.com/korean/features-60384150</guid>
-            <pubDate>Mon, 21 Feb 2022 12:26:15 GMT</pubDate>
+            <title><![CDATA[영국 코로나19 방역 규제 해제... 다른 나라 상황은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60460373</link>
+            <guid>https://www.bbc.com/korean/international-60460373</guid>
+            <pubDate>Tue, 22 Feb 2022 07:21:48 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Tue, 22 Feb 2022 22:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['일주일에 한 번이라도'... 함께 식사하면 얻는 놀라운 효과 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60443273</link>
+            <guid>https://www.bbc.com/korean/features-60443273</guid>
+            <pubDate>Tue, 22 Feb 2022 22:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[푸틴, 우크라 분쟁지 독립승인 후 파병지시... '일촉즉발' 긴장감 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60473663</link>
             <guid>https://www.bbc.com/korean/news-60473663</guid>
             <pubDate>Tue, 22 Feb 2022 02:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국 존슨 총리, '러시아, 1945년 이후 유럽 내 최대 전쟁 계획 중' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60459286</link>
-            <guid>https://www.bbc.com/korean/news-60459286</guid>
-            <pubDate>Tue, 22 Feb 2022 17:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태 외교적 해결 보나… 미·러 정상회담 "원칙적 합의" (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60458620</link>
-            <guid>https://www.bbc.com/korean/international-60458620</guid>
-            <pubDate>Tue, 22 Feb 2022 21:13:52 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
