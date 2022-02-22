@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-02-22T11:14:24.471Z</updated>
+    <updated>2022-02-22T12:26:40.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -27,24 +27,24 @@
         <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 사태는 어떻게 고조돼왔나?]]></title>
-        <id>https://www.bbc.com/korean/60473668</id>
-        <link href="https://www.bbc.com/korean/60473668"/>
-        <updated>2022-02-22T04:19:13.122Z</updated>
-        <content type="html"><![CDATA[4]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[영국 코로나19 방역 규제 해제... 다른 나라 상황은?]]></title>
         <id>https://www.bbc.com/korean/international-60460373</id>
         <link href="https://www.bbc.com/korean/international-60460373"/>
         <updated>2022-02-22T07:22:16.657Z</updated>
-        <content type="html"><![CDATA[5]]></content>
+        <content type="html"><![CDATA[4]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 검사를 받는 것만으로도 몸이 아플 수 있는 이유]]></title>
         <id>https://www.bbc.com/korean/international-60450491</id>
         <link href="https://www.bbc.com/korean/international-60450491"/>
         <updated>2022-02-20T05:13:41.837Z</updated>
+        <content type="html"><![CDATA[5]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 사태는 어떻게 고조돼왔나?]]></title>
+        <id>https://www.bbc.com/korean/60473668</id>
+        <link href="https://www.bbc.com/korean/60473668"/>
+        <updated>2022-02-22T04:19:13.122Z</updated>
         <content type="html"><![CDATA[6]]></content>
     </entry>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[8]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가정폭력 범죄 수사에 쓰인 '스마트워터'... 첫 기소 사례]]></title>
-        <id>https://www.bbc.com/korean/international-59965085</id>
-        <link href="https://www.bbc.com/korean/international-59965085"/>
-        <updated>2022-02-21T08:18:50.887Z</updated>
-        <content type="html"><![CDATA[9]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[푸틴, 우크라 분쟁지 독립승인 후 파병지시... '일촉즉발' 긴장감]]></title>
         <id>https://www.bbc.com/korean/news-60473663</id>
         <link href="https://www.bbc.com/korean/news-60473663"/>
         <updated>2022-02-22T03:16:52.705Z</updated>
+        <content type="html"><![CDATA[9]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가정폭력 범죄 수사에 쓰인 '스마트워터'... 첫 기소 사례]]></title>
+        <id>https://www.bbc.com/korean/international-59965085</id>
+        <link href="https://www.bbc.com/korean/international-59965085"/>
+        <updated>2022-02-21T08:18:50.887Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
