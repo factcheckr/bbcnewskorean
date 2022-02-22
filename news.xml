@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 03:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 04:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 사태는 어떻게 고조돼왔나?]]></title>
+            <link>https://www.bbc.com/korean/60473668</link>
+            <guid>https://www.bbc.com/korean/60473668</guid>
+            <pubDate>Tue, 22 Feb 2022 04:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[위기의 시작은 지난 11월로 거슬러 올라간다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/113AD/production/_123337507_mediaitem123337504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실내 화초, 이제는 '스마트 센서'가 가꾼다]]></title>
             <link>https://www.bbc.com/korean/international-60473414</link>
@@ -40,11 +48,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/70DC/production/_123329882_gettyimages-1238656658.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헤어졌던 주인과 12년 만에 재회한 유기견]]></title>
+            <title><![CDATA[헤어졌던 주인과 12년 만에 재회한 실종견]]></title>
             <link>https://www.bbc.com/korean/international-60460372</link>
             <guid>https://www.bbc.com/korean/international-60460372</guid>
             <pubDate>Mon, 21 Feb 2022 08:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[미국 캘리포니아주에서 한 유기견이 실종된 지 12년 만에 주인과 재회했다.]]></content:encoded>
+            <content:encoded><![CDATA[미국 캘리포니아주에서 한 강아지가 실종된 지 12년 만에 주인과 재회했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11410/production/_123327607_zoey3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 21 Feb 2022 07:14:21 GMT</pubDate>
             <content:encoded><![CDATA[전깃줄에 매달려있던 나무늘보를 빗자루까지 동원한 사투 끝에 구조했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11CC7/production/_123330927_p0bq8r81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자베스 2세 여왕 코로나 확진... 영국 왕실 휩쓴 코로나]]></title>
-            <link>https://www.bbc.com/korean/international-60454915</link>
-            <guid>https://www.bbc.com/korean/international-60454915</guid>
-            <pubDate>Mon, 21 Feb 2022 06:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[엘리자베스 2세 여왕이 코로나19 확진 판정을 받았다고 버킹엄궁이 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1138E/production/_123324507_gettyimages-1238528808.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
