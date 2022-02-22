@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 17:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 18:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,17 +329,17 @@
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59708074</link>
-            <guid>https://www.bbc.com/korean/news-59708074</guid>
-            <pubDate>Tue, 22 Feb 2022 14:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[영국 존슨 총리, '러시아, 1945년 이후 유럽 내 최대 전쟁 계획 중' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60459286</link>
             <guid>https://www.bbc.com/korean/news-60459286</guid>
             <pubDate>Tue, 22 Feb 2022 17:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸틴, 우크라 분쟁지 독립승인 후 파병지시... '일촉즉발' 긴장감 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60473663</link>
+            <guid>https://www.bbc.com/korean/news-60473663</guid>
+            <pubDate>Tue, 22 Feb 2022 02:34:29 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
