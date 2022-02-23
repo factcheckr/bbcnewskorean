@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사우디 사막에 건설중인 친환경 미래 도시의 진실은?]]></title>
+            <link>https://www.bbc.com/korean/features-60488894</link>
+            <guid>https://www.bbc.com/korean/features-60488894</guid>
+            <pubDate>Wed, 23 Feb 2022 04:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[석유 중심 경제를 탈피하려는 '사우디 비전 2030'의 일환인 네옴 프로젝트의 규모는 약 600조에 달한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EAAA/production/_122747006_a6a8ac95-3ac5-4006-913a-c7af57bb80ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19와 마주한 한국... 'K-방역' 이대로 괜찮은가?]]></title>
+            <link>https://www.bbc.com/korean/news-60426306</link>
+            <guid>https://www.bbc.com/korean/news-60426306</guid>
+            <pubDate>Wed, 23 Feb 2022 04:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[재택치료자가 50만 명을 코앞에 두고 있는 시점에서 일상 속 코로나19와 마주한 사람들의 이야기를 들어보았다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/142BF/production/_123332628_2299573.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영국 코로나19 방역 규제 해제... 다른 나라 상황은?]]></title>
             <link>https://www.bbc.com/korean/international-60460373</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 21 Feb 2022 08:18:26 GMT</pubDate>
             <content:encoded><![CDATA[스마트워터는 자외선을 비출 때만 보이는 포렌식 액체로 가정 폭력 등 여성 대상 범죄 수사에 쓰이고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12B36/production/_123289567_uv2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호주, 21일부터 해외 관광객 입국 허용... 2년 만에 국경 개방]]></title>
-            <link>https://www.bbc.com/korean/international-60460222</link>
-            <guid>https://www.bbc.com/korean/international-60460222</guid>
-            <pubDate>Mon, 21 Feb 2022 08:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[호주의 엄격한 방역 조치는 가족들을 갈라놓으며 기업 활동을 옥죈다는 비판을 받았지만, 백신이 보급되기 전까지 사망자가 속출하는 사태를 막았다는 칭찬도 있었다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/70DC/production/_123329882_gettyimages-1238656658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어졌던 주인과 12년 만에 재회한 실종견]]></title>
-            <link>https://www.bbc.com/korean/international-60460372</link>
-            <guid>https://www.bbc.com/korean/international-60460372</guid>
-            <pubDate>Mon, 21 Feb 2022 08:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[미국 캘리포니아주에서 한 강아지가 실종된 지 12년 만에 주인과 재회했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11410/production/_123327607_zoey3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
