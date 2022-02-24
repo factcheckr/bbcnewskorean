@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 04:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 24 Feb 2022 04:19:08 GMT</pubDate>
             <content:encoded><![CDATA[백신이 어떻게 신체의 면역 체계를 자극하는지 이해한다면, 부작용 또한 더 잘 이해할 수 있다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F181/production/_123352816_gettyimages-1310458105.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 팬데믹 시대 일자리 미래는?]]></title>
+            <link>https://www.bbc.com/korean/news-60460376</link>
+            <guid>https://www.bbc.com/korean/news-60460376</guid>
+            <pubDate>Thu, 24 Feb 2022 05:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 첫 발병 이후 첫 2년간 업종별 일자리 양극화가 심화됐다는 분석이 나왔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/763E/production/_103107203_origin_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19: 홍콩의 '방역 대책' 무엇이 잘못됐나?]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 22 Feb 2022 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[영국 정부가 코로나19와 "함께 살 준비가 됐다"며 자국 내 모든 코로나19 법적 규제를 전면 해지했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E671/production/_123339985_2d1e8647-b1db-4034-867d-40322ea98088.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴, 우크라 분쟁지 독립승인 후 파병지시... '일촉즉발' 긴장감]]></title>
-            <link>https://www.bbc.com/korean/news-60473663</link>
-            <guid>https://www.bbc.com/korean/news-60473663</guid>
-            <pubDate>Tue, 22 Feb 2022 09:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[친러시아 반군이 내세운 두 공화국의 독립을 승인하고 이곳에 평화유지군 파견을 지시했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13ED8/production/_123342618_0741a43a-b329-4336-8fd2-984483cc765b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
