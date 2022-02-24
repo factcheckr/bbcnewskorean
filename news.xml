@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14933/production/_123357248_8083b3eb-93ee-41f5-a9d2-4d1695ea609f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나 일일 확진자 17만명...100만 명당 확진자 수 세계 1위]]></title>
+            <title><![CDATA[코로나 신규확진 17만명...100만명당 확진자 세계 1위]]></title>
             <link>https://www.bbc.com/korean/news-60426307</link>
             <guid>https://www.bbc.com/korean/news-60426307</guid>
             <pubDate>Thu, 24 Feb 2022 08:18:18 GMT</pubDate>
