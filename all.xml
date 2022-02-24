@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 00:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,20 +117,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15C99/production/_123314298_611cc796-f263-4ca0-b99d-c3a34dc29153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[대장동 개발: '저 사람들이 원주민 돈을 뺏어서 돈 잔치하고 있어요'...4번 소송당한 대장동 원주민의 사연 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-59159622</link>
             <guid>https://www.bbc.com/korean/features-59159622</guid>
             <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0162/production/_121345300_p0b11ynk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물: 알프스서 패러글라이딩 즐기는 강아지 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60451064</link>
+            <guid>https://www.bbc.com/korean/international-60451064</guid>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/182CE/production/_123322099_p0bq5627.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한 연구: '북한 쓰레기' 줍는 교수...이유는? (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,32 +147,25 @@
             <content:encoded><![CDATA[3:52]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BBC 특파원이 국내 최초 '초음속 전투기'를 탄 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-59864970</link>
-            <guid>https://www.bbc.com/korean/features-59864970</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <title><![CDATA[일본 축제: 수천 명이 벌거 벗은 몸으로 참가하는 일본 축제 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47249810</link>
+            <guid>https://www.bbc.com/korean/news-47249810</guid>
+            <pubDate>Tue, 19 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[탄트라: 밀레니얼에게 오르가즘을 가르치는 탄트라 강사 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-51948810</link>
-            <guid>https://www.bbc.com/korean/international-51948810</guid>
-            <pubDate>Thu, 19 Mar 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <title><![CDATA[목에 타이어 낀 악어 '구조작전' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60313484</link>
+            <guid>https://www.bbc.com/korean/features-60313484</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비전향장기수: '가족 한번 보고 죽는 게 소원'… 북송 바라는 백발의 장기수들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-54898508</link>
-            <guid>https://www.bbc.com/korean/features-54898508</guid>
-            <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[8:46]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[치통인 줄 알고 병원에 갔던 소년, 치아 526개 발견됐다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/49243175</link>
-            <guid>https://www.bbc.com/korean/49243175</guid>
-            <pubDate>Tue, 06 Aug 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <title><![CDATA[코로나19: 가족중에 의심증상이 있다면 어떻게 해야 할까? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/media-54232606</link>
+            <guid>https://www.bbc.com/korean/media-54232606</guid>
+            <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 23일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -266,38 +266,38 @@
             <content:encoded><![CDATA[korean-2022-02-10-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60034967</link>
+            <guid>https://www.bbc.com/korean/features-60034967</guid>
+            <pubDate>Fri, 21 Jan 2022 01:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[러시아는 우크라이나를 침공할까? 푸틴의 속내는 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60397928</link>
             <guid>https://www.bbc.com/korean/international-60397928</guid>
             <pubDate>Wed, 16 Feb 2022 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
+            <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사우디 사막에 건설중인 친환경 미래 도시의 진실은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60488894</link>
             <guid>https://www.bbc.com/korean/features-60488894</guid>
             <pubDate>Wed, 23 Feb 2022 04:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19: 감염자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Fri, 21 Jan 2022 01:58:18 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 검사를 받는 것만으로도 몸이 아플 수 있는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60450491</link>
-            <guid>https://www.bbc.com/korean/international-60450491</guid>
-            <pubDate>Sun, 20 Feb 2022 03:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 사태: 러시아 제재의 핵심은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60488893</link>
             <guid>https://www.bbc.com/korean/news-60488893</guid>
             <pubDate>Wed, 23 Feb 2022 03:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나 검사를 받는 것만으로도 몸이 아플 수 있는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60450491</link>
+            <guid>https://www.bbc.com/korean/international-60450491</guid>
+            <pubDate>Sun, 20 Feb 2022 03:15:58 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -315,17 +315,17 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내가 북한 '보물'을 줍는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60384150</link>
-            <guid>https://www.bbc.com/korean/features-60384150</guid>
-            <pubDate>Wed, 23 Feb 2022 18:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[팬데믹 이기는 '슈퍼 면역세포' 찾기 프로젝트 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60442367</link>
             <guid>https://www.bbc.com/korean/features-60442367</guid>
             <pubDate>Wed, 23 Feb 2022 23:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태는 어떻게 고조돼왔나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60473668</link>
+            <guid>https://www.bbc.com/korean/60473668</guid>
+            <pubDate>Tue, 22 Feb 2022 04:18:50 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
