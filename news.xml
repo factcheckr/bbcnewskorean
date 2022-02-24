@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라 사태: '대러제재' 효과 있을까... 러시아의 계획은?]]></title>
+            <link>https://www.bbc.com/korean/60504423</link>
+            <guid>https://www.bbc.com/korean/60504423</guid>
+            <pubDate>Thu, 24 Feb 2022 08:18:18 GMT</pubDate>
+            <content:encoded><![CDATA['러시아는 이 순간을 대비해 지난 몇 년을 준비했다.']]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/306D/production/_123379321_untitled.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태: 우크라 대통령, '우리는 스스로를 지킬 것']]></title>
+            <link>https://www.bbc.com/korean/60503231</link>
+            <guid>https://www.bbc.com/korean/60503231</guid>
+            <pubDate>Thu, 24 Feb 2022 08:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[젤렌스키 대통령은 블라디미르 푸틴 러시아 대통령과 통화를 시도했지만 실패했다고 밝혔다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/71F1/production/_123396192_2d182ab2-3cb7-46f8-97d2-7bd771785c08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 사태: 러시아 제재의 핵심은?]]></title>
             <link>https://www.bbc.com/korean/news-60488893</link>
@@ -16,12 +32,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14933/production/_123357248_8083b3eb-93ee-41f5-a9d2-4d1695ea609f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나 백신 접종 벌써 1년... 이제 안심해도 될까?]]></title>
-            <link>https://www.bbc.com/korean/features-60503230</link>
-            <guid>https://www.bbc.com/korean/features-60503230</guid>
-            <pubDate>Thu, 24 Feb 2022 04:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[백신이 어떻게 신체의 면역 체계를 자극하는지 이해한다면, 부작용 또한 더 잘 이해할 수 있다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F181/production/_123352816_gettyimages-1310458105.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[코로나 일일 확진자 17만명...100만 명당 확진자 수 세계 1위]]></title>
+            <link>https://www.bbc.com/korean/news-60426307</link>
+            <guid>https://www.bbc.com/korean/news-60426307</guid>
+            <pubDate>Thu, 24 Feb 2022 08:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[재택치료 환자는 52만 명까지 늘었다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5F95/production/_123396442_17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나 팬데믹 시대 일자리 미래는?]]></title>
@@ -32,6 +48,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/763E/production/_103107203_origin_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코로나 백신 접종 벌써 1년... 이제 안심해도 될까?]]></title>
+            <link>https://www.bbc.com/korean/features-60503230</link>
+            <guid>https://www.bbc.com/korean/features-60503230</guid>
+            <pubDate>Thu, 24 Feb 2022 04:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[백신이 어떻게 신체의 면역 체계를 자극하는지 이해한다면, 부작용 또한 더 잘 이해할 수 있다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F181/production/_123352816_gettyimages-1310458105.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코로나19: 홍콩의 '방역 대책' 무엇이 잘못됐나?]]></title>
             <link>https://www.bbc.com/korean/international-60489897</link>
             <guid>https://www.bbc.com/korean/international-60489897</guid>
@@ -40,36 +64,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3769/production/_123358141_bcad198e-b2e2-4029-b06f-ce2a835d14cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비디오, '포격 소리가 들린다'... 우크라 분쟁지역 떠나는 주민들, 방송 길이 1,54]]></title>
-            <link>https://www.bbc.com/korean/international-60460374</link>
-            <guid>https://www.bbc.com/korean/international-60460374</guid>
-            <pubDate>Wed, 23 Feb 2022 07:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[군사충돌의 긴장감이 고조되고 있는 우크라이나 동부 도네츠크 지역의 주민들이 러시아 남부로 이동하고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/144F1/production/_123358138_p0bqmsc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사우디 사막에 건설중인 친환경 미래 도시의 진실은?]]></title>
             <link>https://www.bbc.com/korean/features-60488894</link>
             <guid>https://www.bbc.com/korean/features-60488894</guid>
             <pubDate>Wed, 23 Feb 2022 06:18:45 GMT</pubDate>
             <content:encoded><![CDATA[석유 중심 경제를 탈피하려는 '사우디 비전 2030'의 일환인 네옴 프로젝트의 규모는 약 600조에 달한다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EAAA/production/_122747006_a6a8ac95-3ac5-4006-913a-c7af57bb80ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 캘리포니아서 거대 곰 '행크 더 탱크' 수배 중]]></title>
-            <link>https://www.bbc.com/korean/news-60489058</link>
-            <guid>https://www.bbc.com/korean/news-60489058</guid>
-            <pubDate>Wed, 23 Feb 2022 06:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[캘리포니아 당국은 이 곰이 사람을 두려워하지 않기 때문에 안락사가 필요할지도 모른다고 말했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/62BB/production/_123357252_5f79a9ce-d24b-4f03-b71a-b836c5f794d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19와 마주한 한국... 'K-방역' 이대로 괜찮은가?]]></title>
-            <link>https://www.bbc.com/korean/news-60426306</link>
-            <guid>https://www.bbc.com/korean/news-60426306</guid>
-            <pubDate>Wed, 23 Feb 2022 04:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[재택치료자가 50만 명을 코앞에 두고 있는 시점에서 일상 속 코로나19와 마주한 사람들의 이야기를 들어보았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/142BF/production/_123332628_2299573.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
