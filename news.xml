@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BBC 우크라이나 에디터: '더는 안전한 곳이 없다']]></title>
+            <link>https://www.bbc.com/korean/60518995</link>
+            <guid>https://www.bbc.com/korean/60518995</guid>
+            <pubDate>Fri, 25 Feb 2022 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[가장 두려운 것은 전기와 인터넷이 끊기는 것이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8C95/production/_123398953_martashokalo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 러시아 우크라이나 침공...중국과 서방의 엇갈린 반응, 방송 길이 3,14]]></title>
+            <link>https://www.bbc.com/korean/international-60460381</link>
+            <guid>https://www.bbc.com/korean/international-60460381</guid>
+            <pubDate>Fri, 25 Feb 2022 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공에 대한 규탄의 목소리가 이어졌다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15D43/production/_123411498_p0br4mnz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아, 우크라이나 침공… 우크라 전역에 '계엄령' 선포]]></title>
             <link>https://www.bbc.com/korean/60507226</link>
@@ -38,6 +54,22 @@
             <pubDate>Thu, 24 Feb 2022 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[재택치료 환자는 52만 명까지 늘었다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5F95/production/_123396442_17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 팬데믹 시대 일자리 미래는?]]></title>
+            <link>https://www.bbc.com/korean/news-60460376</link>
+            <guid>https://www.bbc.com/korean/news-60460376</guid>
+            <pubDate>Fri, 25 Feb 2022 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 첫 발병 이후 첫 2년간 업종별 일자리 양극화가 심화됐다는 분석이 나왔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/763E/production/_103107203_origin_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 백신 접종 벌써 1년... 이제 안심해도 될까?]]></title>
+            <link>https://www.bbc.com/korean/features-60503230</link>
+            <guid>https://www.bbc.com/korean/features-60503230</guid>
+            <pubDate>Fri, 25 Feb 2022 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[백신이 어떻게 신체의 면역 체계를 자극하는지 이해한다면, 부작용 또한 더 잘 이해할 수 있다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F181/production/_123352816_gettyimages-1310458105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
