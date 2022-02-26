@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 01:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 02:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Sat, 26 Feb 2022 02:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[푸틴은 유럽의 평화를 깨뜨린 책임을 벗어날 수 없으며, 향후 전개 상황은 유럽 대륙 전체의 안보를 위태롭게 할 수 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/097E/production/_123403420_ukraine2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 우크라 침공: 러시아 주요 도시 곳곳서 반전 시위가 열렸다, 방송 길이 1,17]]></title>
             <link>https://www.bbc.com/korean/international-60525745</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 25 Feb 2022 11:12:29 GMT</pubDate>
             <content:encoded><![CDATA['원칙적인 대북정책을 펼치는 동시에 살맛나는 세상을 만들어줄 대통령을 기대한다']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/54E3/production/_123413712_f6b92fb1-d8cd-4788-99a5-23c5d8e90977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 신규확진 17만명...100만명당 확진자 세계 1위]]></title>
-            <link>https://www.bbc.com/korean/news-60426307</link>
-            <guid>https://www.bbc.com/korean/news-60426307</guid>
-            <pubDate>Fri, 25 Feb 2022 13:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[재택치료 환자는 52만 명까지 늘었다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5F95/production/_123396442_17.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
