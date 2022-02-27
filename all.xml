@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 02:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 03:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 말리 '엑소더스': 20세기를 정의한 앨범 (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60521390</link>
+            <guid>https://www.bbc.com/korean/international-60521390</guid>
+            <pubDate>Sun, 27 Feb 2022 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[그는 런던에서 1년여간 머물며 '엑소더스'를 제작했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1038B/production/_123434466_c136a971-d1e5-4327-85da-8e8e1888bfe1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키예프 교전 시작...우크라이나 사태 5가지 업데이트 (BBC News 코리아 ─ 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60519286</link>
@@ -64,19 +72,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14777/production/_123413838_de27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 침공 대응으로 가능한 '러시아 제재'의 핵심은? (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60488893</link>
-            <guid>https://www.bbc.com/korean/news-60488893</guid>
-            <pubDate>Fri, 25 Feb 2022 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU)는 22일 개인 27명과 은행 등의 기관을 제재 대상에 포함하는 대러 제재를 발표했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14933/production/_123357248_8083b3eb-93ee-41f5-a9d2-4d1695ea609f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한, 8번째 미사일 발사… 베이징 올림픽 후 도발 재개 (BBC News 코리아 ─ 뉴스 메인)]]></title>
             <link>https://www.bbc.com/korean/news-60521389</link>
             <guid>https://www.bbc.com/korean/news-60521389</guid>
             <pubDate>Sun, 27 Feb 2022 02:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg" alt="북한이 올해 8번째 무력 도발을 감행했다" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-60521389" aria-labelledby="promo-koreannews60521389-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews60521389-1">북한, 8번째 미사일 발사… 베이징 올림픽 후 도발 재개</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">지난달 30일 중거리 탄도미사일 '화성-12형'을 쏘아올린지 28일만이다</p><time datetime="2022-02-27" class="bbc-1cagdt4 e4zesg50">16분 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/60300303" class="bbc-1ocdizt e1wlg2v80"><span>'북한 국경 인근에 ICBM 미사일 기지 운용'... 미 CSIS 위성사진 공개</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60460272" class="bbc-1ocdizt e1wlg2v80"><span>초·중·고 4명 중 1명 '남북통일 필요치 않아'... '경제적 부담 때문에'</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60241935" class="bbc-1ocdizt e1wlg2v80"><span>북한 '광명성 4호' 6주년… 위성발사가 우려되는 이유</span></a></li></ul></div></div></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/033F/production/_123413800_image_kbn2kc2c8.jpg" alt="북한이 올해 8번째 무력 도발을 감행했다" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-60521389" aria-labelledby="promo-koreannews60521389-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews60521389-1">북한, 8번째 미사일 발사… 베이징 올림픽 후 도발 재개</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">지난달 30일 중거리 탄도미사일 '화성-12형'을 쏘아올린지 28일만이다</p><time datetime="2022-02-27" class="bbc-1cagdt4 e4zesg50">한 시간 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/60300303" class="bbc-1ocdizt e1wlg2v80"><span>'북한 국경 인근에 ICBM 미사일 기지 운용'... 미 CSIS 위성사진 공개</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60460272" class="bbc-1ocdizt e1wlg2v80"><span>초·중·고 4명 중 1명 '남북통일 필요치 않아'... '경제적 부담 때문에'</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60241935" class="bbc-1ocdizt e1wlg2v80"><span>북한 '광명성 4호' 6주년… 위성발사가 우려되는 이유</span></a></li></ul></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: 홍콩의 '방역 대책' 무엇이 잘못됐나? (BBC News 코리아 ─ 뉴스 메인)]]></title>
@@ -131,6 +131,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성매매 종사자들이 말하는 코로나19 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-53994219</link>
             <guid>https://www.bbc.com/korean/international-53994219</guid>
@@ -144,35 +152,13 @@
             <guid>https://www.bbc.com/korean/features-60442365</guid>
             <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15C99/production/_123314298_611cc796-f263-4ca0-b99d-c3a34dc29153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아: '모두가 두려워하고 있다'... 우크라 분쟁지역 떠나는 주민들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60460374</link>
-            <guid>https://www.bbc.com/korean/international-60460374</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장애인 전문 여행사: '다들 안 된다 해서 제가 직접 해 봤습니다' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-56680700</link>
-            <guid>https://www.bbc.com/korean/news-56680700</guid>
-            <pubDate>Sat, 17 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <title><![CDATA[영국서 '불법 성매매' 기승.. 루마니아 소녀들의 눈물 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60107165</link>
+            <guid>https://www.bbc.com/korean/features-60107165</guid>
+            <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한 연구: '북한 쓰레기' 줍는 교수...이유는? (BBC News 코리아 ─ 비디오)]]></title>
@@ -180,6 +166,20 @@
             <guid>https://www.bbc.com/korean/features-60398958</guid>
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 대선: 코미디언 출신 젤렌스키는 어떻게 유력 후보가 됐을까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-48004615</link>
+            <guid>https://www.bbc.com/korean/news-48004615</guid>
+            <pubDate>Sun, 21 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한: 40년간 150여 발, 북한이 미사일을 계속 쏘는 이유는? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-58542441</link>
+            <guid>https://www.bbc.com/korean/news-58542441</guid>
+            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 26일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -301,45 +301,45 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북한, 8번째 미사일 발사… 베이징 올림픽 후 도발 재개 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60521389</link>
+            <guid>https://www.bbc.com/korean/news-60521389</guid>
+            <pubDate>Sun, 27 Feb 2022 02:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[식사 시간은 언제로 정해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60519285</link>
             <guid>https://www.bbc.com/korean/features-60519285</guid>
             <pubDate>Sat, 26 Feb 2022 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 위기: '와이퍼' 이용한 사이버 공격까지 이뤄지고 있다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60519284</link>
             <guid>https://www.bbc.com/korean/international-60519284</guid>
             <pubDate>Sat, 26 Feb 2022 02:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 사태는 어떻게 고조돼왔나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60473668</link>
             <guid>https://www.bbc.com/korean/60473668</guid>
             <pubDate>Tue, 22 Feb 2022 04:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[맨유: 우크라이나 침공 러시아 항공사 후원 계약 해지 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60519283</link>
             <guid>https://www.bbc.com/korean/international-60519283</guid>
             <pubDate>Sat, 26 Feb 2022 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내가 북한 '보물'을 줍는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60384150</link>
             <guid>https://www.bbc.com/korean/features-60384150</guid>
             <pubDate>Sat, 26 Feb 2022 17:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라 사태: '대러제재' 효과 있을까... 러시아의 계획은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60504423</link>
-            <guid>https://www.bbc.com/korean/60504423</guid>
-            <pubDate>Sun, 27 Feb 2022 02:08:22 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>

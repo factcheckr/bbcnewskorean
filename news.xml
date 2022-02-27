@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 02:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 03:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 말리 '엑소더스': 20세기를 정의한 앨범]]></title>
+            <link>https://www.bbc.com/korean/international-60521390</link>
+            <guid>https://www.bbc.com/korean/international-60521390</guid>
+            <pubDate>Sun, 27 Feb 2022 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[그는 런던에서 1년여간 머물며 '엑소더스'를 제작했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1038B/production/_123434466_c136a971-d1e5-4327-85da-8e8e1888bfe1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키예프 교전 시작...우크라이나 사태 5가지 업데이트]]></title>
             <link>https://www.bbc.com/korean/international-60519286</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 25 Feb 2022 11:12:29 GMT</pubDate>
             <content:encoded><![CDATA[오전 5시, 침공 소식에 눈을 떴다. 호텔 창밖 멀리서 쿵쾅거리는 소리가 들렸다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14777/production/_123413838_de27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 침공 대응으로 가능한 '러시아 제재'의 핵심은?]]></title>
-            <link>https://www.bbc.com/korean/news-60488893</link>
-            <guid>https://www.bbc.com/korean/news-60488893</guid>
-            <pubDate>Fri, 25 Feb 2022 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU)는 22일 개인 27명과 은행 등의 기관을 제재 대상에 포함하는 대러 제재를 발표했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14933/production/_123357248_8083b3eb-93ee-41f5-a9d2-4d1695ea609f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
