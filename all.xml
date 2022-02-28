@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 20:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 21:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,20 +100,20 @@
             <content:encoded><![CDATA[<a href="/korean/60473668" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 사태는 어떻게 고조돼왔나?</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 침공: 펜과 키보드 대신 총을 들고 거리로 우크라 시민들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60519289</link>
-            <guid>https://www.bbc.com/korean/international-60519289</guid>
-            <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/174F2/production/_123447459_p0brkqrp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 젤렌스키 대통령이 영상을 통해 밝힌 러시아에 대한 저항 의지 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/60553030</link>
             <guid>https://www.bbc.com/korean/60553030</guid>
             <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/205C/production/_123448280_p0brkw41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 침공: 펜과 키보드 대신 총을 들고 거리로 우크라 시민들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60519289</link>
+            <guid>https://www.bbc.com/korean/international-60519289</guid>
+            <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/174F2/production/_123447459_p0brkqrp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,18 +140,18 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15D43/production/_123411498_p0br4mnz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라 침공: 러시아 주요 도시 곳곳서 반전 시위가 열렸다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60525745</link>
-            <guid>https://www.bbc.com/korean/international-60525745</guid>
-            <pubDate>Fri, 25 Feb 2022 13:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-47167180</link>
             <guid>https://www.bbc.com/korean/news-47167180</guid>
             <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7:07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라 침공: 러시아 주요 도시 곳곳서 반전 시위가 열렸다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60525745</link>
+            <guid>https://www.bbc.com/korean/international-60525745</guid>
+            <pubDate>Fri, 25 Feb 2022 13:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,18 +161,18 @@
             <content:encoded><![CDATA[2:24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 대선: 코미디언 출신 젤렌스키는 어떻게 유력 후보가 됐을까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-48004615</link>
-            <guid>https://www.bbc.com/korean/news-48004615</guid>
-            <pubDate>Sun, 21 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[성범죄: 텔레그램 유출 피해 여성으로 산다는 것 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-59965086</link>
             <guid>https://www.bbc.com/korean/international-59965086</guid>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한 연구: '북한 쓰레기' 줍는 교수...이유는? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60398958</link>
+            <guid>https://www.bbc.com/korean/features-60398958</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 2월 28일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -308,31 +308,31 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BBC 분석: 러시아 핵 위협, NATO 우려가 현실로? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60551239</link>
-            <guid>https://www.bbc.com/korean/60551239</guid>
-            <pubDate>Mon, 28 Feb 2022 02:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[논란 많던 '방역패스' 4개월 만에 중단 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60521570</link>
             <guid>https://www.bbc.com/korean/news-60521570</guid>
             <pubDate>Mon, 28 Feb 2022 08:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[푸틴, 핵부대에 특별 경계 지시...'세계 재앙될 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60548045</link>
-            <guid>https://www.bbc.com/korean/international-60548045</guid>
-            <pubDate>Sun, 27 Feb 2022 17:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <title><![CDATA[BBC 분석: 러시아 핵 위협, NATO 우려가 현실로? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60551239</link>
+            <guid>https://www.bbc.com/korean/60551239</guid>
+            <pubDate>Mon, 28 Feb 2022 02:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 침공을 명령한 푸틴 러시아 대통령은 누구인가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60543465</link>
             <guid>https://www.bbc.com/korean/international-60543465</guid>
             <pubDate>Sun, 27 Feb 2022 07:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸틴, 핵부대에 특별 경계 지시...'세계 재앙될 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60548045</link>
+            <guid>https://www.bbc.com/korean/international-60548045</guid>
+            <pubDate>Sun, 27 Feb 2022 17:14:34 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
