@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 10:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 11:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[정치인들도 직접 무장을 하고 국가경비대에 합류했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/174F2/production/_123447459_p0brkqrp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논란 많던 '방역패스' 4개월만에 중단]]></title>
-            <link>https://www.bbc.com/korean/news-60521570</link>
-            <guid>https://www.bbc.com/korean/news-60521570</guid>
-            <pubDate>Mon, 28 Feb 2022 09:15:42 GMT</pubDate>
-            <content:encoded><![CDATA['방역패스' 시행이 3월 1일부터 잠정 중단된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1166A/production/_123447217_qr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 장거리미사일 발사는 정찰위성 개발용?]]></title>
-            <link>https://www.bbc.com/korean/news-60543466</link>
-            <guid>https://www.bbc.com/korean/news-60543466</guid>
-            <pubDate>Mon, 28 Feb 2022 09:15:42 GMT</pubDate>
-            <content:encoded><![CDATA['위성센터가 아니라 굳이 순안까지 끌고 가서 발사했다는 것이 이해되지 않는다']]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14676/production/_123447538_kn24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코미디언에서 단호한 리더로 재평가 받는 젤렌스키 우크라 대통령]]></title>
@@ -70,6 +54,22 @@
             <pubDate>Mon, 28 Feb 2022 03:16:19 GMT</pubDate>
             <content:encoded><![CDATA[푸틴 대통령이 핵 억지를 담당하는 부대에 특별 경계 태세 돌입을 지시했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13C76/production/_123441018_putin.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나토는 무엇이고, 러시아는 왜 이를 불신하나?]]></title>
+            <link>https://www.bbc.com/korean/international-60521392</link>
+            <guid>https://www.bbc.com/korean/international-60521392</guid>
+            <pubDate>Mon, 28 Feb 2022 11:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[나토는 러시아의 우크라이나 침공으로 역사상 가장 큰 도전에 직면해 있다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15DED/production/_123418598_nato.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키예프 교전 시작...우크라이나 사태 5가지 업데이트]]></title>
+            <link>https://www.bbc.com/korean/international-60519286</link>
+            <guid>https://www.bbc.com/korean/international-60519286</guid>
+            <pubDate>Mon, 28 Feb 2022 11:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[젤렌스키 대통령은 26일 셀프로 촬영한 영상을 올리며 우크라이나군이 '무기를 내려놓지 않을 것'이라는 단호한 입장을 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2D2A/production/_123426511_b1c622b5-f334-463a-ad74-d51e187a8601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
