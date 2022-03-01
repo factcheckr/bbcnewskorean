@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 19:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 20:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,13 +154,6 @@
             <content:encoded><![CDATA[1:17]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[북한 연구: '북한 쓰레기' 줍는 교수...이유는? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60398958</link>
             <guid>https://www.bbc.com/korean/features-60398958</guid>
@@ -168,11 +161,18 @@
             <content:encoded><![CDATA[3:52]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아: '모두가 두려워하고 있다'... 우크라 분쟁지역 떠나는 주민들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60460374</link>
-            <guid>https://www.bbc.com/korean/international-60460374</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 1일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -308,38 +308,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코미디언에서 단호한 리더로 재평가 받는 젤렌스키 우크라 대통령 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60519287</link>
-            <guid>https://www.bbc.com/korean/international-60519287</guid>
-            <pubDate>Mon, 28 Feb 2022 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[논란 많던 '방역패스' 4개월 만에 중단 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60521570</link>
             <guid>https://www.bbc.com/korean/news-60521570</guid>
             <pubDate>Tue, 01 Mar 2022 01:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 침공: 스포츠계는 어떻게 반응하고 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60519291</link>
-            <guid>https://www.bbc.com/korean/international-60519291</guid>
-            <pubDate>Tue, 01 Mar 2022 02:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <title><![CDATA[코미디언에서 단호한 리더로 재평가 받는 젤렌스키 우크라 대통령 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60519287</link>
+            <guid>https://www.bbc.com/korean/international-60519287</guid>
+            <pubDate>Mon, 28 Feb 2022 06:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 침공을 명령한 푸틴 러시아 대통령은 누구인가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60543465</link>
             <guid>https://www.bbc.com/korean/international-60543465</guid>
             <pubDate>Sun, 27 Feb 2022 07:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 침공: 스포츠계는 어떻게 반응하고 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60519291</link>
+            <guid>https://www.bbc.com/korean/international-60519291</guid>
+            <pubDate>Tue, 01 Mar 2022 02:42:52 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57508343</link>
-            <guid>https://www.bbc.com/korean/international-57508343</guid>
-            <pubDate>Tue, 01 Mar 2022 16:21:50 GMT</pubDate>
+            <title><![CDATA[BBC 분석: 러시아 핵 위협, NATO 우려가 현실로? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60551239</link>
+            <guid>https://www.bbc.com/korean/60551239</guid>
+            <pubDate>Mon, 28 Feb 2022 02:08:11 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
