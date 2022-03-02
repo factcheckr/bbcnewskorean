@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 21:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 22:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,14 +116,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10B16/production/_123447386_p0brr6ch.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 사태: 고국을 지키기 위해 돌아가는 우크라 이민자들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60566719</link>
-            <guid>https://www.bbc.com/korean/international-60566719</guid>
-            <pubDate>Wed, 02 Mar 2022 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4BAE/production/_123447391_p0bryjmf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: ‘화염병’ 만들어 러시아군에 맞서는 여성들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/60553028</link>
             <guid>https://www.bbc.com/korean/60553028</guid>
@@ -140,6 +132,21 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 사태: 고국을 지키기 위해 돌아가는 우크라 이민자들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60566719</link>
+            <guid>https://www.bbc.com/korean/international-60566719</guid>
+            <pubDate>Wed, 02 Mar 2022 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4BAE/production/_123447391_p0bryjmf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 침공: 펜과 키보드 대신 총을 들고 거리로 우크라 시민들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60519289</link>
+            <guid>https://www.bbc.com/korean/international-60519289</guid>
+            <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
@@ -152,13 +159,6 @@
             <guid>https://www.bbc.com/korean/60553030</guid>
             <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 침공: 펜과 키보드 대신 총을 들고 거리로 우크라 시민들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60519289</link>
-            <guid>https://www.bbc.com/korean/international-60519289</guid>
-            <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아, 우크라이나 침공...중국과 서방의 엇갈린 반응 (BBC News 코리아 ─ 비디오)]]></title>
@@ -301,17 +301,17 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내가 북한 '보물'을 줍는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60384150</link>
-            <guid>https://www.bbc.com/korean/features-60384150</guid>
-            <pubDate>Wed, 02 Mar 2022 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 침공: 푸틴은 진짜 '핵 버튼'을 누를까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60553027</link>
             <guid>https://www.bbc.com/korean/60553027</guid>
             <pubDate>Mon, 28 Feb 2022 08:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[내가 북한 '보물'을 줍는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60384150</link>
+            <guid>https://www.bbc.com/korean/features-60384150</guid>
+            <pubDate>Wed, 02 Mar 2022 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 침공을 명령한 푸틴 러시아 대통령은 누구인가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60543465</link>
-            <guid>https://www.bbc.com/korean/international-60543465</guid>
-            <pubDate>Wed, 02 Mar 2022 06:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59708074</link>
             <guid>https://www.bbc.com/korean/news-59708074</guid>
             <pubDate>Wed, 02 Mar 2022 20:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코미디언에서 단호한 리더로 재평가 받는 젤렌스키 우크라 대통령 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60519287</link>
             <guid>https://www.bbc.com/korean/international-60519287</guid>
             <pubDate>Wed, 02 Mar 2022 21:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 침공을 명령한 푸틴 러시아 대통령은 누구인가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60543465</link>
+            <guid>https://www.bbc.com/korean/international-60543465</guid>
+            <pubDate>Wed, 02 Mar 2022 06:19:28 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
