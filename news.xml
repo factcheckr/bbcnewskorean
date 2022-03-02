@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 로켓포 공격에 피신하는 우크라 주민들 늘어나]]></title>
+            <link>https://www.bbc.com/korean/news-60582798</link>
+            <guid>https://www.bbc.com/korean/news-60582798</guid>
+            <pubDate>Wed, 02 Mar 2022 06:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[1일 러시아군의 폭격으로 하르키우 주민 수천 명이 집과 가족, 일터를 뒤로하고 도시를 떠났다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1439F/production/_123474828_2a600992-e593-4457-b215-97d6f808b51c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, '용서할 수 없다'... 우크라 광장에 떨어진 러시아 미사일, 방송 길이 1,28]]></title>
             <link>https://www.bbc.com/korean/news-60582799</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[젤렌스키 대통령이 러시아 침공과 관련한 가짜 뉴스에 대응하기 위해 수도 곳곳에서 직접 영상을 촬영해 올렸다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/205C/production/_123448280_p0brkw41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 펜과 키보드 대신 총을 들고 나선 우크라 의원들, 방송 길이 1,41]]></title>
-            <link>https://www.bbc.com/korean/international-60519289</link>
-            <guid>https://www.bbc.com/korean/international-60519289</guid>
-            <pubDate>Mon, 28 Feb 2022 10:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[정치인들도 직접 무장을 하고 국가경비대에 합류했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/174F2/production/_123447459_p0brkqrp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
