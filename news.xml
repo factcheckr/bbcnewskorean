@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 08:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 03 Mar 2022 06:18:49 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 침공 7일째에 접어든 가운데 갓 태어난 신생아와 산모들이 생명의 위협을 받고 있는 것으로 나타났다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/808D/production/_123490923_p0bs62hy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태: 러시아 침공 7일째 상황]]></title>
+            <link>https://www.bbc.com/korean/60598061</link>
+            <guid>https://www.bbc.com/korean/60598061</guid>
+            <pubDate>Thu, 03 Mar 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[마리우폴과 하르키우 등 적어도 두 개의 주요 도시가 포위됐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1B61/production/_123490070_ffbf9308-62b2-4281-b0a3-d55e3c5827e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 대선: 역대 '단일화' 어떤 결과를 가져왔나?]]></title>
+            <link>https://www.bbc.com/korean/news-60521572</link>
+            <guid>https://www.bbc.com/korean/news-60521572</guid>
+            <pubDate>Thu, 03 Mar 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[후보 '단일화'에 주목하는 이유는 과거 역대 대선에서 단일화가 변수로 작용하며 결과에 미친 영향 때문이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/95AF/production/_123491383_mediaitem123476549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서해 피격공무원∙KAL기 납치 피해자 유족, '차기 대통령'에 호소]]></title>
+            <link>https://www.bbc.com/korean/news-60543467</link>
+            <guid>https://www.bbc.com/korean/news-60543467</guid>
+            <pubDate>Thu, 03 Mar 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA['현 정부는 무대응, 무책임으로 일관하고 있다. 차기 정부는 좀 더 발전적인 노력을 해주기를 바라는 마음이다.']]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15EDB/production/_123491898_57118df6-2594-4d88-841c-a589433585d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 항구도시 마리우폴, 폭격으로 '재앙에 가까운 상황']]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 02 Mar 2022 09:14:40 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나의 대도심에서 사용된다면 민간인 사상자 규모는 매우 심각해질 수 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/175E5/production/_123471759_2de1d1af-0acd-45e2-8559-1fedcb52227d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 고국을 지키기 위해 돌아가는 우크라 이민자들, 방송 길이 2,34]]></title>
-            <link>https://www.bbc.com/korean/international-60566719</link>
-            <guid>https://www.bbc.com/korean/international-60566719</guid>
-            <pubDate>Wed, 02 Mar 2022 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[직접 방탄조끼, 헬멧, 드론은 물론 지뢰 탐지기, 의료 장비, 심지어 군용 포장 식품도 챙겼다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4BAE/production/_123447391_p0bryjmf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 로켓포 공격에 피신하는 우크라 주민들 늘어나]]></title>
-            <link>https://www.bbc.com/korean/news-60582798</link>
-            <guid>https://www.bbc.com/korean/news-60582798</guid>
-            <pubDate>Wed, 02 Mar 2022 06:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1일 러시아군의 폭격으로 하르키우 주민 수천 명이 집과 가족, 일터를 뒤로하고 도시를 떠났다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1439F/production/_123474828_2a600992-e593-4457-b215-97d6f808b51c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, '용서할 수 없다'... 우크라 광장에 떨어진 러시아 미사일, 방송 길이 1,28]]></title>
-            <link>https://www.bbc.com/korean/news-60582799</link>
-            <guid>https://www.bbc.com/korean/news-60582799</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나의 제2도시 하르키우가 러시아군의 미사일 공격을 받았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3617/production/_123474831_7c96c3fb-9bcd-4ddc-9b79-a8692ab17737.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
