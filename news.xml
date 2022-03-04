@@ -4,9 +4,33 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 04:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대선 사전투표 첫날 오전 투표율 역대 최고]]></title>
+            <link>https://www.bbc.com/korean/news-60521573</link>
+            <guid>https://www.bbc.com/korean/news-60521573</guid>
+            <pubDate>Fri, 04 Mar 2022 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 선거 사전투표가 4일부터 이틀간 진행된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1B30/production/_123506960_-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, '핵 카드' 꺼낸 푸틴…러시아 핵무기 위력은 어느 정도일까, 방송 길이 1,59]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[러시아는 세계에서 가장 많은 핵무기를 보유하고 있지만 실제로 전쟁에 사용한 적은 없다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아무도 우릴 구하러 오지 않아요'...하르키우에 갇힌 인도 유학생들]]></title>
+            <link>https://www.bbc.com/korean/60601295</link>
+            <guid>https://www.bbc.com/korean/60601295</guid>
+            <pubDate>Fri, 04 Mar 2022 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[하르키우에 포탄이 쏟아지고 있지만 인도인 유학생 수천 명은 여전히 발이 묶여 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EDA5/production/_123473806_capture.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, '아내와 아기만이라도'... 가족과 이별하는 우크라 피난민, 방송 길이 1,45]]></title>
             <link>https://www.bbc.com/korean/international-60566723</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 03 Mar 2022 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA['현 정부는 무대응, 무책임으로 일관하고 있다. 차기 정부는 좀 더 발전적인 노력을 해주기를 바라는 마음이다.']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15EDB/production/_123491898_57118df6-2594-4d88-841c-a589433585d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 항구도시 마리우폴, 폭격으로 '재앙에 가까운 상황']]></title>
-            <link>https://www.bbc.com/korean/news-60598858</link>
-            <guid>https://www.bbc.com/korean/news-60598858</guid>
-            <pubDate>Thu, 03 Mar 2022 06:18:49 GMT</pubDate>
-            <content:encoded><![CDATA['러시아군은 대포, 다연장 로켓 발사 시스템, 전투기, 미사일 등 모든 무기를 동원해 공격하고 있다.']]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/326D/production/_123490921_d8541dcd-31ab-47bd-9369-b5a1b935ac45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라 사태: '러시아 방송이 본 전쟁은 전혀 달랐다']]></title>
-            <link>https://www.bbc.com/korean/features-60598054</link>
-            <guid>https://www.bbc.com/korean/features-60598054</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 주민들은 이번 전쟁을 어떻게 보고 있을까?]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/128E9/production/_123490067_ab45a330-6d9a-469b-97cd-c577911330af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태: 주요 국가들의 반응, 어떻게 다른가]]></title>
-            <link>https://www.bbc.com/korean/60584738</link>
-            <guid>https://www.bbc.com/korean/60584738</guid>
-            <pubDate>Thu, 03 Mar 2022 03:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[러시아에 대한 반응은 전 세계적으로 엇갈린다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/161F9/production/_123471609_60572191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
