@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 09:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 10:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 04 Mar 2022 07:14:23 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 곳곳에서 이제 파괴의 현장은 어렵지 않게 찾아볼 수 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/39A8/production/_123506741_mediaitem123506740.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 한국 미사일 성공에 강도 높은 비난]]></title>
+            <link>https://www.bbc.com/korean/news-60543468</link>
+            <guid>https://www.bbc.com/korean/news-60543468</guid>
+            <pubDate>Fri, 04 Mar 2022 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA['북한이 자신들의 무력 강화와 핵 개발을 정당화하면서 이를 주변국의 대북 압살정책 탓으로 돌리고 있다.']]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14938/production/_123508248_gettyimages-542367894.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대선 사전투표 첫날 역대 최고치 기대]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Mar 2022 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[마리우폴과 하르키우 등 적어도 두 개의 주요 도시가 포위됐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1B61/production/_123490070_ffbf9308-62b2-4281-b0a3-d55e3c5827e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 대선: 역대 '단일화' 어떤 결과를 가져왔나?]]></title>
-            <link>https://www.bbc.com/korean/news-60521572</link>
-            <guid>https://www.bbc.com/korean/news-60521572</guid>
-            <pubDate>Thu, 03 Mar 2022 09:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[후보 '단일화'에 주목하는 이유는 과거 역대 대선에서 단일화가 변수로 작용하며 결과에 미친 영향 때문이다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/95AF/production/_123491383_mediaitem123476549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
