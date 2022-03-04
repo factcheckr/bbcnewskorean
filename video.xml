@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 21:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 22:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E466/production/_123507485_p0bsglh7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 사태: 고국을 지키기 위해 돌아가는 우크라 이민자들]]></title>
-            <link>https://www.bbc.com/korean/international-60566719</link>
-            <guid>https://www.bbc.com/korean/international-60566719</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4BAE/production/_123447391_p0bryjmf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가]]></title>
             <link>https://www.bbc.com/korean/international-60566717</link>
             <guid>https://www.bbc.com/korean/international-60566717</guid>
@@ -40,12 +32,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10B16/production/_123447386_p0brr6ch.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우크라이나 사태: 고국을 지키기 위해 돌아가는 우크라 이민자들]]></title>
+            <link>https://www.bbc.com/korean/international-60566719</link>
+            <guid>https://www.bbc.com/korean/international-60566719</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4BAE/production/_123447391_p0bryjmf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
@@ -53,13 +45,14 @@
             <guid>https://www.bbc.com/korean/news-60065089</guid>
             <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 사태: ‘화염병’ 만들어 러시아군에 맞서는 여성들]]></title>
-            <link>https://www.bbc.com/korean/60553028</link>
-            <guid>https://www.bbc.com/korean/60553028</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 침공: 펜과 키보드 대신 총을 들고 거리로 우크라 시민들]]></title>
@@ -69,11 +62,11 @@
             <content:encoded><![CDATA[1:41]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라 침공: 전쟁 중 출산하는 산모들...'매우 위험한 상황']]></title>
-            <link>https://www.bbc.com/korean/international-60566721</link>
-            <guid>https://www.bbc.com/korean/international-60566721</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <title><![CDATA[우크라이나 사태: ‘화염병’ 만들어 러시아군에 맞서는 여성들]]></title>
+            <link>https://www.bbc.com/korean/60553028</link>
+            <guid>https://www.bbc.com/korean/60553028</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라 사태: '아내와 아이만이라도'... 가족과 이별하는 피난민들]]></title>
@@ -81,6 +74,13 @@
             <guid>https://www.bbc.com/korean/international-60566723</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라 침공: 전쟁 중 출산하는 산모들...'매우 위험한 상황']]></title>
+            <link>https://www.bbc.com/korean/international-60566721</link>
+            <guid>https://www.bbc.com/korean/international-60566721</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
         </item>
     </channel>
 </rss>
