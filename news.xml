@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 07 Mar 2022 08:19:01 GMT</pubDate>
             <content:encoded><![CDATA[천연가스 도매가가 치솟으면서 이미 비료가는 큰 폭으로 올랐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/139DB/production/_123574308_1d006d06-ec7e-4a85-a762-5502f50aa425.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 틱톡으로 알리는 우크라이나 전쟁 상황, 방송 길이 1,20]]></title>
+            <link>https://www.bbc.com/korean/international-60636081</link>
+            <guid>https://www.bbc.com/korean/international-60636081</guid>
+            <pubDate>Mon, 07 Mar 2022 09:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[발레리아는 틱톡을 통해 전쟁 속 우크라이나의 삶을 공유한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7A73/production/_123574313_p0bswstv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비디오, '사이렌도 폭탄도 없고, 모든 것이 아름다워요'... 폴란드 도착한 우크라이나 가족, 방송 길이 2,29]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 06 Mar 2022 03:15:54 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 정부가 러시아의 침공에 맞서 국가를 방어하기 위한 군비 마련을 위해 대체 불가능 토큰(NFT)을 발행하겠다고 밝혔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1622E/production/_123507609_gettyimages-1238909706-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘도시에 포탄이 쏟아지고 있지만 러시아에 계신 어머니는 믿지 않아요’]]></title>
-            <link>https://www.bbc.com/korean/international-60636077</link>
-            <guid>https://www.bbc.com/korean/international-60636077</guid>
-            <pubDate>Sun, 06 Mar 2022 03:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[일부 우크라이나인들은 러시아에 사는 가족들이 러시아 방송 보도만 듣고 자신들을 믿지 않는다며 이야기를 전했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12700/production/_123502557_284a6f3c-9f40-4113-819f-a534552a5d55.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
