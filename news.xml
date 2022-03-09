@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 08:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 09:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20대 대통령 선거 이후 당선인의 첫 과제는?]]></title>
+            <link>https://www.bbc.com/korean/news-60659236</link>
+            <guid>https://www.bbc.com/korean/news-60659236</guid>
+            <pubDate>Wed, 09 Mar 2022 09:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[9일 선거에서 국민들의 선택을 받은 당선인은 오는 5월 10일 공식 취임하게 된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13B1E/production/_123607608_mediaitem123607607.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['안내견도 왔어요'...사진으로 본 대선 풍경]]></title>
             <link>https://www.bbc.com/korean/news-60672576</link>
@@ -29,7 +37,7 @@
             <guid>https://www.bbc.com/korean/features-60658836</guid>
             <pubDate>Tue, 08 Mar 2022 11:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 주요 기사 및 투표 현황]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9536/production/_123589183_origin_.jpg-2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13B1E/production/_123607608_mediaitem123607607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비디오, 포격 피해 달아나는 우크라 주민들의 긴박한 순간, 방송 길이 4,21]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Mar 2022 11:12:45 GMT</pubDate>
             <content:encoded><![CDATA['중국에서 필요한 모든 것을 들여오는 만큼 러시아에서 수입할 수 있는 게 많지 않은 것이 현실']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6AA2/production/_123589272_gettyimages-1139190637.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['왜 러시아서 철수 안 하냐'…맥도날드, 코카콜라 불매운동 확산]]></title>
-            <link>https://www.bbc.com/korean/news-60657670</link>
-            <guid>https://www.bbc.com/korean/news-60657670</guid>
-            <pubDate>Tue, 08 Mar 2022 11:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 침공으로 서방 식음료 대기업들이 러시아에서 철수해야 한다는 압박이 커지고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/132C1/production/_118892587_gettyimages-1233121717.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
