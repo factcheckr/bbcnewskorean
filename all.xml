@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9922/production/_123620293_mediaitem123620292.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[20대 한국 대통령에 윤석열 당선... 1%포인트 내 초접전 끝 승리 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60679094</link>
-            <guid>https://www.bbc.com/korean/news-60679094</guid>
-            <pubDate>Wed, 09 Mar 2022 19:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[제20대 대통령 당선인은 오는 5월 10일 차기 대통령으로 공식 취임하게 된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6D4D/production/_123618972_origin_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[20대 한국 대통령 당선인 윤석열은 누구? (BBC News 코리아 ─ 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60676829</link>
             <guid>https://www.bbc.com/korean/news-60676829</guid>
             <pubDate>Wed, 09 Mar 2022 20:16:19 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인은 오는 5월 10일 차기 대통령으로 공식 취임한다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C44B/production/_123615205_origin_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20대 한국 대통령에 윤석열 당선... 1%포인트 내 초접전 끝 승리 (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60679094</link>
+            <guid>https://www.bbc.com/korean/news-60679094</guid>
+            <pubDate>Wed, 09 Mar 2022 19:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[제20대 대통령 당선인은 오는 5월 10일 차기 대통령으로 공식 취임하게 된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6D4D/production/_123618972_origin_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라 피란민 위한 '휴전'과 '인도주의 통로'란? (BBC News 코리아 ─ 뉴스)]]></title>
@@ -40,7 +40,15 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5FA0/production/_123608442_ukraine4.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['운명의 날'... 2022 대선 개표현황 (BBC News 코리아 ─ 뉴스)]]></title>
+            <title><![CDATA['초박빙' 대선 승리한 윤석열... 첫 과제는? (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60659236</link>
+            <guid>https://www.bbc.com/korean/news-60659236</guid>
+            <pubDate>Wed, 09 Mar 2022 09:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 국민의힘 대통령 당선인은 오는 5월 10일 공식 취임하게 된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/280B/production/_123615201_origin_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령 선거 결과 (BBC News 코리아 ─ 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60673412</link>
             <guid>https://www.bbc.com/korean/features-60673412</guid>
             <pubDate>Wed, 09 Mar 2022 10:17:29 GMT</pubDate>
@@ -56,48 +64,40 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17C0A/production/_123609279_origin_19.jpg-resize.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['초박빙' 대선 승리한 윤석열... 첫 과제는? (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60659236</link>
-            <guid>https://www.bbc.com/korean/news-60659236</guid>
-            <pubDate>Wed, 09 Mar 2022 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 대통령 당선인은 오는 5월 10일 공식 취임하게 된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/280B/production/_123615201_origin_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['안내견도 왔어요'...사진으로 본 대선 풍경 (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60672576</link>
+            <guid>https://www.bbc.com/korean/news-60672576</guid>
+            <pubDate>Thu, 10 Mar 2022 08:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[일부 투표소에선 유권자 80명이 넘게 긴 줄을 서 있는 모습도 포착됐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/118B4/production/_123606817_origin_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 대선 한눈에 보기 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60658836</link>
-            <guid>https://www.bbc.com/korean/features-60658836</guid>
-            <pubDate>Tue, 08 Mar 2022 11:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022 대선 주요 기사 및 투표 현황]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/03C0/production/_123606900_origin_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['역대 비호감 대선'서 '역대 최소 표차'... 윤석열 당선이 의미하는 것 (BBC News 코리아 ─ 뉴스 메인)]]></title>
+            <link>https://www.bbc.com/korean/news-60686424</link>
+            <guid>https://www.bbc.com/korean/news-60686424</guid>
+            <pubDate>Thu, 10 Mar 2022 08:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/3A4A/production/_123622941_mediaitem123621014.jpg" alt="10일 서울 여의도 국회도서관 대강당에서 당선인사 기자회견하는 윤석열 제20대 대통령 당선인" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-60686424" aria-labelledby="promo-koreannews60686424-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews60686424-1">'역대 비호감 대선'서 '역대 최소 표차'... 윤석열 당선이 의미하는 것</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">제20대 대선은 '역대 비호감 선거'라는 수식어를 포함해 갖은 기록을 쏟아냈다.</p><time datetime="2022-03-10" class="bbc-1cagdt4 e4zesg50">4분 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60673418" aria-labelledby="IndexAlsosLink-koreaninternational60673418" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreaninternational60673418"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>'국민의 승리, 이제 하나가 돼야'</span></span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60679094" class="bbc-1ocdizt e1wlg2v80"><span>20대 한국 대통령에 윤석열 당선... 1%포인트 내 초접전 끝 승리</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60614582" aria-labelledby="IndexAlsosLink-koreannews60614582" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60614582"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>선거 벽보 앞에서 만난 사람들</span></span></a></li></ul></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비디오, '국민의 승리, 이제 하나가 돼야', 방송 길이 1,50 (BBC News 코리아 ─ 뉴스 메인)]]></title>
+            <title><![CDATA[비디오, '국민의 승리, 이제 하나가 돼야' (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
             <link>https://www.bbc.com/korean/international-60673418</link>
             <guid>https://www.bbc.com/korean/international-60673418</guid>
             <pubDate>Thu, 10 Mar 2022 04:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/1142E/production/_123620707_p0btjsn3.jpg" alt="국민의힘 윤석열 후보가 20대 대통령에 당선됐다." class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-16q1zrn e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg><time datetime="PT1M50S" class="bbc-pde5np e1z0eaht0">1:50</time></div></div></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/international-60673418" aria-labelledby="promo-koreaninternational60673418-1" class="bbc-1fxtbkn evnt13t0"><span role="text" id="promo-koreaninternational60673418-1"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>'국민의 승리, 이제 하나가 돼야'</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 1,50</span></span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">국민의힘 윤석열 후보가 20대 대통령에 당선됐다.</p><time datetime="2022-03-10" class="bbc-1cagdt4 e4zesg50">3시간 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60686423" class="bbc-1ocdizt e1wlg2v80"><span>'국민의 승리'...역대 '초박빙' 선거 윤석열 당선인 소감</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60676829" class="bbc-1ocdizt e1wlg2v80"><span>20대 한국 대통령 당선인 윤석열은 누구?</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60659236" class="bbc-1ocdizt e1wlg2v80"><span>'초박빙' 대선 승리한 윤석열... 첫 과제는?</span></a></li></ul></div></div></div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/korean/international-60673418" aria-labelledby="IndexAlsosLink-koreaninternational60673418" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreaninternational60673418"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>'국민의 승리, 이제 하나가 돼야'</span></span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['국민의 승리'...역대 '초박빙' 선거 윤석열 당선인 소감 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-60686423</link>
-            <guid>https://www.bbc.com/korean/news-60686423</guid>
-            <pubDate>Thu, 10 Mar 2022 02:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-60686423" class="bbc-1ocdizt e1wlg2v80"><span>'국민의 승리'...역대 '초박빙' 선거 윤석열 당선인 소감</span></a>]]></content:encoded>
+            <title><![CDATA[20대 한국 대통령에 윤석열 당선... 1%포인트 내 초접전 끝 승리 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-60679094</link>
+            <guid>https://www.bbc.com/korean/news-60679094</guid>
+            <pubDate>Wed, 09 Mar 2022 19:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-60679094" class="bbc-1ocdizt e1wlg2v80"><span>20대 한국 대통령에 윤석열 당선... 1%포인트 내 초접전 끝 승리</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[20대 한국 대통령 당선인 윤석열은 누구? (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-60676829</link>
-            <guid>https://www.bbc.com/korean/news-60676829</guid>
-            <pubDate>Wed, 09 Mar 2022 20:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-60676829" class="bbc-1ocdizt e1wlg2v80"><span>20대 한국 대통령 당선인 윤석열은 누구?</span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['초박빙' 대선 승리한 윤석열... 첫 과제는? (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-60659236</link>
-            <guid>https://www.bbc.com/korean/news-60659236</guid>
-            <pubDate>Wed, 09 Mar 2022 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-60659236" class="bbc-1ocdizt e1wlg2v80"><span>'초박빙' 대선 승리한 윤석열... 첫 과제는?</span></a>]]></content:encoded>
+            <title><![CDATA[비디오, 선거 벽보 앞에서 만난 사람들 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-60614582</link>
+            <guid>https://www.bbc.com/korean/news-60614582</guid>
+            <pubDate>Thu, 10 Mar 2022 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-60614582" aria-labelledby="IndexAlsosLink-koreannews60614582" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60614582"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>선거 벽보 앞에서 만난 사람들</span></span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤석열: '국민의 승리, 이제 하나가 돼야'... 20대 대통령 당선인 소감 (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,6 +140,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태: ‘화염병’ 만들어 러시아군에 맞서는 여성들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/60553028</link>
+            <guid>https://www.bbc.com/korean/60553028</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 사태: 고국을 지키기 위해 돌아가는 우크라 이민자들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60566719</link>
             <guid>https://www.bbc.com/korean/international-60566719</guid>
@@ -159,20 +173,6 @@
             <guid>https://www.bbc.com/korean/international-60566723</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태: ‘화염병’ 만들어 러시아군에 맞서는 여성들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/60553028</link>
-            <guid>https://www.bbc.com/korean/60553028</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 9일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -322,17 +322,17 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['20대 대통령, MZ 세대 손에 달렸다'... 2030의 선택은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60521571</link>
-            <guid>https://www.bbc.com/korean/news-60521571</guid>
-            <pubDate>Tue, 08 Mar 2022 10:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['폐지 논란' 여성가족부... 무슨 일을 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-57747330</link>
             <guid>https://www.bbc.com/korean/news-57747330</guid>
             <pubDate>Thu, 10 Mar 2022 05:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['20대 대통령, MZ 세대 손에 달렸다'... 2030의 선택은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60521571</link>
+            <guid>https://www.bbc.com/korean/news-60521571</guid>
+            <pubDate>Tue, 08 Mar 2022 10:16:56 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
