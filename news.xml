@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 04:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 05:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['국민의 승리'...역대 '초박빙' 선거 윤석열 당선인 소감]]></title>
+            <link>https://www.bbc.com/korean/news-60686423</link>
+            <guid>https://www.bbc.com/korean/news-60686423</guid>
+            <pubDate>Thu, 10 Mar 2022 05:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[10일 개표율 100% 기준 윤 당선인의 득표율은 48.56%, 더불어민주당 이재명 후보는 47.83%를 각각 기록했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9922/production/_123620293_mediaitem123620292.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대 한국 대통령에 윤석열 당선... 1%포인트 내 초접전 끝 승리]]></title>
             <link>https://www.bbc.com/korean/news-60679094</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Mar 2022 11:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 주요 기사 및 투표 현황]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/03C0/production/_123606900_origin_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안내견도 왔어요'...사진으로 본 대선 풍경]]></title>
-            <link>https://www.bbc.com/korean/news-60672576</link>
-            <guid>https://www.bbc.com/korean/news-60672576</guid>
-            <pubDate>Wed, 09 Mar 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[일부 투표소에선 유권자 80명이 넘게 긴 줄을 서 있는 모습도 포착됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/118B4/production/_123606817_origin_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
