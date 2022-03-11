@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 22:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 23:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,20 +116,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60704946</link>
             <guid>https://www.bbc.com/korean/news-60704946</guid>
             <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/122DF/production/_123636447_p0btt428.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라 전쟁: '치료약이 없어서'...암투병 딸을 폴란드에 보내는 아빠 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,25 +154,25 @@
             <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라 사태: '아내와 아이만이라도'... 가족과 이별하는 피난민들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60566723</link>
-            <guid>https://www.bbc.com/korean/international-60566723</guid>
-            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <title><![CDATA[대선: BBC 로라 비커 서울 특파원이 보는 제20대 대통령 선거 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60658844</link>
+            <guid>https://www.bbc.com/korean/features-60658844</guid>
+            <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['넷플릭스 진출' 나이지리아 10대들의 SF영화 제작 도전기 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60328634</link>
-            <guid>https://www.bbc.com/korean/international-60328634</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <title><![CDATA[슈퍼개미: 2000만원서 40억원 자산 일군 주식투자 생존기 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56439318</link>
+            <guid>https://www.bbc.com/korean/features-56439318</guid>
+            <pubDate>Sat, 20 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:56]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 11일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -294,52 +294,52 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤석열 당선... 2022 대통령 선거 결과 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60673412</link>
-            <guid>https://www.bbc.com/korean/features-60673412</guid>
-            <pubDate>Wed, 09 Mar 2022 10:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열, 20대 한국 대통령에 당선... 1%포인트 내 초접전 끝 승리 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60679094</link>
-            <guid>https://www.bbc.com/korean/news-60679094</guid>
-            <pubDate>Wed, 09 Mar 2022 19:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['폐지 논란' 여성가족부... 무슨 일을 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-57747330</link>
             <guid>https://www.bbc.com/korean/news-57747330</guid>
             <pubDate>Fri, 11 Mar 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59708074</link>
             <guid>https://www.bbc.com/korean/news-59708074</guid>
             <pubDate>Fri, 11 Mar 2022 08:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[20대 대선 투표 종료... 최종 투표율 잠정치 77.1% (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60659235</link>
-            <guid>https://www.bbc.com/korean/news-60659235</guid>
-            <pubDate>Fri, 11 Mar 2022 22:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[20대 한국 대통령 당선인 윤석열은 누구? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60676829</link>
-            <guid>https://www.bbc.com/korean/news-60676829</guid>
-            <pubDate>Wed, 09 Mar 2022 20:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <title><![CDATA[윤석열 당선... 2022 대통령 선거 결과 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60673412</link>
+            <guid>https://www.bbc.com/korean/features-60673412</guid>
+            <pubDate>Wed, 09 Mar 2022 10:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Fri, 11 Mar 2022 01:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라 사태: '러시아 방송이 본 전쟁은 전혀 달랐다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60598054</link>
+            <guid>https://www.bbc.com/korean/features-60598054</guid>
+            <pubDate>Fri, 11 Mar 2022 23:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라 사태: 5가지 '종전' 시나리오 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60614575</link>
+            <guid>https://www.bbc.com/korean/news-60614575</guid>
+            <pubDate>Fri, 11 Mar 2022 23:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열, 20대 한국 대통령에 당선... 1%포인트 내 초접전 끝 승리 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60679094</link>
+            <guid>https://www.bbc.com/korean/news-60679094</guid>
+            <pubDate>Wed, 09 Mar 2022 19:13:08 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
