@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 00:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 02:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 팬데믹 2년, 우리가 배운 5가지 교훈]]></title>
+            <link>https://www.bbc.com/korean/international-59806589</link>
+            <guid>https://www.bbc.com/korean/international-59806589</guid>
+            <pubDate>Sat, 12 Mar 2022 02:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 3월 11일 이후 사람들의 근무 방식부터 의학 치료법까지 우리가 사는 세상은 놀라운 속도로 변했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0646/production/_122260610_mediaitem122260609.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한, '연이어 신형 ICBM 발사 준비 행보']]></title>
             <link>https://www.bbc.com/korean/news-60686427</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 09 Mar 2022 21:13:55 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인은 오는 5월 10일 차기 대통령으로 공식 취임한다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C44B/production/_123615205_origin_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 우크라 수도 키이우를 떠날 수 없는 사람들, 방송 길이 2,58]]></title>
-            <link>https://www.bbc.com/korean/60689909</link>
-            <guid>https://www.bbc.com/korean/60689909</guid>
-            <pubDate>Fri, 11 Mar 2022 16:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[의용군과 취약계층, 이들을 돕는 자원봉사자 등 많은 시민들이 키이우에 남아있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AC64/production/_123623144_p0btkjm9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
