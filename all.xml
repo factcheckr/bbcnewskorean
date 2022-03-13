@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 18:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 19:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,31 +287,31 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“요트도 없는데, 러시아 제재를 걱정해야 하나요?” (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60688692</link>
-            <guid>https://www.bbc.com/korean/international-60688692</guid>
-            <pubDate>Sun, 13 Mar 2022 02:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제20대 대통령직 인수위원장에 '안철수' 임명 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60688697</link>
-            <guid>https://www.bbc.com/korean/news-60688697</guid>
-            <pubDate>Sun, 13 Mar 2022 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 대통령의 아내, 올레나 젤렌스카는 누구? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60697479</link>
             <guid>https://www.bbc.com/korean/news-60697479</guid>
             <pubDate>Sat, 12 Mar 2022 03:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“요트도 없는데, 러시아 제재를 걱정해야 하나요?” (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60688692</link>
+            <guid>https://www.bbc.com/korean/international-60688692</guid>
+            <pubDate>Sun, 13 Mar 2022 02:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Sat, 12 Mar 2022 04:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제20대 대통령직 인수위원장에 '안철수' 임명 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60688697</link>
+            <guid>https://www.bbc.com/korean/news-60688697</guid>
+            <pubDate>Sun, 13 Mar 2022 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -322,10 +322,10 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 최전방: '하르키우 함락은 곧 우크라이나 전체의 함락' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60717840</link>
-            <guid>https://www.bbc.com/korean/international-60717840</guid>
-            <pubDate>Sat, 12 Mar 2022 02:03:10 GMT</pubDate>
+            <title><![CDATA[우크라이나 전쟁, 글로벌 경기 불황으로 이어질까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60702879</link>
+            <guid>https://www.bbc.com/korean/features-60702879</guid>
+            <pubDate>Sun, 13 Mar 2022 11:12:59 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
@@ -336,10 +336,10 @@
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁, 글로벌 경기 불황으로 이어질까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60702879</link>
-            <guid>https://www.bbc.com/korean/features-60702879</guid>
-            <pubDate>Sun, 13 Mar 2022 11:12:59 GMT</pubDate>
+            <title><![CDATA[잠 못드는 당신... '코로나 불면증'을 아시나요? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/magazine-55807157</link>
+            <guid>https://www.bbc.com/korean/magazine-55807157</guid>
+            <pubDate>Sun, 13 Mar 2022 19:12:35 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
