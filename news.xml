@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 02:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 03:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“요트도 없는데, 러시아 제재를 걱정해야 하나요?”]]></title>
+            <link>https://www.bbc.com/korean/international-60688692</link>
+            <guid>https://www.bbc.com/korean/international-60688692</guid>
+            <pubDate>Sun, 13 Mar 2022 03:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[우정은 끝났고 가족은 흩어졌다. 러시아의 우크라이나 침공에 대한 러시아인의 생각은 복잡한 반응과 감정으로 나타났다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1683E/production/_123622229_83cbcab2-45b8-4097-83cf-1f0e17247e7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 최전방: '하르키우 함락은 곧 우크라이나 전체의 함락']]></title>
+            <link>https://www.bbc.com/korean/international-60717840</link>
+            <guid>https://www.bbc.com/korean/international-60717840</guid>
+            <pubDate>Sun, 13 Mar 2022 03:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[쿠엔틴 서머빌 BBC 특파원과 대런 콘웨이 카메라맨이 러시아군의 추가 진격을 저지하기 위해 고군분투하는 우크라이나군과 함께 일주일을 지냈다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17F24/production/_123648089_26c33090e-634f-463b-9f4f-b89e1de54039.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포화 속에서 할머니와 함께 한 피난]]></title>
             <link>https://www.bbc.com/korean/international-60717980</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 11 Mar 2022 08:18:42 GMT</pubDate>
             <content:encoded><![CDATA[이번 전쟁이 세계 경제에 어떤 영향을 미칠지, 특히 경기 불황의 가능성은 없는지 살펴본다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/57C6/production/_123407422_mediaitem123407421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, '치료약이 없어서'...암투병 세 살 딸을 폴란드로 보내는 아빠, 방송 길이 1,02]]></title>
-            <link>https://www.bbc.com/korean/international-60636085</link>
-            <guid>https://www.bbc.com/korean/international-60636085</guid>
-            <pubDate>Fri, 11 Mar 2022 07:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[하르키우에 사는 세 살 폴리나는 희소 암으로 투병 중이다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1527D/production/_123635668_p0btsqz7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첼시 구단주 아브라모비치 영국 제재 포함...선수영입 및 티켓판매 금지]]></title>
-            <link>https://www.bbc.com/korean/news-60702884</link>
-            <guid>https://www.bbc.com/korean/news-60702884</guid>
-            <pubDate>Fri, 11 Mar 2022 04:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[아브라모비치를 포함해 올리가르히(러시아의 산업·금융재벌) 7명이 자산 동결, 여행 금지 등을 포함한 제재 명단에 추가됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/62B8/production/_123627252_0e00f027-2c50-4634-b062-b5210045f72c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
