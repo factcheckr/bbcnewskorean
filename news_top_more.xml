@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean</id>
     <title>BBC News 코리아 ─ 뉴스 메인 더보기</title>
-    <updated>2022-03-14T07:16:00.810Z</updated>
+    <updated>2022-03-14T08:19:11.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
-        <title type="html"><![CDATA[우크라 피란민 위한 '휴전'과 '인도주의 통로'란?]]></title>
-        <id>https://www.bbc.com/korean/international-60673415</id>
-        <link href="https://www.bbc.com/korean/international-60673415"/>
-        <updated>2022-03-14T05:35:19.874Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/international-60673415" class="bbc-1ocdizt e1wlg2v80"><span>우크라 피란민 위한 '휴전'과 '인도주의 통로'란?</span></a>]]></content>
+        <title type="html"><![CDATA[북한, '연이어 신형 ICBM 발사 준비 행보']]></title>
+        <id>https://www.bbc.com/korean/news-60686427</id>
+        <link href="https://www.bbc.com/korean/news-60686427"/>
+        <updated>2022-03-14T08:18:51.909Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/news-60686427" class="bbc-1ocdizt e1wlg2v80"><span>북한, '연이어 신형 ICBM 발사 준비 행보'</span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라 사태: 5가지 '종전' 시나리오]]></title>
-        <id>https://www.bbc.com/korean/news-60614575</id>
-        <link href="https://www.bbc.com/korean/news-60614575"/>
-        <updated>2022-03-14T05:35:19.876Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/news-60614575" class="bbc-1ocdizt e1wlg2v80"><span>우크라 사태: 5가지 '종전' 시나리오</span></a>]]></content>
+        <title type="html"><![CDATA[전문가들이 바라본 '윤석열 정권'...남북관계 전망은?]]></title>
+        <id>https://www.bbc.com/korean/news-60688690</id>
+        <link href="https://www.bbc.com/korean/news-60688690"/>
+        <updated>2022-03-14T08:18:51.910Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/news-60688690" class="bbc-1ocdizt e1wlg2v80"><span>전문가들이 바라본 '윤석열 정권'...남북관계 전망은?</span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한 '광명성 4호' 6주년… 위성발사가 우려되는 이유]]></title>
+        <id>https://www.bbc.com/korean/news-60241935</id>
+        <link href="https://www.bbc.com/korean/news-60241935"/>
+        <updated>2022-03-14T08:18:51.911Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/news-60241935" class="bbc-1ocdizt e1wlg2v80"><span>북한 '광명성 4호' 6주년… 위성발사가 우려되는 이유</span></a>]]></content>
     </entry>
 </feed>
