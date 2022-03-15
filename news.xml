@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 23:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 01:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 추가 ICBM 발사 및 핵실험장 복구 동향 포착]]></title>
+            <link>https://www.bbc.com/korean/news-60734330</link>
+            <guid>https://www.bbc.com/korean/news-60734330</guid>
+            <pubDate>Tue, 15 Mar 2022 01:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[북한은 2018년 풍계리 핵실험장을 폭파했지만 여전히 핵실험장을 유지하고 있다는 지적이 제기됐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11EAB/production/_123678337_origin_-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국, '중국이 러시아를 돕는다면 대가를 치를 것']]></title>
             <link>https://www.bbc.com/korean/news-60732813</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 13 Mar 2022 09:14:28 GMT</pubDate>
             <content:encoded><![CDATA[단일화 과정에서 약속한 공동정부 구성의 첫발을 뗀 것으로 해석된다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6597/production/_123670062_origin_-2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴은 전쟁범죄로 처벌받을 수 있을까?]]></title>
-            <link>https://www.bbc.com/korean/international-60688693</link>
-            <guid>https://www.bbc.com/korean/international-60688693</guid>
-            <pubDate>Sun, 13 Mar 2022 04:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁범죄란 무엇이며 푸틴 대통령은 전쟁범죄로 처벌받을 수 있을까?]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10BAA/production/_123522586_putin_976getty.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
