@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 06:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 뉴스 생방송에 뛰어든 반전 시위자]]></title>
+            <link>https://www.bbc.com/korean/international-60717983</link>
+            <guid>https://www.bbc.com/korean/international-60717983</guid>
+            <pubDate>Tue, 15 Mar 2022 06:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[또렷하게 노출된 팻말에는 '전쟁 반대. 전쟁을 멈춰라. 선전 선동을 믿지 말라. 이들은 여기서 거짓말을 하고 있다'라고 적혀있었다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C80A/production/_123701215_3d6675bc-2375-42fa-8fa8-875841d5a51e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 전쟁: 우크라이나 난민들은 어디로 갔을까]]></title>
+            <link>https://www.bbc.com/korean/international-60736624</link>
+            <guid>https://www.bbc.com/korean/international-60736624</guid>
+            <pubDate>Tue, 15 Mar 2022 06:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[탈출 과정에서 국적에 따른 차별이 벌어졌다는 주장도 나왔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B155/production/_123579354_gettyimages-1382268529.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한, 추가 ICBM 발사 및 핵실험장 복구 동향 포착]]></title>
             <link>https://www.bbc.com/korean/news-60734330</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 14 Mar 2022 05:35:10 GMT</pubDate>
             <content:encoded><![CDATA['이건 단순히 난민을 돕는 게 아닙니다. 사람들에게 공감을 일으키는 거예요']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EA3B/production/_123636995_ellalambertshipment.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나를 위해 털실을 쥔 사람들]]></title>
-            <link>https://www.bbc.com/korean/international-60728582</link>
-            <guid>https://www.bbc.com/korean/international-60728582</guid>
-            <pubDate>Mon, 14 Mar 2022 05:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[영국의 정신건강 지원시설 입소자들이 우크라 어린이들을 위해 털실을 잡았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5C51/production/_123633632_whatsappimage2022-03-09at7.51.06pm-4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제20대 대통령직 인수위원장에 '안철수' 임명]]></title>
-            <link>https://www.bbc.com/korean/news-60688697</link>
-            <guid>https://www.bbc.com/korean/news-60688697</guid>
-            <pubDate>Sun, 13 Mar 2022 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[단일화 과정에서 약속한 공동정부 구성의 첫발을 뗀 것으로 해석된다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6597/production/_123670062_origin_-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
