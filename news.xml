@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젤렌스키 대통령 만나러 키이우까지 열차로 이동한 유럽 정상들]]></title>
+            <link>https://www.bbc.com/korean/news-60747939</link>
+            <guid>https://www.bbc.com/korean/news-60747939</guid>
+            <pubDate>Wed, 16 Mar 2022 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[슬로베니아, 폴란드, 체코 총리와 폴란드 집권당 당수가 폴란드 바르샤바에서 키이우까지 위험한 여정을 감행했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1132A/production/_123724407_d219f65a-9787-4b1b-bc57-47e3d7e4b41e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 폭스뉴스 기자 2명, 러시아군 총격으로 사망]]></title>
+            <link>https://www.bbc.com/korean/news-60747937</link>
+            <guid>https://www.bbc.com/korean/news-60747937</guid>
+            <pubDate>Wed, 16 Mar 2022 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[키이우 외곽 호렌카 지역에서 차량으로 이동하던 중 총격을 받고 2명이 숨졌고, 1명은 병원에서 치료를 받고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/85C0/production/_123704243_0d053484-a55f-4969-8a9c-fd1967d599b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나날이 늘어가는 민간인 사망자...러시아 침공 19일째 상황]]></title>
             <link>https://www.bbc.com/korean/60747922</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 15 Mar 2022 06:19:18 GMT</pubDate>
             <content:encoded><![CDATA[탈출 과정에서 국적에 따른 차별이 벌어졌다는 주장도 나왔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B155/production/_123579354_gettyimages-1382268529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 추가 ICBM 발사 및 핵실험장 복구 동향 포착]]></title>
-            <link>https://www.bbc.com/korean/news-60734330</link>
-            <guid>https://www.bbc.com/korean/news-60734330</guid>
-            <pubDate>Tue, 15 Mar 2022 01:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[북한은 2018년 풍계리 핵실험장을 폭파했지만 여전히 핵실험장을 유지하고 있다는 지적이 제기됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11EAB/production/_123678337_origin_-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, '중국이 러시아를 돕는다면 대가를 치를 것']]></title>
-            <link>https://www.bbc.com/korean/news-60732813</link>
-            <guid>https://www.bbc.com/korean/news-60732813</guid>
-            <pubDate>Mon, 14 Mar 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[미 백악관은 중국이 러시아의 우크라이나 침공을 지원한다면 가혹한 "대가"를 치를 것이라고 경고했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/58C6/production/_123662722_593c5427-3843-4c52-b110-0dac61882214.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
