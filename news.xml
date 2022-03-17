@@ -4,14 +4,14 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[바이든, '푸틴은 전범' 발언... 러시아 '용서할 수 없다']]></title>
             <link>https://www.bbc.com/korean/international-60775350</link>
             <guid>https://www.bbc.com/korean/international-60775350</guid>
-            <pubDate>Thu, 17 Mar 2022 07:15:28 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 08:18:36 GMT</pubDate>
             <content:encoded><![CDATA['미국과 러시아 사이의 외교적 관계가 하나씩 끊겨가고 있다.']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C781/production/_123737015_hi074636299.jpg" length="0" type="image/jpg"/>
         </item>
