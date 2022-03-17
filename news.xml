@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 03:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 04:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우크라이나에서 싸우는 것이 나이지리아에서 사는 것보다 낫다']]></title>
+            <link>https://www.bbc.com/korean/features-60775341</link>
+            <guid>https://www.bbc.com/korean/features-60775341</guid>
+            <pubDate>Thu, 17 Mar 2022 04:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[아프리카의 많은 젊은이들이 무기를 들고 러시아에 맞서 싸우고 싶어 한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/144B2/production/_123722138_gettyimages-524804998_976.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[러시아서 맥도날드는 문 닫는데 버거킹은 못 떠나는 까닭]]></title>
             <link>https://www.bbc.com/korean/international-60764980</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 02:43:28 GMT</pubDate>
             <content:encoded><![CDATA[14일(현지시간) 민간인 일부가 미리 합의된 경로를 따라 처음으로 마리우폴을 탈출했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A14/production/_123684353_8150cd69-aab1-48c1-917a-3084ac84d97c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 10명 중 7명 '북한, 핵 포기 안해']]></title>
-            <link>https://www.bbc.com/korean/news-60734331</link>
-            <guid>https://www.bbc.com/korean/news-60734331</guid>
-            <pubDate>Tue, 15 Mar 2022 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 안보에 있어 중요한 국가로는 응답자의 92.9%가 '미국'을 꼽았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/43EB/production/_123678371_origin_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
