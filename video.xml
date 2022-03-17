@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 20:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 21:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AC64/production/_123623144_p0btkjm9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 하르키우 최전방에서 일주일]]></title>
-            <link>https://www.bbc.com/korean/news-60735195</link>
-            <guid>https://www.bbc.com/korean/news-60735195</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2253/production/_123678780_p0bv7184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
             <link>https://www.bbc.com/korean/features-60613883</link>
             <guid>https://www.bbc.com/korean/features-60613883</guid>
@@ -48,25 +40,33 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 학생에서 군인으로… 훈련소에서 만난 10대들]]></title>
-            <link>https://www.bbc.com/korean/international-60717981</link>
-            <guid>https://www.bbc.com/korean/international-60717981</guid>
+            <title><![CDATA[우크라이나 전쟁: 하르키우 최전방에서 일주일]]></title>
+            <link>https://www.bbc.com/korean/news-60735195</link>
+            <guid>https://www.bbc.com/korean/news-60735195</guid>
             <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2253/production/_123678780_p0bv7184.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가]]></title>
-            <link>https://www.bbc.com/korean/international-60566717</link>
-            <guid>https://www.bbc.com/korean/international-60566717</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: 소아암 환아들의 생사가 달린 피란길]]></title>
+            <link>https://www.bbc.com/korean/news-60747940</link>
+            <guid>https://www.bbc.com/korean/news-60747940</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI: 인공지능이 종교의 모습도 바꿀까?]]></title>
+            <link>https://www.bbc.com/korean/international-59046333</link>
+            <guid>https://www.bbc.com/korean/international-59046333</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라 전쟁: '치료약이 없어서'...암투병 딸을 폴란드에 보내는 아빠]]></title>
@@ -76,11 +76,11 @@
             <content:encoded><![CDATA[1:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AI: 인공지능이 종교의 모습도 바꿀까?]]></title>
-            <link>https://www.bbc.com/korean/international-59046333</link>
-            <guid>https://www.bbc.com/korean/international-59046333</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <title><![CDATA[2030이 연애를 포기하는 이유]]></title>
+            <link>https://www.bbc.com/korean/features-59824576</link>
+            <guid>https://www.bbc.com/korean/features-59824576</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
         </item>
     </channel>
 </rss>
