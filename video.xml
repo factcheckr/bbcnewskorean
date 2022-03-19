@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 07:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/609F/production/_123753742_p0bvxjkh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군]]></title>
-            <link>https://www.bbc.com/korean/news-60704946</link>
-            <guid>https://www.bbc.com/korean/news-60704946</guid>
-            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/122DF/production/_123636447_p0btt428.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -40,6 +32,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AC64/production/_123623144_p0btkjm9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군]]></title>
+            <link>https://www.bbc.com/korean/news-60704946</link>
+            <guid>https://www.bbc.com/korean/news-60704946</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/122DF/production/_123636447_p0btt428.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
             <link>https://www.bbc.com/korean/features-60613883</link>
             <guid>https://www.bbc.com/korean/features-60613883</guid>
@@ -55,18 +55,18 @@
             <content:encoded><![CDATA[1:08]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 하르키우 최전방에서 일주일]]></title>
-            <link>https://www.bbc.com/korean/news-60735195</link>
-            <guid>https://www.bbc.com/korean/news-60735195</guid>
-            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: 고국을 지키기 위해 돌아가는 우크라 이민자들]]></title>
             <link>https://www.bbc.com/korean/international-60566719</link>
             <guid>https://www.bbc.com/korean/international-60566719</guid>
             <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 하르키우 최전방에서 일주일]]></title>
+            <link>https://www.bbc.com/korean/news-60735195</link>
+            <guid>https://www.bbc.com/korean/news-60735195</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라 전쟁: '치료약이 없어서'...암투병 딸을 폴란드에 보내는 아빠]]></title>
@@ -76,11 +76,11 @@
             <content:encoded><![CDATA[1:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라 침공: 포격 피해 달아나는 우크라 주민들의 긴박한 순간]]></title>
-            <link>https://www.bbc.com/korean/international-60636083</link>
-            <guid>https://www.bbc.com/korean/international-60636083</guid>
-            <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <title><![CDATA[코로나19: 특별한 ‘온라인 결혼식’ 한 커플이 들려주는 뒷이야기]]></title>
+            <link>https://www.bbc.com/korean/features-52408541</link>
+            <guid>https://www.bbc.com/korean/features-52408541</guid>
+            <pubDate>Fri, 24 Apr 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
         </item>
     </channel>
 </rss>
