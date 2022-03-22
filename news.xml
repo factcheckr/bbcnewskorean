@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 09:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,6 +29,7 @@
             <guid>https://www.bbc.com/korean/international-60815073</guid>
             <pubDate>Tue, 22 Mar 2022 09:15:30 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 전쟁에 반대했다는 이유로 직업을 잃은 3명의 러시아인을 BBC가 만나봤다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17621/production/_123777759_b388377a-e9ff-4b44-8878-40d6212a07b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재감을 유지하기 위한 아카데미의 노력 5가지]]></title>
