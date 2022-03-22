@@ -4,9 +4,32 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 등교 재개한 아프간 여학생들… '절대 희망을 잃지 않을 것', 방송 길이 3,56]]></title>
+            <link>https://www.bbc.com/korean/media-60831828</link>
+            <guid>https://www.bbc.com/korean/media-60831828</guid>
+            <pubDate>Tue, 22 Mar 2022 09:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[여학생들의 등교가 다시 가능해진 것은 탈레반 집권 후 7개월 만이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AC46/production/_123820144_p0bwsl12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아동문학계 노벨상 '안데르센상' 한국인 첫 수상...안데르센상이란?]]></title>
+            <link>https://www.bbc.com/korean/news-60817635</link>
+            <guid>https://www.bbc.com/korean/news-60817635</guid>
+            <pubDate>Tue, 22 Mar 2022 09:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[안데르센상은 상금은 따로 없지만, 일명 아동문학계의 노벨상이라고 불린다. 덴마크의 여왕이 직접 증서와 메달을 수여하기도 한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/152C7/production/_123772768_1348ac81-6a1c-4f0f-b424-f5f686aa7f04.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반전의 목소리를 냈다는 이유로 직업을 잃은 러시아인들]]></title>
+            <link>https://www.bbc.com/korean/international-60815073</link>
+            <guid>https://www.bbc.com/korean/international-60815073</guid>
+            <pubDate>Tue, 22 Mar 2022 09:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 전쟁에 반대했다는 이유로 직업을 잃은 3명의 러시아인을 BBC가 만나봤다]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[존재감을 유지하기 위한 아카데미의 노력 5가지]]></title>
             <link>https://www.bbc.com/korean/international-60831826</link>
@@ -46,30 +69,6 @@
             <pubDate>Mon, 21 Mar 2022 12:26:42 GMT</pubDate>
             <content:encoded><![CDATA[홍콩에서 가사 도우미로 일하고 있는 이주 노동자들이 일방적으로 해고되고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15A2A/production/_123781688_p0bwlfs0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미연합훈련, 4월 중순 실시 전망… 북한 맹비난]]></title>
-            <link>https://www.bbc.com/korean/news-60819171</link>
-            <guid>https://www.bbc.com/korean/news-60819171</guid>
-            <pubDate>Mon, 21 Mar 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA['훈련 기간이 태양절(4월15일)과 맞물리는 만큼 북한의 고강도 도발이 예상된다']]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/135D6/production/_123781397_origin_-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사우디 국영 석유기업 아람코, 증산 위한 투자 확대]]></title>
-            <link>https://www.bbc.com/korean/news-60819449</link>
-            <guid>https://www.bbc.com/korean/news-60819449</guid>
-            <pubDate>Mon, 21 Mar 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[아람코는 향후 5년간 대규모로 증산하겠다는 목표를 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BDEA/production/_123781684_18ce1f17-4369-4c26-a97d-75e47ced56cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리우폴: 우크라이나, '투항하라'는 러시아의 최후통첩 거부]]></title>
-            <link>https://www.bbc.com/korean/international-60817634</link>
-            <guid>https://www.bbc.com/korean/international-60817634</guid>
-            <pubDate>Mon, 21 Mar 2022 08:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[러시아는 마리우폴의 도시 방어군이 무기를 내려놓고 투항하면 민간인들의 철수를 허용하겠다고 제시했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B1B9/production/_123779454_hi074761027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
