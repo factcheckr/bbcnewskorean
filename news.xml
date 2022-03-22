@@ -4,14 +4,14 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 11:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 12:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[푸틴의 머릿속을 헤아리려는 서방 정보국]]></title>
             <link>https://www.bbc.com/korean/international-60831827</link>
             <guid>https://www.bbc.com/korean/international-60831827</guid>
-            <pubDate>Tue, 22 Mar 2022 11:13:35 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 12:27:13 GMT</pubDate>
             <content:encoded><![CDATA[위기 상황이 더 위험한 지역으로 번지는 것을 막기 위해서는 푸틴 대통령의 심리 상태 이해가 필수적일 것으로 보인다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14075/production/_123773028_putin_getty.jpg" length="0" type="image/jpg"/>
         </item>
