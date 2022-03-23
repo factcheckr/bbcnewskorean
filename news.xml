@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2727/production/_123832001_p0bwyl4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오미크론 vs 제로 코로나: 중국은 얼마나 버틸 수 있을까?]]></title>
+            <title><![CDATA[중국의 '제로 코로나' 얼마나 버틸 수 있을까?]]></title>
             <link>https://www.bbc.com/korean/international-60820245</link>
             <guid>https://www.bbc.com/korean/international-60820245</guid>
             <pubDate>Wed, 23 Mar 2022 03:27:47 GMT</pubDate>
             <content:encoded><![CDATA[중국의 '제로 코로나' 정책이 얼마나 오래 유지될 수 있을지 의문이 제기되고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/44B9/production/_123739571_gettyimages-1238999069.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/92D9/production/_123739573_gettyimages-1238915791.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국-러시아, 사이버 전쟁 가능성은?]]></title>
