@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 21:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아프가니스탄: 탈레반 집권 후 처음으로 등교 재개한 중·고등학교 여학생들]]></title>
+            <link>https://www.bbc.com/korean/media-60831828</link>
+            <guid>https://www.bbc.com/korean/media-60831828</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AC46/production/_123820144_p0bwsl12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전쟁으로 폐허가 된 마리우폴]]></title>
             <link>https://www.bbc.com/korean/international-60817636</link>
             <guid>https://www.bbc.com/korean/international-60817636</guid>
@@ -40,19 +48,25 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄: 탈레반 집권 후 처음으로 등교 재개한 중·고등학교 여학생들]]></title>
-            <link>https://www.bbc.com/korean/media-60831828</link>
-            <guid>https://www.bbc.com/korean/media-60831828</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AC46/production/_123820144_p0bwsl12.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[코로나19: 확진됐다는 이유로 부당 해고된 이주 노동자들]]></title>
+            <link>https://www.bbc.com/korean/news-60819450</link>
+            <guid>https://www.bbc.com/korean/news-60819450</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 피란민 소녀의 첫 등교날]]></title>
-            <link>https://www.bbc.com/korean/international-60776476</link>
-            <guid>https://www.bbc.com/korean/international-60776476</guid>
-            <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <title><![CDATA['개들도 이런 곳에서 살 수 없다'...유럽 '집시들'의 주거 실태]]></title>
+            <link>https://www.bbc.com/korean/features-56036304</link>
+            <guid>https://www.bbc.com/korean/features-56036304</guid>
+            <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ADHD: 주의력 결핍 과잉행동 환자의 고백]]></title>
+            <link>https://www.bbc.com/korean/news-46422504</link>
+            <guid>https://www.bbc.com/korean/news-46422504</guid>
+            <pubDate>Sun, 09 Dec 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
@@ -67,20 +81,6 @@
             <guid>https://www.bbc.com/korean/media-50596604</guid>
             <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘머리 속 지우개’도 지우지 못한 백조의 우아한 날개 짓]]></title>
-            <link>https://www.bbc.com/korean/international-54948702</link>
-            <guid>https://www.bbc.com/korean/international-54948702</guid>
-            <pubDate>Sun, 15 Nov 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
-            <link>https://www.bbc.com/korean/features-55328536</link>
-            <guid>https://www.bbc.com/korean/features-55328536</guid>
-            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
     </channel>
 </rss>
