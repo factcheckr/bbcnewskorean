@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 06:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 언론인, 키이우 취재 중 포격으로 사망 (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60831831</link>
+            <guid>https://www.bbc.com/korean/international-60831831</guid>
+            <pubDate>Thu, 24 Mar 2022 03:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 언론인 한 명이 우크라이나 수도 키이우에서 벌어진 러시아군의 포격으로 23일(현지시간) 사망했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D81E/production/_123862355_5c4962a5-fe06-4c3c-b7b0-29b04ed75e1e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매들린 올브라이트, 미 첫 여성 국무장관 별세 (BBC News 코리아 ─ 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60831830</link>
@@ -64,19 +72,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BF24/production/_123823984_kharkivexodus.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비디오, 전쟁으로 폐허가 된 마리우폴, 방송 길이 0,54 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60817636</link>
-            <guid>https://www.bbc.com/korean/international-60817636</guid>
-            <pubDate>Wed, 23 Mar 2022 02:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[러시아군에 포위된 도시의 80%가 훼손되거나 파괴됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2727/production/_123832001_p0bwyl4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[비디오, 러시아 재벌 '로만 아브라모비치' 호화 요트 막아선 청소년 시위대, 방송 길이 1,34 (BBC News 코리아 ─ 뉴스 메인)]]></title>
             <link>https://www.bbc.com/korean/media-60831832</link>
             <guid>https://www.bbc.com/korean/media-60831832</guid>
             <pubDate>Thu, 24 Mar 2022 05:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg" alt="." class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="1024" height="576"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-16q1zrn e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg><time datetime="PT1M34S" class="bbc-pde5np e1z0eaht0">1:34</time></div></div></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/media-60831832" aria-labelledby="promo-koreanmedia60831832-1" class="bbc-1fxtbkn evnt13t0"><span role="text" id="promo-koreanmedia60831832-1"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>러시아 재벌 '로만 아브라모비치' 호화 요트 막아선 청소년 시위대</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 1,34</span></span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">러시아 재벌이자 첼시 구단주, 로만 아브라모비치와 연관이 있는 초호화 요트가 터키 남서부의 도시에서 정박 과정 중 시위대의 반대에 부딪혔다.</p><time datetime="2022-03-24" class="bbc-1cagdt4 e4zesg50">24분 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60717984" class="bbc-1ocdizt e1wlg2v80"><span>우크라 전쟁: 로만 아브라모비치 부정 거래 새 증거 발견</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60702884" class="bbc-1ocdizt e1wlg2v80"><span>첼시 구단주 아브라모비치 영국 제재 포함...선수영입 및 티켓판매 금지</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/features-60702879" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 전쟁, 글로벌 경기 불황으로 이어질까?</span></a></li></ul></div></div></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg" alt="." class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="1024" height="576"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-16q1zrn e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg><time datetime="PT1M34S" class="bbc-pde5np e1z0eaht0">1:34</time></div></div></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/media-60831832" aria-labelledby="promo-koreanmedia60831832-1" class="bbc-1fxtbkn evnt13t0"><span role="text" id="promo-koreanmedia60831832-1"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>러시아 재벌 '로만 아브라모비치' 호화 요트 막아선 청소년 시위대</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 1,34</span></span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">러시아 재벌이자 첼시 구단주, 로만 아브라모비치와 연관이 있는 초호화 요트가 터키 남서부의 도시에서 정박 과정 중 시위대의 반대에 부딪혔다.</p><time datetime="2022-03-24" class="bbc-1cagdt4 e4zesg50">한 시간 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60717984" class="bbc-1ocdizt e1wlg2v80"><span>우크라 전쟁: 로만 아브라모비치 부정 거래 새 증거 발견</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60702884" class="bbc-1ocdizt e1wlg2v80"><span>첼시 구단주 아브라모비치 영국 제재 포함...선수영입 및 티켓판매 금지</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/features-60702879" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 전쟁, 글로벌 경기 불황으로 이어질까?</span></a></li></ul></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라 전쟁: 로만 아브라모비치 부정 거래 새 증거 발견 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
@@ -98,6 +98,14 @@
             <guid>https://www.bbc.com/korean/features-60702879</guid>
             <pubDate>Thu, 24 Mar 2022 05:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/korean/features-60702879" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 전쟁, 글로벌 경기 불황으로 이어질까?</span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 첼시 구단주이자 러시아 재벌 '로만 아브라모비치'의 호화 요트 막아선 시위대 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/media-60831832</link>
+            <guid>https://www.bbc.com/korean/media-60831832</guid>
+            <pubDate>Thu, 24 Mar 2022 05:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
@@ -132,33 +140,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2727/production/_123832001_p0bwyl4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60566717</link>
-            <guid>https://www.bbc.com/korean/international-60566717</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10B16/production/_123447386_p0brr6ch.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19: 확진됐다는 이유로 부당 해고된 이주 노동자들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60819450</link>
             <guid>https://www.bbc.com/korean/news-60819450</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 대선: 코미디언 출신 젤렌스키는 어떻게 유력 후보가 됐을까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-48004615</link>
-            <guid>https://www.bbc.com/korean/news-48004615</guid>
-            <pubDate>Sun, 21 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60704946</link>
-            <guid>https://www.bbc.com/korean/news-60704946</guid>
-            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트랜스젠더 : '나는 트랜스젠더 수학 선생님입니다' (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +154,25 @@
             <content:encoded><![CDATA[2:40]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우크라이나 대선: 코미디언 출신 젤렌스키는 어떻게 유력 후보가 됐을까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-48004615</link>
+            <guid>https://www.bbc.com/korean/news-48004615</guid>
+            <pubDate>Sun, 21 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-55328536</link>
             <guid>https://www.bbc.com/korean/features-55328536</guid>
             <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[9:24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[환경보호: 전 세계 헌옷의 15% 재활용하는 이탈리아의 작은 도시 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55345774</link>
+            <guid>https://www.bbc.com/korean/features-55345774</guid>
+            <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 23일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,59 +287,59 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매들린 올브라이트, 미 첫 여성 국무장관 별세 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60831830</link>
-            <guid>https://www.bbc.com/korean/international-60831830</guid>
-            <pubDate>Thu, 24 Mar 2022 04:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[탈레반, 여학생 등교 철회...학부모 분노 확산 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60837628</link>
             <guid>https://www.bbc.com/korean/international-60837628</guid>
             <pubDate>Thu, 24 Mar 2022 02:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애슐리 바티: 세계 1위 테니스 선수의 아름다운 퇴장 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60837630</link>
-            <guid>https://www.bbc.com/korean/international-60837630</guid>
-            <pubDate>Thu, 24 Mar 2022 02:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <title><![CDATA[매들린 올브라이트, 미 첫 여성 국무장관 별세 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60831830</link>
+            <guid>https://www.bbc.com/korean/international-60831830</guid>
+            <pubDate>Thu, 24 Mar 2022 04:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['진실은 반드시 밝혀질 것'... 박근혜 특별사면, 대선 변수로 작용할까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59825348</link>
-            <guid>https://www.bbc.com/korean/news-59825348</guid>
-            <pubDate>Thu, 24 Mar 2022 04:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <title><![CDATA[애슐리 바티: 세계 1위 테니스 선수의 아름다운 퇴장 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60837630</link>
+            <guid>https://www.bbc.com/korean/international-60837630</guid>
+            <pubDate>Thu, 24 Mar 2022 02:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 어느 젊은 군인의 쓸쓸한 장례식 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60819452</link>
             <guid>https://www.bbc.com/korean/60819452</guid>
             <pubDate>Mon, 21 Mar 2022 11:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[음악저작권 '조각거래' 어떻게 봐야하나...뮤직카우, 운명은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60832469</link>
-            <guid>https://www.bbc.com/korean/news-60832469</guid>
-            <pubDate>Wed, 23 Mar 2022 08:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <title><![CDATA['진실은 반드시 밝혀질 것'... 박근혜 특별사면, 대선 변수로 작용할까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59825348</link>
+            <guid>https://www.bbc.com/korean/news-59825348</guid>
+            <pubDate>Thu, 24 Mar 2022 04:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중국의 '제로 코로나' 얼마나 버틸 수 있을까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60820245</link>
             <guid>https://www.bbc.com/korean/international-60820245</guid>
             <pubDate>Wed, 23 Mar 2022 02:54:14 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[음악저작권 '조각거래' 어떻게 봐야하나...뮤직카우, 운명은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60832469</link>
+            <guid>https://www.bbc.com/korean/news-60832469</guid>
+            <pubDate>Wed, 23 Mar 2022 08:19:30 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
