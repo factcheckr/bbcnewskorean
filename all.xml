@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 21:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,20 +116,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60613883</link>
             <guid>https://www.bbc.com/korean/features-60613883</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
@@ -147,13 +147,6 @@
             <content:encoded><![CDATA[2:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-55328536</link>
             <guid>https://www.bbc.com/korean/features-55328536</guid>
@@ -161,18 +154,25 @@
             <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비전향장기수: '가족 한번 보고 죽는 게 소원'… 북송 바라는 백발의 장기수들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-54898508</link>
+            <guid>https://www.bbc.com/korean/features-54898508</guid>
+            <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[8:46]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60704946</link>
             <guid>https://www.bbc.com/korean/news-60704946</guid>
             <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미세먼지: 영국 기차역에 설치된 첨단 미세먼지 정화기 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-48363192</link>
-            <guid>https://www.bbc.com/korean/international-48363192</guid>
-            <pubDate>Wed, 22 May 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 24일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -294,44 +294,44 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60521326</link>
-            <guid>https://www.bbc.com/korean/60521326</guid>
-            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매들린 올브라이트, 미 첫 여성 국무장관 별세 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60831830</link>
-            <guid>https://www.bbc.com/korean/international-60831830</guid>
-            <pubDate>Thu, 24 Mar 2022 04:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아 국민은 우크라이나 전쟁을 지지할까?... 질문에 따라 달라지는 여론 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60859257</link>
             <guid>https://www.bbc.com/korean/international-60859257</guid>
             <pubDate>Thu, 24 Mar 2022 10:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국 동방항공 여객기 추락 '비행은 2분 30초 만에 비극이 됐다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60830855</link>
+            <guid>https://www.bbc.com/korean/international-60830855</guid>
+            <pubDate>Thu, 24 Mar 2022 22:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잠 못드는 당신... '코로나 불면증'을 아시나요? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/magazine-55807157</link>
-            <guid>https://www.bbc.com/korean/magazine-55807157</guid>
-            <pubDate>Thu, 24 Mar 2022 18:19:35 GMT</pubDate>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Thu, 24 Mar 2022 22:16:43 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 어느 젊은 군인의 쓸쓸한 장례식 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60819452</link>
+            <guid>https://www.bbc.com/korean/60819452</guid>
+            <pubDate>Thu, 24 Mar 2022 22:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[탈레반, 여학생 등교 철회...학부모 분노 확산 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60837628</link>
             <guid>https://www.bbc.com/korean/international-60837628</guid>
-            <pubDate>Thu, 24 Mar 2022 02:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애슐리 바티: 세계 1위 테니스 선수의 아름다운 퇴장 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60837630</link>
-            <guid>https://www.bbc.com/korean/international-60837630</guid>
             <pubDate>Thu, 24 Mar 2022 02:47:41 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>

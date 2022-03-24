@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 21:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/142CC/production/_123863628_p0bx5y06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
             <link>https://www.bbc.com/korean/features-60613883</link>
             <guid>https://www.bbc.com/korean/features-60613883</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
@@ -55,13 +55,6 @@
             <content:encoded><![CDATA[2:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
             <link>https://www.bbc.com/korean/features-55328536</link>
             <guid>https://www.bbc.com/korean/features-55328536</guid>
@@ -69,18 +62,25 @@
             <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비전향장기수: '가족 한번 보고 죽는 게 소원'… 북송 바라는 백발의 장기수들]]></title>
+            <link>https://www.bbc.com/korean/features-54898508</link>
+            <guid>https://www.bbc.com/korean/features-54898508</guid>
+            <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[8:46]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군]]></title>
             <link>https://www.bbc.com/korean/news-60704946</link>
             <guid>https://www.bbc.com/korean/news-60704946</guid>
             <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미세먼지: 영국 기차역에 설치된 첨단 미세먼지 정화기]]></title>
-            <link>https://www.bbc.com/korean/international-48363192</link>
-            <guid>https://www.bbc.com/korean/international-48363192</guid>
-            <pubDate>Wed, 22 May 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
         </item>
     </channel>
 </rss>
