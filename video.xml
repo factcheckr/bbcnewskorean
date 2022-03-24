@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 03:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 04:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁으로 폐허가 된 마리우폴]]></title>
-            <link>https://www.bbc.com/korean/international-60817636</link>
-            <guid>https://www.bbc.com/korean/international-60817636</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2727/production/_123832001_p0bwyl4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
@@ -40,12 +32,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전쟁으로 폐허가 된 마리우폴]]></title>
+            <link>https://www.bbc.com/korean/international-60817636</link>
+            <guid>https://www.bbc.com/korean/international-60817636</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2727/production/_123832001_p0bwyl4l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가]]></title>
+            <link>https://www.bbc.com/korean/international-60566717</link>
+            <guid>https://www.bbc.com/korean/international-60566717</guid>
+            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10B16/production/_123447386_p0brr6ch.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코로나19: 확진됐다는 이유로 부당 해고된 이주 노동자들]]></title>
             <link>https://www.bbc.com/korean/news-60819450</link>
             <guid>https://www.bbc.com/korean/news-60819450</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15A2A/production/_123781688_p0bwlfs0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 대선: 코미디언 출신 젤렌스키는 어떻게 유력 후보가 됐을까]]></title>
@@ -55,11 +62,11 @@
             <content:encoded><![CDATA[3:33]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가]]></title>
-            <link>https://www.bbc.com/korean/international-60566717</link>
-            <guid>https://www.bbc.com/korean/international-60566717</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군]]></title>
+            <link>https://www.bbc.com/korean/news-60704946</link>
+            <guid>https://www.bbc.com/korean/news-60704946</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트랜스젠더 : '나는 트랜스젠더 수학 선생님입니다']]></title>
@@ -69,18 +76,11 @@
             <content:encoded><![CDATA[2:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 폴란드 국경 통해 참전한 외국인 의용군]]></title>
-            <link>https://www.bbc.com/korean/news-60704946</link>
-            <guid>https://www.bbc.com/korean/news-60704946</guid>
-            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
     </channel>
 </rss>
