@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이든이 해결해야 할 다섯가지 난제]]></title>
+            <link>https://www.bbc.com/korean/international-60837633</link>
+            <guid>https://www.bbc.com/korean/international-60837633</guid>
+            <pubDate>Fri, 25 Mar 2022 02:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[조 바이든 미국 대통령이 국제 위기의 시기에 세 번째 유럽 순방에 나섰다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1E22/production/_123841770_biden_976getty.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5년만에 대중 앞에서 선 박근혜, 주요 장면 8가지]]></title>
+            <link>https://www.bbc.com/korean/news-60857849</link>
+            <guid>https://www.bbc.com/korean/news-60857849</guid>
+            <pubDate>Fri, 25 Mar 2022 02:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[24일 박근혜 전 대통령이 5년 만에 대중 앞에 섰다. 그는 2017년 3월 31일부터 4년 9개월 간의 복역을 마치고 고향 대구로 돌아왔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5042/production/_123864502_1df06bde-498b-41c9-a97d-678f93f36bbb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 국민은 우크라이나 전쟁을 지지할까?... 질문에 따라 달라지는 여론]]></title>
             <link>https://www.bbc.com/korean/international-60859257</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 03:22:33 GMT</pubDate>
             <content:encoded><![CDATA[여학교는 재개교 후 몇 시간 만에 폐쇄됐고 시민들의 분노와 좌절을 촉발했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C5E7/production/_123836605_girlscryingbbc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포탄에 무너진 마리우폴 극장...생존자들의 증언]]></title>
-            <link>https://www.bbc.com/korean/features-60851784</link>
-            <guid>https://www.bbc.com/korean/features-60851784</guid>
-            <pubDate>Thu, 24 Mar 2022 03:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[당시 극장에는 천여 명이 대피해 있었던 것으로 추정되며 대부분 여성과 아이들이었다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12C53/production/_123838867_edefc0ca-e4ba-40c5-b173-024eb7ced59e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애슐리 바티: 세계 1위 테니스 선수의 아름다운 퇴장]]></title>
-            <link>https://www.bbc.com/korean/international-60837630</link>
-            <guid>https://www.bbc.com/korean/international-60837630</guid>
-            <pubDate>Thu, 24 Mar 2022 03:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[애슐리 바티(25)는 '다른 꿈을 위해 은퇴할 것'이라고 말했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/184CD/production/_123833599_gettyimages-1366015970.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
