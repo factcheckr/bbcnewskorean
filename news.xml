@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 02:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 03:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어나니머스: 해커가 푸틴을 공격하는 방법]]></title>
+            <link>https://www.bbc.com/korean/international-60820247</link>
+            <guid>https://www.bbc.com/korean/international-60820247</guid>
+            <pubDate>Sat, 26 Mar 2022 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[해커들이 푸틴 대통령에 대한 사이버 공격에 대해 입장을 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1278F/production/_123736657_832da593-f33e-49ff-8053-ffa70dbe889e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 왜 ICBM 집착하나?… 우크라이나 사태가 '잘못된 시그널' 줘]]></title>
+            <link>https://www.bbc.com/korean/news-60819173</link>
+            <guid>https://www.bbc.com/korean/news-60819173</guid>
+            <pubDate>Sat, 26 Mar 2022 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA['믿을 것은 국방력뿐... 포기하면 우크라이나꼴']]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/136F8/production/_123880697_ceb240f9-59d2-406c-9957-f21da84a5535.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 러시아 점령지에서 납치되고 있는 민간인들]]></title>
             <link>https://www.bbc.com/korean/international-60871405</link>
@@ -16,20 +32,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8BAC/production/_123865753_gettyimages-1239421689-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비디오, 북한이 계속 미사일 실험을 하는 이유, 방송 길이 0,59]]></title>
-            <link>https://www.bbc.com/korean/international-60871407</link>
-            <guid>https://www.bbc.com/korean/international-60871407</guid>
-            <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[미사일 발사를 통해 국제사회에서 더 많은 영향력을 행사할 수 있다고 생각하는 것으로 보인다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아, 비트코인으로 원유·천연가스 결제 허용 고려 중]]></title>
             <link>https://www.bbc.com/korean/international-60871406</link>
             <guid>https://www.bbc.com/korean/international-60871406</guid>
             <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[자발니 위원장은 러시아에 '우호적인' 국가들의 암호 화폐나 구매국 통화를 이용한 에너지 대금 결제를 허용할 수 있다고 밝혔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E4DB/production/_123878585_gettyimages-1238681687.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 북한이 계속 미사일 실험을 하는 이유, 방송 길이 0,59]]></title>
+            <link>https://www.bbc.com/korean/international-60871407</link>
+            <guid>https://www.bbc.com/korean/international-60871407</guid>
+            <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[미사일 발사를 통해 국제사회에서 더 많은 영향력을 행사할 수 있다고 생각하는 것으로 보인다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 25 Mar 2022 07:15:21 GMT</pubDate>
             <content:encoded><![CDATA[파괴된 군함은 러시아 군대의 장비를 나르는 상륙함으로 알려졌다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13B9D/production/_123879708_p0bxg72m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 반격에 러시아 퇴각...'아직 끝나지 않았다']]></title>
-            <link>https://www.bbc.com/korean/international-60837635</link>
-            <guid>https://www.bbc.com/korean/international-60837635</guid>
-            <pubDate>Fri, 25 Mar 2022 07:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[미국 국방부는 '우크라이나군이 남부 일부 지역에서 기세를 역전시키고 있다'고 말했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/91E9/production/_123835373_hi074380842.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든이 해결해야 할 다섯가지 난제]]></title>
-            <link>https://www.bbc.com/korean/international-60837633</link>
-            <guid>https://www.bbc.com/korean/international-60837633</guid>
-            <pubDate>Fri, 25 Mar 2022 02:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 대통령이 국제 위기의 시기에 세 번째 유럽 순방에 나섰다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1E22/production/_123841770_biden_976getty.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
