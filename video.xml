@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 11:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 12:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA2C/production/_99706674_p05vslz7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
-            <link>https://www.bbc.com/korean/features-60613883</link>
-            <guid>https://www.bbc.com/korean/features-60613883</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는?]]></title>
             <link>https://www.bbc.com/korean/international-60871407</link>
             <guid>https://www.bbc.com/korean/international-60871407</guid>
             <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반려묘: 하늘로 간 고양이 DNA 복제... 중국 최초 복제묘 탄생]]></title>
@@ -55,11 +55,11 @@
             <content:encoded><![CDATA[2:08]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고양이 구조대의 맹활약]]></title>
-            <link>https://www.bbc.com/korean/42007370</link>
-            <guid>https://www.bbc.com/korean/42007370</guid>
-            <pubDate>Thu, 16 Nov 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <title><![CDATA[마음의 병을 그리는 작가: 서밤 영상 인터뷰]]></title>
+            <link>https://www.bbc.com/korean/news-41841004</link>
+            <guid>https://www.bbc.com/korean/news-41841004</guid>
+            <pubDate>Thu, 02 Nov 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
@@ -69,18 +69,18 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[고양이 구조대의 맹활약]]></title>
+            <link>https://www.bbc.com/korean/42007370</link>
+            <guid>https://www.bbc.com/korean/42007370</guid>
+            <pubDate>Thu, 16 Nov 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전쟁으로 폐허가 된 마리우폴]]></title>
             <link>https://www.bbc.com/korean/international-60817636</link>
             <guid>https://www.bbc.com/korean/international-60817636</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
         </item>
     </channel>
 </rss>
