@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 21:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 22:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,19 +132,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA2C/production/_99706674_p05vslz7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전쟁으로 폐허가 된 마리우폴 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60817636</link>
-            <guid>https://www.bbc.com/korean/international-60817636</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2727/production/_123832001_p0bwyl4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60871407</link>
             <guid>https://www.bbc.com/korean/international-60871407</guid>
             <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,18 +154,25 @@
             <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방글라데시 세계 최대 규모 사창가에서 벌어지는 일 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-49968971</link>
-            <guid>https://www.bbc.com/korean/news-49968971</guid>
-            <pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60613883</link>
             <guid>https://www.bbc.com/korean/features-60613883</guid>
             <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2030이 연애를 포기하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-59824576</link>
+            <guid>https://www.bbc.com/korean/features-59824576</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[천안함 10주기: '아직도 죽은 동료들의 환영 보여…너는 왜 살았냐고 묻더라' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-52016303</link>
+            <guid>https://www.bbc.com/korean/news-52016303</guid>
+            <pubDate>Wed, 25 Mar 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -301,45 +301,45 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[러시아, 우크라이나 침공 당일 위성통신사 해킹 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60887580</link>
             <guid>https://www.bbc.com/korean/international-60887580</guid>
             <pubDate>Sun, 27 Mar 2022 02:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잠 못드는 당신... '코로나 불면증'을 아시나요? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/magazine-55807157</link>
             <guid>https://www.bbc.com/korean/magazine-55807157</guid>
             <pubDate>Sun, 27 Mar 2022 17:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60521326</link>
-            <guid>https://www.bbc.com/korean/60521326</guid>
-            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Sun, 27 Mar 2022 22:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어나니머스: 해커가 푸틴을 공격하는 방법 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60820247</link>
             <guid>https://www.bbc.com/korean/international-60820247</guid>
             <pubDate>Sat, 26 Mar 2022 02:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 반격에 러시아 퇴각...'아직 끝나지 않았다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60837635</link>
-            <guid>https://www.bbc.com/korean/international-60837635</guid>
-            <pubDate>Sun, 27 Mar 2022 19:13:07 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정신과 전문의가 ‘두부 멘탈·예민 보스’에게 꼭 전하고 싶은 말 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-54459516</link>
-            <guid>https://www.bbc.com/korean/news-54459516</guid>
-            <pubDate>Sun, 27 Mar 2022 21:15:09 GMT</pubDate>
+            <title><![CDATA[바이든: 푸틴은 '학살자'...서부 르비우도 포격 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60890741</link>
+            <guid>https://www.bbc.com/korean/international-60890741</guid>
+            <pubDate>Sun, 27 Mar 2022 04:19:52 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
     </channel>
