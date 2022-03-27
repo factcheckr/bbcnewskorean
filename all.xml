@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 13:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 14:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,17 +280,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[반려동물을 복제하는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60817640</link>
-            <guid>https://www.bbc.com/korean/international-60817640</guid>
-            <pubDate>Sun, 27 Mar 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 전쟁: 우크라이나군의 성공 비결은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60831834</link>
             <guid>https://www.bbc.com/korean/international-60831834</guid>
             <pubDate>Sat, 26 Mar 2022 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[반려동물을 복제하는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60817640</link>
+            <guid>https://www.bbc.com/korean/international-60817640</guid>
+            <pubDate>Sun, 27 Mar 2022 02:44:20 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -315,24 +315,24 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아, 우크라이나 침공 당일 위성통신사 해킹 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60887580</link>
-            <guid>https://www.bbc.com/korean/international-60887580</guid>
-            <pubDate>Sun, 27 Mar 2022 02:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19와 섹스, 당신이 알아야 할 모든 것 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-52102003</link>
             <guid>https://www.bbc.com/korean/news-52102003</guid>
             <pubDate>Sun, 27 Mar 2022 04:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바이든: 푸틴은 '학살자'...서부 르비우도 포격 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60890741</link>
             <guid>https://www.bbc.com/korean/international-60890741</guid>
             <pubDate>Sun, 27 Mar 2022 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아, 우크라이나 침공 당일 위성통신사 해킹 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60887580</link>
+            <guid>https://www.bbc.com/korean/international-60887580</guid>
+            <pubDate>Sun, 27 Mar 2022 02:44:39 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
