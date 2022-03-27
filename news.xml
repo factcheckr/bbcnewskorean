@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 02:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 03:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아, 우크라이나 침공 당일 위성통신사 해킹]]></title>
+            <link>https://www.bbc.com/korean/international-60887580</link>
+            <guid>https://www.bbc.com/korean/international-60887580</guid>
+            <pubDate>Sun, 27 Mar 2022 03:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[이번 사이버 공격의 배후는 러시아군 정보조직인 총정찰국인 것으로 추정된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/109A6/production/_123760086_gettyimages-1238519941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천안함 피격 12주년... '46용사' 추모식 열려]]></title>
+            <link>https://www.bbc.com/korean/news-60819176</link>
+            <guid>https://www.bbc.com/korean/news-60819176</guid>
+            <pubDate>Sun, 27 Mar 2022 03:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[2010년 3월 26일 북한 잠수정의 어뢰 공격으로 침몰했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F85B/production/_123897536_origin_-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4일만 일하면 어떨까?... 주4일제 현실]]></title>
             <link>https://www.bbc.com/korean/international-60819175</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[자발니 위원장은 러시아에 '우호적인' 국가들의 암호 화폐나 구매국 통화를 이용한 에너지 대금 결제를 허용할 수 있다고 밝혔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E4DB/production/_123878585_gettyimages-1238681687.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 북한이 계속 미사일 실험을 하는 이유, 방송 길이 0,59]]></title>
-            <link>https://www.bbc.com/korean/international-60871407</link>
-            <guid>https://www.bbc.com/korean/international-60871407</guid>
-            <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[미사일 발사를 통해 국제사회에서 더 많은 영향력을 행사할 수 있다고 생각하는 것으로 보인다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[무증상자도 다른 사람을 감염시킬 수 있나?]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3278/production/_122902921_mediaitem122667317.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
