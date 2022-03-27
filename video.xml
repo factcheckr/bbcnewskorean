@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 18:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 19:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지구에서 가장 치명적인 고양이]]></title>
-            <link>https://www.bbc.com/korean/news-42772944</link>
-            <guid>https://www.bbc.com/korean/news-42772944</guid>
-            <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA2C/production/_99706674_p05vslz7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반려묘: 하늘로 간 고양이 DNA 복제... 중국 최초 복제묘 탄생]]></title>
@@ -32,20 +32,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6AB0/production/_108621372_p07mlz5r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[지구에서 가장 치명적인 고양이]]></title>
+            <link>https://www.bbc.com/korean/news-42772944</link>
+            <guid>https://www.bbc.com/korean/news-42772944</guid>
+            <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA2C/production/_99706674_p05vslz7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
-            <link>https://www.bbc.com/korean/features-60613883</link>
-            <guid>https://www.bbc.com/korean/features-60613883</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
+            <link>https://www.bbc.com/korean/features-58405457</link>
+            <guid>https://www.bbc.com/korean/features-58405457</guid>
+            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5522/production/_120349712_p09tq3cn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는?]]></title>
@@ -55,25 +62,18 @@
             <content:encoded><![CDATA[0:59]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고양이 구조대의 맹활약]]></title>
-            <link>https://www.bbc.com/korean/42007370</link>
-            <guid>https://www.bbc.com/korean/42007370</guid>
-            <pubDate>Thu, 16 Nov 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마음의 병을 그리는 작가: 서밤 영상 인터뷰]]></title>
-            <link>https://www.bbc.com/korean/news-41841004</link>
-            <guid>https://www.bbc.com/korean/news-41841004</guid>
-            <pubDate>Thu, 02 Nov 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인종차별: 병원에서 날 두 번이나 돌려보낸 이유]]></title>
