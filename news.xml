@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 03:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 04:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 28 Mar 2022 03:32:16 GMT</pubDate>
             <content:encoded><![CDATA[봉쇄 기간 도시 내 기업과 공장들 또한 반드시 가동을 중단하거나 원격으로 운영할 것을 지시했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17B92/production/_123907179_hi074857406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 물가 14% 이상 폭등...대러제재 효과?]]></title>
+            <link>https://www.bbc.com/korean/international-60896938</link>
+            <guid>https://www.bbc.com/korean/international-60896938</guid>
+            <pubDate>Mon, 28 Mar 2022 04:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[설탕 등 몇몇 가계 생필품 가격은 최근 한 주 동안 무려 14%나 급등했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10CC1/production/_123910886_0c98c395-a8bd-4e69-abe2-e15f0df941ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 체르노빌 보드카 업체의 끝없는 도전]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 26 Mar 2022 06:18:39 GMT</pubDate>
             <content:encoded><![CDATA['근무일이 하루 줄어들지만 업무량은 달라지지 않는다']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/122EF/production/_123897447_cb34814e-9020-41e3-8202-d4ea3d339b6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔 안보리, 북한 ICBM 규탄 성명 무산...중-러 반대]]></title>
-            <link>https://www.bbc.com/korean/news-60819174</link>
-            <guid>https://www.bbc.com/korean/news-60819174</guid>
-            <pubDate>Sat, 26 Mar 2022 04:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[한미일과 서방측 유엔대사들은 안보리가 침묵하는 것을 비판했다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CCFF/production/_123897425_386ae50e-7ab8-4f2e-b577-7624736f1fb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
