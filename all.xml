@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 21:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 22:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,6 +129,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁: 방공호 안에서 아이를 키운다는 것 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/60911358</link>
+            <guid>https://www.bbc.com/korean/60911358</guid>
+            <pubDate>Tue, 29 Mar 2022 10:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/981E/production/_123924983_p0by2kzn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/60845790</link>
             <guid>https://www.bbc.com/korean/60845790</guid>
@@ -145,27 +153,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 방공호 안에서 아이를 키운다는 것 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/60911358</link>
-            <guid>https://www.bbc.com/korean/60911358</guid>
-            <pubDate>Tue, 29 Mar 2022 10:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/981E/production/_123924983_p0by2kzn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
             <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60613883</link>
-            <guid>https://www.bbc.com/korean/features-60613883</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한 교도관과 수감자의 탈북 (BBC News 코리아 ─ 비디오)]]></title>
@@ -175,6 +168,20 @@
             <content:encoded><![CDATA[9:55]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁: 목숨 걸고 드론을 띄우는 정찰부대 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60890742</link>
+            <guid>https://www.bbc.com/korean/international-60890742</guid>
+            <pubDate>Mon, 28 Mar 2022 09:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[반려묘: 하늘로 간 고양이 DNA 복제... 중국 최초 복제묘 탄생 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-49591042</link>
             <guid>https://www.bbc.com/korean/news-49591042</guid>
@@ -182,18 +189,11 @@
             <content:encoded><![CDATA[2:08]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60566717</link>
-            <guid>https://www.bbc.com/korean/international-60566717</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <title><![CDATA[치통인 줄 알고 병원에 갔던 소년, 치아 526개 발견됐다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/49243175</link>
+            <guid>https://www.bbc.com/korean/49243175</guid>
+            <pubDate>Tue, 06 Aug 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -343,10 +343,10 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잠 못드는 당신... '코로나 불면증'을 아시나요? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/magazine-55807157</link>
-            <guid>https://www.bbc.com/korean/magazine-55807157</guid>
-            <pubDate>Tue, 29 Mar 2022 19:13:44 GMT</pubDate>
+            <title><![CDATA[반려동물을 복제하는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60817640</link>
+            <guid>https://www.bbc.com/korean/international-60817640</guid>
+            <pubDate>Sun, 27 Mar 2022 02:44:20 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
@@ -357,10 +357,10 @@
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[반려동물을 복제하는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60817640</link>
-            <guid>https://www.bbc.com/korean/international-60817640</guid>
-            <pubDate>Sun, 27 Mar 2022 02:44:20 GMT</pubDate>
+            <title><![CDATA[백신 맞았는데 왜 코로나19에 감염될까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59932733</link>
+            <guid>https://www.bbc.com/korean/international-59932733</guid>
+            <pubDate>Tue, 29 Mar 2022 22:16:15 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
     </channel>
