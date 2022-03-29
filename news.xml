@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 02:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 점령지의 삶: 우크라 주민들의 증언]]></title>
+            <link>https://www.bbc.com/korean/60898992</link>
+            <guid>https://www.bbc.com/korean/60898992</guid>
+            <pubDate>Tue, 29 Mar 2022 03:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군이 점령한 지 몇 주가 지냈음에도 여전히 지역 주민들은 저항을 이어 나가고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A5B/production/_123891453_screenshot2022-03-25at13.45.23.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윌 스미스, 오스카 시상식서 크리스 록 뺨 때려]]></title>
             <link>https://www.bbc.com/korean/60900154</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 28 Mar 2022 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 확진자 수는 10만 명대로 내려왔지만 사망자가 증가할 수 있다고 전문가들은 지적했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14FED/production/_123879958_6b8329a9-0200-4893-881a-b3eff8718c9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['제로 코로나' 중국, '경제수도' 상하이 전면 봉쇄한다]]></title>
-            <link>https://www.bbc.com/korean/international-60896934</link>
-            <guid>https://www.bbc.com/korean/international-60896934</guid>
-            <pubDate>Mon, 28 Mar 2022 03:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[봉쇄 기간 도시 내 기업과 공장들 또한 반드시 가동을 중단하거나 원격으로 운영할 것을 지시했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17B92/production/_123907179_hi074857406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아 물가 14% 이상 폭등...대러제재 효과?]]></title>
