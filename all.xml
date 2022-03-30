@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 03:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 04:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,20 +129,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 08:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60871407</link>
             <guid>https://www.bbc.com/korean/international-60871407</guid>
             <pubDate>Fri, 25 Mar 2022 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/60845790</link>
+            <guid>https://www.bbc.com/korean/60845790</guid>
+            <pubDate>Wed, 23 Mar 2022 08:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 방공호 안에서 아이를 키운다는 것 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,25 +161,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7EB8/production/_123904423_p0bxwtww.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60613883</link>
-            <guid>https://www.bbc.com/korean/features-60613883</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[북한 교도관과 수감자의 탈북 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-51570954</link>
             <guid>https://www.bbc.com/korean/news-51570954</guid>
             <pubDate>Fri, 21 Feb 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[9:55]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전쟁으로 폐허가 된 마리우폴 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60817636</link>
-            <guid>https://www.bbc.com/korean/international-60817636</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안영학: 남.북.일에서 뛴 ‘조선 국적’ 축구선수, '하나의 코리아로 월드컵 나가는 날 오길' (BBC News 코리아 ─ 비디오)]]></title>
@@ -189,11 +175,25 @@
             <content:encoded><![CDATA[10:44]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인종차별: 유색인종 여성은 영국 미인대회 우승자가 될 수 없다? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60371721</link>
             <guid>https://www.bbc.com/korean/international-60371721</guid>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -308,10 +308,10 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라 군 장성, 러, '코리아 시나리오' 계획중 우려 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60898925</link>
-            <guid>https://www.bbc.com/korean/news-60898925</guid>
-            <pubDate>Mon, 28 Mar 2022 07:15:42 GMT</pubDate>
+            <title><![CDATA[로만 아브라모비치, 우크라 평화회담 후 독극물 중독 의심증세 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60909983</link>
+            <guid>https://www.bbc.com/korean/news-60909983</guid>
+            <pubDate>Tue, 29 Mar 2022 02:56:34 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -322,10 +322,10 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로만 아브라모비치, 우크라 평화회담 후 독극물 중독 의심증세 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60909983</link>
-            <guid>https://www.bbc.com/korean/news-60909983</guid>
-            <pubDate>Tue, 29 Mar 2022 02:56:34 GMT</pubDate>
+            <title><![CDATA[우크라 군 장성, 러, '코리아 시나리오' 계획중 우려 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60898925</link>
+            <guid>https://www.bbc.com/korean/news-60898925</guid>
+            <pubDate>Mon, 28 Mar 2022 07:15:42 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -343,24 +343,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['걸어 들어와 기어나간다'는 북한 구금시설 그곳에선 어떤일이? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60900146</link>
-            <guid>https://www.bbc.com/korean/60900146</guid>
-            <pubDate>Tue, 29 Mar 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['제로 코로나' 중국, '경제수도' 상하이 전면 봉쇄한다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-60896934</link>
             <guid>https://www.bbc.com/korean/international-60896934</guid>
             <pubDate>Mon, 28 Mar 2022 03:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['걸어 들어와 기어나간다'는 북한 구금시설 그곳에선 어떤일이? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60900146</link>
+            <guid>https://www.bbc.com/korean/60900146</guid>
+            <pubDate>Tue, 29 Mar 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[반려동물을 복제하는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60817640</link>
-            <guid>https://www.bbc.com/korean/international-60817640</guid>
-            <pubDate>Sun, 27 Mar 2022 02:44:20 GMT</pubDate>
+            <title><![CDATA[윌 스미스, 오스카 시상식서 크리스 록 뺨 때려 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60900154</link>
+            <guid>https://www.bbc.com/korean/60900154</guid>
+            <pubDate>Mon, 28 Mar 2022 10:17:45 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
     </channel>
