@@ -4,9 +4,33 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 09:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 10:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스텔스 오미크론' BA.2는 무엇인가]]></title>
+            <link>https://www.bbc.com/korean/60900150</link>
+            <guid>https://www.bbc.com/korean/60900150</guid>
+            <pubDate>Wed, 30 Mar 2022 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[국내에서도 오미크론 대유행이 지나고 스텔스 오미크론이 우세종이 됐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/140F4/production/_123946128_gettyimages-1289422660_spike.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 우크라-러시아: 조국의 전쟁을 바라보는 사람들, 방송 길이 6,28]]></title>
+            <link>https://www.bbc.com/korean/features-60911356</link>
+            <guid>https://www.bbc.com/korean/features-60911356</guid>
+            <pubDate>Wed, 30 Mar 2022 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁을 일으킨 러시아와 피해 당사국 우크라이나 국민들은 어떤 생각을 하고 있을까?]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 고아에서 억만장자로...로만 아브라모치는 누구?, 방송 길이 1,02]]></title>
+            <link>https://www.bbc.com/korean/international-60890744</link>
+            <guid>https://www.bbc.com/korean/international-60890744</guid>
+            <pubDate>Wed, 30 Mar 2022 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[최근 우크라-러시아 평화협상에 참여했다 독극물 중독 의심증상을 보였다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F2D4/production/_123946126_p0by8mpr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 러시아 외교관 수십 명, EU 4개국에서 추방]]></title>
             <link>https://www.bbc.com/korean/features-60923278</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 29 Mar 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[영국 인권단체가 탈북민 259명을 인터뷰한 결과를 분석해 데이터베이스(DB)를 구축하고 보고서를 발간했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18125/production/_123879589_8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윌스미스: '용서받을 없는 행동'...크리스 록에 공개 사과]]></title>
-            <link>https://www.bbc.com/korean/news-60911352</link>
-            <guid>https://www.bbc.com/korean/news-60911352</guid>
-            <pubDate>Tue, 29 Mar 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[스미스는 성명을 통해 '록에게 공개적으로 사과하고 싶다. 선을 넘는 잘못된 행동'이라고 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12819/production/_123910857_will_punch.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로만 아브라모비치, 우크라 평화회담 후 독극물 중독 의심증세]]></title>
-            <link>https://www.bbc.com/korean/news-60909983</link>
-            <guid>https://www.bbc.com/korean/news-60909983</guid>
-            <pubDate>Tue, 29 Mar 2022 08:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[아브라모비치는 현재 건강을 회복했으나, 눈이 아프고 피부가 벗겨지는 고통을 호소한 것으로 알려졌다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6A4C/production/_123921272_074615402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 점령지의 삶: 우크라 주민들의 증언]]></title>
-            <link>https://www.bbc.com/korean/60898992</link>
-            <guid>https://www.bbc.com/korean/60898992</guid>
-            <pubDate>Tue, 29 Mar 2022 03:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[러시아군이 점령한 지 몇 주가 지냈음에도 여전히 지역 주민들은 저항을 이어 나가고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A5B/production/_123891453_screenshot2022-03-25at13.45.23.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
