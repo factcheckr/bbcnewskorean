@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 11:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 12:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/140A5/production/_123958028_p0bykkxt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로만 아브라모치: 고아에서 억만장자 된 러시아 재벌]]></title>
-            <link>https://www.bbc.com/korean/international-60890744</link>
-            <guid>https://www.bbc.com/korean/international-60890744</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F2D4/production/_123946126_p0by8mpr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
             <link>https://www.bbc.com/korean/60845790</link>
             <guid>https://www.bbc.com/korean/60845790</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로만 아브라모치: 고아에서 억만장자 된 러시아 재벌]]></title>
+            <link>https://www.bbc.com/korean/international-60890744</link>
+            <guid>https://www.bbc.com/korean/international-60890744</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19: '78번 검사에서 모두 양성 판정 받았어요']]></title>
@@ -55,25 +62,18 @@
             <content:encoded><![CDATA[2:14]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는?]]></title>
-            <link>https://www.bbc.com/korean/international-60871407</link>
-            <guid>https://www.bbc.com/korean/international-60871407</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 전쟁: 목숨 걸고 드론을 띄우는 정찰부대]]></title>
             <link>https://www.bbc.com/korean/international-60890742</link>
             <guid>https://www.bbc.com/korean/international-60890742</guid>
             <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뚜렛 증후군: 유튜버가 말하는 틱 장애를 안고 산다는 것]]></title>
+            <link>https://www.bbc.com/korean/international-51454676</link>
+            <guid>https://www.bbc.com/korean/international-51454676</guid>
+            <pubDate>Sat, 15 Feb 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
