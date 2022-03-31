@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, '우리는 한 팀'...함께 귀환한 미국-러시아 우주비행사, 방송 길이 0,54]]></title>
+            <link>https://www.bbc.com/korean/news-60937632</link>
+            <guid>https://www.bbc.com/korean/news-60937632</guid>
+            <pubDate>Thu, 31 Mar 2022 08:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[미국-러시아 우주비행사가 함께 귀환하는 장면은 최근 갈등에도 우주에서의 협력은 지속되고 있음을 보여준다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/140A5/production/_123958028_p0bykkxt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 미사일 공격으로 구멍 뚫린 우크라이나 주 정부 청사, 방송 길이 0,49]]></title>
             <link>https://www.bbc.com/korean/news-60936671</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 30 Mar 2022 10:17:23 GMT</pubDate>
             <content:encoded><![CDATA[최근 우크라-러시아 평화협상에 참여했다 독극물 중독 의심증상을 보였다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F2D4/production/_123946126_p0by8mpr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 러시아 외교관 수십 명, EU 4개국에서 추방]]></title>
-            <link>https://www.bbc.com/korean/features-60923278</link>
-            <guid>https://www.bbc.com/korean/features-60923278</guid>
-            <pubDate>Wed, 30 Mar 2022 03:30:11 GMT</pubDate>
-            <content:encoded><![CDATA[아일랜드, 벨기에, 네덜란드, 체코 4개국이 자국 내 러시아 외교관 43명에게 추방 명령을 내렸다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5F7C/production/_123944442_fe276fbb-3814-4e82-becb-72beaaef7e28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
