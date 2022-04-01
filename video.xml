@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 22:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 23:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,13 +48,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[보디빌더: 선수로 활동하는 75세 임종소 씨 이야기]]></title>
             <link>https://www.bbc.com/korean/news-49274152</link>
             <guid>https://www.bbc.com/korean/news-49274152</guid>
@@ -69,6 +62,13 @@
             <content:encoded><![CDATA[0:53]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[히잡 쓴 길거리 농구 스타...무슬림 여성에 대한 편견을 바꾸다]]></title>
+            <link>https://www.bbc.com/korean/features-59100418</link>
+            <guid>https://www.bbc.com/korean/features-59100418</guid>
+            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
@@ -76,11 +76,11 @@
             <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[히잡 쓴 길거리 농구 스타...무슬림 여성에 대한 편견을 바꾸다]]></title>
-            <link>https://www.bbc.com/korean/features-59100418</link>
-            <guid>https://www.bbc.com/korean/features-59100418</guid>
-            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
+            <link>https://www.bbc.com/korean/60845790</link>
+            <guid>https://www.bbc.com/korean/60845790</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
     </channel>
 </rss>
