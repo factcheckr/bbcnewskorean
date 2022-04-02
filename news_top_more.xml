@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean</id>
     <title>BBC News 코리아 ─ 뉴스 메인 더보기</title>
-    <updated>2022-04-02T03:27:55.039Z</updated>
+    <updated>2022-04-02T04:20:04.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
-        <title type="html"><![CDATA[유엔 북한인권보고관 '지난 6년간 북한인권 더 악화']]></title>
-        <id>https://www.bbc.com/korean/60792499</id>
-        <link href="https://www.bbc.com/korean/60792499"/>
-        <updated>2022-04-02T03:27:31.105Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/60792499" class="bbc-1ocdizt e1wlg2v80"><span>유엔 북한인권보고관 '지난 6년간 북한인권 더 악화'</span></a>]]></content>
+        <title type="html"><![CDATA[실내 화초, 이제는 '스마트 센서'가 가꾼다]]></title>
+        <id>https://www.bbc.com/korean/international-60473414</id>
+        <link href="https://www.bbc.com/korean/international-60473414"/>
+        <updated>2022-04-02T04:19:45.821Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/international-60473414" class="bbc-1ocdizt e1wlg2v80"><span>실내 화초, 이제는 '스마트 센서'가 가꾼다</span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KAL기 납북피해자 황원씨 아내 별세…북한 '납북자 없다'는 입장]]></title>
-        <id>https://www.bbc.com/korean/news-59399329</id>
-        <link href="https://www.bbc.com/korean/news-59399329"/>
-        <updated>2022-04-02T03:27:31.107Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/news-59399329" class="bbc-1ocdizt e1wlg2v80"><span>KAL기 납북피해자 황원씨 아내 별세…북한 '납북자 없다'는 입장</span></a>]]></content>
+        <title type="html"><![CDATA[Z세대는 사랑과 섹스에 더 실용적일까?]]></title>
+        <id>https://www.bbc.com/korean/international-60364841</id>
+        <link href="https://www.bbc.com/korean/international-60364841"/>
+        <updated>2022-04-02T04:19:45.821Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/international-60364841" class="bbc-1ocdizt e1wlg2v80"><span>Z세대는 사랑과 섹스에 더 실용적일까?</span></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국: 40일 간의 추적 끝에 잡힌 북한 탈북자]]></title>
-        <id>https://www.bbc.com/korean/international-59461650</id>
-        <link href="https://www.bbc.com/korean/international-59461650"/>
-        <updated>2022-04-02T03:27:31.109Z</updated>
-        <content type="html"><![CDATA[<a href="/korean/international-59461650" class="bbc-1ocdizt e1wlg2v80"><span>중국: 40일 간의 추적 끝에 잡힌 북한 탈북자</span></a>]]></content>
+        <title type="html"><![CDATA[자존감 아닌 '자기연민'이 성공의 비결인 이유]]></title>
+        <id>https://www.bbc.com/korean/features-60255122</id>
+        <link href="https://www.bbc.com/korean/features-60255122"/>
+        <updated>2022-04-02T04:19:45.822Z</updated>
+        <content type="html"><![CDATA[<a href="/korean/features-60255122" class="bbc-1ocdizt e1wlg2v80"><span>자존감 아닌 '자기연민'이 성공의 비결인 이유</span></a>]]></content>
     </entry>
 </feed>
