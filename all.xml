@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 17:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 18:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,14 +124,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60871407</link>
-            <guid>https://www.bbc.com/korean/international-60871407</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5525/production/_123879712_p0bxgyh2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 전쟁: 목숨 걸고 드론을 띄우는 정찰부대 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60890742</link>
             <guid>https://www.bbc.com/korean/international-60890742</guid>
@@ -140,18 +132,26 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7EB8/production/_123904423_p0bxwtww.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라 침공: ISS에서 지구로...함께 귀환한 미국과 러시아 우주비행사 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60937632</link>
             <guid>https://www.bbc.com/korean/news-60937632</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/140A5/production/_123958028_p0bykkxt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나: 도로에 깔린 지뢰 사이로 곡예 운전하는 차량 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60890747</link>
+            <guid>https://www.bbc.com/korean/international-60890747</guid>
+            <pubDate>Fri, 01 Apr 2022 06:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60871407</link>
+            <guid>https://www.bbc.com/korean/international-60871407</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들 (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +168,11 @@
             <content:encoded><![CDATA[2:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 도로에 깔린 지뢰 사이로 곡예 운전하는 차량 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60890747</link>
-            <guid>https://www.bbc.com/korean/international-60890747</guid>
-            <pubDate>Fri, 01 Apr 2022 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 3월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -273,17 +273,17 @@
             <content:encoded><![CDATA[korean-2022-03-14-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한국, 코로나19 '엔데믹' 첫 국가되나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60950196</link>
             <guid>https://www.bbc.com/korean/news-60950196</guid>
             <pubDate>Fri, 01 Apr 2022 06:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60034967</link>
+            <guid>https://www.bbc.com/korean/features-60034967</guid>
+            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
@@ -315,31 +315,31 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국에서 '검은 피부'로 살아가기 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-42192353</link>
-            <guid>https://www.bbc.com/korean/news-42192353</guid>
-            <pubDate>Sat, 02 Apr 2022 16:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Thu, 31 Mar 2022 23:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9.11 테러 20년: 그날, 무슨 일이 일어났나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-58468074</link>
             <guid>https://www.bbc.com/korean/international-58468074</guid>
             <pubDate>Sat, 02 Apr 2022 17:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19와 섹스, 당신이 알아야 할 모든 것 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-52102003</link>
             <guid>https://www.bbc.com/korean/news-52102003</guid>
             <pubDate>Sat, 02 Apr 2022 12:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 당신... '코로나 불면증'을 아시나요? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/magazine-55807157</link>
+            <guid>https://www.bbc.com/korean/magazine-55807157</guid>
+            <pubDate>Sat, 02 Apr 2022 18:18:21 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
     </channel>
