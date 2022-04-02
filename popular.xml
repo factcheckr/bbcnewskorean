@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-04-02T01:05:12.829Z</updated>
+    <updated>2022-04-02T02:53:57.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -27,52 +27,52 @@
         <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['세계 최고 부자' 일론 머스크가 말하는 6가지 성공 비결]]></title>
+        <id>https://www.bbc.com/korean/features-55572440</id>
+        <link href="https://www.bbc.com/korean/features-55572440"/>
+        <updated>2022-04-02T02:53:51.794Z</updated>
+        <content type="html"><![CDATA[4]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['스텔스 오미크론' BA.2는 무엇인가]]></title>
         <id>https://www.bbc.com/korean/60900150</id>
         <link href="https://www.bbc.com/korean/60900150"/>
         <updated>2022-03-30T08:20:37.602Z</updated>
-        <content type="html"><![CDATA[4]]></content>
+        <content type="html"><![CDATA[5]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 두 번째 규모 암호화폐 해킹… 시사점은?]]></title>
         <id>https://www.bbc.com/korean/news-60937630</id>
         <link href="https://www.bbc.com/korean/news-60937630"/>
         <updated>2022-04-01T10:18:50.715Z</updated>
-        <content type="html"><![CDATA[5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나, '러시아군 체르노빌에서 철수 중']]></title>
-        <id>https://www.bbc.com/korean/news-60950260</id>
-        <link href="https://www.bbc.com/korean/news-60950260"/>
-        <updated>2022-04-01T06:20:49.140Z</updated>
         <content type="html"><![CDATA[6]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['제로 코로나' 중국, '경제수도' 상하이 전면 봉쇄한다]]></title>
-        <id>https://www.bbc.com/korean/international-60896934</id>
-        <link href="https://www.bbc.com/korean/international-60896934"/>
-        <updated>2022-04-02T01:05:07.354Z</updated>
+        <title type="html"><![CDATA['바이오(bio)'와 '그린(green)'이 우리의 생각과 다른 이유]]></title>
+        <id>https://www.bbc.com/korean/international-60819180</id>
+        <link href="https://www.bbc.com/korean/international-60819180"/>
+        <updated>2022-04-02T02:53:51.802Z</updated>
         <content type="html"><![CDATA[7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19는 빈국의 질병이 돼 버릴까?]]></title>
-        <id>https://www.bbc.com/korean/news-60925475</id>
-        <link href="https://www.bbc.com/korean/news-60925475"/>
-        <updated>2022-04-02T01:05:07.355Z</updated>
-        <content type="html"><![CDATA[8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까?]]></title>
-        <id>https://www.bbc.com/korean/news-59708074</id>
-        <link href="https://www.bbc.com/korean/news-59708074"/>
-        <updated>2022-04-02T01:05:07.355Z</updated>
-        <content type="html"><![CDATA[9]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아가 우크라이나를 침공한 이유]]></title>
         <id>https://www.bbc.com/korean/60521326</id>
         <link href="https://www.bbc.com/korean/60521326"/>
         <updated>2022-03-31T23:17:23.794Z</updated>
+        <content type="html"><![CDATA[8]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나, '러시아군 체르노빌에서 철수 중']]></title>
+        <id>https://www.bbc.com/korean/news-60950260</id>
+        <link href="https://www.bbc.com/korean/news-60950260"/>
+        <updated>2022-04-01T06:20:49.140Z</updated>
+        <content type="html"><![CDATA[9]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['걸어 들어와 기어나간다'는 북한 구금시설 그곳에선 어떤일이?]]></title>
+        <id>https://www.bbc.com/korean/60900146</id>
+        <link href="https://www.bbc.com/korean/60900146"/>
+        <updated>2022-04-02T02:53:51.807Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
