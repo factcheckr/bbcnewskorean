@@ -4,9 +4,33 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 01:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 02:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경제난 속에 국가 비상사태 선포된 스리랑카...논란이 되는 이유는?]]></title>
+            <link>https://www.bbc.com/korean/international-60967446</link>
+            <guid>https://www.bbc.com/korean/international-60967446</guid>
+            <pubDate>Sun, 03 Apr 2022 02:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[국가 비상사태는 스리랑카에서 가장 엄격하게 적용되는 법률 중 하나다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/DE10/production/_123984865_gettyimages-1239679436.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음식물 쓰레기로 천연 가스 의존도를 줄이는 법]]></title>
+            <link>https://www.bbc.com/korean/international-60971223</link>
+            <guid>https://www.bbc.com/korean/international-60971223</guid>
+            <pubDate>Sun, 03 Apr 2022 02:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[연료용 가스 가격이 고점을 찍고 있다. 이러한 상황에서 음식물 쓰레기나 슬러지가 화석 연료 가스의 대안으로 떠오르고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/597D/production/_123990922_5111d6a0-cb90-40a1-aa62-c173031cd204.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 카타르 월드컵 본선 조 확정... 포르투갈, 우루과이 포진]]></title>
+            <link>https://www.bbc.com/korean/news-60964383</link>
+            <guid>https://www.bbc.com/korean/news-60964383</guid>
+            <pubDate>Sun, 03 Apr 2022 02:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[한국이 참가하는 카타르 월드컵은 오는 11월 21일 개막한다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A9C/production/_123984327_origin_2022.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 소일거리는 위안처럼 느껴질까]]></title>
             <link>https://www.bbc.com/korean/international-60964382</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 01 Apr 2022 10:18:26 GMT</pubDate>
             <content:encoded><![CDATA[정부는 '실내 마스크 착용'만을 남긴 모든 방역 조치 해제를 검토할 계획이다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C613/production/_123970705_mediaitem123970704.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가슴 통증에 만성 피로감, 혹시 나도?...'롱코비드' 후유증은 무엇인가]]></title>
-            <link>https://www.bbc.com/korean/60936699</link>
-            <guid>https://www.bbc.com/korean/60936699</guid>
-            <pubDate>Fri, 01 Apr 2022 09:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 후유증의 원인, 증상, 치료 등을 알아내기 위한 연구가 진행되고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AF2A/production/_123924844_e8cab933-086a-43d5-955f-170157a1080d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 우크라이나: 지뢰밭 사이로 곡예 운전하는 차량, 방송 길이 0,53]]></title>
-            <link>https://www.bbc.com/korean/international-60890747</link>
-            <guid>https://www.bbc.com/korean/international-60890747</guid>
-            <pubDate>Fri, 01 Apr 2022 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 보로드얀카 인근 도로에 대전차 지뢰 수십 개가 발견됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/82ED/production/_123971533_p0byt5qr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 무슬림인 내가 한국에서 사는 법, 방송 길이 3,12]]></title>
-            <link>https://www.bbc.com/korean/features-60945308</link>
-            <guid>https://www.bbc.com/korean/features-60945308</guid>
-            <pubDate>Fri, 01 Apr 2022 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA["우리에 대한 두려움은 무지에서 비롯된다고 봐요"]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10C13/production/_123972686_p0bytm2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
