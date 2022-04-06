@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 전쟁범죄란 무엇인가?, 방송 길이 1,00]]></title>
+            <link>https://www.bbc.com/korean/60994414</link>
+            <guid>https://www.bbc.com/korean/60994414</guid>
+            <pubDate>Wed, 06 Apr 2022 02:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군이 우크라이나에서 민간인 학살 및 전쟁범죄를 일으킨 의혹이 제기되고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/108B2/production/_124026776_p0bzfnby.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기업들 2년 만에 '전원 출근'...사무실 복귀 시작하나]]></title>
             <link>https://www.bbc.com/korean/60994012</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Apr 2022 12:27:44 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 측은 러시아 제331 공수연대가 '전멸당했다'라면서 이들의 병력 손실이 엄청나다고 주장했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/171C1/production/_123975649_grid1-2x-nc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 10명 중 9명 '새 정부, 최우선 협력 국가는 미국']]></title>
-            <link>https://www.bbc.com/korean/news-60964384</link>
-            <guid>https://www.bbc.com/korean/news-60964384</guid>
-            <pubDate>Mon, 04 Apr 2022 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[가장 긴밀히 협력해야 할 국가로 경제와 외교∙안보 분야 모두 미국을 꼽았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E41F/production/_123999385_gettyimages-1388974097.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
