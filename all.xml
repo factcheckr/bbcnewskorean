@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 21:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 22:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,17 +287,17 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 불에 탄 시신과 탱크로 뒤덮인 부차의 거리 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60978512</link>
-            <guid>https://www.bbc.com/korean/international-60978512</guid>
-            <pubDate>Mon, 04 Apr 2022 03:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[독일은 어떻게 세계 최대 다크넷 '히드라'를 폐쇄할 수 있었나 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61006945</link>
             <guid>https://www.bbc.com/korean/news-61006945</guid>
             <pubDate>Wed, 06 Apr 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 불에 탄 시신과 탱크로 뒤덮인 부차의 거리 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60978512</link>
+            <guid>https://www.bbc.com/korean/international-60978512</guid>
+            <pubDate>Mon, 04 Apr 2022 03:02:15 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -329,17 +329,17 @@
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 카타르 월드컵 본선 조 확정... 포르투갈, 우루과이 포진 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60964383</link>
-            <guid>https://www.bbc.com/korean/news-60964383</guid>
-            <pubDate>Wed, 06 Apr 2022 21:14:59 GMT</pubDate>
+            <title><![CDATA[윤석열 당선인 친서 백악관 전달… 한미동맹 어떻게 변할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-60964385</link>
+            <guid>https://www.bbc.com/korean/news-60964385</guid>
+            <pubDate>Wed, 06 Apr 2022 09:15:43 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60521326</link>
-            <guid>https://www.bbc.com/korean/60521326</guid>
-            <pubDate>Wed, 06 Apr 2022 01:09:21 GMT</pubDate>
+            <title><![CDATA[부차 민간인 살해: '그들이 나도 죽였으면 좋았을 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61006087</link>
+            <guid>https://www.bbc.com/korean/news-61006087</guid>
+            <pubDate>Wed, 06 Apr 2022 03:29:17 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
