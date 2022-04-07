@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 06:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 07:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, '시체가 움직인다'...러시아군의 반박은 사실일까?, 방송 길이 0,58]]></title>
+            <link>https://www.bbc.com/korean/international-60971230</link>
+            <guid>https://www.bbc.com/korean/international-60971230</guid>
+            <pubDate>Thu, 07 Apr 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 측은 우크라이나가 제시한 증거 영상이 조작됐다며 반발했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8922/production/_124060153_p0bzvq3k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국, 푸틴의 두 딸도 제재 대상에 추가]]></title>
+            <link>https://www.bbc.com/korean/international-61019491</link>
+            <guid>https://www.bbc.com/korean/international-61019491</guid>
+            <pubDate>Thu, 07 Apr 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA["이들이 아버지 푸틴의 자산 일부를 관리하고 있다고 생각하기 때문"]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13B7E/production/_124066708_mediaitem124066704.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직감, 과연 믿어도 되는 걸까]]></title>
             <link>https://www.bbc.com/korean/features-61011221</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 06 Apr 2022 08:19:04 GMT</pubDate>
             <content:encoded><![CDATA[최근 러시아군이 물러난 부차에서는 살해된 민간인 시신 수십 구가 발견됐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12359/production/_124058547_2b293946-4e50-4a42-96e3-9fcbb46d6be6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, '전 세계 80마리' 멸종 위기 수마트라코뿔소 새 생명 태어나, 방송 길이 1,00]]></title>
-            <link>https://www.bbc.com/korean/61006940</link>
-            <guid>https://www.bbc.com/korean/61006940</guid>
-            <pubDate>Wed, 06 Apr 2022 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[이번에 태어난 새끼 코뿔소는 8번의 유산 끝에 태어난 '귀한' 코뿔소다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1897/production/_124059260_p0bzmdyv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20년 만의 전범 재판…수십만 숨진 ‘다르푸르 사태’란?]]></title>
-            <link>https://www.bbc.com/korean/international-60997270</link>
-            <guid>https://www.bbc.com/korean/international-60997270</guid>
-            <pubDate>Wed, 06 Apr 2022 04:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[국제형사재판소(ICC)가 처음으로 수단 다르푸르 사태 관련 재판을 열었다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/18569/production/_119498699_khamisa3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
