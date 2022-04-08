@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 01:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 국제 미아된 26명의 우크라이나 과학자들, 방송 길이 1,26]]></title>
+            <link>https://www.bbc.com/korean/international-60971232</link>
+            <guid>https://www.bbc.com/korean/international-60971232</guid>
+            <pubDate>Fri, 08 Apr 2022 02:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[연구를 위해 남극 대륙으로 간 우크라이나의 쇄빙선 누스페라호가 조국으로 돌아가지 못하고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D742/production/_124060155_p0bzw9qv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 SLBM 차례?... 북한, 이달 중 SLBM 발사할까]]></title>
+            <link>https://www.bbc.com/korean/news-60964386</link>
+            <guid>https://www.bbc.com/korean/news-60964386</guid>
+            <pubDate>Fri, 08 Apr 2022 02:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[4월에는 태양절, 조선인민혁명군 창건일 등 굵직한 행사들이 예정되어 있다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D6FD/production/_124073055_8a1f2751-7345-4d18-a12b-e85dbd5a3925.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반복되는 '개 물림' 사고, 왜... '펫 티켓' 어디 있나?]]></title>
             <link>https://www.bbc.com/korean/news-60686426</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Apr 2022 01:08:51 GMT</pubDate>
             <content:encoded><![CDATA[러시아군이 떠나간 키이우 외곽 도시에 들어간 BBC 취재진이 '민간인 학살' 피해자를 만났다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A0F6/production/_124060214_p0bzmlfs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['전쟁범죄'란 무엇이며, 푸틴 대통령을 기소할 수 있을까?]]></title>
-            <link>https://www.bbc.com/korean/news-61006939</link>
-            <guid>https://www.bbc.com/korean/news-61006939</guid>
-            <pubDate>Thu, 07 Apr 2022 01:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 부차에서 민간인들이 고의로 살해된 증거들이 발견됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FF0F/production/_124059256_cb5a3cbe-c301-46cc-921f-986c56ac4874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선인 친서 백악관 전달… 한미동맹 어떻게 변할까?]]></title>
-            <link>https://www.bbc.com/korean/news-60964385</link>
-            <guid>https://www.bbc.com/korean/news-60964385</guid>
-            <pubDate>Wed, 06 Apr 2022 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[신정부 출범 이후 한미 정상회담을 조기에 개최할 필요성에 대해서도 의견을 교환했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C744/production/_123621015_mediaitem123621014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
