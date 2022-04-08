@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주한 미국대사 지명자 '북한은 불량국가']]></title>
+            <link>https://www.bbc.com/korean/news-61036545</link>
+            <guid>https://www.bbc.com/korean/news-61036545</guid>
+            <pubDate>Fri, 08 Apr 2022 10:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 강한 거부감을 드러내는 CVID를 언급하기도 했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13E46/production/_124087418_origin_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에드 시런 표절 논란으로 보는 '표절의 역사']]></title>
+            <link>https://www.bbc.com/korean/international-61020877</link>
+            <guid>https://www.bbc.com/korean/international-61020877</guid>
+            <pubDate>Fri, 08 Apr 2022 10:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[음악 역사상 가장 유명한 저작권 소송들 몇 가지를 돌아봤다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11C2B/production/_124074727_174024fa-b78d-429b-ac84-176658e3c6fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 전쟁 전날 '중국발 해킹' 의혹을 둘러싼 미스터리]]></title>
             <link>https://www.bbc.com/korean/international-61034370</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Apr 2022 10:16:29 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 봉쇄된 단일 도시 중 가장 규모가 크다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/25BE/production/_124026690_hi075086329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, '시체가 움직인다'...러시아군의 반박은 사실일까?, 방송 길이 0,58]]></title>
-            <link>https://www.bbc.com/korean/international-60971230</link>
-            <guid>https://www.bbc.com/korean/international-60971230</guid>
-            <pubDate>Thu, 07 Apr 2022 07:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 측은 우크라이나가 제시한 증거 영상이 조작됐다며 반발했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8922/production/_124060153_p0bzvq3k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, 푸틴의 두 딸도 제재 대상에 추가]]></title>
-            <link>https://www.bbc.com/korean/international-61019491</link>
-            <guid>https://www.bbc.com/korean/international-61019491</guid>
-            <pubDate>Thu, 07 Apr 2022 07:15:41 GMT</pubDate>
-            <content:encoded><![CDATA["이들이 아버지 푸틴의 자산 일부를 관리하고 있다고 생각하기 때문"]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13B7E/production/_124066708_mediaitem124066704.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
