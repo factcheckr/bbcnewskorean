@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-04-08T07:19:26.591Z</updated>
+    <updated>2022-04-08T08:19:36.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -13,38 +13,38 @@
         <content type="html"><![CDATA[1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상하이 봉쇄 도시 전체로 확대]]></title>
-        <id>https://www.bbc.com/korean/international-61019492</id>
-        <link href="https://www.bbc.com/korean/international-61019492"/>
-        <updated>2022-04-07T06:20:04.221Z</updated>
-        <content type="html"><![CDATA[2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['부차에서 러시아군은 아버지를 제 눈앞에서 죽였습니다']]></title>
-        <id>https://www.bbc.com/korean/international-61034369</id>
-        <link href="https://www.bbc.com/korean/international-61034369"/>
-        <updated>2022-04-08T03:39:14.057Z</updated>
-        <content type="html"><![CDATA[3]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우크라이나 전쟁 전날 '중국발 해킹' 의혹을 둘러싼 미스터리]]></title>
         <id>https://www.bbc.com/korean/international-61034370</id>
         <link href="https://www.bbc.com/korean/international-61034370"/>
         <updated>2022-04-08T07:19:21.224Z</updated>
-        <content type="html"><![CDATA[4]]></content>
+        <content type="html"><![CDATA[2]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아가 우크라이나를 침공한 이유]]></title>
-        <id>https://www.bbc.com/korean/60521326</id>
-        <link href="https://www.bbc.com/korean/60521326"/>
-        <updated>2022-04-07T23:16:25.450Z</updated>
-        <content type="html"><![CDATA[5]]></content>
+        <title type="html"><![CDATA[상하이 봉쇄 도시 전체로 확대]]></title>
+        <id>https://www.bbc.com/korean/international-61019492</id>
+        <link href="https://www.bbc.com/korean/international-61019492"/>
+        <updated>2022-04-07T06:20:04.221Z</updated>
+        <content type="html"><![CDATA[3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에드 시런 표절 논란으로 보는 '표절의 역사']]></title>
+        <id>https://www.bbc.com/korean/international-61020877</id>
+        <link href="https://www.bbc.com/korean/international-61020877"/>
+        <updated>2022-04-08T08:19:30.594Z</updated>
+        <content type="html"><![CDATA[4]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아 최정예 낙하산 부대 '막대한 전력손실'...최소 39명 사망 확인]]></title>
         <id>https://www.bbc.com/korean/news-60978513</id>
         <link href="https://www.bbc.com/korean/news-60978513"/>
         <updated>2022-04-04T06:20:45.607Z</updated>
+        <content type="html"><![CDATA[5]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['부차에서 러시아군은 아버지를 제 눈앞에서 죽였습니다']]></title>
+        <id>https://www.bbc.com/korean/international-61034369</id>
+        <link href="https://www.bbc.com/korean/international-61034369"/>
+        <updated>2022-04-08T03:39:14.057Z</updated>
         <content type="html"><![CDATA[6]]></content>
     </entry>
     <entry>
@@ -55,24 +55,24 @@
         <content type="html"><![CDATA[7]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[러시아가 우크라이나를 침공한 이유]]></title>
+        <id>https://www.bbc.com/korean/60521326</id>
+        <link href="https://www.bbc.com/korean/60521326"/>
+        <updated>2022-04-07T23:16:25.450Z</updated>
+        <content type="html"><![CDATA[8]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국, 푸틴의 두 딸도 제재 대상에 추가]]></title>
         <id>https://www.bbc.com/korean/international-61019491</id>
         <link href="https://www.bbc.com/korean/international-61019491"/>
         <updated>2022-04-07T02:52:49.933Z</updated>
-        <content type="html"><![CDATA[8]]></content>
+        <content type="html"><![CDATA[9]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 전쟁: 불에 탄 시신과 탱크로 뒤덮인 부차의 거리]]></title>
         <id>https://www.bbc.com/korean/international-60978512</id>
         <link href="https://www.bbc.com/korean/international-60978512"/>
         <updated>2022-04-04T04:20:01.278Z</updated>
-        <content type="html"><![CDATA[9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국, 코로나19 '엔데믹' 첫 국가되나?]]></title>
-        <id>https://www.bbc.com/korean/news-60950196</id>
-        <link href="https://www.bbc.com/korean/news-60950196"/>
-        <updated>2022-04-07T22:16:24.218Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
