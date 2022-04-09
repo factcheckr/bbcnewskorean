@@ -4,9 +4,33 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 15:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 16:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들]]></title>
+            <link>https://www.bbc.com/korean/features-60911356</link>
+            <guid>https://www.bbc.com/korean/features-60911356</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야생동물: 멸종 위기 수마트라코뿔소 새 생명 태어나]]></title>
+            <link>https://www.bbc.com/korean/61006940</link>
+            <guid>https://www.bbc.com/korean/61006940</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1897/production/_124059260_p0bzmdyv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까?]]></title>
             <link>https://www.bbc.com/korean/international-60971230</link>
@@ -29,23 +53,13 @@
             <guid>https://www.bbc.com/korean/international-60971224</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11CCD/production/_123990927_p0bz7sf0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들]]></title>
-            <link>https://www.bbc.com/korean/features-60911356</link>
-            <guid>https://www.bbc.com/korean/features-60911356</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무슬림인 내가 한국에서 사는 법]]></title>
@@ -55,13 +69,6 @@
             <content:encoded><![CDATA[3:12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 돌아가지 못하는 남극 쇄빙선]]></title>
-            <link>https://www.bbc.com/korean/international-60971232</link>
-            <guid>https://www.bbc.com/korean/international-60971232</guid>
-            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
             <link>https://www.bbc.com/korean/news-47889936</link>
             <guid>https://www.bbc.com/korean/news-47889936</guid>
@@ -69,18 +76,11 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라 전쟁: 전쟁범죄란 무엇인가?]]></title>
-            <link>https://www.bbc.com/korean/60994414</link>
-            <guid>https://www.bbc.com/korean/60994414</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[야생동물: 멸종 위기 수마트라코뿔소 새 생명 태어나]]></title>
-            <link>https://www.bbc.com/korean/61006940</link>
-            <guid>https://www.bbc.com/korean/61006940</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
         </item>
     </channel>
 </rss>
