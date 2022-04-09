@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 07:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윌 스미스, 10년 동안 오스카 시상식 참석 금지]]></title>
+            <link>https://www.bbc.com/korean/61049463</link>
+            <guid>https://www.bbc.com/korean/61049463</guid>
+            <pubDate>Sat, 09 Apr 2022 07:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[윌 스미스는 향후 10년 동안 아카데미 주관 행사에 참석할 수 없게 됐다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4A38/production/_124100091_willsmithslap.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한국식 나이 셈법' 사라질까?]]></title>
             <link>https://www.bbc.com/korean/news-60950199</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 02:59:51 GMT</pubDate>
             <content:encoded><![CDATA[4월에는 태양절, 조선인민혁명군 창건일 등 굵직한 행사들이 예정되어 있다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D6FD/production/_124073055_8a1f2751-7345-4d18-a12b-e85dbd5a3925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반복되는 '개 물림' 사고, 왜... '펫 티켓' 어디 있나?]]></title>
-            <link>https://www.bbc.com/korean/news-60686426</link>
-            <guid>https://www.bbc.com/korean/news-60686426</guid>
-            <pubDate>Thu, 07 Apr 2022 10:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[하루가 멀다 하고 "개가 사람을 물었다"는 뉴스를 접하는 시대다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14061/production/_124071028_mediaitem124071026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
