@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 13:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 14:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,19 +132,19 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/046C/production/_106423110_p0768sr2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[야생동물: 멸종 위기 수마트라코뿔소 새 생명 태어나 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/61006940</link>
             <guid>https://www.bbc.com/korean/61006940</guid>
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1897/production/_124059260_p0bzmdyv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인종차별: 병원에서 날 두 번이나 돌려보낸 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-57354895</link>
-            <guid>https://www.bbc.com/korean/international-57354895</guid>
-            <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무슬림인 내가 한국에서 사는 법 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,25 +154,25 @@
             <content:encoded><![CDATA[3:12]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인종차별: 병원에서 날 두 번이나 돌려보낸 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-57354895</link>
+            <guid>https://www.bbc.com/korean/international-57354895</guid>
+            <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라 전쟁: 잊혀진 전쟁 '보스니아 내전' 생존자가 보는 우크라이나 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60971224</link>
+            <guid>https://www.bbc.com/korean/international-60971224</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나: 돌아가지 못하는 남극 쇄빙선 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60971232</link>
             <guid>https://www.bbc.com/korean/international-60971232</guid>
             <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나: '내 아들 돌려내'...아들 잃은 어머니의 절규 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60971228</link>
-            <guid>https://www.bbc.com/korean/news-60971228</guid>
-            <pubDate>Sun, 10 Apr 2022 01:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4월 9일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,17 +287,17 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사람들은 왜 싱글을 마음대로 판단할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61056020</link>
-            <guid>https://www.bbc.com/korean/features-61056020</guid>
-            <pubDate>Sun, 10 Apr 2022 02:54:39 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[상하이 봉쇄 도시 전체로 확대 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61019492</link>
             <guid>https://www.bbc.com/korean/international-61019492</guid>
             <pubDate>Thu, 07 Apr 2022 06:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사람들은 왜 싱글을 마음대로 판단할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-61056020</link>
+            <guid>https://www.bbc.com/korean/features-61056020</guid>
+            <pubDate>Sun, 10 Apr 2022 02:54:39 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -308,17 +308,17 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[온라인 ‘대나무 숲’의 비밀스러운 세계 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/61048645</link>
-            <guid>https://www.bbc.com/korean/61048645</guid>
-            <pubDate>Sat, 09 Apr 2022 02:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라 기차역 폭격 그 충격과 공포의 현장 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61056019</link>
             <guid>https://www.bbc.com/korean/news-61056019</guid>
             <pubDate>Sun, 10 Apr 2022 01:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온라인 ‘대나무 숲’의 비밀스러운 세계 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/61048645</link>
+            <guid>https://www.bbc.com/korean/61048645</guid>
+            <pubDate>Sat, 09 Apr 2022 02:48:45 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
@@ -336,10 +336,10 @@
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아 최정예 낙하산 부대 '막대한 전력손실'...최소 39명 사망 확인 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-60978513</link>
-            <guid>https://www.bbc.com/korean/news-60978513</guid>
-            <pubDate>Sun, 10 Apr 2022 13:22:19 GMT</pubDate>
+            <title><![CDATA[세계에서 가장 오래된 디저트, 아슈레 푸딩 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/61049915</link>
+            <guid>https://www.bbc.com/korean/61049915</guid>
+            <pubDate>Sat, 09 Apr 2022 10:16:36 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
