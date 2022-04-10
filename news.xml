@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 02:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 03:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람들은 왜 싱글을 마음대로 판단할까?]]></title>
+            <link>https://www.bbc.com/korean/features-61056020</link>
+            <guid>https://www.bbc.com/korean/features-61056020</guid>
+            <pubDate>Sun, 10 Apr 2022 03:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[사회에서 '싱글'의 비중이 늘고 있지만, 사람들은 이들에게 '곧 좋은 사람 만나겠지'라는 식의 말을 쉽게 한다. 왜 그럴까?]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13664/production/_124106497_02fe4f10-8b33-4c38-a296-eb779b38740d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에베레스트에 도전하는 흑인 산악인]]></title>
             <link>https://www.bbc.com/korean/international-61052076</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 10:18:16 GMT</pubDate>
             <content:encoded><![CDATA[음악 역사상 가장 유명한 저작권 소송들 몇 가지를 돌아봤다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11C2B/production/_124074727_174024fa-b78d-429b-ac84-176658e3c6fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁 전날 '중국발 해킹' 의혹을 둘러싼 미스터리]]></title>
-            <link>https://www.bbc.com/korean/international-61034370</link>
-            <guid>https://www.bbc.com/korean/international-61034370</guid>
-            <pubDate>Fri, 08 Apr 2022 07:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[해킹의 목표는 단순히 웹사이트를 마비시키는 방해 행위보다는 기밀을 훔치는 첩보 활동이었던 것으로 보인다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CED6/production/_124005925_chinagettyimages-1368353578.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
