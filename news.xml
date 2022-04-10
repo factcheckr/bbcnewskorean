@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 04:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 05:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스 대선 오늘 1차 투표...결과는 언제 알 수 있나?]]></title>
+            <link>https://www.bbc.com/korean/features-60923276</link>
+            <guid>https://www.bbc.com/korean/features-60923276</guid>
+            <pubDate>Sun, 10 Apr 2022 05:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[연임에 도전하는 마크롱 대통령과 극우 성향의 마린 르펜 후보간 접전이 예상된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/127F0/production/_124106757_99ca9c71-64e3-466d-9270-229eb286415b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사람들은 왜 싱글을 마음대로 판단할까?]]></title>
             <link>https://www.bbc.com/korean/features-61056020</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 10:18:16 GMT</pubDate>
             <content:encoded><![CDATA[북한이 강한 거부감을 드러내는 CVID를 언급하기도 했다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13E46/production/_124087418_origin_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에드 시런 표절 논란으로 보는 '표절의 역사']]></title>
-            <link>https://www.bbc.com/korean/international-61020877</link>
-            <guid>https://www.bbc.com/korean/international-61020877</guid>
-            <pubDate>Fri, 08 Apr 2022 10:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[음악 역사상 가장 유명한 저작권 소송들 몇 가지를 돌아봤다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11C2B/production/_124074727_174024fa-b78d-429b-ac84-176658e3c6fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
