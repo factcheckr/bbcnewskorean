@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 21:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 22:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,17 +294,17 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상하이 봉쇄 도시 전체로 확대 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61019492</link>
-            <guid>https://www.bbc.com/korean/international-61019492</guid>
-            <pubDate>Thu, 07 Apr 2022 06:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Sat, 09 Apr 2022 21:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상하이 봉쇄 도시 전체로 확대 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61019492</link>
+            <guid>https://www.bbc.com/korean/international-61019492</guid>
+            <pubDate>Thu, 07 Apr 2022 06:19:45 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -315,31 +315,31 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['국위 선양' 방탄소년단, 결국 군대 가게 되나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59427773</link>
-            <guid>https://www.bbc.com/korean/news-59427773</guid>
-            <pubDate>Mon, 11 Apr 2022 12:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[잠 못드는 당신... '코로나 불면증'을 아시나요? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/magazine-55807157</link>
             <guid>https://www.bbc.com/korean/magazine-55807157</guid>
             <pubDate>Mon, 11 Apr 2022 19:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['국위 선양' 방탄소년단, 결국 군대 가게 되나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59427773</link>
+            <guid>https://www.bbc.com/korean/news-59427773</guid>
+            <pubDate>Mon, 11 Apr 2022 12:28:23 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만약 코로나19에 걸렸다면, 어떻게 해야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59708074</link>
+            <guid>https://www.bbc.com/korean/news-59708074</guid>
+            <pubDate>Mon, 11 Apr 2022 22:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 대통령의 아내, 올레나 젤렌스카는 누구? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-60697479</link>
             <guid>https://www.bbc.com/korean/news-60697479</guid>
             <pubDate>Mon, 11 Apr 2022 21:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전쟁범죄'란 무엇이며, 푸틴 대통령을 기소할 수 있을까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61006939</link>
-            <guid>https://www.bbc.com/korean/news-61006939</guid>
-            <pubDate>Mon, 11 Apr 2022 20:17:43 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
