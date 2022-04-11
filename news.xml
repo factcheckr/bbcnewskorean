@@ -4,11 +4,19 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 01:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[프랑스 대선 오늘 1차 투표...결과는 언제 알 수 있나?]]></title>
+            <title><![CDATA[우크라 기차역 폭격 그 충격과 공포의 현장]]></title>
+            <link>https://www.bbc.com/korean/news-61056019</link>
+            <guid>https://www.bbc.com/korean/news-61056019</guid>
+            <pubDate>Mon, 11 Apr 2022 03:07:02 GMT</pubDate>
+            <content:encoded><![CDATA['폭격 후 24시간이 지났지만 여전히 선명한 핏자국과 신체 일부가 보였다']]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F654/production/_124106036_mediaitem124106035.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 대선 결과는 언제 알 수 있나?]]></title>
             <link>https://www.bbc.com/korean/features-60923276</link>
             <guid>https://www.bbc.com/korean/features-60923276</guid>
             <pubDate>Sun, 10 Apr 2022 05:14:16 GMT</pubDate>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 09 Apr 2022 03:24:26 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 '한국식 나이 셈법'이 사라지게 될지 관심이 모이고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7F92/production/_124085623_untitled.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주한 미국대사 지명자 '북한은 불량국가']]></title>
-            <link>https://www.bbc.com/korean/news-61036545</link>
-            <guid>https://www.bbc.com/korean/news-61036545</guid>
-            <pubDate>Fri, 08 Apr 2022 10:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 강한 거부감을 드러내는 CVID를 언급하기도 했다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13E46/production/_124087418_origin_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
