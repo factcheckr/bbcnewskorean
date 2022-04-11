@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, '배신자' 비난에도 우크라이나 브이로그 올리는 중국 유튜버, 방송 길이 4,59]]></title>
+            <link>https://www.bbc.com/korean/news-61020878</link>
+            <guid>https://www.bbc.com/korean/news-61020878</guid>
+            <pubDate>Mon, 11 Apr 2022 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[왕 지시안은 우크라이나에서 전쟁이 시작된 후 일상을 촬영해 올리고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CCCF/production/_124113425_chinesevloggerthumbnail.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 대선: 마크롱-르펜 2차 결선 투표로 승부]]></title>
+            <link>https://www.bbc.com/korean/international-61063625</link>
+            <guid>https://www.bbc.com/korean/international-61063625</guid>
+            <pubDate>Mon, 11 Apr 2022 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[마크롱 대통령은 극우 성향의 마린 르펜 국민연합(RN) 후보에 맞서 오는 24일로 예정된 결선 투표에서 연임에 도전한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/175E9/production/_124112759_macronwin.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라 기차역 폭격 그 충격과 공포의 현장]]></title>
             <link>https://www.bbc.com/korean/news-61056019</link>
@@ -48,28 +64,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6F54/production/_124100582_1c33bd48-312a-423c-864e-43c45e0214d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계에서 가장 오래된 디저트, 아슈레 푸딩]]></title>
-            <link>https://www.bbc.com/korean/61049915</link>
-            <guid>https://www.bbc.com/korean/61049915</guid>
-            <pubDate>Sat, 09 Apr 2022 10:16:36 GMT</pubDate>
-            <content:encoded><![CDATA['노아의 푸딩'으로도 불리는 터키 디저트 '아슈레'는 콩과 곡물, 견과류, 과일 등으로 만든다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13AD8/production/_124100608_f766ca95-bf5a-45cc-a92f-0c820511f768.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윌 스미스, 10년 동안 오스카 시상식 참석 금지]]></title>
             <link>https://www.bbc.com/korean/61049463</link>
             <guid>https://www.bbc.com/korean/61049463</guid>
             <pubDate>Sat, 09 Apr 2022 07:15:05 GMT</pubDate>
             <content:encoded><![CDATA[윌 스미스는 향후 10년 동안 아카데미 주관 행사에 참석할 수 없게 됐다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4A38/production/_124100091_willsmithslap.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한국식 나이 셈법' 사라질까?]]></title>
-            <link>https://www.bbc.com/korean/news-60950199</link>
-            <guid>https://www.bbc.com/korean/news-60950199</guid>
-            <pubDate>Sat, 09 Apr 2022 03:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 '한국식 나이 셈법'이 사라지게 될지 관심이 모이고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7F92/production/_124085623_untitled.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
