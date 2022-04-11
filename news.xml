@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, '태양절' 110주년 앞두고 내부결속 강화]]></title>
+            <link>https://www.bbc.com/korean/news-61036546</link>
+            <guid>https://www.bbc.com/korean/news-61036546</guid>
+            <pubDate>Mon, 11 Apr 2022 10:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[15일 태양절 110주년에 대규모 군중대회가 개최될 것으로 관측된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E0CF/production/_124115575_hi075243062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나토가 우크라이나 전쟁에 직접 개입할 3가지 시나리오]]></title>
+            <link>https://www.bbc.com/korean/features-61063627</link>
+            <guid>https://www.bbc.com/korean/features-61063627</guid>
+            <pubDate>Mon, 11 Apr 2022 10:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[러시아와 직접 전면전을 벌이지 않고 우크라이나가 스스로 방어할 수 있게 충분한 군사적 지원할 방법을 찾는 것이 NATO의 과제이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F56E/production/_124103826_bucha_getty.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, '배신자' 비난에도 우크라이나 브이로그 올리는 중국 유튜버, 방송 길이 4,59]]></title>
             <link>https://www.bbc.com/korean/news-61020878</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 10 Apr 2022 02:54:11 GMT</pubDate>
             <content:encoded><![CDATA[올해 62세인 케냐의 제임스 카감비가 흑인들에게 등산을 하도록 영감을 주는 일에 앞장섰다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1107/production/_124095340_976jameskagambiinnepaljan2022_-002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 ‘대나무 숲’의 비밀스러운 세계]]></title>
-            <link>https://www.bbc.com/korean/61048645</link>
-            <guid>https://www.bbc.com/korean/61048645</guid>
-            <pubDate>Sat, 09 Apr 2022 23:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 소셜미디어에서 개인의 가장 내밀하고 어두운 비밀을 익명으로 고백하는 '대나무 숲'이 인기를 끌고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6F54/production/_124100582_1c33bd48-312a-423c-864e-43c45e0214d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윌 스미스, 10년 동안 오스카 시상식 참석 금지]]></title>
-            <link>https://www.bbc.com/korean/61049463</link>
-            <guid>https://www.bbc.com/korean/61049463</guid>
-            <pubDate>Sat, 09 Apr 2022 07:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[윌 스미스는 향후 10년 동안 아카데미 주관 행사에 참석할 수 없게 됐다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4A38/production/_124100091_willsmithslap.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
