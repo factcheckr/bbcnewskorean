@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 02:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:40:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요']]></title>
-            <link>https://www.bbc.com/korean/news-61063375</link>
-            <guid>https://www.bbc.com/korean/news-61063375</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:15 GMT</pubDate>
-            <content:encoded><![CDATA[러시아-우크라이나 전쟁은 한반도 정세에도 영향을 미칠 것으로 전망된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7D33/production/_124115023_mediaitem124115022.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[북한, '태양절' 110주년 앞두고 내부결속 강화]]></title>
             <link>https://www.bbc.com/korean/news-61036546</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 10 Apr 2022 03:28:59 GMT</pubDate>
             <content:encoded><![CDATA[사회에서 '싱글'의 비중이 늘고 있지만, 사람들은 이들에게 '곧 좋은 사람 만나겠지'라는 식의 말을 쉽게 한다. 왜 그럴까?]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13664/production/_124106497_02fe4f10-8b33-4c38-a296-eb779b38740d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에베레스트에 도전하는 흑인 산악인]]></title>
+            <link>https://www.bbc.com/korean/international-61052076</link>
+            <guid>https://www.bbc.com/korean/international-61052076</guid>
+            <pubDate>Tue, 12 Apr 2022 03:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[올해 62세인 케냐의 제임스 카감비가 흑인들에게 등산을 하도록 영감을 주는 일에 앞장섰다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1107/production/_124095340_976jameskagambiinnepaljan2022_-002.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
