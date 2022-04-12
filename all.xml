@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,40 +72,32 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/127F0/production/_124106757_99ca9c71-64e3-466d-9270-229eb286415b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자녀 몸에 신상정보 새긴 우크라이나 부모들 (BBC News 코리아 ─ 뉴스 메인)]]></title>
-            <link>https://www.bbc.com/korean/news-61063376</link>
-            <guid>https://www.bbc.com/korean/news-61063376</guid>
-            <pubDate>Tue, 12 Apr 2022 05:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg" alt="한 우크라이나 아이의 등에 이름과 출생일, 가족 연락처가 적혀있다" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-61063376" aria-labelledby="promo-koreannews61063376-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews61063376-1">자녀 몸에 신상정보 새긴 우크라이나 부모들</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">우크라이나를 탈출하면서 두 살배기 딸의 등에 연락처를 세겨둔 어머니가 당시 느꼈던 절망감을 BBC에 털어놓았다.</p><time datetime="2022-04-12" class="bbc-1cagdt4 e4zesg50">한 시간 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-61063375" class="bbc-1ocdizt e1wlg2v80"><span>젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요'</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-61006939" class="bbc-1ocdizt e1wlg2v80"><span>'전쟁범죄'란 무엇이며, 푸틴 대통령을 기소할 수 있을까?</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60971226" aria-labelledby="IndexAlsosLink-koreannews60971226" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60971226"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>'편도행 티켓이지만 준비됐습니다'...가족을 위해 우크라이나로 돌아가는 남성</span></span></a></li></ul></div></div></div>]]></content:encoded>
+            <title><![CDATA[코로나에 우크라전까지…치솟는 생활물가 (BBC News 코리아 ─ 뉴스 메인)]]></title>
+            <link>https://www.bbc.com/korean/61076801</link>
+            <guid>https://www.bbc.com/korean/61076801</guid>
+            <pubDate>Tue, 12 Apr 2022 07:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg" alt="마트에서 장을 보는 남자" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/61076801" aria-labelledby="promo-korean61076801-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-korean61076801-1">코로나에 우크라전까지…치솟는 생활물가</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">전 세계적으로 물가가 치솟는 가운데 한국 소비자물가 상승률도 10년 만에 4%대를 기록했다</p><time datetime="2022-04-12" class="bbc-1cagdt4 e4zesg50">53분 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-60107026" class="bbc-1ocdizt e1wlg2v80"><span>우리가 잘 몰랐던 가격 오른 4가지 물건과 그 원인</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60643439" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 침공이 불러올 세계 식량 위기</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-59473505" class="bbc-1ocdizt e1wlg2v80"><span>세계에서 생활비가 가장 비싼 도시 '텔아비브'…서울은?</span></a></li></ul></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요' (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-61063375</link>
-            <guid>https://www.bbc.com/korean/news-61063375</guid>
-            <pubDate>Mon, 11 Apr 2022 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-61063375" class="bbc-1ocdizt e1wlg2v80"><span>젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요'</span></a>]]></content:encoded>
+            <title><![CDATA[우리가 잘 몰랐던 가격 오른 4가지 물건과 그 원인 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-60107026</link>
+            <guid>https://www.bbc.com/korean/news-60107026</guid>
+            <pubDate>Tue, 12 Apr 2022 07:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-60107026" class="bbc-1ocdizt e1wlg2v80"><span>우리가 잘 몰랐던 가격 오른 4가지 물건과 그 원인</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전쟁범죄'란 무엇이며, 푸틴 대통령을 기소할 수 있을까? (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-61006939</link>
-            <guid>https://www.bbc.com/korean/news-61006939</guid>
-            <pubDate>Tue, 12 Apr 2022 04:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-61006939" class="bbc-1ocdizt e1wlg2v80"><span>'전쟁범죄'란 무엇이며, 푸틴 대통령을 기소할 수 있을까?</span></a>]]></content:encoded>
+            <title><![CDATA[우크라이나 침공이 불러올 세계 식량 위기 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/international-60643439</link>
+            <guid>https://www.bbc.com/korean/international-60643439</guid>
+            <pubDate>Tue, 12 Apr 2022 07:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/international-60643439" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 침공이 불러올 세계 식량 위기</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비디오, '편도행 티켓이지만 준비됐습니다'...가족을 위해 우크라이나로 돌아가는 남성 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-60971226</link>
-            <guid>https://www.bbc.com/korean/news-60971226</guid>
-            <pubDate>Tue, 12 Apr 2022 05:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-60971226" aria-labelledby="IndexAlsosLink-koreannews60971226" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreannews60971226"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>'편도행 티켓이지만 준비됐습니다'...가족을 위해 우크라이나로 돌아가는 남성</span></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나: 검열·비난 여론에 맞서는 중국 유튜버 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-61020878</link>
-            <guid>https://www.bbc.com/korean/news-61020878</guid>
-            <pubDate>Mon, 11 Apr 2022 08:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[4:59]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CCCF/production/_124113425_chinesevloggerthumbnail.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세계에서 생활비가 가장 비싼 도시 '텔아비브'…서울은? (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/international-59473505</link>
+            <guid>https://www.bbc.com/korean/international-59473505</guid>
+            <pubDate>Tue, 12 Apr 2022 07:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/international-59473505" class="bbc-1ocdizt e1wlg2v80"><span>세계에서 생활비가 가장 비싼 도시 '텔아비브'…서울은?</span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까? (BBC News 코리아 ─ 비디오)]]></title>
@@ -116,6 +108,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8922/production/_124060153_p0bzvq3k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나: 검열·비난 여론에 맞서는 중국 유튜버 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-61020878</link>
+            <guid>https://www.bbc.com/korean/news-61020878</guid>
+            <pubDate>Mon, 11 Apr 2022 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CCCF/production/_124113425_chinesevloggerthumbnail.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/60845790</link>
             <guid>https://www.bbc.com/korean/60845790</guid>
@@ -124,27 +124,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-57692535</link>
-            <guid>https://www.bbc.com/korean/international-57692535</guid>
-            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/08A0/production/_119180220_p09n63c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60911356</link>
-            <guid>https://www.bbc.com/korean/features-60911356</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하반신 마비 환자, 척수 임플란트로 다시 걷다 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60331304</link>
             <guid>https://www.bbc.com/korean/international-60331304</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16F80/production/_123208049_p0bnbb3t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나: '내 아들 돌려내'...아들 잃은 어머니의 절규 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60971228</link>
+            <guid>https://www.bbc.com/korean/news-60971228</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A0F6/production/_124060214_p0bzmlfs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무슬림인 내가 한국에서 사는 법 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,18 +147,25 @@
             <content:encoded><![CDATA[3:12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: '내 아들 돌려내'...아들 잃은 어머니의 절규 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60971228</link>
-            <guid>https://www.bbc.com/korean/news-60971228</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60911356</link>
+            <guid>https://www.bbc.com/korean/features-60911356</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60566717</link>
-            <guid>https://www.bbc.com/korean/international-60566717</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <title><![CDATA[우크라이나: 돌아가지 못하는 남극 쇄빙선 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60971232</link>
+            <guid>https://www.bbc.com/korean/international-60971232</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[야생동물: 멸종 위기 수마트라코뿔소 새 생명 태어나 (BBC News 코리아 ─ 비디오)]]></title>
@@ -273,38 +273,38 @@
             <content:encoded><![CDATA[korean-2022-03-23-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[자녀 몸에 신상정보 새긴 우크라이나 부모들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61063376</link>
+            <guid>https://www.bbc.com/korean/news-61063376</guid>
+            <pubDate>Tue, 12 Apr 2022 05:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[손 올리면 자동 결제… 몸에 마이크로칩 이식받는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-61076174</link>
             <guid>https://www.bbc.com/korean/features-61076174</guid>
             <pubDate>Tue, 12 Apr 2022 02:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
+            <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나토가 우크라이나 전쟁에 직접 개입할 3가지 시나리오 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-61063627</link>
             <guid>https://www.bbc.com/korean/features-61063627</guid>
             <pubDate>Mon, 11 Apr 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61063375</link>
             <guid>https://www.bbc.com/korean/news-61063375</guid>
             <pubDate>Mon, 11 Apr 2022 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자녀 몸에 신상정보 새긴 우크라이나 부모들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61063376</link>
-            <guid>https://www.bbc.com/korean/news-61063376</guid>
-            <pubDate>Tue, 12 Apr 2022 05:14:39 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
@@ -315,31 +315,31 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상하이 봉쇄 도시 전체로 확대 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61019492</link>
-            <guid>https://www.bbc.com/korean/international-61019492</guid>
-            <pubDate>Thu, 07 Apr 2022 06:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['국위 선양' 방탄소년단, 결국 군대 가게 되나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-59427773</link>
             <guid>https://www.bbc.com/korean/news-59427773</guid>
             <pubDate>Tue, 12 Apr 2022 03:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상하이 봉쇄 도시 전체로 확대 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61019492</link>
+            <guid>https://www.bbc.com/korean/international-61019492</guid>
+            <pubDate>Thu, 07 Apr 2022 06:19:45 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국가의 설립 조건 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-41592544</link>
-            <guid>https://www.bbc.com/korean/news-41592544</guid>
-            <pubDate>Tue, 12 Apr 2022 06:20:37 GMT</pubDate>
+            <title><![CDATA[역사를 바꾼 다섯 가지 전염병 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/51992962</link>
+            <guid>https://www.bbc.com/korean/51992962</guid>
+            <pubDate>Tue, 12 Apr 2022 07:16:24 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인간이 기후변화를 야기한다는 증거는 무엇인가? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59039937</link>
-            <guid>https://www.bbc.com/korean/international-59039937</guid>
-            <pubDate>Tue, 12 Apr 2022 05:15:01 GMT</pubDate>
+            <title><![CDATA[북한, '태양절' 110주년 앞두고 내부결속 강화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61036546</link>
+            <guid>https://www.bbc.com/korean/news-61036546</guid>
+            <pubDate>Mon, 11 Apr 2022 10:19:10 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
