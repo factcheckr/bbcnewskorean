@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 푸틴, '숭고한 목표 달성할 때까지 전쟁 계속할 것' (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61065400</link>
+            <guid>https://www.bbc.com/korean/news-61065400</guid>
+            <pubDate>Wed, 13 Apr 2022 06:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[공식 석상에 모습을 드러낸 푸틴 대통령은 평화 협상이 진퇴양난에 빠졌으며, 이번 침공은 계획대로 잘 진행되고 있다고 말했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한에 가상화폐 기술 전수한 미국인 징역형… 북한 해킹 수준은? (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61078338</link>
+            <guid>https://www.bbc.com/korean/news-61078338</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[그는 미국 국무부의 경고를 무시한 채 평양을 방문한 것으로 알려졌다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15B98/production/_124148988_gettyimages-1236600806.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 새 내각 인선 '60대 서울대 남성 주류' (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61089783</link>
+            <guid>https://www.bbc.com/korean/news-61089783</guid>
+            <pubDate>Wed, 13 Apr 2022 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[윤 당선인은 인사 기준은 '능력과 인품'이라고 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E276/production/_124147975_2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 김정은 집권 10주년… 북한 '국가 핵 무력 완성', 방송 길이 1,35 (BBC News 코리아 ─ 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61090906</link>
@@ -14,6 +38,14 @@
             <pubDate>Wed, 13 Apr 2022 07:16:13 GMT</pubDate>
             <content:encoded><![CDATA[공식 집권 10주년을 맞아 북한은 김정은의 핵무기 개발 리더십을 높이 평가했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5AF4/production/_124148232_p0c0ztw1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 90개 넘는 폭발물 찾은 우크라 '작은 영웅' 페트론, 방송 길이 0,56 (BBC News 코리아 ─ 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61020882</link>
+            <guid>https://www.bbc.com/korean/international-61020882</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군이 떠난 체르니히우에서 지뢰와 폭발물을 찾는데 큰 공을 세웠다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/195E/production/_124149460_mediaitem124127170.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴욕 지하철역서 총기 난사… 용의자 추적 중 (BBC News 코리아 ─ 뉴스)]]></title>
@@ -40,64 +72,32 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한미연합 사전훈련 시작… 미국 핵 항공모함 전개 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61078337</link>
-            <guid>https://www.bbc.com/korean/news-61078337</guid>
-            <pubDate>Tue, 12 Apr 2022 09:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[오는 15일 '태양절'을 앞두고 북한의 강한 반발이 예상된다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/AA34/production/_124127534_gettyimages-1347222341.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[검찰 수사권 사실상 사라질까 (BBC News 코리아 ─ 뉴스 메인)]]></title>
+            <link>https://www.bbc.com/korean/61092275</link>
+            <guid>https://www.bbc.com/korean/61092275</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg" alt="검찰" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/61092275" aria-labelledby="promo-korean61092275-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-korean61092275-1">검찰 수사권 사실상 사라질까</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">민주당이 강행하려는 '검수완박'이란 무엇이고, 왜 논란이 되고 있을까?</p><time datetime="2022-04-13" class="bbc-1cagdt4 e4zesg50">40분 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-57663782" class="bbc-1ocdizt e1wlg2v80"><span>'적폐청산'에서 '정권교체'... 윤석열은 누구인가?</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-44326066" class="bbc-1ocdizt e1wlg2v80"><span>사법부 '재판 거래' 논란, 3가지 쟁점</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-55271387" class="bbc-1ocdizt e1wlg2v80"><span>'공수처법 개정안' 통과 이후에도 정치권 갈등이 계속되는 이유</span></a></li></ul></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비디오, '러시아군이 성폭행'... 우크라 전쟁 성범죄 폭로 잇따라, 방송 길이 4,49 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 08:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[남겨진 우크라이나 주민들의 상처는 평생 회복될 수 없을지도 모른다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1027C/production/_124127166_p0c0r5t0.png" length="0" type="image/png"/>
+            <title><![CDATA['적폐청산'에서 '정권교체'... 윤석열은 누구인가? (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-57663782</link>
+            <guid>https://www.bbc.com/korean/news-57663782</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-57663782" class="bbc-1ocdizt e1wlg2v80"><span>'적폐청산'에서 '정권교체'... 윤석열은 누구인가?</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[자녀 몸에 신상정보 새긴 우크라이나 부모들 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61063376</link>
-            <guid>https://www.bbc.com/korean/news-61063376</guid>
-            <pubDate>Tue, 12 Apr 2022 05:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나를 탈출하면서 두 살배기 딸의 등에 연락처를 세겨둔 어머니가 당시 느꼈던 절망감을 BBC에 털어놓았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11973/production/_124115027__124124930_075108971.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[사법부 '재판 거래' 논란, 3가지 쟁점 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-44326066</link>
+            <guid>https://www.bbc.com/korean/news-44326066</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-44326066" class="bbc-1ocdizt e1wlg2v80"><span>사법부 '재판 거래' 논란, 3가지 쟁점</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손 올리면 자동 결제… 몸에 마이크로칩 이식받는 사람들 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61076174</link>
-            <guid>https://www.bbc.com/korean/features-61076174</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[비접촉식 카드 리더기 가까이에 왼손을 올리면, 그 즉시 피부 밑에서 LED 불빛이 작게 빛나며 결제가 완료된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14362/production/_124068728_patrick-xled.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 푸틴, '숭고한 목표 달성할 때까지 전쟁 계속할 것' (BBC News 코리아 ─ 뉴스 메인)]]></title>
-            <link>https://www.bbc.com/korean/news-61065400</link>
-            <guid>https://www.bbc.com/korean/news-61065400</guid>
-            <pubDate>Wed, 13 Apr 2022 06:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/E74D/production/_124131295_gettyimages-1239929369.jpg" alt="Vladimir Putin speaking to cosmonauts" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-61065400" aria-labelledby="promo-koreannews61065400-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews61065400-1">러시아 푸틴, '숭고한 목표 달성할 때까지 전쟁 계속할 것'</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">공식 석상에 모습을 드러낸 푸틴 대통령은 평화 협상이 진퇴양난에 빠졌으며, 이번 침공은 계획대로 잘 진행되고 있다고 말했다.</p><time datetime="2022-04-13" class="bbc-1cagdt4 e4zesg50">2시간 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/features-61063627" class="bbc-1ocdizt e1wlg2v80"><span>나토가 우크라이나 전쟁에 직접 개입할 3가지 시나리오</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-60978512" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 전쟁: 불에 탄 시신과 탱크로 뒤덮인 부차의 거리</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-61020880" aria-labelledby="IndexAlsosLink-koreaninternational61020880" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreaninternational61020880"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>'러시아군이 성폭행'... 우크라 전쟁 성범죄 폭로 잇따라</span></span></a></li></ul></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나토가 우크라이나 전쟁에 직접 개입할 3가지 시나리오 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/features-61063627</link>
-            <guid>https://www.bbc.com/korean/features-61063627</guid>
-            <pubDate>Mon, 11 Apr 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/features-61063627" class="bbc-1ocdizt e1wlg2v80"><span>나토가 우크라이나 전쟁에 직접 개입할 3가지 시나리오</span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 불에 탄 시신과 탱크로 뒤덮인 부차의 거리 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/international-60978512</link>
-            <guid>https://www.bbc.com/korean/international-60978512</guid>
-            <pubDate>Wed, 13 Apr 2022 06:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/international-60978512" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 전쟁: 불에 탄 시신과 탱크로 뒤덮인 부차의 거리</span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비디오, '러시아군이 성폭행'... 우크라 전쟁 성범죄 폭로 잇따라 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 08:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/international-61020880" aria-labelledby="IndexAlsosLink-koreaninternational61020880" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreaninternational61020880"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>'러시아군이 성폭행'... 우크라 전쟁 성범죄 폭로 잇따라</span></span></a>]]></content:encoded>
+            <title><![CDATA['공수처법 개정안' 통과 이후에도 정치권 갈등이 계속되는 이유 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
+            <link>https://www.bbc.com/korean/news-55271387</link>
+            <guid>https://www.bbc.com/korean/news-55271387</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/korean/news-55271387" class="bbc-1ocdizt e1wlg2v80"><span>'공수처법 개정안' 통과 이후에도 정치권 갈등이 계속되는 이유</span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
@@ -108,12 +108,28 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1027C/production/_124127166_p0c0r5t0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[북한: 김정은 집권 10주년... '국가 핵 무력 완성' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-61090906</link>
+            <guid>https://www.bbc.com/korean/news-61090906</guid>
+            <pubDate>Wed, 13 Apr 2022 07:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5AF4/production/_124148232_p0c0ztw1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60971230</link>
             <guid>https://www.bbc.com/korean/international-60971230</guid>
             <pubDate>Thu, 07 Apr 2022 07:15:41 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8922/production/_124060153_p0bzvq3k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 작은 영웅, 탐지견 '페트론'...'90개 넘는 폭발물 찾았다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61020882</link>
+            <guid>https://www.bbc.com/korean/international-61020882</guid>
+            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/195E/production/_124149460_mediaitem124127170.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
@@ -124,27 +140,11 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한: 김정은 집권 10주년... '국가 핵 무력 완성' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-61090906</link>
-            <guid>https://www.bbc.com/korean/news-61090906</guid>
-            <pubDate>Wed, 13 Apr 2022 07:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5AF4/production/_124148232_p0c0ztw1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-55328536</link>
             <guid>https://www.bbc.com/korean/features-55328536</guid>
             <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[9:24]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1688B/production/_116099229_p091l0tr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나: 검열·비난 여론에 맞서는 중국 유튜버 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,25 +154,25 @@
             <content:encoded><![CDATA[4:59]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라 전쟁: 러시아의 미사일 공격으로 파괴된 미콜라이우 주 정부 청사 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60936671</link>
+            <guid>https://www.bbc.com/korean/news-60936671</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-60911356</link>
             <guid>https://www.bbc.com/korean/features-60911356</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[6:28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라 전쟁: 잊혀진 전쟁 '보스니아 내전' 생존자가 보는 우크라이나 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60971224</link>
-            <guid>https://www.bbc.com/korean/international-60971224</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국 의회의 다섯 가지 '기묘한 이야기' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-47752117</link>
-            <guid>https://www.bbc.com/korean/international-47752117</guid>
-            <pubDate>Tue, 02 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4월 12일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -273,73 +273,73 @@
             <content:encoded><![CDATA[korean-2022-03-24-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[윤석열 새 내각 인선 '60대 서울대 남성 주류' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61089783</link>
+            <guid>https://www.bbc.com/korean/news-61089783</guid>
+            <pubDate>Wed, 13 Apr 2022 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[러시아 푸틴, '숭고한 목표 달성할 때까지 전쟁 계속할 것' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61065400</link>
             <guid>https://www.bbc.com/korean/news-61065400</guid>
             <pubDate>Wed, 13 Apr 2022 06:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 보안국, 추격 끝에 푸틴 측근 메드베추크 체포 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61065395</link>
-            <guid>https://www.bbc.com/korean/news-61065395</guid>
-            <pubDate>Wed, 13 Apr 2022 05:15:14 GMT</pubDate>
             <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 지하철역서 총기 난사… 용의자 추적 중 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61089973</link>
-            <guid>https://www.bbc.com/korean/international-61089973</guid>
-            <pubDate>Wed, 13 Apr 2022 03:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 지하철역서 총기 난사… 용의자 추적 중 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61089973</link>
+            <guid>https://www.bbc.com/korean/international-61089973</guid>
+            <pubDate>Wed, 13 Apr 2022 03:02:27 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 보안국, 추격 끝에 푸틴 측근 메드베추크 체포 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61065395</link>
+            <guid>https://www.bbc.com/korean/news-61065395</guid>
+            <pubDate>Wed, 13 Apr 2022 05:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나토가 우크라이나 전쟁에 직접 개입할 3가지 시나리오 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-61063627</link>
             <guid>https://www.bbc.com/korean/features-61063627</guid>
             <pubDate>Mon, 11 Apr 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60521326</link>
-            <guid>https://www.bbc.com/korean/60521326</guid>
-            <pubDate>Tue, 12 Apr 2022 21:14:45 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61063375</link>
-            <guid>https://www.bbc.com/korean/news-61063375</guid>
-            <pubDate>Mon, 11 Apr 2022 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[손 올리면 자동 결제… 몸에 마이크로칩 이식받는 사람들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-61076174</link>
             <guid>https://www.bbc.com/korean/features-61076174</guid>
             <pubDate>Tue, 12 Apr 2022 02:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61063375</link>
+            <guid>https://www.bbc.com/korean/news-61063375</guid>
+            <pubDate>Mon, 11 Apr 2022 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤석열 새 내각 인선 '60대 서울대 남성 주류' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61089783</link>
-            <guid>https://www.bbc.com/korean/news-61089783</guid>
-            <pubDate>Wed, 13 Apr 2022 08:20:52 GMT</pubDate>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Tue, 12 Apr 2022 21:14:45 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한미연합 사전훈련 시작… 미국 핵 항공모함 전개 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61078337</link>
-            <guid>https://www.bbc.com/korean/news-61078337</guid>
-            <pubDate>Tue, 12 Apr 2022 09:15:52 GMT</pubDate>
+            <title><![CDATA[북한에 가상화폐 기술 전수한 미국인 징역형… 북한 해킹 수준은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61078338</link>
+            <guid>https://www.bbc.com/korean/news-61078338</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
