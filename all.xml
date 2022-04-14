@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 18:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 19:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,14 +116,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[환경: 도심 한복판에 나타난 악어, 원숭이, 새...'도시 확장 문제' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61102778</link>
-            <guid>https://www.bbc.com/korean/international-61102778</guid>
-            <pubDate>Thu, 14 Apr 2022 10:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E2B4/production/_124163085_p0c18332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-60971230</link>
             <guid>https://www.bbc.com/korean/international-60971230</guid>
@@ -132,12 +124,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8922/production/_124060153_p0bzvq3k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나: '내 아들 돌려내'...아들 잃은 어머니의 절규 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60971228</link>
-            <guid>https://www.bbc.com/korean/news-60971228</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A0F6/production/_124060214_p0bzmlfs.png" length="0" type="image/png"/>
+            <title><![CDATA[환경: 도심 한복판에 나타난 악어, 원숭이, 새...'도시 확장 문제' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61102778</link>
+            <guid>https://www.bbc.com/korean/international-61102778</guid>
+            <pubDate>Thu, 14 Apr 2022 10:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E2B4/production/_124163085_p0c18332.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
@@ -145,13 +137,14 @@
             <guid>https://www.bbc.com/korean/features-56369306</guid>
             <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[우크라이나: '내 아들 돌려내'...아들 잃은 어머니의 절규 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60971228</link>
+            <guid>https://www.bbc.com/korean/news-60971228</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,18 +154,32 @@
             <content:encoded><![CDATA[1:59]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-55328536</link>
-            <guid>https://www.bbc.com/korean/features-55328536</guid>
-            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9:24]]></content:encoded>
+            <title><![CDATA[우크라이나: 한국도 제재 동참...제재란 무엇인가 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60566717</link>
+            <guid>https://www.bbc.com/korean/international-60566717</guid>
+            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-59906342</link>
-            <guid>https://www.bbc.com/korean/international-59906342</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라 전쟁: 잊혀진 전쟁 '보스니아 내전' 생존자가 보는 우크라이나 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60971224</link>
+            <guid>https://www.bbc.com/korean/international-60971224</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 4월 14일 (BBC News 코리아 ─ 다운로드)]]></title>
+            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-04-14-HQ.zip</link>
+            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-04-14-HQ.zip</guid>
+            <pubDate>Thu, 14 Apr 2022 19:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[korean-2022-04-14-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4월 13일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -266,24 +273,17 @@
             <content:encoded><![CDATA[korean-2022-03-26-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 3월 25일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-03-25-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-03-25-HQ.zip</guid>
-            <pubDate>Fri, 25 Mar 2022 19:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-03-25-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[검찰 수사권 사실상 사라질까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/61092275</link>
-            <guid>https://www.bbc.com/korean/61092275</guid>
-            <pubDate>Wed, 13 Apr 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[1]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 새 내각 인선 '60대 서울대 남성 주류' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61089783</link>
+            <guid>https://www.bbc.com/korean/news-61089783</guid>
+            <pubDate>Wed, 13 Apr 2022 08:20:52 GMT</pubDate>
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
@@ -294,52 +294,52 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤석열 새 내각 인선 '60대 서울대 남성 주류' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61089783</link>
-            <guid>https://www.bbc.com/korean/news-61089783</guid>
-            <pubDate>Wed, 13 Apr 2022 08:20:52 GMT</pubDate>
+            <title><![CDATA[검찰 수사권 사실상 사라질까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/61092275</link>
+            <guid>https://www.bbc.com/korean/61092275</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나토가 우크라이나 전쟁에 직접 개입할 3가지 시나리오 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61063627</link>
-            <guid>https://www.bbc.com/korean/features-61063627</guid>
-            <pubDate>Thu, 14 Apr 2022 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['우라늄 광산' 보유한 북한, 핵 물질 얼마나 가지고 있을까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61078339</link>
-            <guid>https://www.bbc.com/korean/news-61078339</guid>
-            <pubDate>Thu, 14 Apr 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['신비한 동물들과 덤블도어의 비밀': 중국판에선 삭제된 동성애 관련 대사 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61034371</link>
-            <guid>https://www.bbc.com/korean/international-61034371</guid>
-            <pubDate>Thu, 14 Apr 2022 03:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[젤렌스키 국회 화상 연설서 무기 지원 요청...'6.25전쟁 살아남은 한국 도움 필요' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61063375</link>
-            <guid>https://www.bbc.com/korean/news-61063375</guid>
-            <pubDate>Thu, 14 Apr 2022 17:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Tue, 12 Apr 2022 21:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['신비한 동물들과 덤블도어의 비밀': 중국판에선 삭제된 동성애 관련 대사 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61034371</link>
+            <guid>https://www.bbc.com/korean/international-61034371</guid>
+            <pubDate>Thu, 14 Apr 2022 03:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 지하철역서 총기 난사… 용의자 추적 중 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61089973</link>
+            <guid>https://www.bbc.com/korean/international-61089973</guid>
+            <pubDate>Thu, 14 Apr 2022 19:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['우라늄 광산' 보유한 북한, 핵 물질 얼마나 가지고 있을까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61078339</link>
+            <guid>https://www.bbc.com/korean/news-61078339</guid>
+            <pubDate>Thu, 14 Apr 2022 09:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사람들은 왜 싱글을 마음대로 판단할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-61056020</link>
             <guid>https://www.bbc.com/korean/features-61056020</guid>
             <pubDate>Thu, 14 Apr 2022 15:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['세계 최고 부자' 일론 머스크가 말하는 6가지 성공 비결 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-55572440</link>
+            <guid>https://www.bbc.com/korean/features-55572440</guid>
+            <pubDate>Thu, 14 Apr 2022 19:14:45 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
