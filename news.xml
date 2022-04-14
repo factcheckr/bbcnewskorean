@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 01:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 사망자 신원확인에 도움 주는 안면인식 기술]]></title>
+            <link>https://www.bbc.com/korean/international-61102465</link>
+            <guid>https://www.bbc.com/korean/international-61102465</guid>
+            <pubDate>Thu, 14 Apr 2022 03:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[BBC는 1000건이 넘는 사례에서 해당 안면인식 기술이 신원 확인을 위해 어떻게 사용되고 있는지에 대한 증거를 전달받았다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/DB00/production/_124146065_gettyimages-1239783153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 수사권 사실상 사라질까]]></title>
+            <link>https://www.bbc.com/korean/61092275</link>
+            <guid>https://www.bbc.com/korean/61092275</guid>
+            <pubDate>Thu, 14 Apr 2022 03:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[민주당이 강행하려는 '검수완박'이란 무엇이고, 왜 논란이 되고 있을까?]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A1B2/production/_124149314_e16c499c-f967-45a7-8cdd-879de78ddbf6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 푸틴, '숭고한 목표 달성할 때까지 전쟁 계속할 것']]></title>
             <link>https://www.bbc.com/korean/news-61065400</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Apr 2022 07:16:13 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕 경찰국장 "방독면을 쓴 괴한이 지하철 객차와 승강장에서 여러 사람을 향해 총을 난사했다"]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C00C/production/_124146194_subwaygrab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 보안국, 추격 끝에 푸틴 측근 메드베추크 체포]]></title>
-            <link>https://www.bbc.com/korean/news-61065395</link>
-            <guid>https://www.bbc.com/korean/news-61065395</guid>
-            <pubDate>Wed, 13 Apr 2022 07:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[공개된 사진에서 메드베추크는 우크라이나 군복을 입고 있으며 수갑을 차고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16994/production/_124146529_4d337314-7cd7-42d8-9019-ac38594dd836.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나에 우크라전까지…치솟는 생활물가]]></title>
-            <link>https://www.bbc.com/korean/61076801</link>
-            <guid>https://www.bbc.com/korean/61076801</guid>
-            <pubDate>Wed, 13 Apr 2022 03:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적으로 물가가 치솟는 가운데 한국 소비자물가 상승률도 10년 만에 4%대를 기록했다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15ABA/production/_124126788_26b0d09c-c9c3-43b5-bac0-a4752ff21a6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
