@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 03:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 04:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1027C/production/_124127166_p0c0r5t0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[환경: 도심 한복판에 나타난 악어, 원숭이, 새...'도시 확장 문제']]></title>
-            <link>https://www.bbc.com/korean/international-61102778</link>
-            <guid>https://www.bbc.com/korean/international-61102778</guid>
-            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E2B4/production/_124163085_p0c18332.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1688B/production/_116099229_p091l0tr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
@@ -32,12 +32,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
-            <link>https://www.bbc.com/korean/features-55328536</link>
-            <guid>https://www.bbc.com/korean/features-55328536</guid>
-            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9:24]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1688B/production/_116099229_p091l0tr.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[환경: 도심 한복판에 나타난 악어, 원숭이, 새...'도시 확장 문제']]></title>
+            <link>https://www.bbc.com/korean/international-61102778</link>
+            <guid>https://www.bbc.com/korean/international-61102778</guid>
+            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E2B4/production/_124163085_p0c18332.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 젤렌스키 '피 묻은 돈으로 러시아 원유 수입 말아야']]></title>
+            <link>https://www.bbc.com/korean/international-61116148</link>
+            <guid>https://www.bbc.com/korean/international-61116148</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/71F9/production/_124177192_p0c1fb2y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다]]></title>
+            <link>https://www.bbc.com/korean/international-57692535</link>
+            <guid>https://www.bbc.com/korean/international-57692535</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라 전쟁: 잊혀진 전쟁 '보스니아 내전' 생존자가 보는 우크라이나]]></title>
@@ -45,14 +60,6 @@
             <guid>https://www.bbc.com/korean/international-60971224</guid>
             <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11CCD/production/_123990927_p0bz7sf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까?]]></title>
@@ -62,13 +69,6 @@
             <content:encoded><![CDATA[0:58]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수퍼노트: 전 세계를 속인 북한산 초정밀 위조지폐]]></title>
-            <link>https://www.bbc.com/korean/international-57122476</link>
-            <guid>https://www.bbc.com/korean/international-57122476</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까]]></title>
             <link>https://www.bbc.com/korean/features-60613883</link>
             <guid>https://www.bbc.com/korean/features-60613883</guid>
@@ -76,11 +76,11 @@
             <content:encoded><![CDATA[1:59]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에어카: 하늘을 나는 자동차가 나왔다]]></title>
-            <link>https://www.bbc.com/korean/international-57692535</link>
-            <guid>https://www.bbc.com/korean/international-57692535</guid>
-            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
     </channel>
 </rss>
