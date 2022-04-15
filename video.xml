@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 14:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 15:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1688B/production/_116099229_p091l0tr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들]]></title>
-            <link>https://www.bbc.com/korean/features-60911356</link>
-            <guid>https://www.bbc.com/korean/features-60911356</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
@@ -48,11 +40,33 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들]]></title>
+            <link>https://www.bbc.com/korean/features-60911356</link>
+            <guid>https://www.bbc.com/korean/features-60911356</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17E96/production/_123924979_p0by2fls.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
             <link>https://www.bbc.com/korean/60845790</link>
             <guid>https://www.bbc.com/korean/60845790</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까?]]></title>
+            <link>https://www.bbc.com/korean/international-60971230</link>
+            <guid>https://www.bbc.com/korean/international-60971230</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[환경: 도심 한복판에 나타난 악어, 원숭이, 새...'도시 확장 문제']]></title>
+            <link>https://www.bbc.com/korean/international-61102778</link>
+            <guid>https://www.bbc.com/korean/international-61102778</guid>
+            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안영학: 남.북.일에서 뛴 ‘조선 국적’ 축구선수, '하나의 코리아로 월드컵 나가는 날 오길']]></title>
@@ -67,20 +81,6 @@
             <guid>https://www.bbc.com/korean/features-61117548</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까?]]></title>
-            <link>https://www.bbc.com/korean/international-60971230</link>
-            <guid>https://www.bbc.com/korean/international-60971230</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라 전쟁: 잊혀진 전쟁 '보스니아 내전' 생존자가 보는 우크라이나]]></title>
-            <link>https://www.bbc.com/korean/international-60971224</link>
-            <guid>https://www.bbc.com/korean/international-60971224</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
         </item>
     </channel>
 </rss>
