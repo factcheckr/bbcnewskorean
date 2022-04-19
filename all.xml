@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 20:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 21:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,14 +116,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영국 유명 래퍼가 선생님이 된 사연은? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-61138672</link>
-            <guid>https://www.bbc.com/korean/features-61138672</guid>
-            <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9FA6/production/_124207804_p0c1xpxh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나: '내 사진 도용해 가짜 후원금 모금'...'스캠' 피해 막을 방법은? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61102783</link>
             <guid>https://www.bbc.com/korean/international-61102783</guid>
@@ -132,26 +124,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F351/production/_124198226_p0c1sh07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/85F7/production/_105559243_thumbnaill1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60871407</link>
-            <guid>https://www.bbc.com/korean/international-60871407</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <title><![CDATA[영국 유명 래퍼가 선생님이 된 사연은? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-61138672</link>
+            <guid>https://www.bbc.com/korean/features-61138672</guid>
+            <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9FA6/production/_124207804_p0c1xpxh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 돈을 위해 러시아 용병으로 입대하는 시리아인 (BBC News 코리아 ─ 비디오)]]></title>
@@ -159,20 +137,42 @@
             <guid>https://www.bbc.com/korean/news-60950256</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CFD7/production/_123970235_9aeed59f-cf28-423e-aa85-99a394567b33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-55328536</link>
-            <guid>https://www.bbc.com/korean/features-55328536</guid>
-            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9:24]]></content:encoded>
+            <title><![CDATA[야생동물: 멸종 위기 수마트라코뿔소 새 생명 태어나 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/61006940</link>
+            <guid>https://www.bbc.com/korean/61006940</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안영학: 남.북.일에서 뛴 ‘조선 국적’ 축구선수, '하나의 코리아로 월드컵 나가는 날 오길' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-44624816</link>
-            <guid>https://www.bbc.com/korean/features-44624816</guid>
-            <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[10:44]]></content:encoded>
+            <title><![CDATA[우크라이나: '내 아들 돌려내'...아들 잃은 어머니의 절규 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60971228</link>
+            <guid>https://www.bbc.com/korean/news-60971228</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무슬림인 내가 한국에서 사는 법 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60945308</link>
+            <guid>https://www.bbc.com/korean/features-60945308</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아프가니스탄: 탈레반 집권 후 처음으로 등교 재개한 중·고등학교 여학생들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/media-60831828</link>
+            <guid>https://www.bbc.com/korean/media-60831828</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가짜뉴스: 우리는 왜 '가짜 뉴스'에 더 끌리나? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-46206624</link>
+            <guid>https://www.bbc.com/korean/news-46206624</guid>
+            <pubDate>Wed, 14 Nov 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4월 19일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -301,45 +301,45 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무성애 아닌 '반(半)성애'는 과연 '진짜'일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61146665</link>
-            <guid>https://www.bbc.com/korean/features-61146665</guid>
-            <pubDate>Tue, 19 Apr 2022 05:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['소지 아라이 아닌 박소희가 진짜 내 이름' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-61022959</link>
             <guid>https://www.bbc.com/korean/features-61022959</guid>
             <pubDate>Fri, 15 Apr 2022 09:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[늘어나는 북중 교역… 북한 경제 '회복' 단계일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61117630</link>
-            <guid>https://www.bbc.com/korean/news-61117630</guid>
-            <pubDate>Tue, 19 Apr 2022 08:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <title><![CDATA[무성애 아닌 '반(半)성애'는 과연 '진짜'일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-61146665</link>
+            <guid>https://www.bbc.com/korean/features-61146665</guid>
+            <pubDate>Tue, 19 Apr 2022 05:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Tue, 19 Apr 2022 12:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['제 아들이 포경수술 후, 스스로 목숨을 끊었습니다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/48001335</link>
-            <guid>https://www.bbc.com/korean/48001335</guid>
-            <pubDate>Tue, 19 Apr 2022 20:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['조니 뎁-엠버 허드 쌍방학대 관계였다', 부부 치료사 증언 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61125693</link>
             <guid>https://www.bbc.com/korean/news-61125693</guid>
             <pubDate>Tue, 19 Apr 2022 19:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2년 만에 '사회적 거리두기' 끝... 마스크·자가격리는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61116980</link>
+            <guid>https://www.bbc.com/korean/news-61116980</guid>
+            <pubDate>Tue, 19 Apr 2022 21:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['제 아들이 포경수술 후, 스스로 목숨을 끊었습니다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/48001335</link>
+            <guid>https://www.bbc.com/korean/48001335</guid>
+            <pubDate>Tue, 19 Apr 2022 20:18:38 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
