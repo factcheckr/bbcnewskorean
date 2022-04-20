@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 09:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 10:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 가입자 수가 10여 년 만에 처음으로 감소했다]]></title>
+            <link>https://www.bbc.com/korean/international-61138674</link>
+            <guid>https://www.bbc.com/korean/international-61138674</guid>
+            <pubDate>Wed, 20 Apr 2022 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스는 19일 자사 서비스 가입자가 지난 1분기 동안 20만 명 줄었다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17B0E/production/_116583079_bridgerton_108_unit_01411r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 나이지리아의 '스파이더맨'이 거리를 청소하는 이유, 방송 길이 2,55]]></title>
+            <link>https://www.bbc.com/korean/international-61138676</link>
+            <guid>https://www.bbc.com/korean/international-61138676</guid>
+            <pubDate>Wed, 20 Apr 2022 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[스파이더맨 복장을 했을 때 더 많은 사람들의 거리 청소 동참을 이끌어낼 수 있었다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7184/production/_124206092_p0c23pf8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조니 뎁 '엠버 허드 한 번도 때린 적 없어']]></title>
             <link>https://www.bbc.com/korean/international-61139298</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
             <content:encoded><![CDATA[반(半)성애, 즉 정서적인 유대감을 형성한 상대에게만 성적 끌림을 느끼는 건 대체 뭐냐며 비웃는 사람들이 많았다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/493C/production/_121784781_sarah-and-kayla_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 유명 래퍼가 선생님이 된 사연은?, 방송 길이 2,26]]></title>
-            <link>https://www.bbc.com/korean/features-61138672</link>
-            <guid>https://www.bbc.com/korean/features-61138672</guid>
-            <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[영국의 그라임 아티스트 '아이즈(Eyez)'는 대학에서 랩을 가르치는 강사다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9FA6/production/_124207804_p0c1xpxh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['회사서 원치 않은 생일파티'… 미국 남성, 5억여원 보상]]></title>
-            <link>https://www.bbc.com/korean/international-61148348</link>
-            <guid>https://www.bbc.com/korean/international-61148348</guid>
-            <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[회사가 원치 않는 생일파티를 열어주는 바람에 공황 발작을 겪었다며 소를 제기했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10C70/production/_124202786_gettyimages-84164470.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
