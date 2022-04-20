@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 우크라 전쟁서 국제사회 금지한 '집속탄' 사용 정황, 방송 길이 3,00]]></title>
+            <link>https://www.bbc.com/korean/international-61159957</link>
+            <guid>https://www.bbc.com/korean/international-61159957</guid>
+            <pubDate>Wed, 20 Apr 2022 11:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[미셸 바첼렛 유엔 인권최고대표는 "러시아가 인구 밀집 지역에서 집속탄을 최소 24회 사용했다는 믿을 만한 보고를 받았다"고 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7DD4/production/_124221223_p0c23zg2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 가입자 수가 10여 년 만에 처음으로 감소했다]]></title>
             <link>https://www.bbc.com/korean/international-61138674</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
             <content:encoded><![CDATA["지난 2년 동안 회식이 없어서 좋았는데, 거리두기 해제를 기념하는 회식이 벌써 잡혔다"며 "앞으로 회식 자리가 많아질까봐 우려스럽다."]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F906/production/_124205736_pic1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무성애 아닌 '반(半)성애'는 과연 '진짜'일까?]]></title>
-            <link>https://www.bbc.com/korean/features-61146665</link>
-            <guid>https://www.bbc.com/korean/features-61146665</guid>
-            <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[반(半)성애, 즉 정서적인 유대감을 형성한 상대에게만 성적 끌림을 느끼는 건 대체 뭐냐며 비웃는 사람들이 많았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/493C/production/_121784781_sarah-and-kayla_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
