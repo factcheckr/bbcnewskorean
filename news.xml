@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 01:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늘어나는 북중 교역… 북한 경제 '회복' 단계일까?]]></title>
+            <link>https://www.bbc.com/korean/news-61117630</link>
+            <guid>https://www.bbc.com/korean/news-61117630</guid>
+            <pubDate>Wed, 20 Apr 2022 01:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[국제사회의 제재와 코로나19 상황, 자연재해 등으로 경제난이 점차 가중되면서 교역 재개를 미룰 수 없는 상황에 도달했다는 해석이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B6B2/production/_124207764_997a6bc7-1a4b-4a15-90ba-a596538dd652.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 스토어 근로자, 미국서 첫 노조 결성 시도]]></title>
             <link>https://www.bbc.com/korean/international-61148349</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 04:32:28 GMT</pubDate>
             <content:encoded><![CDATA[터키에서 케밥집을 운영하는 한 남성이 기상관측용 대형 헬륨 풍선을 우주로 날려보냈다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/157FC/production/_124206088_p0c1x25t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 13번째 도발∙한미연합 본훈련 시작… '혼돈의 한반도']]></title>
-            <link>https://www.bbc.com/korean/news-61117629</link>
-            <guid>https://www.bbc.com/korean/news-61117629</guid>
-            <pubDate>Tue, 19 Apr 2022 01:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[단거리 신형 전술유도무기의 비행거리는 110km로, 한국 수도권과 충북 이남 지역이 타격권이다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1737B/production/_124199059_kcna2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
