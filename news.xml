@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[조니 뎁 '엠버 허드 한 번도 때린 적 없어']]></title>
-            <link>https://www.bbc.com/korean/international-61139298</link>
-            <guid>https://www.bbc.com/korean/international-61139298</guid>
-            <pubDate>Wed, 20 Apr 2022 04:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[대중의 이목이 쏠린 이 둘의 재판은 현재 미국 버지니아에서 열리고 있으며, 2주째에 들어섰다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6C0D/production/_124216672_gettyimages-1240088774.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[파킨슨병: 전직 군 장성이 '나홀로 아프리카 종단 여행' 떠난 이유]]></title>
             <link>https://www.bbc.com/korean/international-61154858</link>
@@ -70,6 +62,14 @@
             <pubDate>Tue, 19 Apr 2022 09:16:20 GMT</pubDate>
             <content:encoded><![CDATA[회사가 원치 않는 생일파티를 열어주는 바람에 공황 발작을 겪었다며 소를 제기했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10C70/production/_124202786_gettyimages-84164470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루에 꼭 세 끼를 먹어야 할까?]]></title>
+            <link>https://www.bbc.com/korean/international-61139296</link>
+            <guid>https://www.bbc.com/korean/international-61139296</guid>
+            <pubDate>Wed, 20 Apr 2022 05:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[몇몇 전문가들은 하루 한 끼 식사가 가장 좋다고 주장한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B08F/production/_124199154_1a0d7626-cf9d-4f42-9bbb-107040a3c15f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
