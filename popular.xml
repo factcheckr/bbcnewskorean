@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-04-21T09:17:22.260Z</updated>
+    <updated>2022-04-21T10:19:54.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -27,52 +27,52 @@
         <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
+        <id>https://www.bbc.com/korean/features-60034967</id>
+        <link href="https://www.bbc.com/korean/features-60034967"/>
+        <updated>2022-03-22T16:29:23.314Z</updated>
+        <content type="html"><![CDATA[4]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[러시아 올리가르히 틴코프, '이건 학살이며 미친 전쟁']]></title>
         <id>https://www.bbc.com/korean/international-61172758</id>
         <link href="https://www.bbc.com/korean/international-61172758"/>
         <updated>2022-04-21T07:15:52.622Z</updated>
-        <content type="html"><![CDATA[4]]></content>
+        <content type="html"><![CDATA[5]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나는 왜 그토록 EU 가입을 원할까?]]></title>
         <id>https://www.bbc.com/korean/international-61172188</id>
         <link href="https://www.bbc.com/korean/international-61172188"/>
         <updated>2022-04-21T05:35:54.024Z</updated>
-        <content type="html"><![CDATA[5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
-        <id>https://www.bbc.com/korean/features-60034967</id>
-        <link href="https://www.bbc.com/korean/features-60034967"/>
-        <updated>2022-03-22T16:29:23.314Z</updated>
         <content type="html"><![CDATA[6]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일본, 근로자 사망 원인 방사선 피폭 인정]]></title>
-        <id>https://www.bbc.com/korean/international-45429843</id>
-        <link href="https://www.bbc.com/korean/international-45429843"/>
-        <updated>2022-04-21T09:17:16.957Z</updated>
+        <title type="html"><![CDATA[한미동맹 전방위 강화… 동북아 지역에 어떤 영향 미칠까?]]></title>
+        <id>https://www.bbc.com/korean/news-61117632</id>
+        <link href="https://www.bbc.com/korean/news-61117632"/>
+        <updated>2022-04-21T10:19:48.157Z</updated>
         <content type="html"><![CDATA[7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 사태: 5가지 '종전' 시나리오]]></title>
-        <id>https://www.bbc.com/korean/news-60614575</id>
-        <link href="https://www.bbc.com/korean/news-60614575"/>
-        <updated>2022-04-21T03:26:37.779Z</updated>
-        <content type="html"><![CDATA[8]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['회사서 원치 않은 생일파티'… 미국 남성, 5억여원 보상]]></title>
         <id>https://www.bbc.com/korean/international-61148348</id>
         <link href="https://www.bbc.com/korean/international-61148348"/>
         <updated>2022-04-21T09:17:16.959Z</updated>
+        <content type="html"><![CDATA[8]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아가 우크라이나를 침공한 이유]]></title>
+        <id>https://www.bbc.com/korean/60521326</id>
+        <link href="https://www.bbc.com/korean/60521326"/>
+        <updated>2022-04-21T10:19:48.159Z</updated>
         <content type="html"><![CDATA[9]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영국, 우크라이나 사태에 '대규모 파병' 검토]]></title>
-        <id>https://www.bbc.com/korean/international-60137241</id>
-        <link href="https://www.bbc.com/korean/international-60137241"/>
-        <updated>2022-04-21T03:26:37.776Z</updated>
+        <title type="html"><![CDATA[우크라 사태: 5가지 '종전' 시나리오]]></title>
+        <id>https://www.bbc.com/korean/news-60614575</id>
+        <link href="https://www.bbc.com/korean/news-60614575"/>
+        <updated>2022-04-21T03:26:37.779Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
