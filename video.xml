@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 01:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
+            <link>https://www.bbc.com/korean/60845790</link>
+            <guid>https://www.bbc.com/korean/60845790</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주: 세계 최초 터키 케밥 우주 보내기 작전]]></title>
+            <link>https://www.bbc.com/korean/international-61138669</link>
+            <guid>https://www.bbc.com/korean/international-61138669</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/157FC/production/_124206088_p0c1x25t.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나: 고향 떠나는 안나의 여정... '목숨을 건 탈출기']]></title>
             <link>https://www.bbc.com/korean/international-61159959</link>
@@ -24,49 +40,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9FA6/production/_124207804_p0c1xpxh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우주: 세계 최초 터키 케밥 우주 보내기 작전]]></title>
-            <link>https://www.bbc.com/korean/international-61138669</link>
-            <guid>https://www.bbc.com/korean/international-61138669</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/157FC/production/_124206088_p0c1x25t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나: '내 사진 도용해 가짜 후원금 모금'...'스캠' 피해 막을 방법은?]]></title>
-            <link>https://www.bbc.com/korean/international-61102783</link>
-            <guid>https://www.bbc.com/korean/international-61102783</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F351/production/_124198226_p0c1sh07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
             <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나이지리아의 '스파이더맨'이 거리를 청소하는 이유]]></title>
-            <link>https://www.bbc.com/korean/international-61138676</link>
-            <guid>https://www.bbc.com/korean/international-61138676</guid>
-            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인종차별: 병원에서 날 두 번이나 돌려보낸 이유]]></title>
@@ -76,11 +55,32 @@
             <content:encoded><![CDATA[3:46]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 민간인 거주지역에 국제사회 금지한 '집속탄' 사용 정황]]></title>
-            <link>https://www.bbc.com/korean/international-61159957</link>
-            <guid>https://www.bbc.com/korean/international-61159957</guid>
+            <title><![CDATA[우크라이나: '내 사진 도용해 가짜 후원금 모금'...'스캠' 피해 막을 방법은?]]></title>
+            <link>https://www.bbc.com/korean/international-61102783</link>
+            <guid>https://www.bbc.com/korean/international-61102783</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나이지리아의 '스파이더맨'이 거리를 청소하는 이유]]></title>
+            <link>https://www.bbc.com/korean/international-61138676</link>
+            <guid>https://www.bbc.com/korean/international-61138676</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나: '내 아들 돌려내'...아들 잃은 어머니의 절규]]></title>
+            <link>https://www.bbc.com/korean/news-60971228</link>
+            <guid>https://www.bbc.com/korean/news-60971228</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라]]></title>
+            <link>https://www.bbc.com/korean/international-61020880</link>
+            <guid>https://www.bbc.com/korean/international-61020880</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
         </item>
     </channel>
 </rss>
