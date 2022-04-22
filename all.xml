@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 19:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 20:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,32 +139,25 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F351/production/_124198226_p0c1sh07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/60845790</link>
+            <guid>https://www.bbc.com/korean/60845790</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FCD/production/_123833361_p0bwz5n4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61020880</link>
             <guid>https://www.bbc.com/korean/international-61020880</guid>
             <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1027C/production/_124127166_p0c0r5t0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나: 고향 떠나는 안나의 여정... '목숨을 건 탈출기' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61159959</link>
-            <guid>https://www.bbc.com/korean/international-61159959</guid>
-            <pubDate>Thu, 21 Apr 2022 08:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 돈을 위해 러시아 용병으로 입대하는 시리아인 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-60950256</link>
             <guid>https://www.bbc.com/korean/news-60950256</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
         <item>
@@ -180,6 +173,20 @@
             <guid>https://www.bbc.com/korean/features-61117548</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60971230</link>
+            <guid>https://www.bbc.com/korean/international-60971230</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 4월 22일 (BBC News 코리아 ─ 다운로드)]]></title>
+            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-04-22-HQ.zip</link>
+            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-04-22-HQ.zip</guid>
+            <pubDate>Fri, 22 Apr 2022 20:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[korean-2022-04-22-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4월 21일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -273,13 +280,6 @@
             <content:encoded><![CDATA[korean-2022-04-09-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 4월 8일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-04-08-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-04-08-HQ.zip</guid>
-            <pubDate>Fri, 08 Apr 2022 20:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-04-08-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[중국 상하이, 코로나19 봉쇄 조치 강화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61172761</link>
             <guid>https://www.bbc.com/korean/international-61172761</guid>
@@ -287,66 +287,66 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남북 정상 친서 교환… 비핵화 메시지 없이 '따뜻한 안부 인사' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61187544</link>
-            <guid>https://www.bbc.com/korean/news-61187544</guid>
-            <pubDate>Fri, 22 Apr 2022 08:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[하루에 꼭 세 끼를 먹어야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61139296</link>
             <guid>https://www.bbc.com/korean/international-61139296</guid>
             <pubDate>Tue, 19 Apr 2022 01:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
+            <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스의 전성기는 끝났나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61172759</link>
-            <guid>https://www.bbc.com/korean/international-61172759</guid>
-            <pubDate>Fri, 22 Apr 2022 04:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
+            <title><![CDATA[남북 정상 친서 교환… 비핵화 메시지 없이 '따뜻한 안부 인사' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61187544</link>
+            <guid>https://www.bbc.com/korean/news-61187544</guid>
+            <pubDate>Fri, 22 Apr 2022 08:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['소지 아라이 아닌 박소희가 진짜 내 이름' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61022959</link>
-            <guid>https://www.bbc.com/korean/features-61022959</guid>
-            <pubDate>Fri, 22 Apr 2022 18:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 돈바스에 목숨 거는 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61167603</link>
             <guid>https://www.bbc.com/korean/international-61167603</guid>
             <pubDate>Thu, 21 Apr 2022 01:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 최장 감염 사례, 16개월 이상 지속돼 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61172762</link>
-            <guid>https://www.bbc.com/korean/international-61172762</guid>
-            <pubDate>Fri, 22 Apr 2022 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
+            <title><![CDATA[넷플릭스의 전성기는 끝났나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61172759</link>
+            <guid>https://www.bbc.com/korean/international-61172759</guid>
+            <pubDate>Fri, 22 Apr 2022 04:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['회사서 원치 않은 생일파티'… 미국 남성, 5억여원 보상 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61148348</link>
             <guid>https://www.bbc.com/korean/international-61148348</guid>
             <pubDate>Thu, 21 Apr 2022 09:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['소지 아라이 아닌 박소희가 진짜 내 이름' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-61022959</link>
+            <guid>https://www.bbc.com/korean/features-61022959</guid>
+            <pubDate>Fri, 22 Apr 2022 18:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 최장 감염 사례, 16개월 이상 지속돼 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61172762</link>
+            <guid>https://www.bbc.com/korean/international-61172762</guid>
+            <pubDate>Fri, 22 Apr 2022 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['내 동의 없이 영상이 올라갔다'...성착취물 피해자 폰허브 고소 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-57508343</link>
-            <guid>https://www.bbc.com/korean/international-57508343</guid>
-            <pubDate>Fri, 22 Apr 2022 18:19:59 GMT</pubDate>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Fri, 22 Apr 2022 20:18:02 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
