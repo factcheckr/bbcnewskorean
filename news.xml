@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남녀 임금격차가 반전된 도시의 특징은?]]></title>
+            <link>https://www.bbc.com/korean/61200856</link>
+            <guid>https://www.bbc.com/korean/61200856</guid>
+            <pubDate>Sat, 23 Apr 2022 11:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[미국 내 도시 250곳 중 22곳에서 여성의 임금 수준이 남성과 비슷하거나 오히려 더 높았다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7F72/production/_124262623_2acb9265-df0a-4eb9-84fd-5c695b00e70d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남북 정상 친서 교환… 비핵화 메시지 없이 '따뜻한 안부 인사']]></title>
             <link>https://www.bbc.com/korean/news-61187544</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Apr 2022 05:34:15 GMT</pubDate>
             <content:encoded><![CDATA[나이지리아 아부자에 사는 코코는 백색증을 앓고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1A39/production/_124231760_p0c2m5sw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코로나로 숨진 임산부, 예방할 수 있었다’]]></title>
-            <link>https://www.bbc.com/korean/international-61167606</link>
-            <guid>https://www.bbc.com/korean/international-61167606</guid>
-            <pubDate>Fri, 22 Apr 2022 05:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[영국에서 코로나로 숨진 임산부는 최소 40명에 달한다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11919/production/_124216917_consultant.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
