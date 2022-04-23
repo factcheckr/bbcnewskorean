@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 18:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 19:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,27 +124,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E797/production/_124178295_p0c1frsg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나: 고향 떠나는 안나의 여정... '목숨을 건 탈출기' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61159959</link>
+            <guid>https://www.bbc.com/korean/international-61159959</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/134D4/production/_124206097_p0c2clzj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-55328536</link>
             <guid>https://www.bbc.com/korean/features-55328536</guid>
             <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[9:24]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1688B/production/_116099229_p091l0tr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인종차별: 미국서 무차별 폭행 당한 중국계 할머니 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-56480122</link>
-            <guid>https://www.bbc.com/korean/international-56480122</guid>
-            <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/131B9/production/_117656287_p09bfjqr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나: '내 사진 도용해 가짜 후원금 모금'...'스캠' 피해 막을 방법은? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61102783</link>
-            <guid>https://www.bbc.com/korean/international-61102783</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
@@ -154,6 +147,27 @@
             <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인종차별: 미국서 무차별 폭행 당한 중국계 할머니 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-56480122</link>
+            <guid>https://www.bbc.com/korean/international-56480122</guid>
+            <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정인이 사건: 성인이 된 입양인들이 들려주는 '진짜 입양 이야기' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55946573</link>
+            <guid>https://www.bbc.com/korean/features-55946573</guid>
+            <pubDate>Sat, 06 Feb 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61020880</link>
+            <guid>https://www.bbc.com/korean/international-61020880</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우주: 세계 최초 터키 케밥 우주 보내기 작전 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61138669</link>
             <guid>https://www.bbc.com/korean/international-61138669</guid>
@@ -161,18 +175,11 @@
             <content:encoded><![CDATA[1:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 고향 떠나는 안나의 여정... '목숨을 건 탈출기' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61159959</link>
-            <guid>https://www.bbc.com/korean/international-61159959</guid>
-            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60613883</link>
-            <guid>https://www.bbc.com/korean/features-60613883</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <title><![CDATA[2022년 4월 23일 (BBC News 코리아 ─ 다운로드)]]></title>
+            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-04-23-HQ.zip</link>
+            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-04-23-HQ.zip</guid>
+            <pubDate>Sat, 23 Apr 2022 19:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[korean-2022-04-23-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4월 22일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -266,13 +273,6 @@
             <content:encoded><![CDATA[korean-2022-04-10-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 4월 9일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-04-09-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-04-09-HQ.zip</guid>
-            <pubDate>Sat, 09 Apr 2022 20:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-04-09-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[하루에 꼭 세 끼를 먹어야 할까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61139296</link>
             <guid>https://www.bbc.com/korean/international-61139296</guid>
@@ -315,30 +315,30 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['소지 아라이 아닌 박소희가 진짜 내 이름' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61022959</link>
-            <guid>https://www.bbc.com/korean/features-61022959</guid>
-            <pubDate>Sat, 23 Apr 2022 14:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60521326</link>
-            <guid>https://www.bbc.com/korean/60521326</guid>
-            <pubDate>Sat, 23 Apr 2022 18:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[중국 상하이, 코로나19 봉쇄 조치 강화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61172761</link>
             <guid>https://www.bbc.com/korean/international-61172761</guid>
             <pubDate>Fri, 22 Apr 2022 07:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['소지 아라이 아닌 박소희가 진짜 내 이름' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-61022959</link>
+            <guid>https://www.bbc.com/korean/features-61022959</guid>
+            <pubDate>Sat, 23 Apr 2022 14:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['회사서 원치 않은 생일파티'… 미국 남성, 5억여원 보상 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61148348</link>
             <guid>https://www.bbc.com/korean/international-61148348</guid>
+            <pubDate>Sat, 23 Apr 2022 18:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Sat, 23 Apr 2022 18:18:54 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
