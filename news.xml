@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자녀에게 새로운 성을 지어주는 부모들]]></title>
+            <link>https://www.bbc.com/korean/61198889</link>
+            <guid>https://www.bbc.com/korean/61198889</guid>
+            <pubDate>Sun, 24 Apr 2022 04:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[아이는 아빠 성을 따라야 한다? 점점 더 많은 부모들이 다양한 성을 택하고 있다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CFE0/production/_124261235_26648b9d-4725-4dd4-9c38-0c77a60dd32a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케냐를 분노케한 레즈비언 살인 사건]]></title>
             <link>https://www.bbc.com/korean/international-61201648</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Apr 2022 08:21:08 GMT</pubDate>
             <content:encoded><![CDATA["이제 사람들의 관심은 정점을 찍었고, 사람들의 여가 시간 또한 바닥나고 있다."]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/113CC/production/_124240607_squidgame_unit_103_1015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니, 플로리다주에서 특별 세금혜택 박탈당해]]></title>
-            <link>https://www.bbc.com/korean/international-61172760</link>
-            <guid>https://www.bbc.com/korean/international-61172760</guid>
-            <pubDate>Fri, 22 Apr 2022 05:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[앞서 플로리다 주의회는 공립 초등학교에서 성적 정체성에 대한 교육을 제한하는 법안을 제정했으나, 디즈니사는 이에 동조하지 않는 태도를 보여왔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15241/production/_124239568_disney.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
