@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 03:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크롱, 르펜 물리치고 재선 성공... '분열된 프랑스 통합']]></title>
+            <link>https://www.bbc.com/korean/international-61212847</link>
+            <guid>https://www.bbc.com/korean/international-61212847</guid>
+            <pubDate>Mon, 25 Apr 2022 04:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[중도 성향의 마크롱 대통령은 수도 파리의 에펠탑 근처에서 환호하는 지지자들을 향해 이제 선거는 끝났으며 "모두를 위한 대통령"이 되겠다고 약속했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/110F/production/_124276340_gettyimages-1393429686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[르완다 대학살: 남편의 살인자와 사돈이 된 사연]]></title>
+            <link>https://www.bbc.com/korean/international-61211007</link>
+            <guid>https://www.bbc.com/korean/international-61211007</guid>
+            <pubDate>Mon, 25 Apr 2022 04:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[딸은 아버지가 죽인 사람의 아내를 찾아갔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/87CC/production/_124246743_wedding976.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['일상회복' 본격화… 코로나19, '감염병 2급'으로 하향]]></title>
             <link>https://www.bbc.com/korean/news-61206642</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 24 Apr 2022 03:28:24 GMT</pubDate>
             <content:encoded><![CDATA[최근 케냐에선 '쉴라를 위한 정의(#JusticeForSheila)'라는 해시태그가 널리 퍼지고 있다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4597/production/_124251871_sheila.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자녀에게 새로운 성을 지어주는 부모들]]></title>
-            <link>https://www.bbc.com/korean/61198889</link>
-            <guid>https://www.bbc.com/korean/61198889</guid>
-            <pubDate>Sun, 24 Apr 2022 04:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[아이는 아빠 성을 따라야 한다? 점점 더 많은 부모들이 다양한 성을 택하고 있다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CFE0/production/_124261235_26648b9d-4725-4dd4-9c38-0c77a60dd32a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남녀 임금격차가 뒤집힌 도시의 특징은?]]></title>
-            <link>https://www.bbc.com/korean/61200856</link>
-            <guid>https://www.bbc.com/korean/61200856</guid>
-            <pubDate>Sat, 23 Apr 2022 11:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[미국 내 도시 250곳 중 22곳에서 여성의 임금 수준이 남성과 비슷하거나 오히려 더 높았다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7F72/production/_124262623_2acb9265-df0a-4eb9-84fd-5c695b00e70d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
