@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 03:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4FDE/production/_120364402_p09ty05z.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[봄이 오면 물이 샘솟는 100년 된 뽕나무]]></title>
-            <link>https://www.bbc.com/korean/international-61206854</link>
-            <guid>https://www.bbc.com/korean/international-61206854</guid>
-            <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3DAA/production/_124268751_p0c2xt3p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미얀마 시위: 무기 든 미얀마 여성들 '자랑스러운 엄마로 기억되길']]></title>
             <link>https://www.bbc.com/korean/international-61206856</link>
             <guid>https://www.bbc.com/korean/international-61206856</guid>
             <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4:46]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B2DA/production/_124268754_p0c2xwhc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄이 오면 물이 샘솟는 100년 된 뽕나무]]></title>
+            <link>https://www.bbc.com/korean/international-61206854</link>
+            <guid>https://www.bbc.com/korean/international-61206854</guid>
+            <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3DAA/production/_124268751_p0c2xt3p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -62,25 +62,25 @@
             <content:encoded><![CDATA[6:28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄: 20년 전쟁 이후 찾아온 아프간의 겨울은 더 배고프다]]></title>
-            <link>https://www.bbc.com/korean/international-59906342</link>
-            <guid>https://www.bbc.com/korean/international-59906342</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <title><![CDATA[북한: 김정은 집권 10주년... '국가 핵 무력 완성']]></title>
+            <link>https://www.bbc.com/korean/news-61090906</link>
+            <guid>https://www.bbc.com/korean/news-61090906</guid>
+            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라]]></title>
+            <link>https://www.bbc.com/korean/international-61020880</link>
+            <guid>https://www.bbc.com/korean/international-61020880</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
         </item>
     </channel>
 </rss>
