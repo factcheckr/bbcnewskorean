@@ -4,9 +4,33 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노벨상 수상자였던 아웅산 수치는 어쩌다 징역형을 선고받았을까?]]></title>
+            <link>https://www.bbc.com/korean/international-61230009</link>
+            <guid>https://www.bbc.com/korean/international-61230009</guid>
+            <pubDate>Wed, 27 Apr 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[만약 모든 혐의에 대해 유죄가 선고될 경우 징역 190년 이상의 형량이 가능하다는 관측도 나왔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12C14/production/_124302867_gettyimages-1187902585.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’, 방송 길이 3,11]]></title>
+            <link>https://www.bbc.com/korean/international-61226718</link>
+            <guid>https://www.bbc.com/korean/international-61226718</guid>
+            <pubDate>Wed, 27 Apr 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[나이지리아에서 물 부족 현상을 악용해 여성을 착취하는 범죄가 늘고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CBF1/production/_124290225_p0c3dk16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동굴에서 태어난 미혼모...세계 최고의 등반가가 되기까지]]></title>
+            <link>https://www.bbc.com/korean/international-61226717</link>
+            <guid>https://www.bbc.com/korean/international-61226717</guid>
+            <pubDate>Wed, 27 Apr 2022 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[셰르파 라크파는 세계에서 가장 높은 산을 누구보다 많이 등반한 여성이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/292D/production/_124214501_61150441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웃으면 안 되는 상황일수록 웃음 참기 어려운 이유]]></title>
             <link>https://www.bbc.com/korean/international-61230008</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 26 Apr 2022 08:20:22 GMT</pubDate>
             <content:encoded><![CDATA["일단 이번 거래가 성사되고 나면 트위터가 어느 방향으로 흘러갈지 알 수 없다."]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D992/production/_124289655_gettyimages-1175368064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최고령 일본인 할머니 별세]]></title>
-            <link>https://www.bbc.com/korean/international-61172763</link>
-            <guid>https://www.bbc.com/korean/international-61172763</guid>
-            <pubDate>Tue, 26 Apr 2022 04:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[다나카가 태어난 1903년은 영국 작가 조지 오웰이 태어난 해이자, 일본이 글로벌 강국으로 부상하고 있던 시기다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5562/production/_124285812_mediaitem124285810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한에게 4월 25일이란?... '항일 빨치산의 혁명정통 계승']]></title>
-            <link>https://www.bbc.com/korean/news-61187545</link>
-            <guid>https://www.bbc.com/korean/news-61187545</guid>
-            <pubDate>Tue, 26 Apr 2022 03:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[김일성이 1932년 4월 25일 만주에서 조선인민혁명군을 창건했으며 올해가 90주년이다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EBCC/production/_124246306_gettyimages-3296035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점차 일상 속으로... 야구장 '치킨' OK]]></title>
-            <link>https://www.bbc.com/korean/news-61089786</link>
-            <guid>https://www.bbc.com/korean/news-61089786</guid>
-            <pubDate>Mon, 25 Apr 2022 11:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 방역체계가 호전됨에 따라 코로나 감염병 등급을 하향 조정하고 영화관과 마트와 같은 실내 다중시설에서 음식을 섭취하는 것을 허용하기로 했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15C63/production/_124178198_mediaitem124178197.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
