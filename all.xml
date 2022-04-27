@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 23:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,20 +115,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CBF1/production/_124290225_p0c3dk16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19: 중국 상하이 봉쇄에 불만이 쏟아져 나오고 있다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61159963</link>
-            <guid>https://www.bbc.com/korean/international-61159963</guid>
-            <pubDate>Fri, 22 Apr 2022 08:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6859/production/_124231762_p0c2mqqx.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미얀마 시위: 무기 든 미얀마 여성들 '자랑스러운 엄마로 기억되길' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61206856</link>
+            <guid>https://www.bbc.com/korean/international-61206856</guid>
+            <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B2DA/production/_124268754_p0c2xwhc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[무슬림인 내가 한국에서 사는 법 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60945308</link>
+            <guid>https://www.bbc.com/korean/features-60945308</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10C13/production/_123972686_p0bytm2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부차 학살: '시체가 움직인다'...러시아군의 반박은 사실일까? (BBC News 코리아 ─ 비디오)]]></title>
@@ -139,19 +139,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8922/production/_124060153_p0bzvq3k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미얀마 시위: 무기 든 미얀마 여성들 '자랑스러운 엄마로 기억되길' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61206856</link>
-            <guid>https://www.bbc.com/korean/international-61206856</guid>
-            <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B2DA/production/_124268754_p0c2xwhc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61020880</link>
+            <guid>https://www.bbc.com/korean/international-61020880</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1027C/production/_124127166_p0c0r5t0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,25 +154,32 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['파친코'의 박소희, 우리가 몰랐던 재일한국인 배우 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-61117548</link>
-            <guid>https://www.bbc.com/korean/features-61117548</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: 조국의 전쟁을 바라보는 사람들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60911356</link>
+            <guid>https://www.bbc.com/korean/features-60911356</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무슬림인 내가 한국에서 사는 법 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60945308</link>
-            <guid>https://www.bbc.com/korean/features-60945308</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <title><![CDATA[코로나19: 중국 상하이 봉쇄에 불만이 쏟아져 나오고 있다 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61159963</link>
+            <guid>https://www.bbc.com/korean/international-61159963</guid>
+            <pubDate>Fri, 22 Apr 2022 08:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영국 왕실 결혼식 주요 장면 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/44182524</link>
+            <guid>https://www.bbc.com/korean/44182524</guid>
+            <pubDate>Sun, 20 May 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 4월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,17 +287,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노벨상 수상자였던 아웅산 수치는 어쩌다 징역형을 선고받았을까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61230009</link>
-            <guid>https://www.bbc.com/korean/international-61230009</guid>
-            <pubDate>Wed, 27 Apr 2022 09:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[웃으면 안 되는 상황일수록 웃음 참기 어려운 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61230008</link>
             <guid>https://www.bbc.com/korean/international-61230008</guid>
             <pubDate>Wed, 27 Apr 2022 06:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노벨상 수상자였던 아웅산 수치는 어쩌다 징역형을 선고받았을까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61230009</link>
+            <guid>https://www.bbc.com/korean/international-61230009</guid>
+            <pubDate>Wed, 27 Apr 2022 09:17:19 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -308,45 +308,45 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[싱가폴에서 지적장애 마약사범 사형 집행 논란 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61230010</link>
             <guid>https://www.bbc.com/korean/international-61230010</guid>
             <pubDate>Wed, 27 Apr 2022 11:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[동굴에서 태어난 미혼모...세계 최고의 등반가가 되기까지 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61226717</link>
-            <guid>https://www.bbc.com/korean/international-61226717</guid>
-            <pubDate>Wed, 27 Apr 2022 05:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60034967</link>
+            <guid>https://www.bbc.com/korean/features-60034967</guid>
+            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세계 최고령 일본인 할머니 별세 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61172763</link>
             <guid>https://www.bbc.com/korean/international-61172763</guid>
             <pubDate>Wed, 27 Apr 2022 22:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Wed, 27 Apr 2022 23:19:43 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['소지 아라이 아닌 박소희가 진짜 내 이름' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-61022959</link>
+            <guid>https://www.bbc.com/korean/features-61022959</guid>
+            <pubDate>Wed, 27 Apr 2022 23:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넷플릭스의 전성기는 끝났나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61172759</link>
             <guid>https://www.bbc.com/korean/international-61172759</guid>
             <pubDate>Wed, 27 Apr 2022 20:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 머스크의 54조원 규모 인수 제안 수용 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61172764</link>
-            <guid>https://www.bbc.com/korean/international-61172764</guid>
-            <pubDate>Wed, 27 Apr 2022 22:16:59 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
