@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 11:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 12:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 27 Apr 2022 11:14:19 GMT</pubDate>
             <content:encoded><![CDATA[인수위가 실외 마스크 착용 의무에 대해 5월 말까지 방역 상황을 모니터링한 뒤 결정하겠다고 밝힘에 따라 마스크 착용 의무는 당분간 유지될 전망이다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BD88/production/_124302584_gettyimages-1229661876.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱가폴에서 지적장애 마약사범 사형 집행 논란]]></title>
+            <link>https://www.bbc.com/korean/international-61230010</link>
+            <guid>https://www.bbc.com/korean/international-61230010</guid>
+            <pubDate>Wed, 27 Apr 2022 12:29:33 GMT</pubDate>
+            <content:encoded><![CDATA[르말린감의 지능지수(IQ)가 69라는 게 알려지면서 해당 사건은 논란에 휩싸였다. 지적장애에 해당하는 수준이기 때문이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/101F5/production/_121473066_089dc074-3ba2-457f-9d4c-7cf764f4a5be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노벨상 수상자였던 아웅산 수치는 어쩌다 징역형을 선고받았을까?]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Apr 2022 11:14:36 GMT</pubDate>
             <content:encoded><![CDATA[우주의 무중력 상태에서도 고기 세포 증식이 가능한지는 아직 밝혀진 바가 없다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8EFE/production/_124260663_gettyimages-157336415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 내 젊은 세대일수록 '김정은' 지지... '안정된 체제' 인식]]></title>
-            <link>https://www.bbc.com/korean/news-61187546</link>
-            <guid>https://www.bbc.com/korean/news-61187546</guid>
-            <pubDate>Tue, 26 Apr 2022 11:14:36 GMT</pubDate>
-            <content:encoded><![CDATA['통치를 잘했다는 개념보다는 치적 선전 등 선진화된 선전선동 펼쳐']]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/126F5/production/_124290557_gettyimages-1237554708.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
