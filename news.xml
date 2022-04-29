@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다음주 출근길부터 실외에서 마스크 벗는다]]></title>
+            <link>https://www.bbc.com/korean/news-61239461</link>
+            <guid>https://www.bbc.com/korean/news-61239461</guid>
+            <pubDate>Fri, 29 Apr 2022 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[다만 50인 이상이 모이는 집회, 행사, 공연, 스포츠 경기 관람 시에는 마스크 착용 의무가 유지된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BD88/production/_124302584_gettyimages-1229661876.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 부모 없이 전쟁을 겪는 우크라 보육원 아이들, 방송 길이 2,42]]></title>
             <link>https://www.bbc.com/korean/international-61268726</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Apr 2022 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[최근 이집트 미용 업계의 폭발적인 성장과 함께 의사를 사칭하며 불법시술을 하는 이들이 늘어나고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16831/production/_124290229_p0c3nywl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 전쟁이 낳은 비극...우크라 러시아 동상 철거에 환호, 방송 길이 0,56]]></title>
-            <link>https://www.bbc.com/korean/international-61226720</link>
-            <guid>https://www.bbc.com/korean/international-61226720</guid>
-            <pubDate>Thu, 28 Apr 2022 05:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나가 수도 키이우에서 러시아와 우호관계를 상징하는 동상인 '인민 우정 아치' 철거 작업에 들어갔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A11/production/_124290227_p0c3nyx9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
