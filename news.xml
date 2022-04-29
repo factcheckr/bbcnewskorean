@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 부모 없이 전쟁을 겪는 우크라 보육원 아이들, 방송 길이 2,42]]></title>
+            <link>https://www.bbc.com/korean/international-61268726</link>
+            <guid>https://www.bbc.com/korean/international-61268726</guid>
+            <pubDate>Fri, 29 Apr 2022 08:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[장기화되는 우크라이나 전쟁 속 부모 없이 홀로 피란중인 아이들]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나 시대 온라인 '사전 데이트'가 필수가 된 이유]]></title>
             <link>https://www.bbc.com/korean/international-61268170</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Apr 2022 05:39:34 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나가 수도 키이우에서 러시아와 우호관계를 상징하는 동상인 '인민 우정 아치' 철거 작업에 들어갔다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11A11/production/_124290227_p0c3nyx9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡에 확산하는 우크라이나 전쟁 가짜 영상]]></title>
-            <link>https://www.bbc.com/korean/international-61250042</link>
-            <guid>https://www.bbc.com/korean/international-61250042</guid>
-            <pubDate>Thu, 28 Apr 2022 05:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[많은 조회수를 기록한 일부 우크라이나 전쟁 관련 영상은 가짜로 밝혀졌다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4C3B/production/_124251591_02c9ac70-363f-4325-9ac3-223e4d8eb117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
