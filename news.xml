@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 03:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 04:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 광물들이 21세기 번영의 열쇠?]]></title>
+            <link>https://www.bbc.com/korean/international-61288700</link>
+            <guid>https://www.bbc.com/korean/international-61288700</guid>
+            <pubDate>Sun, 01 May 2022 04:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[석유는 20세기의 핵심 자원이었다. 전문가들은 21세기엔 청정 에너지를 생산하는 광물이 석유의 자리를 차지하리라 전망한다. 이렇게 되면, 해당 광물의 값은 천정부지로 치솟을 것. 이를 둘러싼 지정학적 수 싸움에 최근 우크라이나에서 벌어진 전쟁으로 인해, 이러한 전환이 잰걸음을 내고 있다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15A52/production/_108285688_gettyimages-667308604.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 애완견은 얼마나 오래 살 수 있을까?]]></title>
+            <link>https://www.bbc.com/korean/international-61286559</link>
+            <guid>https://www.bbc.com/korean/international-61286559</guid>
+            <pubDate>Sun, 01 May 2022 04:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[잭 러셀 테리어는 평균 12.7년으로 기대수명이 가장 길었다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A72A/production/_124349724_gettyimages-641313402.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찰스 왕세자 부부는 월드서비스 90주년을 맞아 BBC를 방문했다]]></title>
             <link>https://www.bbc.com/korean/international-61281498</link>
@@ -16,7 +32,7 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FAEA/production/_124343246_883d0f95-2456-439f-ab01-292c02177a2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안네 프랑크 70주년을 기억하며: 그녀의 일기는 수백만명의 심금을 울렸다]]></title>
+            <title><![CDATA[안네 프랑크 70주년: 그녀의 일기는 수백만명의 심금을 울렸다]]></title>
             <link>https://www.bbc.com/korean/international-61281496</link>
             <guid>https://www.bbc.com/korean/international-61281496</guid>
             <pubDate>Sat, 30 Apr 2022 06:20:11 GMT</pubDate>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Apr 2022 10:16:55 GMT</pubDate>
             <content:encoded><![CDATA["조니, 세상 사람들한테 '나 조니 뎁이, 남자인 내가 가정폭력의 피해자'라고 말해 봐."]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1495B/production/_124351348_gettyimages-504264736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모더나·화이자 '코로나 백신 포기 못 해'... 기술 공유 거부]]></title>
-            <link>https://www.bbc.com/korean/international-61268171</link>
-            <guid>https://www.bbc.com/korean/international-61268171</guid>
-            <pubDate>Fri, 29 Apr 2022 10:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 제약사 화이자, 존슨앤드존슨, 모더나 3곳 모두 백신 제조공법 공유 제안을 거절했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1239F/production/_124355647_f742a63c-4c68-40c8-86cb-f495c2712b95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다음주 출근길부터 실외에서 마스크 벗는다]]></title>
-            <link>https://www.bbc.com/korean/news-61239461</link>
-            <guid>https://www.bbc.com/korean/news-61239461</guid>
-            <pubDate>Fri, 29 Apr 2022 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[다만 50인 이상이 모이는 집회, 행사, 공연, 스포츠 경기 관람 시에는 마스크 착용 의무가 유지된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BD88/production/_124302584_gettyimages-1229661876.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
