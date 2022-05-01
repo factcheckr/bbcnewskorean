@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 23:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 01:48:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찰스 왕세자 부부는 월드서비스 90주년을 맞아 BBC를 방문했다]]></title>
+            <link>https://www.bbc.com/korean/international-61281498</link>
+            <guid>https://www.bbc.com/korean/international-61281498</guid>
+            <pubDate>Sun, 01 May 2022 01:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[영국 왕세자는 영국 왕실의 방문을 통해 대중이 분쟁지역에서 온 "부당한 진실"을 갖도록 하기 위해 노력하고 있는 언론인들에게 경의를 표했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FAEA/production/_124343246_883d0f95-2456-439f-ab01-292c02177a2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안네 프랑크 70주년을 기억하며: 그녀의 일기는 수백만명의 심금을 울렸다]]></title>
             <link>https://www.bbc.com/korean/international-61281496</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Apr 2022 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[다만 50인 이상이 모이는 집회, 행사, 공연, 스포츠 경기 관람 시에는 마스크 착용 의무가 유지된다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BD88/production/_124302584_gettyimages-1229661876.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 부모 없이 전쟁을 겪는 우크라 보육원 아이들, 방송 길이 2,42]]></title>
-            <link>https://www.bbc.com/korean/international-61268726</link>
-            <guid>https://www.bbc.com/korean/international-61268726</guid>
-            <pubDate>Fri, 29 Apr 2022 08:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[장기화되는 우크라이나 전쟁 속 부모 없이 홀로 피란중인 아이들]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
