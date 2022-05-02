@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:54:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상하이 봉쇄: 집 없는 배달원이 견디는 힘든 삶]]></title>
+            <link>https://www.bbc.com/korean/international-61294951</link>
+            <guid>https://www.bbc.com/korean/international-61294951</guid>
+            <pubDate>Mon, 02 May 2022 03:53:45 GMT</pubDate>
+            <content:encoded><![CDATA["먹을 것도, 물도 없는 상황에서 길거리에 머물고 있습니다."]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2F99/production/_124358121__1117685.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 나은 '견생'을 위한 훈련]]></title>
+            <link>https://www.bbc.com/korean/international-61288704</link>
+            <guid>https://www.bbc.com/korean/international-61288704</guid>
+            <pubDate>Mon, 02 May 2022 03:53:45 GMT</pubDate>
+            <content:encoded><![CDATA[대부분의 강아지들에게 필요한 것은 일상 생활의 기술이다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1107D/production/_124375796_5e8f7255-19fb-4eda-b0d3-56c23acfa178.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, 우크라이나 타투샵이 ‘성수기’인 이유, 방송 길이 3,13]]></title>
             <link>https://www.bbc.com/korean/international-61268728</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 30 Apr 2022 04:22:55 GMT</pubDate>
             <content:encoded><![CDATA[위중증 환자도 400명대로 떨어졌다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/142FE/production/_124368628_origin_-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여섯자리 연봉(억대 연봉)을 받는 대졸 신입들]]></title>
-            <link>https://www.bbc.com/korean/international-61281494</link>
-            <guid>https://www.bbc.com/korean/international-61281494</guid>
-            <pubDate>Sat, 30 Apr 2022 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA['높은 연봉은 급여에 대한 인식을 왜곡시켜 젊은 직원들의 향후 진로 설정에 지장을 줄 수 있다']]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1041A/production/_124368566_19754fc9-f06d-43ec-bc65-a75de71b14e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 풍수로 본 청와대 이전... '한양'을 떠나는 대통령, 방송 길이 5,35]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
-            <pubDate>Sat, 30 Apr 2022 03:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[풍수지리 학자 3명에게 대통령 집무실 이전의 역사적 의미와 청와대 터를 둘러싼 길흉 논란을 들어봤다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12223/production/_124357247_p0c3ygts.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
