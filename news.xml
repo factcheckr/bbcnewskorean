@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 15:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 16:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴로 다이버전트: '전 세상을 좀 다르게 볼 뿐이에요']]></title>
+            <link>https://www.bbc.com/korean/international-61299568</link>
+            <guid>https://www.bbc.com/korean/international-61299568</guid>
+            <pubDate>Mon, 02 May 2022 16:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[보통의 직장에서 자폐증 환자들과 함께 일할 수 있을까?]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA00/production/_124361674_mediaitem124351911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국은 마스크 벗는데...북한 코로나 방역 강화, 경제는?]]></title>
             <link>https://www.bbc.com/korean/international-61288705</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 03:53:45 GMT</pubDate>
             <content:encoded><![CDATA[대부분의 강아지들에게 필요한 것은 일상 생활의 기술이다]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1107D/production/_124375796_5e8f7255-19fb-4eda-b0d3-56c23acfa178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 우크라이나 타투샵이 ‘성수기’인 이유, 방송 길이 3,13]]></title>
-            <link>https://www.bbc.com/korean/international-61268728</link>
-            <guid>https://www.bbc.com/korean/international-61268728</guid>
-            <pubDate>Sun, 01 May 2022 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나인들이 전쟁을 기억하는 독특한 방식을 소개한다]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BF3B/production/_124355984_p0c3yng7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
