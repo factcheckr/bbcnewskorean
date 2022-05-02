@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 21:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 22:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,6 +108,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3C54/production/_124344451_p0c3rbw4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61268726</link>
+            <guid>https://www.bbc.com/korean/international-61268726</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[58년만에 찾은 아빠, 알고보니 늘 곁에 있어 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61294955</link>
             <guid>https://www.bbc.com/korean/international-61294955</guid>
@@ -116,12 +124,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3302/production/_124385031_p0c4cw72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[샴쌍둥이: 모든 예상을 깨고 있는 한 쌍둥이 자매 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-49329070</link>
+            <guid>https://www.bbc.com/korean/international-49329070</guid>
+            <pubDate>Tue, 13 Aug 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17BE1/production/_108294279_p07kgy0v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[목숨 위협하는 불법시술... 이집트서 판치는 '가짜 의사들' (BBC News 코리아 ─ 비디오)]]></title>
@@ -132,33 +140,18 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16831/production/_124290229_p0c3nywl.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-61268796</link>
             <guid>https://www.bbc.com/korean/features-61268796</guid>
             <pubDate>Fri, 29 Apr 2022 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12223/production/_124357247_p0c3ygts.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61268726</link>
-            <guid>https://www.bbc.com/korean/international-61268726</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한: 대륙간탄도미사일(ICBM) 발사… 계속 미사일을 발사하는 이유는? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60871407</link>
-            <guid>https://www.bbc.com/korean/international-60871407</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 ‘전쟁을 기억하겠다’ 타투 희망자 늘어 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61268728</link>
-            <guid>https://www.bbc.com/korean/international-61268728</guid>
-            <pubDate>Sun, 01 May 2022 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +161,18 @@
             <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <title><![CDATA[안면이식: 다른 사람의 얼굴로 새 삶을 사는 남성 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55630044</link>
+            <guid>https://www.bbc.com/korean/features-55630044</guid>
+            <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:54]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PTSD: 링 위에 오른 맹인 복서는 승리를 거뒀을까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-46548177</link>
+            <guid>https://www.bbc.com/korean/international-46548177</guid>
+            <pubDate>Sat, 15 Dec 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 5월 2일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,10 +280,10 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[적절한 침대 시트 교체 주기는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61294952</link>
-            <guid>https://www.bbc.com/korean/international-61294952</guid>
-            <pubDate>Mon, 02 May 2022 07:17:20 GMT</pubDate>
+            <title><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61239214</link>
+            <guid>https://www.bbc.com/korean/news-61239214</guid>
+            <pubDate>Mon, 02 May 2022 03:53:50 GMT</pubDate>
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
@@ -294,24 +294,24 @@
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61239214</link>
-            <guid>https://www.bbc.com/korean/news-61239214</guid>
-            <pubDate>Mon, 02 May 2022 03:53:50 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[엄마 위해 '간' 주고 '신장' 받은 10대 딸… 미국 장기이식 첫 사례 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-59976458</link>
             <guid>https://www.bbc.com/korean/international-59976458</guid>
             <pubDate>Mon, 02 May 2022 11:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[적절한 침대 시트 교체 주기는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61294952</link>
+            <guid>https://www.bbc.com/korean/international-61294952</guid>
+            <pubDate>Mon, 02 May 2022 07:17:20 GMT</pubDate>
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[웃으면 안 되는 상황일수록 웃음 참기 어려운 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61230008</link>
-            <guid>https://www.bbc.com/korean/international-61230008</guid>
-            <pubDate>Mon, 02 May 2022 13:36:32 GMT</pubDate>
+            <title><![CDATA[65년 만의 이산가족 만남...이전과 무엇이 달라졌을까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-45244829</link>
+            <guid>https://www.bbc.com/korean/news-45244829</guid>
+            <pubDate>Mon, 02 May 2022 21:13:00 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[65년 만의 이산가족 만남...이전과 무엇이 달라졌을까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-45244829</link>
-            <guid>https://www.bbc.com/korean/news-45244829</guid>
-            <pubDate>Mon, 02 May 2022 21:13:00 GMT</pubDate>
+            <title><![CDATA[웃으면 안 되는 상황일수록 웃음 참기 어려운 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61230008</link>
+            <guid>https://www.bbc.com/korean/international-61230008</guid>
+            <pubDate>Mon, 02 May 2022 13:36:32 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61252974</link>
-            <guid>https://www.bbc.com/korean/international-61252974</guid>
-            <pubDate>Mon, 02 May 2022 17:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 광물들이 21세기 번영의 열쇠? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61288700</link>
             <guid>https://www.bbc.com/korean/international-61288700</guid>
             <pubDate>Mon, 02 May 2022 20:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61252974</link>
+            <guid>https://www.bbc.com/korean/international-61252974</guid>
+            <pubDate>Mon, 02 May 2022 17:23:10 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
