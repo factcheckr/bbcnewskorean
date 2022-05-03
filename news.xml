@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 08:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 09:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 멕시코의 '염산 테러' 생존자들, 방송 길이 2,21]]></title>
+            <link>https://www.bbc.com/korean/news-61268179</link>
+            <guid>https://www.bbc.com/korean/news-61268179</guid>
+            <pubDate>Tue, 03 May 2022 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[젠더기반폭력은 멕시코의 큰 사회적 문제로, 끔찍한 범죄로 이어지기도 한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10463/production/_124395666_re_pvhyit9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한 발로도 할 수 있다'...의족으로 104일 연속 마라톤 풀코스 뛴 여성]]></title>
             <link>https://www.bbc.com/korean/news-61268174</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 09:17:06 GMT</pubDate>
             <content:encoded><![CDATA[수십 년을 떨어져 지낸 둘은 불과 차로 1시간 거리에 살고 있었다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3302/production/_124385031_p0c4cw72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적절한 침대 시트 교체 주기는?]]></title>
-            <link>https://www.bbc.com/korean/international-61294952</link>
-            <guid>https://www.bbc.com/korean/international-61294952</guid>
-            <pubDate>Mon, 02 May 2022 08:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[독신 남성 거의 절반이 침대 시트를 최대 4개월 동안 교체하지 않고 지낸다고 응답했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/E5D2/production/_124343885_gettyimages-494324281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
