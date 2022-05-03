@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 15:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,27 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’]]></title>
-            <link>https://www.bbc.com/korean/international-61226718</link>
-            <guid>https://www.bbc.com/korean/international-61226718</guid>
-            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3C54/production/_124344451_p0c3rbw4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[58년만에 찾은 아빠, 알고보니 늘 곁에 있어]]></title>
             <link>https://www.bbc.com/korean/international-61294955</link>
             <guid>https://www.bbc.com/korean/international-61294955</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3302/production/_124385031_p0c4cw72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’]]></title>
+            <link>https://www.bbc.com/korean/international-61226718</link>
+            <guid>https://www.bbc.com/korean/international-61226718</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
@@ -55,13 +62,6 @@
             <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라]]></title>
             <link>https://www.bbc.com/korean/international-61020880</link>
             <guid>https://www.bbc.com/korean/international-61020880</guid>
@@ -69,18 +69,18 @@
             <content:encoded><![CDATA[4:49]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 유쾌하고도 슬픈 어른의 ADHD]]></title>
-            <link>https://www.bbc.com/korean/features-58405457</link>
-            <guid>https://www.bbc.com/korean/features-58405457</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[목숨 위협하는 불법시술... 이집트서 판치는 '가짜 의사들']]></title>
-            <link>https://www.bbc.com/korean/international-61226722</link>
-            <guid>https://www.bbc.com/korean/international-61226722</guid>
-            <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <title><![CDATA[우크라이나 ‘전쟁을 기억하겠다’ 타투 희망자 늘어]]></title>
+            <link>https://www.bbc.com/korean/international-61268728</link>
+            <guid>https://www.bbc.com/korean/international-61268728</guid>
+            <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
         </item>
     </channel>
 </rss>
