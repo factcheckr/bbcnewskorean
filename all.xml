@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 16:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 17:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,14 +108,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3302/production/_124385031_p0c4cw72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61268726</link>
-            <guid>https://www.bbc.com/korean/international-61268726</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
@@ -124,27 +116,28 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61268726</link>
+            <guid>https://www.bbc.com/korean/international-61268726</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나: 러시아군에 '필사 항전' 벌이는 작은 마을들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61316586</link>
             <guid>https://www.bbc.com/korean/international-61316586</guid>
             <pubDate>Wed, 04 May 2022 09:17:54 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D39A/production/_124407145_p0c4qgpl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’ (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61226718</link>
-            <guid>https://www.bbc.com/korean/international-61226718</guid>
-            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3C54/production/_124344451_p0c3rbw4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[희귀동물: 심각한 멸종위기에 처한 아기 원숭이의 탄생 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,11 +154,18 @@
             <content:encoded><![CDATA[5:35]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라 전쟁: 잊혀진 전쟁 '보스니아 내전' 생존자가 보는 우크라이나 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60971224</link>
-            <guid>https://www.bbc.com/korean/international-60971224</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’ (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61226718</link>
+            <guid>https://www.bbc.com/korean/international-61226718</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61020880</link>
+            <guid>https://www.bbc.com/korean/international-61020880</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
@@ -280,17 +280,17 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오징어게임, 천안함, 박근혜... 윤석열 취임식에 대한 모든 것 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61303922</link>
-            <guid>https://www.bbc.com/korean/news-61303922</guid>
-            <pubDate>Wed, 04 May 2022 03:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61239214</link>
             <guid>https://www.bbc.com/korean/news-61239214</guid>
             <pubDate>Wed, 04 May 2022 20:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오징어게임, 천안함, 박근혜... 윤석열 취임식에 대한 모든 것 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61303922</link>
+            <guid>https://www.bbc.com/korean/news-61303922</guid>
+            <pubDate>Wed, 04 May 2022 03:24:35 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
@@ -301,45 +301,45 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/60521326</link>
-            <guid>https://www.bbc.com/korean/60521326</guid>
-            <pubDate>Thu, 05 May 2022 11:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BTS 병역특례 ON vs. N.O... 어떻게 생각해? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61267590</link>
             <guid>https://www.bbc.com/korean/news-61267590</guid>
             <pubDate>Thu, 05 May 2022 07:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영국, 우크라이나 사태에 '대규모 파병' 검토 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60137241</link>
-            <guid>https://www.bbc.com/korean/international-60137241</guid>
-            <pubDate>Thu, 05 May 2022 07:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Thu, 05 May 2022 11:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[낙태권 인정한 ' 로 대 웨이드' 판례가 뒤집히면 일어날 일 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/international-61295264</link>
             <guid>https://www.bbc.com/korean/international-61295264</guid>
             <pubDate>Wed, 04 May 2022 04:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[7]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성인 ADHD: 나의 게으름이 정말 성격 탓일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-58114018</link>
+            <guid>https://www.bbc.com/korean/news-58114018</guid>
+            <pubDate>Thu, 05 May 2022 17:23:29 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['제 아들이 포경수술 후, 스스로 목숨을 끊었습니다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/48001335</link>
-            <guid>https://www.bbc.com/korean/48001335</guid>
-            <pubDate>Thu, 05 May 2022 16:23:30 GMT</pubDate>
+            <title><![CDATA[스위스에서 '자살 캡슐' 첫 출시될 듯 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-59619206</link>
+            <guid>https://www.bbc.com/korean/international-59619206</guid>
+            <pubDate>Thu, 05 May 2022 17:23:29 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상하이 봉쇄: 집 없는 배달원이 견디는 힘든 삶 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61294951</link>
-            <guid>https://www.bbc.com/korean/international-61294951</guid>
-            <pubDate>Thu, 05 May 2022 12:32:55 GMT</pubDate>
+            <title><![CDATA[영국, 우크라이나 사태에 '대규모 파병' 검토 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-60137241</link>
+            <guid>https://www.bbc.com/korean/international-60137241</guid>
+            <pubDate>Thu, 05 May 2022 07:17:15 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
