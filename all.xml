@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 17:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 18:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,28 +108,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3302/production/_124385031_p0c4cw72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61268726</link>
             <guid>https://www.bbc.com/korean/international-61268726</guid>
             <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60613883</link>
-            <guid>https://www.bbc.com/korean/features-60613883</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F910/production/_123506736_p0bsgcn5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나: 러시아군에 '필사 항전' 벌이는 작은 마을들 (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,18 +124,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D39A/production/_124407145_p0c4qgpl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[희귀동물: 심각한 멸종위기에 처한 아기 원숭이의 탄생 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61316584</link>
             <guid>https://www.bbc.com/korean/international-61316584</guid>
             <pubDate>Wed, 04 May 2022 06:22:04 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/857A/production/_124407143_p0c4pw07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’ (BBC News 코리아 ─ 비디오)]]></title>
@@ -173,6 +159,20 @@
             <guid>https://www.bbc.com/korean/60845790</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 사태: 세계 최강이라는 러시아의 핵무기 위력 어느 정도일까 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-60613883</link>
+            <guid>https://www.bbc.com/korean/features-60613883</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-61268796</link>
+            <guid>https://www.bbc.com/korean/features-61268796</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 5월 4일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -273,31 +273,31 @@
             <content:encoded><![CDATA[korean-2022-04-21-HQ.zip, <span>28 MB</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61252974</link>
+            <guid>https://www.bbc.com/korean/international-61252974</guid>
+            <pubDate>Thu, 05 May 2022 11:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-60034967</link>
             <guid>https://www.bbc.com/korean/features-60034967</guid>
             <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
+            <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61239214</link>
             <guid>https://www.bbc.com/korean/news-61239214</guid>
             <pubDate>Wed, 04 May 2022 20:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오징어게임, 천안함, 박근혜... 윤석열 취임식에 대한 모든 것 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61303922</link>
             <guid>https://www.bbc.com/korean/news-61303922</guid>
             <pubDate>Wed, 04 May 2022 03:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61252974</link>
-            <guid>https://www.bbc.com/korean/international-61252974</guid>
-            <pubDate>Thu, 05 May 2022 11:15:19 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -315,31 +315,31 @@
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[낙태권 인정한 ' 로 대 웨이드' 판례가 뒤집히면 일어날 일 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61295264</link>
-            <guid>https://www.bbc.com/korean/international-61295264</guid>
-            <pubDate>Wed, 04 May 2022 04:29:51 GMT</pubDate>
+            <title><![CDATA[새 정부 국정과제서 '여가부 폐지' 빠진 이유는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61303991</link>
+            <guid>https://www.bbc.com/korean/news-61303991</guid>
+            <pubDate>Thu, 05 May 2022 18:20:19 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성인 ADHD: 나의 게으름이 정말 성격 탓일까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-58114018</link>
-            <guid>https://www.bbc.com/korean/news-58114018</guid>
-            <pubDate>Thu, 05 May 2022 17:23:29 GMT</pubDate>
+            <title><![CDATA[남성용 피임약을 시중에서 보기 힘든 까닭 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-47715648</link>
+            <guid>https://www.bbc.com/korean/international-47715648</guid>
+            <pubDate>Thu, 05 May 2022 18:20:19 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스위스에서 '자살 캡슐' 첫 출시될 듯 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-59619206</link>
-            <guid>https://www.bbc.com/korean/international-59619206</guid>
-            <pubDate>Thu, 05 May 2022 17:23:29 GMT</pubDate>
+            <title><![CDATA[미 연방대법원 낙태권 보장 판결 뒤집을까 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61305065</link>
+            <guid>https://www.bbc.com/korean/news-61305065</guid>
+            <pubDate>Thu, 05 May 2022 18:20:19 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영국, 우크라이나 사태에 '대규모 파병' 검토 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-60137241</link>
-            <guid>https://www.bbc.com/korean/international-60137241</guid>
-            <pubDate>Thu, 05 May 2022 07:17:15 GMT</pubDate>
+            <title><![CDATA['나 홀로 산다' 역대 최대 ...그들은 좀 더 가난했다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-59545140</link>
+            <guid>https://www.bbc.com/korean/news-59545140</guid>
+            <pubDate>Thu, 05 May 2022 18:20:19 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
