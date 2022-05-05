@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 23:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 01:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,20 +116,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3302/production/_124385031_p0c4cw72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
+            <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61268726</link>
+            <guid>https://www.bbc.com/korean/international-61268726</guid>
             <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12223/production/_124357247_p0c3ygts.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/393F/production/_124355641_p0c3ybyn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’ (BBC News 코리아 ─ 비디오)]]></title>
@@ -140,18 +132,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3C54/production/_124344451_p0c3rbw4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61268726</link>
-            <guid>https://www.bbc.com/korean/international-61268726</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[희귀동물: 심각한 멸종위기에 처한 아기 원숭이의 탄생 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,18 +147,32 @@
             <content:encoded><![CDATA[0:58]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-61020880</link>
+            <guid>https://www.bbc.com/korean/international-61020880</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방정현 변호사: 정준영 디지털 성범죄 의혹 최초 신고 방정현 변호사 인터뷰 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47594386</link>
-            <guid>https://www.bbc.com/korean/news-47594386</guid>
-            <pubDate>Sat, 16 Mar 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:16]]></content:encoded>
+            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-61268796</link>
+            <guid>https://www.bbc.com/korean/features-61268796</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아 용병 '바그네르'... 리비아서 여전히 전쟁범죄 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-58182498</link>
+            <guid>https://www.bbc.com/korean/international-58182498</guid>
+            <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 5월 4일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -280,24 +280,24 @@
             <content:encoded><![CDATA[1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[웃으면 안 되는 상황일수록 웃음 참기 어려운 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61230008</link>
-            <guid>https://www.bbc.com/korean/international-61230008</guid>
-            <pubDate>Wed, 04 May 2022 11:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[오징어게임, 천안함, 박근혜... 윤석열 취임식에 대한 모든 것 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61303922</link>
             <guid>https://www.bbc.com/korean/news-61303922</guid>
             <pubDate>Wed, 04 May 2022 03:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['정인이' 학대 양모 무기징역 아닌 35년형 확정 받은 이유는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61253200</link>
+            <guid>https://www.bbc.com/korean/news-61253200</guid>
+            <pubDate>Wed, 04 May 2022 22:16:58 GMT</pubDate>
             <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['특별한 관계'… 교도관과 수감자가 함께 사라졌다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61295265</link>
-            <guid>https://www.bbc.com/korean/international-61295265</guid>
-            <pubDate>Wed, 04 May 2022 06:22:04 GMT</pubDate>
+            <title><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만' (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61239214</link>
+            <guid>https://www.bbc.com/korean/news-61239214</guid>
+            <pubDate>Wed, 04 May 2022 20:18:44 GMT</pubDate>
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
@@ -308,38 +308,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['정인이' 학대 양모 무기징역 아닌 35년형 확정 받은 이유는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61253200</link>
-            <guid>https://www.bbc.com/korean/news-61253200</guid>
-            <pubDate>Wed, 04 May 2022 22:16:58 GMT</pubDate>
+            <title><![CDATA[웃으면 안 되는 상황일수록 웃음 참기 어려운 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61230008</link>
+            <guid>https://www.bbc.com/korean/international-61230008</guid>
+            <pubDate>Wed, 04 May 2022 11:14:19 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[낙태권 인정한 ' 로 대 웨이드' 판례가 뒤집히면 일어날 일 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61295264</link>
-            <guid>https://www.bbc.com/korean/international-61295264</guid>
-            <pubDate>Wed, 04 May 2022 04:29:51 GMT</pubDate>
+            <title><![CDATA['특별한 관계'… 교도관과 수감자가 함께 사라졌다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61295265</link>
+            <guid>https://www.bbc.com/korean/international-61295265</guid>
+            <pubDate>Wed, 04 May 2022 06:22:04 GMT</pubDate>
             <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61239214</link>
-            <guid>https://www.bbc.com/korean/news-61239214</guid>
-            <pubDate>Wed, 04 May 2022 20:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS 병역특례 ON vs. N.O... 어떻게 생각해? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61267590</link>
-            <guid>https://www.bbc.com/korean/news-61267590</guid>
-            <pubDate>Wed, 04 May 2022 03:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아 용병, 중앙아프리카 민간인 학살 배후로 지목 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61322394</link>
             <guid>https://www.bbc.com/korean/news-61322394</guid>
             <pubDate>Wed, 04 May 2022 15:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[낙태권 인정한 ' 로 대 웨이드' 판례가 뒤집히면 일어날 일 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61295264</link>
+            <guid>https://www.bbc.com/korean/international-61295264</guid>
+            <pubDate>Wed, 04 May 2022 04:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/60521326</link>
+            <guid>https://www.bbc.com/korean/60521326</guid>
+            <pubDate>Thu, 05 May 2022 01:19:06 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
