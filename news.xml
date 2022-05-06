@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 04:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[푸틴, 우크라이나에 공식 선전포고하면 발생할 일]]></title>
-            <link>https://www.bbc.com/korean/international-61305855</link>
-            <guid>https://www.bbc.com/korean/international-61305855</guid>
-            <pubDate>Fri, 06 May 2022 04:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[공식 선전포고는 무엇이며, 대대적인 징집은 과연 어떻게 진행될까.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17ED0/production/_124600089_26a7a0a6-379e-49f8-8eda-de22638bdfb9.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[오징어게임, 천안함, 박근혜... 윤석열 취임식에 대한 모든 것]]></title>
             <link>https://www.bbc.com/korean/news-61303922</link>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 04 May 2022 06:22:04 GMT</pubDate>
             <content:encoded><![CDATA[현재 탈주범 케이시와 사라진 교도관 비키에 대한 수색이 진행 중이다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/130EC/production/_124406087__124381573_lauderdale.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 심각한 멸종위기에 처한 아기 원숭이가 태어났다, 방송 길이 0,58]]></title>
+            <link>https://www.bbc.com/korean/international-61316584</link>
+            <guid>https://www.bbc.com/korean/international-61316584</guid>
+            <pubDate>Fri, 06 May 2022 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[세계에서 멸종 위험이 가장 높은 영장류 중 하나인 목화머리타마린 원숭이가 탄생했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/857A/production/_124407143_p0c4pw07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
