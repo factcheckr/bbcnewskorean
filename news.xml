@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 06 May 2022 06:22:43 GMT</pubDate>
             <content:encoded><![CDATA[공식 선전포고는 무엇이며, 대대적인 징집은 과연 어떻게 진행될까.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17ED0/production/_124600089_26a7a0a6-379e-49f8-8eda-de22638bdfb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카린 장-피에르: 미 백악관 새 대변인에 첫 흑인 여성 임명]]></title>
-            <link>https://www.bbc.com/korean/news-61343697</link>
-            <guid>https://www.bbc.com/korean/news-61343697</guid>
-            <pubDate>Fri, 06 May 2022 06:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[장-피에르는 바이든 당선 후 행정부에서 주요 수석 부대변인으로 일해왔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3D0E/production/_124603651_gettyimages-1236348553.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오징어게임, 천안함, 박근혜... 윤석열 취임식에 대한 모든 것]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 04 May 2022 09:17:54 GMT</pubDate>
             <content:encoded><![CDATA[대도시도 예외 없는 중국의 엄격한 봉쇄 정책에 대해 국내외에서 분노가 고조되고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1776A/production/_124360169_31d0b8f8-11c3-4b58-abd4-fe08b2556d94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['특별한 관계'… 교도관과 수감자가 함께 사라졌다]]></title>
+            <link>https://www.bbc.com/korean/international-61295265</link>
+            <guid>https://www.bbc.com/korean/international-61295265</guid>
+            <pubDate>Fri, 06 May 2022 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[현재 탈주범 케이시와 사라진 교도관 비키에 대한 수색이 진행 중이다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/130EC/production/_124406087__124381573_lauderdale.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
