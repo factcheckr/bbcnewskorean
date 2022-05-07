@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 07:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 08:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 07 May 2022 07:15:40 GMT</pubDate>
             <content:encoded><![CDATA['비록 부상자가 많고, 민간인도 있지만 우리 우크라이나군은 끝까지 항전할 것']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1003/production/_124599040_b2e5749c-9d99-4ec4-a38e-6565370d9f18.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['화상 회의도 옷 신경 써야'... 직장 내 성공을 위한 옷차림]]></title>
+            <link>https://www.bbc.com/korean/news-61360142</link>
+            <guid>https://www.bbc.com/korean/news-61360142</guid>
+            <pubDate>Sat, 07 May 2022 08:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[일하는 방식이 완전히 달라진 오늘날에도 '성공을 위한 옷차림'이 존재할까?]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D3BB/production/_124630245_8b0e1085-9d90-4225-b855-fa7ce40fda48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['차이나 리스크,' 중국의 대유럽 투자금 주의보]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 06 May 2022 06:22:43 GMT</pubDate>
             <content:encoded><![CDATA[공식 선전포고는 무엇이며, 대대적인 징집은 과연 어떻게 진행될까.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17ED0/production/_124600089_26a7a0a6-379e-49f8-8eda-de22638bdfb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스위스 네스프레소 공장서 코카인 500kg 발견… '시가 670억 최대 규모']]></title>
-            <link>https://www.bbc.com/korean/news-61343699</link>
-            <guid>https://www.bbc.com/korean/news-61343699</guid>
-            <pubDate>Fri, 06 May 2022 09:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[적발된 코카인은 커피 원두 자루 속에 숨겨져 있었다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16615/production/_124396619_ae8fb1fa-0fd3-4579-a3a8-e238493c5a6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

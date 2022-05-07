@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-05-07T07:16:15.171Z</updated>
+    <updated>2022-05-07T08:21:01.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -13,31 +13,31 @@
         <content type="html"><![CDATA[1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
-        <id>https://www.bbc.com/korean/features-60034967</id>
-        <link href="https://www.bbc.com/korean/features-60034967"/>
-        <updated>2022-03-22T16:29:23.314Z</updated>
-        <content type="html"><![CDATA[2]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[푸틴, 우크라이나에 공식 선전포고하면 발생할 일]]></title>
         <id>https://www.bbc.com/korean/international-61305855</id>
         <link href="https://www.bbc.com/korean/international-61305855"/>
         <updated>2022-05-06T04:21:40.518Z</updated>
+        <content type="html"><![CDATA[2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
+        <id>https://www.bbc.com/korean/features-60034967</id>
+        <link href="https://www.bbc.com/korean/features-60034967"/>
+        <updated>2022-03-22T16:29:23.314Z</updated>
         <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['차이나 리스크,' 중국의 대유럽 투자금 주의보]]></title>
-        <id>https://www.bbc.com/korean/international-61360136</id>
-        <link href="https://www.bbc.com/korean/international-61360136"/>
-        <updated>2022-05-07T04:20:27.391Z</updated>
+        <title type="html"><![CDATA[북한, 3일만에 또 발사체 발사...탄도미사일 추정]]></title>
+        <id>https://www.bbc.com/korean/news-61360141</id>
+        <link href="https://www.bbc.com/korean/news-61360141"/>
+        <updated>2022-05-07T08:20:55.769Z</updated>
         <content type="html"><![CDATA[4]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아조우스탈 제철소 지휘관, '우리는 최후의 순간까지 싸울 것']]></title>
-        <id>https://www.bbc.com/korean/features-61360134</id>
-        <link href="https://www.bbc.com/korean/features-61360134"/>
-        <updated>2022-05-07T03:00:01.084Z</updated>
+        <title type="html"><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은?]]></title>
+        <id>https://www.bbc.com/korean/international-61252974</id>
+        <link href="https://www.bbc.com/korean/international-61252974"/>
+        <updated>2022-05-06T12:31:43.209Z</updated>
         <content type="html"><![CDATA[5]]></content>
     </entry>
     <entry>
@@ -48,31 +48,31 @@
         <content type="html"><![CDATA[6]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은?]]></title>
-        <id>https://www.bbc.com/korean/international-61252974</id>
-        <link href="https://www.bbc.com/korean/international-61252974"/>
-        <updated>2022-05-06T12:31:43.209Z</updated>
+        <title type="html"><![CDATA[아조우스탈 제철소 지휘관, '우리는 최후의 순간까지 싸울 것']]></title>
+        <id>https://www.bbc.com/korean/features-61360134</id>
+        <link href="https://www.bbc.com/korean/features-61360134"/>
+        <updated>2022-05-07T03:00:01.084Z</updated>
         <content type="html"><![CDATA[7]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차이나 리스크,' 중국의 대유럽 투자금 주의보]]></title>
+        <id>https://www.bbc.com/korean/international-61360136</id>
+        <link href="https://www.bbc.com/korean/international-61360136"/>
+        <updated>2022-05-07T04:20:27.391Z</updated>
+        <content type="html"><![CDATA[8]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 '여가부 폐지안' 발의...여성가족부 역사 속으로?]]></title>
         <id>https://www.bbc.com/korean/news-61303923</id>
         <link href="https://www.bbc.com/korean/news-61303923"/>
         <updated>2022-05-07T04:20:27.394Z</updated>
-        <content type="html"><![CDATA[8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제사진가협회 선정, 올해의 사진가 수상작]]></title>
-        <id>https://www.bbc.com/korean/features-61305854</id>
-        <link href="https://www.bbc.com/korean/features-61305854"/>
-        <updated>2022-05-07T03:00:01.094Z</updated>
         <content type="html"><![CDATA[9]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만']]></title>
-        <id>https://www.bbc.com/korean/news-61239214</id>
-        <link href="https://www.bbc.com/korean/news-61239214"/>
-        <updated>2022-05-07T05:14:55.284Z</updated>
+        <title type="html"><![CDATA[러시아가 우크라이나를 침공한 이유]]></title>
+        <id>https://www.bbc.com/korean/60521326</id>
+        <link href="https://www.bbc.com/korean/60521326"/>
+        <updated>2022-05-07T08:20:55.776Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
