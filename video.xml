@@ -4,16 +4,16 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 11:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 12:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[우크라이나 중증 장애아동들만 남겨두고 떠났다]]></title>
-            <link>https://www.bbc.com/korean/international-61368820</link>
-            <guid>https://www.bbc.com/korean/international-61368820</guid>
-            <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/172F3/production/_124636949_p0c5jv5p.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열: 새 정부 들어선 한국, 앞으로 남북관계는?]]></title>
+            <link>https://www.bbc.com/korean/news-61376183</link>
+            <guid>https://www.bbc.com/korean/news-61376183</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/499C/production/_124644881_1477856d-e572-40d6-85ce-71b602875600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령]]></title>
@@ -24,28 +24,35 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12223/production/_124357247_p0c3ygts.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NFT: '돈? 작가의 방향성이 우선' 작가들이 NFT에 주목하는 이유]]></title>
-            <link>https://www.bbc.com/korean/features-61317216</link>
-            <guid>https://www.bbc.com/korean/features-61317216</guid>
-            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:06]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA9A/production/_124407774_p0c4q1mw.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우크라이나 중증 장애아동들만 남겨두고 떠났다]]></title>
+            <link>https://www.bbc.com/korean/international-61368820</link>
+            <guid>https://www.bbc.com/korean/international-61368820</guid>
+            <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/172F3/production/_124636949_p0c5jv5p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열: 새 정부 들어선 한국, 앞으로 남북관계는?]]></title>
-            <link>https://www.bbc.com/korean/news-61376183</link>
-            <guid>https://www.bbc.com/korean/news-61376183</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/499C/production/_124644881_1477856d-e572-40d6-85ce-71b602875600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우크라이나: 러시아군에 '필사 항전' 벌이는 작은 마을들]]></title>
+            <link>https://www.bbc.com/korean/international-61316586</link>
+            <guid>https://www.bbc.com/korean/international-61316586</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/D39A/production/_124407145_p0c4qgpl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
@@ -55,25 +62,18 @@
             <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나: 러시아군에 '필사 항전' 벌이는 작은 마을들]]></title>
-            <link>https://www.bbc.com/korean/international-61316586</link>
-            <guid>https://www.bbc.com/korean/international-61316586</guid>
-            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 러시아 '우정 동상' 철거된다]]></title>
             <link>https://www.bbc.com/korean/international-61226720</link>
             <guid>https://www.bbc.com/korean/international-61226720</guid>
             <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NFT: '돈? 작가의 방향성이 우선' 작가들이 NFT에 주목하는 이유]]></title>
+            <link>https://www.bbc.com/korean/features-61317216</link>
+            <guid>https://www.bbc.com/korean/features-61317216</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스마트폰: 전자기기가 어린아이에게 끼치는 영향]]></title>
