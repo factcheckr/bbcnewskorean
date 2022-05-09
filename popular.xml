@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-05-09T16:26:50.972Z</updated>
+    <updated>2022-05-09T17:24:48.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
+    <entry>
+        <title type="html"><![CDATA[푸틴, 전승절 연설서 '모국 위해 싸우는 것']]></title>
+        <id>https://www.bbc.com/korean/news-61385901</id>
+        <link href="https://www.bbc.com/korean/news-61385901"/>
+        <updated>2022-05-09T16:26:44.532Z</updated>
+        <content type="html"><![CDATA[1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['내 버스 시간이랑 겹치지만 마라'...대통령 출퇴근에 대한 우려의 목소리]]></title>
         <id>https://www.bbc.com/korean/news-61303924</id>
         <link href="https://www.bbc.com/korean/news-61303924"/>
         <updated>2022-05-09T07:16:53.862Z</updated>
-        <content type="html"><![CDATA[1]]></content>
+        <content type="html"><![CDATA[2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서랍속 오래된 휴대폰이 소중한 이유]]></title>
         <id>https://www.bbc.com/korean/international-61373074</id>
         <link href="https://www.bbc.com/korean/international-61373074"/>
         <updated>2022-05-09T03:20:31.921Z</updated>
-        <content type="html"><![CDATA[2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴, 전승절 연설서 '모국 위해 싸우는 것']]></title>
-        <id>https://www.bbc.com/korean/news-61385901</id>
-        <link href="https://www.bbc.com/korean/news-61385901"/>
-        <updated>2022-05-09T16:26:44.532Z</updated>
         <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>

@@ -4,9 +4,16 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 16:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 17:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸틴, 전승절 연설서 '모국 위해 싸우는 것']]></title>
+            <link>https://www.bbc.com/korean/news-61385901</link>
+            <guid>https://www.bbc.com/korean/news-61385901</guid>
+            <pubDate>Mon, 09 May 2022 17:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[푸틴 대통령은 전쟁 책임을 우크라이나와 나토에 돌렸다.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[비디오, '악수했다 돌아섰다'...새 정부 들어선 한국, 앞으로 남북관계는?, 방송 길이 3,19]]></title>
             <link>https://www.bbc.com/korean/news-61376183</link>
@@ -62,14 +69,6 @@
             <pubDate>Sun, 08 May 2022 10:18:04 GMT</pubDate>
             <content:encoded><![CDATA[쓰레기 학자들의 노력 덕에 시민들의 건강 상태부터 식습관, 어떤 비밀스러운 정권의 실태에 이르기까지 알아낼 수 있는 게 많다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/FD69/production/_124637846_388b4dff-3708-44d9-ab9f-53dd97b304fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴의 그녀로 알려진 알리나 카바예바는 누구?]]></title>
-            <link>https://www.bbc.com/korean/international-61363295</link>
-            <guid>https://www.bbc.com/korean/international-61363295</guid>
-            <pubDate>Sun, 08 May 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[푸틴과의 염문설을 뿌리며 대형 언론사의 회장직에 오르는 등 주목을 받았지만, 최근 대러 제재 대상으로 고려되고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17478/production/_124625359_mediaitem124625358.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
