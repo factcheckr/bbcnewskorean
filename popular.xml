@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-05-09T07:16:59.755Z</updated>
+    <updated>2022-05-09T08:21:54.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -13,66 +13,66 @@
         <content type="html"><![CDATA[1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[윤석열 대통령 첫 공식 업무 '지하벙커'에서 시작하는 이유는?]]></title>
+        <id>https://www.bbc.com/korean/news-61376602</id>
+        <link href="https://www.bbc.com/korean/news-61376602"/>
+        <updated>2022-05-09T08:21:48.778Z</updated>
+        <content type="html"><![CDATA[2]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[서랍속 오래된 휴대폰이 소중한 이유]]></title>
         <id>https://www.bbc.com/korean/international-61373074</id>
         <link href="https://www.bbc.com/korean/international-61373074"/>
         <updated>2022-05-09T03:20:31.921Z</updated>
-        <content type="html"><![CDATA[2]]></content>
+        <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[푸틴, 우크라이나에 공식 선전포고하면 발생할 일]]></title>
         <id>https://www.bbc.com/korean/international-61305855</id>
         <link href="https://www.bbc.com/korean/international-61305855"/>
         <updated>2022-05-06T04:21:40.518Z</updated>
-        <content type="html"><![CDATA[3]]></content>
+        <content type="html"><![CDATA[4]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임, 천안함, 박근혜... 윤석열 취임식에 대한 모든 것]]></title>
         <id>https://www.bbc.com/korean/news-61303922</id>
         <link href="https://www.bbc.com/korean/news-61303922"/>
         <updated>2022-05-04T04:30:18.609Z</updated>
-        <content type="html"><![CDATA[4]]></content>
+        <content type="html"><![CDATA[5]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
         <id>https://www.bbc.com/korean/features-60034967</id>
         <link href="https://www.bbc.com/korean/features-60034967"/>
         <updated>2022-03-22T16:29:23.314Z</updated>
-        <content type="html"><![CDATA[5]]></content>
+        <content type="html"><![CDATA[6]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 지난해 11월 정점 이후 50% 하락]]></title>
+        <id>https://www.bbc.com/korean/international-61377058</id>
+        <link href="https://www.bbc.com/korean/international-61377058"/>
+        <updated>2022-05-09T08:21:48.788Z</updated>
+        <content type="html"><![CDATA[7]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아가 우크라이나를 침공한 이유]]></title>
         <id>https://www.bbc.com/korean/60521326</id>
         <link href="https://www.bbc.com/korean/60521326"/>
         <updated>2022-05-08T11:14:04.669Z</updated>
-        <content type="html"><![CDATA[6]]></content>
+        <content type="html"><![CDATA[8]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아조우스탈 제철소 지휘관, '우리는 최후의 순간까지 싸울 것']]></title>
         <id>https://www.bbc.com/korean/features-61360134</id>
         <link href="https://www.bbc.com/korean/features-61360134"/>
         <updated>2022-05-09T06:21:49.677Z</updated>
-        <content type="html"><![CDATA[7]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키 대통령, '대피소였던 학교 건물에 러 공습으로 민간인 60명 숨져']]></title>
-        <id>https://www.bbc.com/korean/news-61343703</id>
-        <link href="https://www.bbc.com/korean/news-61343703"/>
-        <updated>2022-05-09T04:30:15.462Z</updated>
-        <content type="html"><![CDATA[8]]></content>
+        <content type="html"><![CDATA[9]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만']]></title>
         <id>https://www.bbc.com/korean/news-61239214</id>
         <link href="https://www.bbc.com/korean/news-61239214"/>
         <updated>2022-05-09T01:21:26.321Z</updated>
-        <content type="html"><![CDATA[9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 버린 쓰레기가 곧 데이터… 요즘 뜨는 '쓰레기학']]></title>
-        <id>https://www.bbc.com/korean/features-61369821</id>
-        <link href="https://www.bbc.com/korean/features-61369821"/>
-        <updated>2022-05-08T10:18:35.468Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
