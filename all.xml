@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 16:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,18 +147,11 @@
             <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기후 불평등: 가난할수록 기후변화에 영향 더 많이 받는다...이유는? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-58674898</link>
-            <guid>https://www.bbc.com/korean/international-58674898</guid>
-            <pubDate>Tue, 28 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 중증 장애아동들만 남겨두고 떠났다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61368820</link>
-            <guid>https://www.bbc.com/korean/international-61368820</guid>
-            <pubDate>Sun, 08 May 2022 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
@@ -168,11 +161,18 @@
             <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <title><![CDATA[기후 불평등: 가난할수록 기후변화에 영향 더 많이 받는다...이유는? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-58674898</link>
+            <guid>https://www.bbc.com/korean/international-58674898</guid>
+            <pubDate>Tue, 28 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47167180</link>
+            <guid>https://www.bbc.com/korean/news-47167180</guid>
+            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 5월 9일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -287,31 +287,31 @@
             <content:encoded><![CDATA[2]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사진으로 보는 윤석열 대통령 취임식 그리고 청와대 개방 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61343702</link>
-            <guid>https://www.bbc.com/korean/news-61343702</guid>
-            <pubDate>Tue, 10 May 2022 02:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[윤석열 대통령 취임식 주요 장면은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61389634</link>
             <guid>https://www.bbc.com/korean/news-61389634</guid>
             <pubDate>Tue, 10 May 2022 04:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
+            <content:encoded><![CDATA[3]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
+            <title><![CDATA[사진으로 보는 윤석열 대통령 취임식 그리고 청와대 개방 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61343702</link>
+            <guid>https://www.bbc.com/korean/news-61343702</guid>
+            <pubDate>Tue, 10 May 2022 02:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 우크라이나를 침공한 이유 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/60521326</link>
             <guid>https://www.bbc.com/korean/60521326</guid>
             <pubDate>Tue, 10 May 2022 12:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60034967</link>
+            <guid>https://www.bbc.com/korean/features-60034967</guid>
+            <pubDate>Tue, 22 Mar 2022 16:29:23 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -322,24 +322,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['봉쇄 53일째인데...모든 관심은 상하이에만' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61239214</link>
-            <guid>https://www.bbc.com/korean/news-61239214</guid>
-            <pubDate>Tue, 10 May 2022 16:27:41 GMT</pubDate>
+            <title><![CDATA[윤석열 대통령 첫 공식 업무 '지하벙커'에서 시작하는 이유는? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61376602</link>
+            <guid>https://www.bbc.com/korean/news-61376602</guid>
+            <pubDate>Mon, 09 May 2022 07:16:32 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스위스 네스프레소 공장서 코카인 500kg 발견… '시가 670억 최대 규모' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61343699</link>
-            <guid>https://www.bbc.com/korean/news-61343699</guid>
-            <pubDate>Mon, 09 May 2022 12:30:53 GMT</pubDate>
+            <title><![CDATA[우크라이나 전쟁, 글로벌 경기 불황으로 이어질까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60702879</link>
+            <guid>https://www.bbc.com/korean/features-60702879</guid>
+            <pubDate>Tue, 10 May 2022 17:26:36 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['국위 선양' 방탄소년단, 결국 군대 가게 되나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-59427773</link>
-            <guid>https://www.bbc.com/korean/news-59427773</guid>
-            <pubDate>Tue, 10 May 2022 15:18:02 GMT</pubDate>
+            <title><![CDATA[성난 스리랑카 시위대, 집권 가문의 조상 집까지 불태워 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61390950</link>
+            <guid>https://www.bbc.com/korean/international-61390950</guid>
+            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
