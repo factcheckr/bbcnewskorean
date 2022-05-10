@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 03:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 04:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진으로 보는 윤석열 대통령 취임식]]></title>
+            <link>https://www.bbc.com/korean/news-61343702</link>
+            <guid>https://www.bbc.com/korean/news-61343702</guid>
+            <pubDate>Tue, 10 May 2022 04:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[제20대 대한민국 대통령에 윤석열 당선인이 공식 취임했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/388B/production/_124657441_06e195d3-6985-4db7-af24-274d40638270.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오, 돈바스의 비극: 아들 잃은 아버지, 남편 잃은 아내, 방송 길이 2,21]]></title>
+            <link>https://www.bbc.com/korean/international-61316590</link>
+            <guid>https://www.bbc.com/korean/international-61316590</guid>
+            <pubDate>Tue, 10 May 2022 04:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[BBC가 돈바스 지역을 방문해 가족과 친구들을 잃은 침통한 심정의 주민들과 힘겨운 싸움을 이어가고 있는 군인들을 만났다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/37B6/production/_124426241_p0c5vcs1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열정페이 대신 월급 1000만원... '고급 인력' 인턴이 늘고 있다]]></title>
             <link>https://www.bbc.com/korean/international-61389244</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 09 May 2022 08:21:22 GMT</pubDate>
             <content:encoded><![CDATA[암호화폐의 가격 흐름이 점차 글로벌 증시를 따라가는 모양새다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8362/production/_124643633_gettyimages-1384896168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤렌스키 대통령, '대피소였던 학교 건물에 러 공습으로 민간인 60명 숨져']]></title>
-            <link>https://www.bbc.com/korean/news-61343703</link>
-            <guid>https://www.bbc.com/korean/news-61343703</guid>
-            <pubDate>Mon, 09 May 2022 07:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[세르히 가이다이 루간스크 주지사는 대피소로 사용하던 학교 건물엔 90명이 머물고 있었으며, 이 중 30명이 구조됐다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C71D/production/_124637905_3e3d2a3e-766e-4e8e-bd81-f1d58222ee6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서랍속 오래된 휴대폰이 소중한 이유]]></title>
-            <link>https://www.bbc.com/korean/international-61373074</link>
-            <guid>https://www.bbc.com/korean/international-61373074</guid>
-            <pubDate>Mon, 09 May 2022 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 세계에서 버려진 전자제품의 무게는 5700만 톤에 달하는 것으로 추산된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/F94A/production/_108381836_mediaitem108381525.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
