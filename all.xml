@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 04:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,14 +101,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/B47E/production/_124660264_p0c5w5f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12223/production/_124357247_p0c3ygts.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스마트폰: 전자기기가 어린아이에게 끼치는 영향 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/news-46708542</link>
             <guid>https://www.bbc.com/korean/news-46708542</guid>
@@ -125,12 +117,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11099/production/_124658796_p0c5vy01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-59514830</link>
-            <guid>https://www.bbc.com/korean/features-59514830</guid>
-            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/22DB/production/_121932980_p0b7ny84.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-61268796</link>
+            <guid>https://www.bbc.com/korean/features-61268796</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12223/production/_124357247_p0c3ygts.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
@@ -138,20 +130,7 @@
             <guid>https://www.bbc.com/korean/features-56369306</guid>
             <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나: 러시아군에 '필사 항전' 벌이는 작은 마을들 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,11 +140,32 @@
             <content:encoded><![CDATA[1:50]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 중증 장애아동들만 남겨두고 떠났다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61368820</link>
-            <guid>https://www.bbc.com/korean/international-61368820</guid>
-            <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <title><![CDATA[NFT: '돈? 작가의 방향성이 우선' 작가들이 NFT에 주목하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-61317216</link>
+            <guid>https://www.bbc.com/korean/features-61317216</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:06]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트랜스젠더 : '나는 트랜스젠더 수학 선생님입니다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-48870734</link>
+            <guid>https://www.bbc.com/korean/news-48870734</guid>
+            <pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-55328536</link>
+            <guid>https://www.bbc.com/korean/features-55328536</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[9:24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 5월 10일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -301,10 +301,10 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤석열 대통령 취임식 주요 장면은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61389634</link>
-            <guid>https://www.bbc.com/korean/news-61389634</guid>
-            <pubDate>Tue, 10 May 2022 04:21:31 GMT</pubDate>
+            <title><![CDATA[사진으로 보는 윤석열 대통령 취임식 그리고 청와대 개방 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61343702</link>
+            <guid>https://www.bbc.com/korean/news-61343702</guid>
+            <pubDate>Tue, 10 May 2022 02:48:40 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -315,24 +315,24 @@
             <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[윤석열 대통령 취임식 주요 장면은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61389634</link>
+            <guid>https://www.bbc.com/korean/news-61389634</guid>
+            <pubDate>Tue, 10 May 2022 04:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[8]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스위스 네스프레소 공장서 코카인 500kg 발견… '시가 670억 최대 규모' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61343699</link>
             <guid>https://www.bbc.com/korean/news-61343699</guid>
             <pubDate>Wed, 11 May 2022 04:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사진으로 보는 윤석열 대통령 취임식 그리고 청와대 개방 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61343702</link>
-            <guid>https://www.bbc.com/korean/news-61343702</guid>
-            <pubDate>Tue, 10 May 2022 02:48:40 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아동 인플루언서 늘어나는데...착취 우려도', 영 의원들 보호책 촉구 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61391502</link>
-            <guid>https://www.bbc.com/korean/international-61391502</guid>
-            <pubDate>Wed, 11 May 2022 04:37:07 GMT</pubDate>
+            <title><![CDATA[성난 스리랑카 시위대, 집권 가문의 조상 집까지 불태워 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61390950</link>
+            <guid>https://www.bbc.com/korean/international-61390950</guid>
+            <pubDate>Tue, 10 May 2022 08:21:16 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
         <item>
