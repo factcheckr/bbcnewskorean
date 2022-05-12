@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 15:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 16:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10C13/production/_123972686_p0bytm2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열: 새 정부 들어선 한국, 앞으로 남북관계는?]]></title>
-            <link>https://www.bbc.com/korean/news-61376183</link>
-            <guid>https://www.bbc.com/korean/news-61376183</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/499C/production/_124644881_1477856d-e572-40d6-85ce-71b602875600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/046C/production/_106423110_p0768sr2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열: BBC 특파원이 본 대통령 취임식과 새 정부의 과제]]></title>
@@ -40,19 +40,19 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6CC7/production/_124674872_e5dab917-fe4a-4cc6-ac61-8e31dc4fede3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열: 새 정부 들어선 한국, 앞으로 남북관계는?]]></title>
+            <link>https://www.bbc.com/korean/news-61376183</link>
+            <guid>https://www.bbc.com/korean/news-61376183</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/499C/production/_124644881_1477856d-e572-40d6-85ce-71b602875600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스마트폰: 전자기기가 어린아이에게 끼치는 영향]]></title>
             <link>https://www.bbc.com/korean/news-46708542</link>
             <guid>https://www.bbc.com/korean/news-46708542</guid>
             <pubDate>Thu, 17 Jan 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15119/production/_104979268_p06wrspn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
@@ -62,25 +62,25 @@
             <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’]]></title>
+            <link>https://www.bbc.com/korean/international-61226718</link>
+            <guid>https://www.bbc.com/korean/international-61226718</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나: 부모 없이 전쟁을 겪는 보육원의 아이들]]></title>
+            <link>https://www.bbc.com/korean/international-61268726</link>
+            <guid>https://www.bbc.com/korean/international-61268726</guid>
             <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
-            <link>https://www.bbc.com/korean/features-55328536</link>
-            <guid>https://www.bbc.com/korean/features-55328536</guid>
-            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9:24]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
-            <link>https://www.bbc.com/korean/news-47889936</link>
-            <guid>https://www.bbc.com/korean/news-47889936</guid>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
         </item>
     </channel>
 </rss>
