@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 11:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 12:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필리핀 대선: '독재자의 아들' 마르코스 주니어 승리가 남긴 의문]]></title>
+            <link>https://www.bbc.com/korean/international-61420595</link>
+            <guid>https://www.bbc.com/korean/international-61420595</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EECA/production/_124703116_p0c6bmq8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무슬림인 내가 한국에서 사는 법]]></title>
+            <link>https://www.bbc.com/korean/features-60945308</link>
+            <guid>https://www.bbc.com/korean/features-60945308</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10C13/production/_123972686_p0bytm2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열: BBC 특파원이 본 대통령 취임식과 새 정부의 과제]]></title>
             <link>https://www.bbc.com/korean/61406275</link>
@@ -24,42 +40,19 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/499C/production/_124644881_1477856d-e572-40d6-85ce-71b602875600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
+            <link>https://www.bbc.com/korean/features-56369306</link>
+            <guid>https://www.bbc.com/korean/features-56369306</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스마트폰: 전자기기가 어린아이에게 끼치는 영향]]></title>
             <link>https://www.bbc.com/korean/news-46708542</link>
             <guid>https://www.bbc.com/korean/news-46708542</guid>
             <pubDate>Thu, 17 Jan 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15119/production/_104979268_p06wrspn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무슬림인 내가 한국에서 사는 법]]></title>
-            <link>https://www.bbc.com/korean/features-60945308</link>
-            <guid>https://www.bbc.com/korean/features-60945308</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/10C13/production/_123972686_p0bytm2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필리핀 대선: '독재자의 아들' 마르코스 주니어 승리가 남긴 의문]]></title>
-            <link>https://www.bbc.com/korean/international-61420595</link>
-            <guid>https://www.bbc.com/korean/international-61420595</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EECA/production/_124703116_p0c6bmq8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NFT: '돈? 작가의 방향성이 우선' 작가들이 NFT에 주목하는 이유]]></title>
-            <link>https://www.bbc.com/korean/features-61317216</link>
-            <guid>https://www.bbc.com/korean/features-61317216</guid>
-            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엘리자베스 여왕, 59년만에 의회 연설 불참, 찰스 왕세자가 대신해]]></title>
@@ -69,18 +62,25 @@
             <content:encoded><![CDATA[2:11]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
-            <link>https://www.bbc.com/korean/60845790</link>
-            <guid>https://www.bbc.com/korean/60845790</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령]]></title>
+            <link>https://www.bbc.com/korean/features-61268796</link>
+            <guid>https://www.bbc.com/korean/features-61268796</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
     </channel>
 </rss>
