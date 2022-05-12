@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 01:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령 취임사… '한반도 비핵화' 아닌 '북한 비핵화' 선택 의미]]></title>
+            <link>https://www.bbc.com/korean/news-61288706</link>
+            <guid>https://www.bbc.com/korean/news-61288706</guid>
+            <pubDate>Thu, 12 May 2022 01:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[한국은 핵이 없는데도 그동안 '한반도 비핵화' 라는 표현을 사용해왔다는 지적이다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3294/production/_124384921_origin_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오, ‘국내 양극화, 세계 갈등’… BBC 특파원이 본 윤석열 정부의 과제, 방송 길이 3,20]]></title>
             <link>https://www.bbc.com/korean/61406275</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 11 May 2022 04:36:35 GMT</pubDate>
             <content:encoded><![CDATA[부모들이 인플루언서 활동을 위해 자녀를 착취할 수 있다는 우려가 제기됐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4C7D/production/_124618591_gettyimages-1173542208-170667a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령 취임식 주요 장면은?]]></title>
-            <link>https://www.bbc.com/korean/news-61389634</link>
-            <guid>https://www.bbc.com/korean/news-61389634</guid>
-            <pubDate>Wed, 11 May 2022 04:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[대통령은 '자유민주주의'를 강조하며 반지성주의 대신 합리주의, 지성주의를 추구하고 과학·기술 혁신을 통한 성장으로 사회 갈등을 극복하기를 촉구했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/356B/production/_124657631_05bcb3b3-2794-4db7-92d9-5b6493a9d265.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
