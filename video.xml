@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,13 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EECA/production/_124703116_p0c6bmq8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까]]></title>
+            <link>https://www.bbc.com/korean/60845790</link>
+            <guid>https://www.bbc.com/korean/60845790</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라]]></title>
             <link>https://www.bbc.com/korean/international-61020880</link>
             <guid>https://www.bbc.com/korean/international-61020880</guid>
@@ -74,13 +81,6 @@
             <guid>https://www.bbc.com/korean/international-56480122</guid>
             <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
         </item>
     </channel>
 </rss>
