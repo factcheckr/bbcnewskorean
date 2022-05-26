@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/147A4/production/_124867838_61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한 '핵실험 준비 막바지'...북한이 원하는 건?]]></title>
+            <title><![CDATA[북한 '핵실험 준비 막바지'...북한이 정말 원하는 건?]]></title>
             <link>https://www.bbc.com/korean/news-61454937</link>
             <guid>https://www.bbc.com/korean/news-61454937</guid>
             <pubDate>Thu, 26 May 2022 08:22:45 GMT</pubDate>
