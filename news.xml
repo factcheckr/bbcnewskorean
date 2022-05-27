@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 01:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 03:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계은행 총재, 우크라 전쟁으로 '글로벌 경기 침체' 경고]]></title>
+            <link>https://www.bbc.com/korean/international-61602210</link>
+            <guid>https://www.bbc.com/korean/international-61602210</guid>
+            <pubDate>Fri, 27 May 2022 03:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[식량, 에너지, 비료 가격이 급등하면서 세계적인 경기 침체가 촉발될 수 있다고 경고했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/125A5/production/_124937157_05036160-9181-4bb9-9468-80f266cf3ff0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국의 '총기 난사 세대': 반복되는 총격 사고는 아이들을 어떻게 변화시켰나]]></title>
+            <link>https://www.bbc.com/korean/features-61588967</link>
+            <guid>https://www.bbc.com/korean/features-61588967</guid>
+            <pubDate>Fri, 27 May 2022 03:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[총격 사건은 미국 학생뿐만 아니라 교사와 학부모의 일상생활에도 큰 영향을 미치고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/9790/production/_106200883_gettyimages-74220912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국서 또 총기난사... 한눈에 살펴보는 미국의 총기 문화]]></title>
             <link>https://www.bbc.com/korean/international-61581719</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 26 May 2022 05:20:23 GMT</pubDate>
             <content:encoded><![CDATA['중국과 러시아가 대북 강경책을 반대하는 현 상황이 북한에게는 핵 능력 강화의 기회다']]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/111B6/production/_124907007_7183b416-cc53-4947-bdb3-bfcf022eef7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북, 바이든 순방 직후 탄도미사일 추정 발사체 발사...올해 벌써 17번째]]></title>
-            <link>https://www.bbc.com/korean/news-61518270</link>
-            <guid>https://www.bbc.com/korean/news-61518270</guid>
-            <pubDate>Wed, 25 May 2022 08:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[25일 오전 ICBM '화성-17형'으로 추정되는 미사일을 포함 발사체 3발을 동해상으로 쏘아 올렸다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14D26/production/_124868258_de35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['루나 개발자 집을 찾아갔고, 체포됐다']]></title>
-            <link>https://www.bbc.com/korean/features-61563862</link>
-            <guid>https://www.bbc.com/korean/features-61563862</guid>
-            <pubDate>Wed, 25 May 2022 04:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[남성은 루나 코인에 투자해 수십억원을 잃고 권도형 대표의 집을 찾아갔다가 체포됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0BB6/production/_124889920_61558759.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
