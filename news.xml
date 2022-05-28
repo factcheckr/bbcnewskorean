@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 08:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오, 우크라이나 전쟁: 지하철역에서 3달째 살고 있는 사람들, 방송 길이 2,34]]></title>
+            <link>https://www.bbc.com/korean/international-61615586</link>
+            <guid>https://www.bbc.com/korean/international-61615586</guid>
+            <pubDate>Sat, 28 May 2022 09:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[사람들은 폭격으로 집을 잃고 지하철역으로 모여들었다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12ECB/production/_124951577_p0c9ljkm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국, 북한 미사일 관련 독자제재…러 은행 2곳 포함]]></title>
             <link>https://www.bbc.com/korean/news-61615936</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 27 May 2022 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[연구팀은 한 쌍의 남녀 화석에서 DNA를 추출해 유전정보를 분석하는 데 성공했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/CFEF/production/_124913235_mediaitem124888179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['백신 접종 후 가슴 통증 있다?'...심낭염, 코로나 백신 이상반응 인정]]></title>
-            <link>https://www.bbc.com/korean/news-61548315</link>
-            <guid>https://www.bbc.com/korean/news-61548315</guid>
-            <pubDate>Fri, 27 May 2022 06:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[피해를 신고하면 보상금과 치료비를 소급 적용받을 수 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/53A4/production/_124921412_mrna.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
