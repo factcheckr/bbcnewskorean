@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 03:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 04:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5B4A/production/_124907332_p0c8xm4q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁: 지하철역에서 3달째 살고 있는 사람들]]></title>
+            <link>https://www.bbc.com/korean/international-61615586</link>
+            <guid>https://www.bbc.com/korean/international-61615586</guid>
+            <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12ECB/production/_124951577_p0c9ljkm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
             <link>https://www.bbc.com/korean/features-56369306</link>
             <guid>https://www.bbc.com/korean/features-56369306</guid>
             <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들']]></title>
-            <link>https://www.bbc.com/korean/features-59514830</link>
-            <guid>https://www.bbc.com/korean/features-59514830</guid>
-            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/22DB/production/_121932980_p0b7ny84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소울리스좌: '영혼 없이' 내 분야에서 최고가 되는 법]]></title>
@@ -40,19 +40,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12B80/production/_124827667_p0c7zjpw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[필리핀 대선: '독재자의 아들' 마르코스 주니어 승리가 남긴 의문]]></title>
-            <link>https://www.bbc.com/korean/international-61420595</link>
-            <guid>https://www.bbc.com/korean/international-61420595</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EECA/production/_124703116_p0c6bmq8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요']]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <title><![CDATA[김나윤: '내가 한 팔을 잃고 얻은 것들']]></title>
+            <link>https://www.bbc.com/korean/features-59514830</link>
+            <guid>https://www.bbc.com/korean/features-59514830</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/22DB/production/_121932980_p0b7ny84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딸로 변장해 탈옥하다 적발된 브라질 갱단 두목이 숨진 채 발견됐다]]></title>
@@ -62,11 +55,11 @@
             <content:encoded><![CDATA[1:12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나: CCTV에 촬영된 러시아군의 민간인 살해… 전범 재판은 언제?]]></title>
-            <link>https://www.bbc.com/korean/international-61433171</link>
-            <guid>https://www.bbc.com/korean/international-61433171</guid>
-            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <title><![CDATA[필리핀 대선: '독재자의 아들' 마르코스 주니어 승리가 남긴 의문]]></title>
+            <link>https://www.bbc.com/korean/international-61420595</link>
+            <guid>https://www.bbc.com/korean/international-61420595</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
@@ -76,11 +69,18 @@
             <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['100년에 한 번 있을 법한 일'···중국 홍수 현장]]></title>
-            <link>https://www.bbc.com/korean/international-57917203</link>
-            <guid>https://www.bbc.com/korean/international-57917203</guid>
-            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <title><![CDATA[멸종위기 나비가 캘리포니아 효자 된 사연]]></title>
+            <link>https://www.bbc.com/korean/international-61391499</link>
+            <guid>https://www.bbc.com/korean/international-61391499</guid>
+            <pubDate>Sat, 14 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’]]></title>
+            <link>https://www.bbc.com/korean/international-61226718</link>
+            <guid>https://www.bbc.com/korean/international-61226718</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
         </item>
     </channel>
 </rss>
