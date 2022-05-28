@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 06:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 07:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국, 북한 미사일 관련 독자제재…러 은행 2곳 포함]]></title>
+            <link>https://www.bbc.com/korean/news-61615936</link>
+            <guid>https://www.bbc.com/korean/news-61615936</guid>
+            <pubDate>Sat, 28 May 2022 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[미국 재무부는 유엔 안보리에서 대북 제재 결의안이 불발되자 추가 독자 제재를 단행했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/4F01/production/_124952202_1622720f-9783-45c0-a41d-0f6ecd2b4e85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['푸틴의 전쟁'에서 아들을 구하기 위한 러시아 엄마의 투쟁]]></title>
             <link>https://www.bbc.com/korean/international-61615207</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 27 May 2022 06:41:00 GMT</pubDate>
             <content:encoded><![CDATA[피해를 신고하면 보상금과 치료비를 소급 적용받을 수 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/53A4/production/_124921412_mrna.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 바이든 초대로 백악관 방문...'아시안 증오범죄 퇴치' 논의]]></title>
-            <link>https://www.bbc.com/korean/news-61518272</link>
-            <guid>https://www.bbc.com/korean/news-61518272</guid>
-            <pubDate>Fri, 27 May 2022 06:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[최근 몇 년 동안 증가한 반 아시안 증오범죄와 차별 퇴치를 위한 논의 자리를 갖는다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13DFA/production/_124920418_gettyimages-1239248170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
