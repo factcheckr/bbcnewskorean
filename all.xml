@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 21:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 22:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,38 +315,38 @@
             <content:encoded><![CDATA[5]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['푸틴의 전쟁'에서 아들을 구하기 위한 러시아 엄마의 투쟁 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61615207</link>
+            <guid>https://www.bbc.com/korean/international-61615207</guid>
+            <pubDate>Sat, 28 May 2022 01:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[6]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미 텍사스 초등학교서 총기 난사...학생 19명 포함 최소 21명 사망 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/61575176</link>
             <guid>https://www.bbc.com/korean/61575176</guid>
             <pubDate>Fri, 27 May 2022 12:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
+            <content:encoded><![CDATA[7]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[텍사스 총기 난사 희생자,'세상에서 가장 사랑스럽던 아이' (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/news-61591136</link>
             <guid>https://www.bbc.com/korean/news-61591136</guid>
             <pubDate>Sat, 28 May 2022 16:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['푸틴의 전쟁'에서 아들을 구하기 위한 러시아 엄마의 투쟁 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61615207</link>
-            <guid>https://www.bbc.com/korean/international-61615207</guid>
-            <pubDate>Sat, 28 May 2022 01:21:48 GMT</pubDate>
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['루나 개발자 집을 찾아갔고, 체포됐다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61563862</link>
-            <guid>https://www.bbc.com/korean/features-61563862</guid>
-            <pubDate>Sat, 28 May 2022 21:15:22 GMT</pubDate>
+            <title><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61252974</link>
+            <guid>https://www.bbc.com/korean/international-61252974</guid>
+            <pubDate>Sat, 28 May 2022 22:16:56 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국서 또 총기난사... 한눈에 살펴보는 미국의 총기 문화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61581719</link>
-            <guid>https://www.bbc.com/korean/international-61581719</guid>
-            <pubDate>Sat, 28 May 2022 20:17:51 GMT</pubDate>
+            <title><![CDATA[6·1 지방선거에 대해 알아야 할 6가지 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61548314</link>
+            <guid>https://www.bbc.com/korean/news-61548314</guid>
+            <pubDate>Sat, 28 May 2022 22:16:56 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
         </item>
     </channel>
