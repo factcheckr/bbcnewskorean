@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/popular/read</id>
     <title>BBC News 코리아 ─ TOP 뉴스</title>
-    <updated>2022-05-29T01:24:17.776Z</updated>
+    <updated>2022-05-29T03:27:01.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.files.bbci.co.uk/ws/simorgh-assets/public/korean/images/icons/icon-72x72.png</icon>
     <entry>
@@ -13,66 +13,66 @@
         <content type="html"><![CDATA[1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텍사스 초교 총기 난사로 아내 잃고 슬퍼하던 남편 심장마비로 숨져]]></title>
-        <id>https://www.bbc.com/korean/news-61602207</id>
-        <link href="https://www.bbc.com/korean/news-61602207"/>
-        <updated>2022-05-27T03:25:54.617Z</updated>
-        <content type="html"><![CDATA[2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국, 북한 미사일 관련 독자제재…러 은행 2곳 포함]]></title>
-        <id>https://www.bbc.com/korean/news-61615936</id>
-        <link href="https://www.bbc.com/korean/news-61615936"/>
-        <updated>2022-05-29T01:24:12.044Z</updated>
-        <content type="html"><![CDATA[3]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['혹시 나도?' 원숭이두창, 피부발진으로 알 수 있는 방법]]></title>
         <id>https://www.bbc.com/korean/features-61576796</id>
         <link href="https://www.bbc.com/korean/features-61576796"/>
         <updated>2022-05-25T09:18:37.632Z</updated>
-        <content type="html"><![CDATA[4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
-        <id>https://www.bbc.com/korean/features-60034967</id>
-        <link href="https://www.bbc.com/korean/features-60034967"/>
-        <updated>2022-05-27T13:37:20.770Z</updated>
-        <content type="html"><![CDATA[5]]></content>
+        <content type="html"><![CDATA[2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6·1 지방선거에 대해 알아야 할 6가지]]></title>
         <id>https://www.bbc.com/korean/news-61548314</id>
         <link href="https://www.bbc.com/korean/news-61548314"/>
         <updated>2022-05-28T22:16:56.837Z</updated>
-        <content type="html"><![CDATA[6]]></content>
+        <content type="html"><![CDATA[3]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이민 천국 호주? 살기 점점 힘들어지는 이유]]></title>
-        <id>https://www.bbc.com/korean/international-61532355</id>
-        <link href="https://www.bbc.com/korean/international-61532355"/>
-        <updated>2022-05-28T23:17:37.835Z</updated>
-        <content type="html"><![CDATA[7]]></content>
+        <title type="html"><![CDATA[코로나19 확진자는 언제까지 전염력이 있나?]]></title>
+        <id>https://www.bbc.com/korean/features-60034967</id>
+        <link href="https://www.bbc.com/korean/features-60034967"/>
+        <updated>2022-05-27T13:37:20.770Z</updated>
+        <content type="html"><![CDATA[4]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텍사스 총기 난사 희생자,'세상에서 가장 사랑스럽던 아이']]></title>
-        <id>https://www.bbc.com/korean/news-61591136</id>
-        <link href="https://www.bbc.com/korean/news-61591136"/>
-        <updated>2022-05-28T16:24:53.694Z</updated>
-        <content type="html"><![CDATA[8]]></content>
+        <title type="html"><![CDATA[텍사스 초교 총기 난사로 아내 잃고 슬퍼하던 남편 심장마비로 숨져]]></title>
+        <id>https://www.bbc.com/korean/news-61602207</id>
+        <link href="https://www.bbc.com/korean/news-61602207"/>
+        <updated>2022-05-27T03:25:54.617Z</updated>
+        <content type="html"><![CDATA[5]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국의 '총기 난사 세대': 반복되는 총격 사고는 아이들을 어떻게 변화시켰나]]></title>
         <id>https://www.bbc.com/korean/features-61588967</id>
         <link href="https://www.bbc.com/korean/features-61588967"/>
         <updated>2022-05-26T06:21:34.338Z</updated>
-        <content type="html"><![CDATA[9]]></content>
+        <content type="html"><![CDATA[6]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국, 북한 미사일 관련 독자제재…러 은행 2곳 포함]]></title>
+        <id>https://www.bbc.com/korean/news-61615936</id>
+        <link href="https://www.bbc.com/korean/news-61615936"/>
+        <updated>2022-05-29T01:24:12.044Z</updated>
+        <content type="html"><![CDATA[7]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미 텍사스 초등학교서 총기 난사...학생 19명 포함 최소 21명 사망]]></title>
         <id>https://www.bbc.com/korean/61575176</id>
         <link href="https://www.bbc.com/korean/61575176"/>
         <updated>2022-05-27T12:34:03.669Z</updated>
+        <content type="html"><![CDATA[8]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텍사스 총기 난사 희생자,'세상에서 가장 사랑스럽던 아이']]></title>
+        <id>https://www.bbc.com/korean/news-61591136</id>
+        <link href="https://www.bbc.com/korean/news-61591136"/>
+        <updated>2022-05-28T16:24:53.694Z</updated>
+        <content type="html"><![CDATA[9]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조니 뎁 vs 엠버 허드: 3주째 진행 중인 명예훼손 재판 핵심은?]]></title>
+        <id>https://www.bbc.com/korean/international-61252974</id>
+        <link href="https://www.bbc.com/korean/international-61252974"/>
+        <updated>2022-05-29T03:26:55.757Z</updated>
         <content type="html"><![CDATA[10]]></content>
     </entry>
 </feed>
