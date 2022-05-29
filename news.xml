@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 06:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 07:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류가 다른 영장류보다 잠을 덜 자게 된 이유]]></title>
+            <link>https://www.bbc.com/korean/features-61622644</link>
+            <guid>https://www.bbc.com/korean/features-61622644</guid>
+            <pubDate>Sun, 29 May 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 미국 성인을 대상으로 한 조사에 따르면, 응답자의 약 87%가 일주일에 최소 하루는 충분히 잠을 못 잔 것 같다고 답했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1229B/production/_124959347_11ea85f5-6b5d-4403-acf7-bf22fcea8272.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사무실 복귀에 사표 내는 노동자들]]></title>
+            <link>https://www.bbc.com/korean/international-61622645</link>
+            <guid>https://www.bbc.com/korean/international-61622645</guid>
+            <pubDate>Sun, 29 May 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[한 설문조사에서 미국 노동자의 절반가량은 100% 사무실 근무로 강제 복귀하느니 차라리 회사를 그만두겠다고 했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8A43/production/_124959353_835d91d5-a526-4505-86ec-49fab920f2af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6·25 참전용사 초상화를 그리는 영국 전직 크리켓 선수]]></title>
             <link>https://www.bbc.com/korean/features-61615938</link>
@@ -40,14 +56,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0D0F/production/_124934330_marinaint.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[비디오, '차별의 시간' 20년, 하리수에서 변희수까지, 방송 길이 4,33]]></title>
-            <link>https://www.bbc.com/korean/features-61577336</link>
-            <guid>https://www.bbc.com/korean/features-61577336</guid>
-            <pubDate>Sat, 28 May 2022 01:21:43 GMT</pubDate>
-            <content:encoded><![CDATA['국내 1호 트랜스젠더 연예인' 하리수가 차별금지법 제정 촉구하는 이유는?]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5B4A/production/_124907332_p0c8xm4q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘연봉은 깎고, 일은 그대로?’, 임금피크제 첫 위법 판결 의미]]></title>
             <link>https://www.bbc.com/korean/news-61604154</link>
             <guid>https://www.bbc.com/korean/news-61604154</guid>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 27 May 2022 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[북한은 30일부터 4주간 유엔 군축회의 의장국을 맡게 된다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/0C62/production/_124907130_gettyimages-842418008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텍사스 초교 총기 난사로 아내 잃고 슬퍼하던 남편 심장마비로 숨져]]></title>
-            <link>https://www.bbc.com/korean/news-61602207</link>
-            <guid>https://www.bbc.com/korean/news-61602207</guid>
-            <pubDate>Fri, 27 May 2022 08:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[학생을 보호하다 숨진 교사 아마 가르시아의 남편이 아내를 잃고 이틀 만에 심장마비로 숨졌다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A44F/production/_124936024_garcias.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
