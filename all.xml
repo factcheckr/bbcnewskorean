@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,6 +108,14 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8BD3/production/_124959753_p0c9r869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NFT: '돈? 작가의 방향성이 우선' 작가들이 NFT에 주목하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-61317216</link>
+            <guid>https://www.bbc.com/korean/features-61317216</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:06]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA9A/production/_124407774_p0c4q1mw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁: 지하철역에서 석 달째 살고 있는 사람들 (BBC News 코리아 ─ 비디오)]]></title>
             <link>https://www.bbc.com/korean/international-61615586</link>
             <guid>https://www.bbc.com/korean/international-61615586</guid>
@@ -122,14 +130,6 @@
             <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT: '돈? 작가의 방향성이 우선' 작가들이 NFT에 주목하는 이유 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-61317216</link>
-            <guid>https://www.bbc.com/korean/features-61317216</guid>
-            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:06]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BA9A/production/_124407774_p0c4q1mw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
@@ -147,11 +147,11 @@
             <content:encoded><![CDATA[3:32]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인도 파키스탄: 분리독립 후 75년 만에 극적으로 상봉한 형제 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-60385002</link>
-            <guid>https://www.bbc.com/korean/international-60385002</guid>
-            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <title><![CDATA[차별금지법: '차별의 시간' 20년, 하리수에서 변희수까지 (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/features-61577336</link>
+            <guid>https://www.bbc.com/korean/features-61577336</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 한 달 만에 무엇이 달라졌을까 (BBC News 코리아 ─ 비디오)]]></title>
@@ -161,18 +161,18 @@
             <content:encoded><![CDATA[3:02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아프가니스탄: 20년간의 아프간 전쟁이 남긴 것 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-58408482</link>
-            <guid>https://www.bbc.com/korean/features-58408482</guid>
-            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <title><![CDATA[인종차별: 유색인종 여성은 영국 미인대회 우승자가 될 수 없다? (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/international-60371721</link>
+            <guid>https://www.bbc.com/korean/international-60371721</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61020880</link>
-            <guid>https://www.bbc.com/korean/international-61020880</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <title><![CDATA[블랙홀 최초 사진... '괴물급이다' (BBC News 코리아 ─ 비디오)]]></title>
+            <link>https://www.bbc.com/korean/news-47889936</link>
+            <guid>https://www.bbc.com/korean/news-47889936</guid>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 5월 29일 (BBC News 코리아 ─ 다운로드)]]></title>
@@ -301,17 +301,17 @@
             <content:encoded><![CDATA[4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Fri, 27 May 2022 13:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[미국의 '총기 난사 세대': 반복되는 총격 사고는 아이들을 어떻게 변화시켰나 (BBC News 코리아 ─ TOP 뉴스)]]></title>
             <link>https://www.bbc.com/korean/features-61588967</link>
             <guid>https://www.bbc.com/korean/features-61588967</guid>
             <pubDate>Thu, 26 May 2022 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[5]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사무실 복귀에 사표 내는 노동자들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/international-61622645</link>
+            <guid>https://www.bbc.com/korean/international-61622645</guid>
+            <pubDate>Sun, 29 May 2022 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[6]]></content:encoded>
         </item>
         <item>
@@ -329,39 +329,18 @@
             <content:encoded><![CDATA[8]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['루나 개발자 집을 찾아갔고, 체포됐다' (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61563862</link>
-            <guid>https://www.bbc.com/korean/features-61563862</guid>
-            <pubDate>Sun, 29 May 2022 19:14:43 GMT</pubDate>
+            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/features-60034967</link>
+            <guid>https://www.bbc.com/korean/features-60034967</guid>
+            <pubDate>Fri, 27 May 2022 13:37:20 GMT</pubDate>
             <content:encoded><![CDATA[9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사무실 복귀에 사표 내는 노동자들 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61622645</link>
-            <guid>https://www.bbc.com/korean/international-61622645</guid>
-            <pubDate>Sun, 29 May 2022 07:15:33 GMT</pubDate>
+            <title><![CDATA[‘연봉은 깎고, 일은 그대로?’, 임금피크제 첫 위법 판결 의미 (BBC News 코리아 ─ TOP 뉴스)]]></title>
+            <link>https://www.bbc.com/korean/news-61604154</link>
+            <guid>https://www.bbc.com/korean/news-61604154</guid>
+            <pubDate>Fri, 27 May 2022 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 29일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct42f1</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct42f1</guid>
-            <pubDate>Sun, 29 May 2022 01:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>BBC 코리아 재방송<span class="bbc-1gnhmg2 e1yt7oin0">, 00:30, </span><span class="bbc-1k5mnnp evmopx62">2022년 5월 29일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 19,00 </span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 28일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ykf</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ykf</guid>
-            <pubDate>Sun, 29 May 2022 01:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 e1yt7oin0">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 5월 28일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 11,00 </span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 28일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct3yr2</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct3yr2</guid>
-            <pubDate>Sun, 29 May 2022 01:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>BBC 코리아 라디오<span class="bbc-1gnhmg2 e1yt7oin0">, 00:30, </span><span class="bbc-1k5mnnp evmopx62">2022년 5월 28일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 19,00 </span>]]></content:encoded>
         </item>
     </channel>
 </rss>
