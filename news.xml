@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 08:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 09:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국, 네덜란드 등 4개국 주한대사, '북한 강제 실종범죄 규탄' 한목소리]]></title>
+            <link>https://www.bbc.com/korean/news-61604388</link>
+            <guid>https://www.bbc.com/korean/news-61604388</guid>
+            <pubDate>Tue, 31 May 2022 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 33개 시민단체가 참여해 '북한 강제실종범죄 책임규명 공동 선언문'을 발표했다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EA89/production/_121614006_mediaitem121776264.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EU, '올 연말까지 러시아 석유 수입 90% 줄인다' 금지안 합의]]></title>
             <link>https://www.bbc.com/korean/news-61642622</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 May 2022 10:19:55 GMT</pubDate>
             <content:encoded><![CDATA[미국인 10명 중 8명은 북한 김정은 국무위원장의 사진을 보면 바로 '북한 지도자'임을 인식하는 것으로 조사됐다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/018C/production/_124969300_07de9b0d-94a0-44e8-843c-0d314bef6e8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라 젤렌스키 대통령, 개전 후 처음으로 격전지 하르키우 방문]]></title>
-            <link>https://www.bbc.com/korean/news-61533573</link>
-            <guid>https://www.bbc.com/korean/news-61533573</guid>
-            <pubDate>Mon, 30 May 2022 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 침공 이후 처음으로 수도 지역을 떠나 전선을 방문했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/49EE/production/_124962981_zelenskykharkiv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
