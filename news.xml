@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 04:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['테라 2.0' 논란 속 강행…왜 비판받나]]></title>
+            <link>https://www.bbc.com/korean/news-61632408</link>
+            <guid>https://www.bbc.com/korean/news-61632408</guid>
+            <pubDate>Tue, 31 May 2022 05:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[31일 오전 10시 루나는 1만1000원대에 거래되고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6398/production/_124969452_2c8dc8e9-8751-461a-b76d-5b1bb7a71ab4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[할머니 변장한 남성, '모나리자'에 케이크 던져...이유가?]]></title>
             <link>https://www.bbc.com/korean/news-61629785</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 May 2022 07:18:29 GMT</pubDate>
             <content:encoded><![CDATA[온라인 상에선 원숭이두창에 대한 허위 정보가 확산하고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3FBA/production/_124941361_345e1830-ce4d-4565-8610-5bc937a13158.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호, '브로커'로 칸영화제 한국 최초 남우주연상…박찬욱 감독상]]></title>
-            <link>https://www.bbc.com/korean/news-61622154</link>
-            <guid>https://www.bbc.com/korean/news-61622154</guid>
-            <pubDate>Mon, 30 May 2022 03:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[한국 영화 두 편이 칸국제영화제 경쟁 부문에서 동시에 수상한 것은 사상 처음이다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/400B/production/_124959361_1af7b43f-73f2-448d-a9b4-10cc367d4d20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
