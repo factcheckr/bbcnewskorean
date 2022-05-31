@@ -4,9 +4,17 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 23:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 01:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D-2, 6.1 지방선거 주요 관전포인트]]></title>
+            <link>https://www.bbc.com/korean/news-61518273</link>
+            <guid>https://www.bbc.com/korean/news-61518273</guid>
+            <pubDate>Tue, 31 May 2022 01:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[새로 출범한 여당은 '국정 안정론'을, 제 1야당은 '정권 견제론'을 내세우며 양당 간 대립은 격화되고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17811/production/_124937269_mediaitem124937268.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[치솟는 물가에 '더는 못 살겠다'...배급에 의존하거나 떠나는 사람들]]></title>
             <link>https://www.bbc.com/korean/features-61629780</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 29 May 2022 08:20:19 GMT</pubDate>
             <content:encoded><![CDATA[전 세계가 식량위기에 처한 가운데 우크라이나 농부들은 창고에 쌓여 있는 곡물이 썩을까 봐 걱정이다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8BD3/production/_124959753_p0c9r869.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류가 다른 영장류보다 잠을 덜 자게 된 이유]]></title>
-            <link>https://www.bbc.com/korean/features-61622644</link>
-            <guid>https://www.bbc.com/korean/features-61622644</guid>
-            <pubDate>Sun, 29 May 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 미국 성인을 대상으로 한 조사에 따르면, 응답자의 약 87%가 일주일에 최소 하루는 충분히 잠을 못 잔 것 같다고 답했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1229B/production/_124959347_11ea85f5-6b5d-4403-acf7-bf22fcea8272.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
