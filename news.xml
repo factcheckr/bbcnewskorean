@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 09:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 10:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 31 May 2022 01:22:45 GMT</pubDate>
             <content:encoded><![CDATA[새로 출범한 여당은 '국정 안정론'을, 제 1야당은 '정권 견제론'을 내세우며 양당 간 대립은 격화되고 있다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2F6B/production/_124993121_mediaitem124993115.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6·1 지방선거에 대해 알아야 할 6가지]]></title>
+            <link>https://www.bbc.com/korean/news-61548314</link>
+            <guid>https://www.bbc.com/korean/news-61548314</guid>
+            <pubDate>Wed, 01 Jun 2022 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[사전투표가 오는 27일 시작해 이틀 동안 진행된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/147A4/production/_124867838_61.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 코로나 '치명률 0.002%'라는데, 믿을 수 있나?]]></title>
+            <link>https://www.bbc.com/korean/news-61658032</link>
+            <guid>https://www.bbc.com/korean/news-61658032</guid>
+            <pubDate>Wed, 01 Jun 2022 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선중앙통신에 따르면 27일 기준 발열환자 327만850여 명 가운데 사망자는 69명에 불과하다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C6AB/production/_124995805_ad2a1548-3945-442d-a209-b723e6b5b76d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1일부터 외국인 단기방문·무비자 입국 허용…2년 만에 빗장 푼다]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 31 May 2022 08:25:04 GMT</pubDate>
             <content:encoded><![CDATA[베트남 북부에 유리로 만든 길이 632m의 다리가 개장했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5F58/production/_124980442_p0cb4wyw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할머니 변장한 남성, '모나리자'에 케이크 던져...이유가?]]></title>
-            <link>https://www.bbc.com/korean/news-61629785</link>
-            <guid>https://www.bbc.com/korean/news-61629785</guid>
-            <pubDate>Tue, 31 May 2022 03:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[휠체어를 탄 할머니로 변장한 한 남성이 29일 파리 루브르 박물관에 전시 중인 '모나리자'를 향해 케이크를 던졌다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BF1F/production/_124972984_hi076394674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치솟는 물가에 '더는 못 살겠다'...배급에 의존하거나 떠나는 사람들]]></title>
-            <link>https://www.bbc.com/korean/features-61629780</link>
-            <guid>https://www.bbc.com/korean/features-61629780</guid>
-            <pubDate>Mon, 30 May 2022 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[식량과 에너지 가격이 급등하면서 전 세계적으로 수백만 명이 어려움에 처했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/130DC/production/_124944087_mediaitem124942589.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
