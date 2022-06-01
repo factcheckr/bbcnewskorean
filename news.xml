@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 01:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6.1 지방선거 주요 관전포인트...국정 '안정론' VS. '견제론']]></title>
+            <link>https://www.bbc.com/korean/news-61518273</link>
+            <guid>https://www.bbc.com/korean/news-61518273</guid>
+            <pubDate>Tue, 31 May 2022 01:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[새로 출범한 여당은 '국정 안정론'을, 제 1야당은 '정권 견제론'을 내세우며 양당 간 대립은 격화되고 있다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2F6B/production/_124993121_mediaitem124993115.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1일부터 외국인 단기방문·무비자 입국 허용…2년 만에 빗장 푼다]]></title>
+            <link>https://www.bbc.com/korean/news-61643765</link>
+            <guid>https://www.bbc.com/korean/news-61643765</guid>
+            <pubDate>Wed, 01 Jun 2022 04:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[6월부터 외국인 관광객 등을 대상으로 단기방문 및 전자비자를 발급한다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1337E/production/_124981787_76820389-e117-4295-8668-0a78ce983f0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영국, 네덜란드 등 4개국 주한대사, '북한 강제 실종범죄 규탄' 한목소리]]></title>
             <link>https://www.bbc.com/korean/news-61604388</link>
@@ -32,14 +48,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6398/production/_124969452_2c8dc8e9-8751-461a-b76d-5b1bb7a71ab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6.1 지방선거 주요 관전포인트...국정 '안정론' VS. '견제론']]></title>
-            <link>https://www.bbc.com/korean/news-61518273</link>
-            <guid>https://www.bbc.com/korean/news-61518273</guid>
-            <pubDate>Tue, 31 May 2022 01:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[새로 출범한 여당은 '국정 안정론'을, 제 1야당은 '정권 견제론'을 내세우며 양당 간 대립은 격화되고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17811/production/_124937269_mediaitem124937268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[비디오, 길이만 600미터... 세계에서 가장 긴 유리 다리 개장, 방송 길이 1,29]]></title>
             <link>https://www.bbc.com/korean/international-61548317</link>
             <guid>https://www.bbc.com/korean/international-61548317</guid>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 May 2022 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[식량과 에너지 가격이 급등하면서 전 세계적으로 수백만 명이 어려움에 처했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/130DC/production/_124944087_mediaitem124942589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국인 10명 중 8명 '김정은=북한 지도자' 인식]]></title>
-            <link>https://www.bbc.com/korean/61629784</link>
-            <guid>https://www.bbc.com/korean/61629784</guid>
-            <pubDate>Mon, 30 May 2022 10:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[미국인 10명 중 8명은 북한 김정은 국무위원장의 사진을 보면 바로 '북한 지도자'임을 인식하는 것으로 조사됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/018C/production/_124969300_07de9b0d-94a0-44e8-843c-0d314bef6e8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
