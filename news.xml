@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 01:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['증오범죄 근절' 한국 아티스트 최초로 백악관 방문한 BTS]]></title>
+            <link>https://www.bbc.com/korean/international-61670357</link>
+            <guid>https://www.bbc.com/korean/international-61670357</guid>
+            <pubDate>Thu, 02 Jun 2022 03:46:35 GMT</pubDate>
+            <content:encoded><![CDATA["착한 사람들이 증오에 대해 말할 때 증오는 숨게 된다. 그것이 얼마나 나쁜지 말할 때 증오는 쓰러진다. 그래서 여러분에게 감사하다"]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13290/production/_125008487_bts3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6.1 지방선거 최종 투표율 50.9%]]></title>
+            <link>https://www.bbc.com/korean/news-61518274</link>
+            <guid>https://www.bbc.com/korean/news-61518274</guid>
+            <pubDate>Thu, 02 Jun 2022 03:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[제8회 전국동시지방선거 최종 투표율이 50.9%로 집계됐다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17547/production/_124995559_mediaitem124995557.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6.1 지방선거 주요 관전포인트...국정 '안정론' VS. '견제론']]></title>
             <link>https://www.bbc.com/korean/news-61518273</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 31 May 2022 08:25:04 GMT</pubDate>
             <content:encoded><![CDATA[유조선을 통한 러시아산 원유만 우선 제재하고, 송유관을 이용하는 수입은 일단 허용하는 절충안에 합의했다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/C6D1/production/_124979805_tv076407888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['테라 2.0' 논란 속 강행…왜 비판받나]]></title>
-            <link>https://www.bbc.com/korean/news-61632408</link>
-            <guid>https://www.bbc.com/korean/news-61632408</guid>
-            <pubDate>Tue, 31 May 2022 05:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[31일 오전 10시 루나는 1만1000원대에 거래되고 있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6398/production/_124969452_2c8dc8e9-8751-461a-b76d-5b1bb7a71ab4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 길이만 600미터... 세계에서 가장 긴 유리 다리 개장, 방송 길이 1,29]]></title>
-            <link>https://www.bbc.com/korean/international-61548317</link>
-            <guid>https://www.bbc.com/korean/international-61548317</guid>
-            <pubDate>Tue, 31 May 2022 08:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[베트남 북부에 유리로 만든 길이 632m의 다리가 개장했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/5F58/production/_124980442_p0cb4wyw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
