@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 03:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 04:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13F7F/production/_125019718_hi076458660.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대북제재 감시하던 캐나다 정찰기에 중국 전투기 접근해 '방해']]></title>
+            <link>https://www.bbc.com/korean/news-61679406</link>
+            <guid>https://www.bbc.com/korean/news-61679406</guid>
+            <pubDate>Fri, 03 Jun 2022 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 유엔 제재 위반을 감시하던 캐나다 정찰기에 중국 전투기가 반복적으로 접근해 방해를 했다고 캐나다 당국이 밝혔다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/827A/production/_125020433_8bd541e5-ab84-474c-bac4-bf20bb9f189e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조니 뎁, 왜 영국에선 졌는데 미국에선 이겼을까?]]></title>
             <link>https://www.bbc.com/korean/international-61679463</link>
             <guid>https://www.bbc.com/korean/international-61679463</guid>
             <pubDate>Fri, 03 Jun 2022 03:11:35 GMT</pubDate>
             <content:encoded><![CDATA[전문가들은 배심재판과 특정 전략이 영향을 미쳤다고 말한다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/6037/production/_125013642_gettyimages-1241024662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 프리미어리그 득점왕 손흥민에 청룡장 수여]]></title>
+            <link>https://www.bbc.com/korean/news-61670008</link>
+            <guid>https://www.bbc.com/korean/news-61670008</guid>
+            <pubDate>Fri, 03 Jun 2022 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[아시아 선수 최초로 잉글랜드 프로축구 프리미어리그 득점왕에 오른 손흥민이 대한민국 체육훈장 최고 등급인 '청룡상'을 받았다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/15D9E/production/_125020598_mediaitem125020597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플래티넘 주빌리: 즉위 70주년 맞은 엘리자베스 2세, '국가에 감사']]></title>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 02 Jun 2022 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[치솟는 연료 가격이 그린에너지로의 전환을 앞당길 수 있을까?]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16D0A/production/_124905439_gettyimages-1299482874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배심원단이 내 삶을 돌려줬다' 조니뎁, 전처 엠버 허드에 '명예훼손' 재판 승소]]></title>
-            <link>https://www.bbc.com/korean/news-61670864</link>
-            <guid>https://www.bbc.com/korean/news-61670864</guid>
-            <pubDate>Thu, 02 Jun 2022 05:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[배심원단은 엠버 허드가 조니 뎁의 명예를 훼손했다며 1500만달러를 배상하라는 평결을 내렸다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/17746/production/_125007069_tv076335814.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['증오범죄 근절' 한국 아티스트 최초로 백악관 방문한 BTS]]></title>
-            <link>https://www.bbc.com/korean/international-61670357</link>
-            <guid>https://www.bbc.com/korean/international-61670357</guid>
-            <pubDate>Thu, 02 Jun 2022 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA["착한 사람들이 증오에 대해 말할 때 증오는 숨게 된다. 그것이 얼마나 나쁜지 말할 때 증오는 쓰러진다. 그래서 여러분에게 감사하다"]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13290/production/_125008487_bts3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
