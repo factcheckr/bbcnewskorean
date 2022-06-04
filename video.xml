@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 21:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 22:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,22 +24,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12ECB/production/_124951577_p0c9ljkm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[식량위기 경고 속… 우크라이나 밀이 창고에서 썩고 있다]]></title>
-            <link>https://www.bbc.com/korean/international-61623656</link>
-            <guid>https://www.bbc.com/korean/international-61623656</guid>
-            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8BD3/production/_124959753_p0c9r869.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 침공 100일… 파괴된 도시부터 식량 위기까지]]></title>
             <link>https://www.bbc.com/korean/international-61681034</link>
             <guid>https://www.bbc.com/korean/international-61681034</guid>
@@ -53,13 +37,15 @@
             <guid>https://www.bbc.com/korean/news-47167180</guid>
             <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7:07]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/85F7/production/_105559243_thumbnaill1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[필리핀 대선: '독재자의 아들' 마르코스 주니어 승리가 남긴 의문]]></title>
-            <link>https://www.bbc.com/korean/international-61420595</link>
-            <guid>https://www.bbc.com/korean/international-61420595</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <title><![CDATA[식량위기 경고 속… 우크라이나 밀이 창고에서 썩고 있다]]></title>
+            <link>https://www.bbc.com/korean/international-61623656</link>
+            <guid>https://www.bbc.com/korean/international-61623656</guid>
+            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8BD3/production/_124959753_p0c9r869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소울리스좌: '영혼 없이' 내 분야에서 최고가 되는 법]]></title>
@@ -69,6 +55,13 @@
             <content:encoded><![CDATA[3:32]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[물 부족 악용한 ‘성착취’ 범죄 늘어…’섹스 안해주면 물도 없다’]]></title>
             <link>https://www.bbc.com/korean/international-61226718</link>
             <guid>https://www.bbc.com/korean/international-61226718</guid>
@@ -76,11 +69,18 @@
             <content:encoded><![CDATA[3:11]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세월호 ‘마지막 생존자’가 말하는 내가 살아남은 이유]]></title>
-            <link>https://www.bbc.com/korean/features-55328536</link>
-            <guid>https://www.bbc.com/korean/features-55328536</guid>
-            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9:24]]></content:encoded>
+            <title><![CDATA[조현병 환자를 위한 아바타 치료법]]></title>
+            <link>https://www.bbc.com/korean/news-42121196</link>
+            <guid>https://www.bbc.com/korean/news-42121196</guid>
+            <pubDate>Sat, 25 Nov 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무슬림인 내가 한국에서 사는 법]]></title>
+            <link>https://www.bbc.com/korean/features-60945308</link>
+            <guid>https://www.bbc.com/korean/features-60945308</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
         </item>
     </channel>
 </rss>
