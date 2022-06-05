@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 07:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 08:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://www.bbc.com/korean/features-61694057</link>
             <guid>https://www.bbc.com/korean/features-61694057</guid>
             <pubDate>Sun, 05 Jun 2022 07:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[자기기만은 자신이 만들어낸 거짓말을 믿게 할 수 있을 뿐 아니라, 심지어는 그 거짓말에 큰 확신을 갖게 만들기도 한다.]]></content:encoded>
+            <content:encoded><![CDATA[자기기만은 자신이 만들어낸 거짓말을 믿게 할 뿐 아니라, 심지어는 그 거짓말에 큰 확신을 갖게 만들기도 한다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2C53/production/_125274311_1ad554ea-8d2b-449a-bde6-b909bbae5838.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
