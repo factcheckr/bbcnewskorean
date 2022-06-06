@@ -4,17 +4,9 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 01:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 지하철역에서 석 달째 살고 있는 사람들]]></title>
-            <link>https://www.bbc.com/korean/international-61615586</link>
-            <guid>https://www.bbc.com/korean/international-61615586</guid>
-            <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12ECB/production/_124951577_p0c9ljkm.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[우크라이나 침공 100일… 파괴된 도시부터 식량 위기까지]]></title>
             <link>https://www.bbc.com/korean/international-61681034</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16AF0/production/_125021929_p0cbryg9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 전쟁: 지하철역에서 석 달째 살고 있는 사람들]]></title>
+            <link>https://www.bbc.com/korean/international-61615586</link>
+            <guid>https://www.bbc.com/korean/international-61615586</guid>
+            <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12ECB/production/_124951577_p0c9ljkm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -32,12 +32,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[치어로빅: 평균 나이 74세 응원단의 신바람 나는 도전기]]></title>
-            <link>https://www.bbc.com/korean/news-49581501</link>
-            <guid>https://www.bbc.com/korean/news-49581501</guid>
-            <pubDate>Thu, 05 Sep 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1302F/production/_108617877_p07mfzff.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국 음식물 쓰레기 처리는 어떻게 진화해 왔는가?]]></title>
+            <link>https://www.bbc.com/korean/media-57279112</link>
+            <guid>https://www.bbc.com/korean/media-57279112</guid>
+            <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/035F/production/_118736800_p09k5s12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물: 맞춤형 보조기 차고 다시 걷게 된 아기 기린]]></title>
@@ -48,13 +48,6 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/7A73/production/_125274313_p0cc15hk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차별금지법: '차별의 시간' 20년, 하리수에서 변희수까지]]></title>
-            <link>https://www.bbc.com/korean/features-61577336</link>
-            <guid>https://www.bbc.com/korean/features-61577336</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 전쟁: '러시아군이 성폭행'... 전시 성범죄 폭로 잇따라]]></title>
             <link>https://www.bbc.com/korean/international-61020880</link>
             <guid>https://www.bbc.com/korean/international-61020880</guid>
@@ -62,11 +55,18 @@
             <content:encoded><![CDATA[4:49]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기후위기: '친환경' 내건 최태원 회장, '저탄소 시대, 다양한 기회 있을 것']]></title>
-            <link>https://www.bbc.com/korean/features-59517631</link>
-            <guid>https://www.bbc.com/korean/features-59517631</guid>
-            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <title><![CDATA[식량위기 경고 속… 우크라이나 밀이 창고에서 썩고 있다]]></title>
+            <link>https://www.bbc.com/korean/international-61623656</link>
+            <guid>https://www.bbc.com/korean/international-61623656</guid>
+            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령]]></title>
+            <link>https://www.bbc.com/korean/features-61268796</link>
+            <guid>https://www.bbc.com/korean/features-61268796</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기후 불평등: 가난할수록 기후변화에 영향 더 많이 받는다...이유는?]]></title>
@@ -76,11 +76,11 @@
             <content:encoded><![CDATA[4:40]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청와대 이전: 풍수로 살펴본 '한양' 떠나는 대통령]]></title>
-            <link>https://www.bbc.com/korean/features-61268796</link>
-            <guid>https://www.bbc.com/korean/features-61268796</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
+            <title><![CDATA[차별금지법: '차별의 시간' 20년, 하리수에서 변희수까지]]></title>
+            <link>https://www.bbc.com/korean/features-61577336</link>
+            <guid>https://www.bbc.com/korean/features-61577336</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
         </item>
     </channel>
 </rss>

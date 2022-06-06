@@ -4,9 +4,25 @@
         <title>BBC News 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 01:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 첫 현충일 추념사…'북한 도발에 엄정 대처·실질 안보능력 갖출 것']]></title>
+            <link>https://www.bbc.com/korean/news-61701165</link>
+            <guid>https://www.bbc.com/korean/news-61701165</guid>
+            <pubDate>Mon, 06 Jun 2022 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령이 6일 제67회 현충일 추념식에 참석했다]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12532/production/_125285057_1a0109a1-0bc3-4bbc-9a69-4653ebc9f0f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 한미 항모훈련 끝난 뒤 '미사일 8발' 동시 발사]]></title>
+            <link>https://www.bbc.com/korean/news-61694058</link>
+            <guid>https://www.bbc.com/korean/news-61694058</guid>
+            <pubDate>Mon, 06 Jun 2022 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[미사일을 동시에 8발을 발사한 것은 사실상 처음으로 한국 등 여러 목표물 타격 능력 과시한 것으로 분석된다.]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/160EB/production/_125274309_2d559f24-1402-4e7c-9a30-caef319b6c2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과학자들이 멸종위기 종을 냉동시키는 이유]]></title>
             <link>https://www.bbc.com/korean/features-61694052</link>
@@ -30,22 +46,6 @@
             <pubDate>Sun, 05 Jun 2022 07:14:35 GMT</pubDate>
             <content:encoded><![CDATA[자기기만은 자신이 만들어낸 거짓말을 믿게 할 뿐 아니라, 심지어는 그 거짓말에 큰 확신을 갖게 만들기도 한다.]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/2C53/production/_125274311_1ad554ea-8d2b-449a-bde6-b909bbae5838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민 동료 무장강도 습격 받아...29발 총격전]]></title>
-            <link>https://www.bbc.com/korean/international-61688686</link>
-            <guid>https://www.bbc.com/korean/international-61688686</guid>
-            <pubDate>Sun, 05 Jun 2022 03:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[그는 이날 클럽에서 나오던 도중 경비원의 요청으로 그와 사진을 찍다가 강도의 표적이 됐다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1469C/production/_125021638_01838afa-9905-4830-8051-e0a6412004a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 '코로나19 과학적으로 통제'...WHO '도움 요청했다']]></title>
-            <link>https://www.bbc.com/korean/news-61688687</link>
-            <guid>https://www.bbc.com/korean/news-61688687</guid>
-            <pubDate>Sat, 04 Jun 2022 06:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 신종 코로나바이러스 감염증(코로나19)를 '과학적'으로 통제하고 있다고 주장했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/536F/production/_124995312_gettyimages-1240929235.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치킨라이스: 싱가포르 국민 음식이 위협받는 이유]]></title>
