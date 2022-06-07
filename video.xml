@@ -4,7 +4,7 @@
         <title>BBC News 코리아 ─ 비디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 11:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 12:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16AF0/production/_125021929_p0cbryg9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
+            <link>https://www.bbc.com/korean/news-60065089</link>
+            <guid>https://www.bbc.com/korean/news-60065089</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위?]]></title>
@@ -32,12 +40,12 @@
             <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3064/production/_125288321_p0cc5g1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/78B9/production/_122750903_p0bjhbb7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[소울리스좌: '영혼 없이' 내 분야에서 최고가 되는 법]]></title>
+            <link>https://www.bbc.com/korean/features-61377063</link>
+            <guid>https://www.bbc.com/korean/features-61377063</guid>
+            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12B80/production/_124827667_p0c7zjpw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁: 지하철역에서 석 달째 살고 있는 사람들]]></title>
@@ -45,7 +53,13 @@
             <guid>https://www.bbc.com/korean/international-61615586</guid>
             <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/12ECB/production/_124951577_p0c9ljkm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무슬림인 내가 한국에서 사는 법]]></title>
+            <link>https://www.bbc.com/korean/features-60945308</link>
+            <guid>https://www.bbc.com/korean/features-60945308</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[식량위기 경고 속… 우크라이나 밀이 창고에서 썩고 있다]]></title>
@@ -55,32 +69,18 @@
             <content:encoded><![CDATA[2:32]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['아래를 보지 마세요'... 세계에서 가장 긴 유리 다리]]></title>
+            <link>https://www.bbc.com/korean/international-61548317</link>
+            <guid>https://www.bbc.com/korean/international-61548317</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[블랙홀 최초 사진... '괴물급이다']]></title>
             <link>https://www.bbc.com/korean/news-47889936</link>
             <guid>https://www.bbc.com/korean/news-47889936</guid>
             <pubDate>Fri, 12 Apr 2019 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소울리스좌: '영혼 없이' 내 분야에서 최고가 되는 법]]></title>
-            <link>https://www.bbc.com/korean/features-61377063</link>
-            <guid>https://www.bbc.com/korean/features-61377063</guid>
-            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘리자베스 2세: 즉위 70주년 맞은 영국 여왕의 지난 삶은?]]></title>
-            <link>https://www.bbc.com/korean/international-60276679</link>
-            <guid>https://www.bbc.com/korean/international-60276679</guid>
-            <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[환경: 일회용 마스크의 변신...버려진 마스크로 만든 가구]]></title>
-            <link>https://www.bbc.com/korean/features-58223208</link>
-            <guid>https://www.bbc.com/korean/features-58223208</guid>
-            <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
         </item>
     </channel>
 </rss>
