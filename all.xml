@@ -1,367 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 09:16:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["전국~노래자랑~" 최장MC 송해 향년 95세로 별이되다 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61715050</link>
-            <guid>https://www.bbc.com/korean/news-61715050</guid>
-            <pubDate>Wed, 08 Jun 2022 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA['전국 노래자랑' 사회자로 유명한 방송인 송해 씨가 8일 세상을 떠났다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/184E8/production/_125306599_mc95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 조용한 소도시에서 벌어진 러시아군의 잔혹 행위 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61715233</link>
-            <guid>https://www.bbc.com/korean/features-61715233</guid>
-            <pubDate>Wed, 08 Jun 2022 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[수도 키이우 인근 이르핀 거리에는 붉은색 외투 차림의 한 젊은 여성의 시신이 4주째 거리에 그대로 방치돼 있었다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1614A/production/_125024409_burnthouseofartemgorin'smother-in-law.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원숭이두창, '2급 감염병' 지정…확진시 격리 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61729346</link>
-            <guid>https://www.bbc.com/korean/news-61729346</guid>
-            <pubDate>Wed, 08 Jun 2022 08:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[확진자가 발생할 경우 24시간 내 방역당국에 신고해야 하며 격리가 의무화된다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/A41C/production/_125321024_c4d1bb71-ba44-4242-844b-f0b984deb7f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 2024년까지 충전단자 C 타입으로 통일 잠정 합의 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/61715238</link>
-            <guid>https://www.bbc.com/korean/61715238</guid>
-            <pubDate>Wed, 08 Jun 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[제조사에 상관없이 유럽 내 모든 신규 휴대기기의 충전 단자를 'USB-C' 타입으로 통일하기로 합의했다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/1630/production/_125308650_gettyimages-1235497537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치명률 0.002%... 북한의 코로나19 사태 '미스터리' (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61727790</link>
-            <guid>https://www.bbc.com/korean/news-61727790</guid>
-            <pubDate>Wed, 08 Jun 2022 03:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[북한 당국은 코로나19 발병 사태를 잘 통제하고 있다고 주장하지만, 여전히 많은 세부 사항이 미스터리로 남아있다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/BCA0/production/_124988284_kjueu2hq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제사회 '북 핵실험 가능'...한미 '단호 대응' 시사 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61715049</link>
-            <guid>https://www.bbc.com/korean/news-61715049</guid>
-            <pubDate>Tue, 07 Jun 2022 08:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[국제사회가 잇따라 조만간 북한의 7차 핵실험을 경고하고 나선 가운데, 한미 양국은 북 핵실험 시 '단호히 대응'하겠다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/14604/production/_125306438_2022042701003416400309311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대 총파업 첫날 편의점 '소주대란' 현실화 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61688688</link>
-            <guid>https://www.bbc.com/korean/news-61688688</guid>
-            <pubDate>Tue, 07 Jun 2022 07:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[이번 파업으로 철강업계 등도 화물 운송에 차질을 빚고 있어 유통업계 우려가 큰 상황이다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/13228/production/_125267387_mediaitem125267385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 영미 등 서방국의 지지는 얼마나 유지될까 (BBC News 코리아 ─ 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61715229</link>
-            <guid>https://www.bbc.com/korean/international-61715229</guid>
-            <pubDate>Tue, 07 Jun 2022 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[이번 전쟁이 장기적 소모전이 될 것이란 분석 가운데, 우크라이나를 향한 서방 세계의 지지에 균열이 생기기 시작한 건 아닐지 살펴본다.]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/167E2/production/_125003129_hi074844067.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계은행, '우크라 전쟁으로 인한 경기침체' 가능성 경고 (BBC News 코리아 ─ 뉴스 메인)]]></title>
-            <link>https://www.bbc.com/korean/news-61715234</link>
-            <guid>https://www.bbc.com/korean/news-61715234</guid>
-            <pubDate>Wed, 08 Jun 2022 08:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-e2e="story-promo" class="bbc-al5618 e1tfxkuo5"><div dir="ltr" class="bbc-ipng2t e1fos6470"><div class="bbc-bjn8wh e1tfxkuo4"><div style="padding-bottom:56.25%" data-e2e="image-placeholder" class="bbc-997y1y e1whu0"><picture class="bbc-yfiktt e1enwo3v1"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/341D/production/_125314331_ukrainewar.jpg.webp 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/341D/production/_125314331_ukrainewar.jpg.webp 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/341D/production/_125314331_ukrainewar.jpg.webp 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/341D/production/_125314331_ukrainewar.jpg.webp 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/341D/production/_125314331_ukrainewar.jpg.webp 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/341D/production/_125314331_ukrainewar.jpg.webp 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/341D/production/_125314331_ukrainewar.jpg.webp 660w" type="image/webp" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><source srcset="https://ichef.bbci.co.uk/news/70/cpsprodpb/341D/production/_125314331_ukrainewar.jpg 70w, https://ichef.bbci.co.uk/news/95/cpsprodpb/341D/production/_125314331_ukrainewar.jpg 95w, https://ichef.bbci.co.uk/news/144/cpsprodpb/341D/production/_125314331_ukrainewar.jpg 144w, https://ichef.bbci.co.uk/news/183/cpsprodpb/341D/production/_125314331_ukrainewar.jpg 183w, https://ichef.bbci.co.uk/news/240/cpsprodpb/341D/production/_125314331_ukrainewar.jpg 240w, https://ichef.bbci.co.uk/news/320/cpsprodpb/341D/production/_125314331_ukrainewar.jpg 320w, https://ichef.bbci.co.uk/news/660/cpsprodpb/341D/production/_125314331_ukrainewar.jpg 660w" type="image/jpeg" sizes="(max-width: 600px) 100vw, (max-width: 1008px) 50vw, 496px"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/341D/production/_125314331_ukrainewar.jpg" alt="폭격으로 무너진 건물" class="eehpdyc0 bbc-rb7xa0 e1enwo3v0" width="976" height="549"></picture></div><div class="bbc-1jvl9os e1tfxkuo3"></div></div></div><div dir="ltr" class="bbc-14gzkm2 e19k1v2h0"><h3 class="bbc-2z6cip e1tfxkuo2"><a href="/korean/news-61715234" aria-labelledby="promo-koreannews61715234-1" class="bbc-1fxtbkn evnt13t0"><span id="promo-koreannews61715234-1">세계은행, '우크라 전쟁으로 인한 경기침체' 가능성 경고</span></a></h3><p class="bbc-1u8kgop e1tfxkuo1">'공급이 당장 대규모로 늘어나지 않는 한 스태그플레이션의 고통은 몇 년간 이어질 수 있다'</p><time datetime="2022-06-08" class="bbc-1cagdt4 e4zesg50">한 시간 전</time><div data-e2e="index-alsos" class="bbc-1p4i6rh e1wlg2v83"><h4 class="bbc-1gnhmg2 e1yt7oin0">관련 기사 더 보기</h4><ul role="list" class="bbc-1kz5jpr e1wlg2v81"><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-61681034" aria-labelledby="IndexAlsosLink-koreaninternational61681034" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreaninternational61681034"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>러시아의 우크라이나 침공 100일, 멈추지 않는 총성</span></span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/news-61715231" class="bbc-1ocdizt e1wlg2v80"><span>EU 의장, '글로벌 식량난은 러시아 탓' 비난에 러시아 대사 유엔 안보리 회의장 박차고 나가</span></a></li><li role="listitem" class="bbc-16wjryy e1wlg2v82"><a href="/korean/international-61715229" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 전쟁: 영미 등 서방국의 지지는 얼마나 유지될까</span></a></li></ul></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비디오, 러시아의 우크라이나 침공 100일, 멈추지 않는 총성 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/international-61681034</link>
-            <guid>https://www.bbc.com/korean/international-61681034</guid>
-            <pubDate>Fri, 03 Jun 2022 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/international-61681034" aria-labelledby="IndexAlsosLink-koreaninternational61681034" class="bbc-1ocdizt e1wlg2v80"><div data-e2e="media-indicator" aria-hidden="true" dir="ltr" class="bbc-1vdd5y8 e1bj7urb1"><div class="bbc-197dxto e1bj7urb0"><svg viewBox="0 0 32 32" width="12px" height="12px" focusable="false" aria-hidden="true" class="bbc-vja2s5 e1g4u3oe5"><polygon points="3,32 29,16 3,0"></polygon></svg></div></div><span role="text" id="IndexAlsosLink-koreaninternational61681034"><span class="bbc-1gnhmg2 e1yt7oin0">비디오, </span><span>러시아의 우크라이나 침공 100일, 멈추지 않는 총성</span></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EU 의장, '글로벌 식량난은 러시아 탓' 비난에 러시아 대사 유엔 안보리 회의장 박차고 나가 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/news-61715231</link>
-            <guid>https://www.bbc.com/korean/news-61715231</guid>
-            <pubDate>Tue, 07 Jun 2022 05:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/news-61715231" class="bbc-1ocdizt e1wlg2v80"><span>EU 의장, '글로벌 식량난은 러시아 탓' 비난에 러시아 대사 유엔 안보리 회의장 박차고 나가</span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 영미 등 서방국의 지지는 얼마나 유지될까 (BBC News 코리아 ─ 뉴스 메인 더보기)]]></title>
-            <link>https://www.bbc.com/korean/international-61715229</link>
-            <guid>https://www.bbc.com/korean/international-61715229</guid>
-            <pubDate>Tue, 07 Jun 2022 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/korean/international-61715229" class="bbc-1ocdizt e1wlg2v80"><span>우크라이나 전쟁: 영미 등 서방국의 지지는 얼마나 유지될까</span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 침공 100일… 파괴된 도시부터 식량 위기까지 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61681034</link>
-            <guid>https://www.bbc.com/korean/international-61681034</guid>
-            <pubDate>Fri, 03 Jun 2022 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/16AF0/production/_125021929_p0cbryg9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식량위기 경고 속… 우크라이나 밀이 창고에서 썩고 있다 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61623656</link>
-            <guid>https://www.bbc.com/korean/international-61623656</guid>
-            <pubDate>Tue, 07 Jun 2022 04:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/8BD3/production/_124959753_p0c9r869.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['카스트 계급도 상관없다'…'여성'만 있는 인도 지역 언론사 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-61705100</link>
-            <guid>https://www.bbc.com/korean/features-61705100</guid>
-            <pubDate>Mon, 06 Jun 2022 10:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/3064/production/_125288321_p0cc5g1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크: 세계 1위 K팝 아이돌, AI 포르노도 1위? (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-56369306</link>
-            <guid>https://www.bbc.com/korean/features-56369306</guid>
-            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/11192/production/_117543007_p099g9qq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필리핀 대선: '독재자의 아들' 마르코스 주니어 승리가 남긴 의문 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61420595</link>
-            <guid>https://www.bbc.com/korean/international-61420595</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://ichef.bbci.co.uk/news/660/cpsprodpb/EECA/production/_124703116_p0c6bmq8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩팥부부: 트렌스젠더 부부의 결혼생활...'트랜스젠더란 이름만 빼면 평범한 부부예요' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-47167180</link>
-            <guid>https://www.bbc.com/korean/news-47167180</guid>
-            <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁: 지하철역에서 석 달째 살고 있는 사람들 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/international-61615586</link>
-            <guid>https://www.bbc.com/korean/international-61615586</guid>
-            <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아: 우크라이나는 어쩌다 전쟁 위기에 처했나 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-60065089</link>
-            <guid>https://www.bbc.com/korean/news-60065089</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무슬림인 내가 한국에서 사는 법 (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/features-60945308</link>
-            <guid>https://www.bbc.com/korean/features-60945308</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트랜스젠더 : '나는 트랜스젠더 수학 선생님입니다' (BBC News 코리아 ─ 비디오)]]></title>
-            <link>https://www.bbc.com/korean/news-48870734</link>
-            <guid>https://www.bbc.com/korean/news-48870734</guid>
-            <pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 7일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-06-07-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-06-07-HQ.zip</guid>
-            <pubDate>Tue, 07 Jun 2022 18:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-06-07-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 6일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-06-06-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-06-06-HQ.zip</guid>
-            <pubDate>Mon, 06 Jun 2022 20:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-06-06-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 5일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-06-05-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-06-05-HQ.zip</guid>
-            <pubDate>Sun, 05 Jun 2022 18:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-06-05-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 4일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-06-04-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-06-04-HQ.zip</guid>
-            <pubDate>Sat, 04 Jun 2022 20:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-06-04-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 3일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-06-03-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-06-03-HQ.zip</guid>
-            <pubDate>Fri, 03 Jun 2022 18:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-06-03-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 2일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-06-02-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-06-02-HQ.zip</guid>
-            <pubDate>Thu, 02 Jun 2022 20:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-06-02-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 1일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-06-01-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-06-01-HQ.zip</guid>
-            <pubDate>Wed, 01 Jun 2022 18:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-06-01-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 31일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-05-31-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-05-31-HQ.zip</guid>
-            <pubDate>Tue, 31 May 2022 19:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-05-31-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 30일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-05-30-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-05-30-HQ.zip</guid>
-            <pubDate>Mon, 30 May 2022 18:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-05-30-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 29일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-05-29-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-05-29-HQ.zip</guid>
-            <pubDate>Sun, 29 May 2022 19:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-05-29-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 28일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-05-28-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-05-28-HQ.zip</guid>
-            <pubDate>Sat, 28 May 2022 18:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-05-28-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-05-27-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-05-27-HQ.zip</guid>
-            <pubDate>Fri, 27 May 2022 18:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-05-27-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 26일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-05-26-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-05-26-HQ.zip</guid>
-            <pubDate>Thu, 26 May 2022 18:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-05-26-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 5월 25일 (BBC News 코리아 ─ 다운로드)]]></title>
-            <link>https://ws-downloads.files.bbci.co.uk/korean-2022-05-25-HQ.zip</link>
-            <guid>https://ws-downloads.files.bbci.co.uk/korean-2022-05-25-HQ.zip</guid>
-            <pubDate>Wed, 25 May 2022 20:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[korean-2022-05-25-HQ.zip, <span>28 MB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["전국~노래자랑~" 최장MC 송해 향년 95세로 별이되다 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61715050</link>
-            <guid>https://www.bbc.com/korean/news-61715050</guid>
-            <pubDate>Wed, 08 Jun 2022 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[1]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 조용한 소도시에서 벌어진 러시아군의 잔혹 행위 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61715233</link>
-            <guid>https://www.bbc.com/korean/features-61715233</guid>
-            <pubDate>Wed, 08 Jun 2022 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[2]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[원숭이두창, '2급 감염병' 지정…확진시 격리 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61729346</link>
-            <guid>https://www.bbc.com/korean/news-61729346</guid>
-            <pubDate>Wed, 08 Jun 2022 08:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[톈안먼 사태: 한눈에 보는 사건 타임라인 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-48515785</link>
-            <guid>https://www.bbc.com/korean/international-48515785</guid>
-            <pubDate>Tue, 07 Jun 2022 22:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['혹시 나도?' 원숭이두창, 피부발진으로 알 수 있는 방법 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-61576796</link>
-            <guid>https://www.bbc.com/korean/features-61576796</guid>
-            <pubDate>Wed, 08 Jun 2022 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화물연대 총파업 첫날 편의점 '소주대란' 현실화 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61688688</link>
-            <guid>https://www.bbc.com/korean/news-61688688</guid>
-            <pubDate>Tue, 07 Jun 2022 07:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[6]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['실험실에서 만들어졌다?, 곧 봉쇄조치?'...원숭이두창에 대한 오해와 진실 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/news-61533578</link>
-            <guid>https://www.bbc.com/korean/news-61533578</guid>
-            <pubDate>Wed, 08 Jun 2022 01:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조니 뎁, 왜 영국에선 졌는데 미국에선 이겼을까? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61679463</link>
-            <guid>https://www.bbc.com/korean/international-61679463</guid>
-            <pubDate>Fri, 03 Jun 2022 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[8]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계 최고령 일본인 할머니 별세 (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/international-61172763</link>
-            <guid>https://www.bbc.com/korean/international-61172763</guid>
-            <pubDate>Wed, 08 Jun 2022 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 확진자는 언제까지 전염력이 있나? (BBC News 코리아 ─ TOP 뉴스)]]></title>
-            <link>https://www.bbc.com/korean/features-60034967</link>
-            <guid>https://www.bbc.com/korean/features-60034967</guid>
-            <pubDate>Tue, 07 Jun 2022 08:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 8일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ynw</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ynw</guid>
-            <pubDate>Tue, 07 Jun 2022 16:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 e1yt7oin0">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 6월 8일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 11,00 </span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 8일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct3yvj</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct3yvj</guid>
-            <pubDate>Tue, 07 Jun 2022 16:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>BBC 코리아 라디오<span class="bbc-1gnhmg2 e1yt7oin0">, 00:30, </span><span class="bbc-1k5mnnp evmopx62">2022년 6월 8일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 19,00 </span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 7일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
-            <link>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ylm</link>
-            <guid>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ylm</guid>
-            <pubDate>Tue, 07 Jun 2022 16:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="bbc-1gnhmg2 e1yt7oin0">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 e1yt7oin0">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 6월 7일</span><span class="bbc-1gnhmg2 e1yt7oin0">, 방송 길이 11,00 </span>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://factcheckr.github.io/bbcnewskorean/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-06-08T10:18:55.593Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 7일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-06-07-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-06-07-HQ.zip"/>
+        <updated>2022-06-07T18:19:23.501Z</updated>
+        <content type="html"><![CDATA[korean-2022-06-07-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 6일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-06-06-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-06-06-HQ.zip"/>
+        <updated>2022-06-06T20:16:51.421Z</updated>
+        <content type="html"><![CDATA[korean-2022-06-06-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 5일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-06-05-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-06-05-HQ.zip"/>
+        <updated>2022-06-05T18:19:03.411Z</updated>
+        <content type="html"><![CDATA[korean-2022-06-05-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 4일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-06-04-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-06-04-HQ.zip"/>
+        <updated>2022-06-04T20:16:22.511Z</updated>
+        <content type="html"><![CDATA[korean-2022-06-04-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 3일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-06-03-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-06-03-HQ.zip"/>
+        <updated>2022-06-03T18:20:13.270Z</updated>
+        <content type="html"><![CDATA[korean-2022-06-03-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 2일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-06-02-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-06-02-HQ.zip"/>
+        <updated>2022-06-02T20:18:14.199Z</updated>
+        <content type="html"><![CDATA[korean-2022-06-02-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 1일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-06-01-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-06-01-HQ.zip"/>
+        <updated>2022-06-01T18:21:51.879Z</updated>
+        <content type="html"><![CDATA[korean-2022-06-01-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 31일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-05-31-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-05-31-HQ.zip"/>
+        <updated>2022-05-31T19:14:06.169Z</updated>
+        <content type="html"><![CDATA[korean-2022-05-31-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 30일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-05-30-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-05-30-HQ.zip"/>
+        <updated>2022-05-30T18:21:07.915Z</updated>
+        <content type="html"><![CDATA[korean-2022-05-30-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 29일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-05-29-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-05-29-HQ.zip"/>
+        <updated>2022-05-29T19:14:38.077Z</updated>
+        <content type="html"><![CDATA[korean-2022-05-29-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 28일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-05-28-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-05-28-HQ.zip"/>
+        <updated>2022-05-28T18:19:44.817Z</updated>
+        <content type="html"><![CDATA[korean-2022-05-28-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-05-27-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-05-27-HQ.zip"/>
+        <updated>2022-05-27T18:21:13.844Z</updated>
+        <content type="html"><![CDATA[korean-2022-05-27-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 26일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-05-26-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-05-26-HQ.zip"/>
+        <updated>2022-05-26T18:22:08.115Z</updated>
+        <content type="html"><![CDATA[korean-2022-05-26-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 25일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-05-25-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-05-25-HQ.zip"/>
+        <updated>2022-05-25T20:18:47.296Z</updated>
+        <content type="html"><![CDATA[korean-2022-05-25-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 8일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
+        <id>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ynw</id>
+        <link href="https://www.bbc.com/korean/bbc_korean_radio/w3ct3ynw"/>
+        <updated>2022-06-07T16:24:19.860Z</updated>
+        <content type="html"><![CDATA[<span class="bbc-1gnhmg2 evnljr50">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 evnljr50">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 6월 8일</span><span class="bbc-1gnhmg2 evnljr50">, 방송 길이 11,00 </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 8일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
+        <id>https://www.bbc.com/korean/bbc_korean_radio/w3ct3yvj</id>
+        <link href="https://www.bbc.com/korean/bbc_korean_radio/w3ct3yvj"/>
+        <updated>2022-06-07T16:24:19.861Z</updated>
+        <content type="html"><![CDATA[<span class="bbc-1gnhmg2 evnljr50">듣기, </span>BBC 코리아 라디오<span class="bbc-1gnhmg2 evnljr50">, 00:30, </span><span class="bbc-1k5mnnp evmopx62">2022년 6월 8일</span><span class="bbc-1gnhmg2 evnljr50">, 방송 길이 19,00 </span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 7일 (BBC News 코리아 ─ BBC 코리아 라디오)]]></title>
+        <id>https://www.bbc.com/korean/bbc_korean_radio/w3ct3ylm</id>
+        <link href="https://www.bbc.com/korean/bbc_korean_radio/w3ct3ylm"/>
+        <updated>2022-06-07T16:24:19.862Z</updated>
+        <content type="html"><![CDATA[<span class="bbc-1gnhmg2 evnljr50">듣기, </span>English Learning with BBC<span class="bbc-1gnhmg2 evnljr50">, 00:49, </span><span class="bbc-1k5mnnp evmopx62">2022년 6월 7일</span><span class="bbc-1gnhmg2 evnljr50">, 방송 길이 11,00 </span>]]></content>
+    </entry>
+</feed>
