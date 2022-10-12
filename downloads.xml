@@ -2,7 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/downloads</id>
     <title>BBC News 코리아 ─ 다운로드</title>
-    <updated>2022-10-12T20:23:22.458Z</updated>
+    <updated>2022-10-12T21:19:08.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bbc.com/korean/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 12일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-12-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-12-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.887Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-12-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 11일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-11-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-11-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.892Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-11-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 10일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-10-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-10-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.895Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-10-HQ.zip, <span>27 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 9일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-09-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-09-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.897Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-09-HQ.zip, <span>27 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 8일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-08-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-08-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.904Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-08-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 7일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-07-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-07-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.905Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-07-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 6일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-06-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-06-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.906Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-06-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 5일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-05-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-05-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.908Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-05-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 4일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-04-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-04-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.909Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-04-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 3일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-03-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-03-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.914Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-03-HQ.zip, <span>27 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 2일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-02-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-02-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.914Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-02-HQ.zip, <span>27 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 10월 1일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-10-01-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-10-01-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.914Z</updated>
+        <content type="html"><![CDATA[korean-2022-10-01-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 9월 30일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-09-30-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-09-30-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.924Z</updated>
+        <content type="html"><![CDATA[korean-2022-09-30-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 9월 29일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-09-29-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-09-29-HQ.zip"/>
+        <updated>2022-10-12T21:18:59.927Z</updated>
+        <content type="html"><![CDATA[korean-2022-09-29-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
 </feed>
