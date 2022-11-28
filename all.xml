@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/bbcnewskorean/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-28T17:15:26.147Z</updated>
+    <updated>2022-11-28T18:19:40.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022년 11월 28일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-11-28-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-11-28-HQ.zip"/>
+        <updated>2022-11-28T18:19:29.498Z</updated>
+        <content type="html"><![CDATA[korean-2022-11-28-HQ.zip, <span>27 MB</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 11월 27일 (BBC News 코리아 ─ 다운로드)]]></title>
         <id>https://ws-downloads.files.bbci.co.uk/korean-2022-11-27-HQ.zip</id>
@@ -94,12 +101,5 @@
         <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-11-11-HQ.zip"/>
         <updated>2022-11-16T04:29:52.042Z</updated>
         <content type="html"><![CDATA[korean-2022-11-11-HQ.zip, <span>28 MB</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 11월 10일 (BBC News 코리아 ─ 다운로드)]]></title>
-        <id>https://ws-downloads.files.bbci.co.uk/korean-2022-11-10-HQ.zip</id>
-        <link href="https://ws-downloads.files.bbci.co.uk/korean-2022-11-10-HQ.zip"/>
-        <updated>2022-11-16T04:29:52.042Z</updated>
-        <content type="html"><![CDATA[korean-2022-11-10-HQ.zip, <span>28 MB</span>]]></content>
     </entry>
 </feed>
