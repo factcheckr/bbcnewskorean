@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/bbcnewskorean/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-06T18:17:31.861Z</updated>
+    <updated>2023-01-06T19:12:37.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023년 1월 6일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2023-01-06-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2023-01-06-HQ.zip"/>
+        <updated>2023-01-06T19:12:25.546Z</updated>
+        <content type="html"><![CDATA[korean-2023-01-06-HQ.zip, <span>28 MB</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 1월 5일 (BBC News 코리아 ─ 다운로드)]]></title>
         <id>https://ws-downloads.files.bbci.co.uk/korean-2023-01-05-HQ.zip</id>
