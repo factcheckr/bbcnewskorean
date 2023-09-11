@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbc.com/korean/downloads</id>
     <title>BBC News 코리아 ─ 다운로드</title>
-    <updated>2023-09-11T17:12:50.483Z</updated>
+    <updated>2023-09-11T18:17:30.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bbc.com/korean/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 9월 11일]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2023-09-11-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2023-09-11-HQ.zip"/>
+        <updated>2023-09-11T18:17:15.430Z</updated>
+        <content type="html"><![CDATA[korean-2023-09-11-HQ.zip, <span>14 MB</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 9월 8일]]></title>
         <id>https://ws-downloads.files.bbci.co.uk/korean-2023-09-08-HQ.zip</id>
@@ -95,12 +102,5 @@
         <link href="https://ws-downloads.files.bbci.co.uk/korean-2023-08-23-HQ.zip"/>
         <updated>2023-08-23T19:11:17.320Z</updated>
         <content type="html"><![CDATA[korean-2023-08-23-HQ.zip, <span>14 MB</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 8월 22일]]></title>
-        <id>https://ws-downloads.files.bbci.co.uk/korean-2023-08-22-HQ.zip</id>
-        <link href="https://ws-downloads.files.bbci.co.uk/korean-2023-08-22-HQ.zip"/>
-        <updated>2023-08-22T19:11:44.851Z</updated>
-        <content type="html"><![CDATA[korean-2023-08-22-HQ.zip, <span>14 MB</span>]]></content>
     </entry>
 </feed>
