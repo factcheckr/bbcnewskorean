@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/bbcnewskorean/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T17:14:09.721Z</updated>
+    <updated>2024-07-24T18:20:08.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년 7월 24일 (BBC News 코리아 ─ 다운로드)]]></title>
+        <id>https://ws-downloads.files.bbci.co.uk/korean-2024-07-24-HQ.zip</id>
+        <link href="https://ws-downloads.files.bbci.co.uk/korean-2024-07-24-HQ.zip"/>
+        <updated>2024-07-24T18:20:00.233Z</updated>
+        <content type="html"><![CDATA[korean-2024-07-24-HQ.zip, <span>14 MB</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 7월 23일 (BBC News 코리아 ─ 다운로드)]]></title>
         <id>https://ws-downloads.files.bbci.co.uk/korean-2024-07-23-HQ.zip</id>
@@ -94,12 +101,5 @@
         <link href="https://ws-downloads.files.bbci.co.uk/korean-2024-07-05-HQ.zip"/>
         <updated>2024-07-05T19:12:32.065Z</updated>
         <content type="html"><![CDATA[korean-2024-07-05-HQ.zip, <span>14 MB</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 7월 4일 (BBC News 코리아 ─ 다운로드)]]></title>
-        <id>https://ws-downloads.files.bbci.co.uk/korean-2024-07-04-HQ.zip</id>
-        <link href="https://ws-downloads.files.bbci.co.uk/korean-2024-07-04-HQ.zip"/>
-        <updated>2024-07-04T18:19:38.061Z</updated>
-        <content type="html"><![CDATA[korean-2024-07-04-HQ.zip, <span>14 MB</span>]]></content>
     </entry>
 </feed>
